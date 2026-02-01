@@ -1,322 +1,214 @@
-
-    <html><head><title>Wild Terra 2 Bestiary</title>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Wiki</title>
     <style>
-        body { font-family: sans-serif; background: #1e1e1e; color: #d4d4d4; padding: 20px; }
-        a { color: #3794ff; text-decoration: none; font-size: 16px; display: block; margin: 4px 0; }
-        a:hover { text-decoration: underline; }
-        .mob-row { display: flex; justify-content: start; border-bottom: 1px solid #333; padding: 5px; }
-        .mob-lvl { color: #aaa; width: 50px; }
+        body { font-family: sans-serif; margin: 0; padding: 0; display: flex; height: 100vh; }
+        #sidebar { width: 250px; background: #f0f0f0; padding: 20px; overflow-y: auto; border-right: 1px solid #ccc; }
+        #content { flex: 1; padding: 20px; overflow-y: auto; }
+        .search-box { width: 100%; padding: 5px; margin-bottom: 10px; }
+        .list-item { cursor: pointer; padding: 5px; border-bottom: 1px solid #ddd; }
+        .list-item:hover { background: #e0e0e0; }
+        .hidden { display: none; }
+        h2 { border-bottom: 2px solid #333; padding-bottom: 5px; }
+        .field { margin-bottom: 10px; }
+        .label { font-weight: bold; }
+        .locale-switch { margin-bottom: 20px; }
     </style>
-    </head><body>
-    <h1>Wild Terra 2 Bestiary</h1>
-    <div class="list">
-    <div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="AbandonedBattlefieldFisherElmar.html">AbandonedBattlefieldFisherElmar</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="AbandonedBattlefieldHelperBrian.html">AbandonedBattlefieldHelperBrian</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="AutomatePet.html">AutomatePet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 60</span> <a href="Barghest.html">Barghest</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 55</span> <a href="BarghestDungeon.html">BarghestDungeon</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="BarghestPet.html">BarghestPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="BatWithLantern.html">BatWithLantern</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 50</span> <a href="Bear.html">Bear</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 53</span> <a href="BearLarge.html">BearLarge</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="BearPet.html">BearPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="BearPetLarge.html">BearPetLarge</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 70</span> <a href="BlackGiantCrab.html">BlackGiantCrab</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 30</span> <a href="BloodyBear.html">BloodyBear</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 20</span> <a href="Boar.html">Boar</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="BoarPet.html">BoarPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 20</span> <a href="BossElder.html">BossElder</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="BufomorphPet.html">BufomorphPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="CactusPet.html">CactusPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="CarpentryCampBerne.html">CarpentryCampBerne</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="CarpentryCampBonan.html">CarpentryCampBonan</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="CarpentryCampDailyQuests.html">CarpentryCampDailyQuests</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="CarpentryCampOakcrusher.html">CarpentryCampOakcrusher</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="CatPet.html">CatPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 65</span> <a href="Cavecrawler.html">Cavecrawler</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 45</span> <a href="CavecrawlerSmall.html">CavecrawlerSmall</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="ChickenPet.html">ChickenPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="ChristmasHelperNisse.html">ChristmasHelperNisse</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 23</span> <a href="ChurchCultist.html">ChurchCultist</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 15</span> <a href="ChurchRat.html">ChurchRat</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 17</span> <a href="ChurchRatLarge.html">ChurchRatLarge</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="CityArenaMaster.html">CityArenaMaster</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="CityBreederErmak.html">CityBreederErmak</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="CityCarpenterTom.html">CityCarpenterTom</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="CityCookPatty.html">CityCookPatty</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="CityFarmerJack.html">CityFarmerJack</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="CityFisherPaul.html">CityFisherPaul</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="CityGuildQuest.html">CityGuildQuest</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="CityJewelerRene.html">CityJewelerRene</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="CityLibrarianSebastian.html">CityLibrarianSebastian</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="CityMasonPetrum.html">CityMasonPetrum</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="CityMayor.html">CityMayor</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="CitySmithHank.html">CitySmithHank</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="CityStablemanHenry.html">CityStablemanHenry</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="CityTannerLara.html">CityTannerLara</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="CityWitchcrafterOrvin.html">CityWitchcrafterOrvin</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 40</span> <a href="Coyote.html">Coyote</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="Crab.html">Crab</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="CrabPet.html">CrabPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 65</span> <a href="Crocodile.html">Crocodile</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 62</span> <a href="CrocodileDungeon.html">CrocodileDungeon</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="CrocodilePet.html">CrocodilePet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 4</span> <a href="Crow.html">Crow</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="CrowPet.html">CrowPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 70</span> <a href="CultistCursedSwordsman.html">CultistCursedSwordsman</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 25</span> <a href="CultistGhostSwordsman.html">CultistGhostSwordsman</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 65</span> <a href="CultistRisenSwordsman.html">CultistRisenSwordsman</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 20</span> <a href="CultistSwordsman.html">CultistSwordsman</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 40</span> <a href="CursedKobold.html">CursedKobold</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="DalmatianPet.html">DalmatianPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 22</span> <a href="DeerDoe.html">DeerDoe</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="DeerPet.html">DeerPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 25</span> <a href="DeerStag.html">DeerStag</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 30</span> <a href="DementedElf.html">DementedElf</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="DementedTreeEntPet.html">DementedTreeEntPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 70</span> <a href="DemonBrute.html">DemonBrute</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 70</span> <a href="DemonWeak.html">DemonWeak</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 60</span> <a href="DragonRex.html">DragonRex</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="DragonRexGreenPet.html">DragonRexGreenPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="DragonRexPet.html">DragonRexPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 60</span> <a href="DragonRexTavern.html">DragonRexTavern</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 60</span> <a href="DragonSnake.html">DragonSnake</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="DungeonSwarmMerchant.html">DungeonSwarmMerchant</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 55</span> <a href="DwarfAmbusher.html">DwarfAmbusher</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 35</span> <a href="DwarfAmbusherHideout.html">DwarfAmbusherHideout</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 70</span> <a href="DwarfCursedChampion.html">DwarfCursedChampion</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 45</span> <a href="DwarfDigger.html">DwarfDigger</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 50</span> <a href="DwarfEngineer.html">DwarfEngineer</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 65</span> <a href="DwarfOfficer.html">DwarfOfficer</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 60</span> <a href="DwarfSoldier.html">DwarfSoldier</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 40</span> <a href="DwarfTest.html">DwarfTest</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 35</span> <a href="DwarfWorker.html">DwarfWorker</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 65</span> <a href="DwarfСommander.html">DwarfСommander</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="DwarvenEngineerDesert.html">DwarvenEngineerDesert</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="DwarvenEngineerMiner.html">DwarvenEngineerMiner</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="DwarvenEngineerMount.html">DwarvenEngineerMount</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 70</span> <a href="EarthTitan.html">EarthTitan</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="EarthTitanPet.html">EarthTitanPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="EasterMrBunny.html">EasterMrBunny</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 45</span> <a href="EpicHorseBlackPinto.html">EpicHorseBlackPinto</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="EpicHorseBlackPintoPet.html">EpicHorseBlackPintoPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 45</span> <a href="EpicHorseChestnutPinto.html">EpicHorseChestnutPinto</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="EpicHorseChestnutPintoPet.html">EpicHorseChestnutPintoPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 45</span> <a href="EpicHorseGray.html">EpicHorseGray</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="EpicHorseGrayPet.html">EpicHorseGrayPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 50</span> <a href="EpicHorseWhite.html">EpicHorseWhite</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="EpicHorseWhitePet.html">EpicHorseWhitePet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 60</span> <a href="FatOgre.html">FatOgre</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="FireflyPet.html">FireflyPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 50</span> <a href="FlySkull.html">FlySkull</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="FlySkullPet.html">FlySkullPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 7</span> <a href="Fox.html">Fox</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 9</span> <a href="FoxLarge.html">FoxLarge</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="FoxPet.html">FoxPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="FoxPetLarge.html">FoxPetLarge</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="Frog.html">Frog</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 60</span> <a href="FungoidClub.html">FungoidClub</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 63</span> <a href="FungoidClubLarge.html">FungoidClubLarge</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 60</span> <a href="FungoidSpear.html">FungoidSpear</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 63</span> <a href="FungoidSpearLarge.html">FungoidSpearLarge</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 60</span> <a href="Ghoul.html">Ghoul</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 55</span> <a href="GhoulDungeon.html">GhoulDungeon</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 70</span> <a href="GiantBeetle.html">GiantBeetle</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 50</span> <a href="GiantCrab.html">GiantCrab</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="GoPointsCity.html">GoPointsCity</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="GoPointsPort.html">GoPointsPort</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="GoPointsSouth.html">GoPointsSouth</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="GoPointsTavern.html">GoPointsTavern</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 12</span> <a href="Goat.html">Goat</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="GoatPet.html">GoatPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="GoosePet.html">GoosePet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 65</span> <a href="Grolt.html">Grolt</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="GuildHallBuyer.html">GuildHallBuyer</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="GuildHallCoordinator.html">GuildHallCoordinator</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="HalloweenMrJack.html">HalloweenMrJack</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="Hare.html">Hare</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 3</span> <a href="HareBlack1.html">HareBlack1</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 6</span> <a href="HareBlack2.html">HareBlack2</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 9</span> <a href="HareBlack3.html">HareBlack3</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 15</span> <a href="HareBlack4.html">HareBlack4</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 25</span> <a href="HareBlack5.html">HareBlack5</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="HareGold.html">HareGold</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="HarePet.html">HarePet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="HareWhite.html">HareWhite</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="HareWhitePet.html">HareWhitePet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 45</span> <a href="Harpy.html">Harpy</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 50</span> <a href="HarpyLarge.html">HarpyLarge</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="HelperBookPet.html">HelperBookPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="HelperChestPet.html">HelperChestPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="HelperDragonPet.html">HelperDragonPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="HelperEyePet.html">HelperEyePet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 25</span> <a href="HorsePintobay.html">HorsePintobay</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 50</span> <a href="HugeBoar.html">HugeBoar</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="HugeBoarPet.html">HugeBoarPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="JunkerRagnara.html">JunkerRagnara</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 27</span> <a href="Krampus.html">Krampus</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="LionPet.html">LionPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="LittleWolfPet.html">LittleWolfPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 65</span> <a href="LivingFlesh.html">LivingFlesh</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="Lizard.html">Lizard</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 70</span> <a href="LizardSpear.html">LizardSpear</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="MainIslandMountainDailyQuests.html">MainIslandMountainDailyQuests</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="MainIslandTavernDailyQuests.html">MainIslandTavernDailyQuests</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="MainIslandTownDailyHardcoreQuests.html">MainIslandTownDailyHardcoreQuests</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="MainIslandTownDailyQuests.html">MainIslandTownDailyQuests</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="MarmotPet.html">MarmotPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 35</span> <a href="MimicBat.html">MimicBat</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 35</span> <a href="MimicBatPet.html">MimicBatPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 15</span> <a href="MimicCrab.html">MimicCrab</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 25</span> <a href="MimicMarmot.html">MimicMarmot</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 20</span> <a href="MimicSquirrel.html">MimicSquirrel</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 25</span> <a href="MineBat.html">MineBat</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 27</span> <a href="MineBatLarge.html">MineBatLarge</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 35</span> <a href="MineKobold.html">MineKobold</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 30</span> <a href="MineSpider.html">MineSpider</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 32</span> <a href="MineSpiderLarge.html">MineSpiderLarge</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="MinersCampDailyQuests.html">MinersCampDailyQuests</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="MinersCampFaudel.html">MinersCampFaudel</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="MinersCampHarbeck.html">MinersCampHarbeck</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="MinersCampLenora.html">MinersCampLenora</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="MinersCampRonold.html">MinersCampRonold</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 40</span> <a href="MountainDwarf.html">MountainDwarf</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 25</span> <a href="OrcShaman.html">OrcShaman</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="OwlPet.html">OwlPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="PhoenixPet.html">PhoenixPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 35</span> <a href="PlagueAcidFrog.html">PlagueAcidFrog</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 38</span> <a href="PlagueAcidFrogLarge.html">PlagueAcidFrogLarge</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 30</span> <a href="PlagueAcidSpider.html">PlagueAcidSpider</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 33</span> <a href="PlagueAcidSpiderLarge.html">PlagueAcidSpiderLarge</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="PlagueAcidSpiderPet.html">PlagueAcidSpiderPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 30</span> <a href="PlagueBloodySpider.html">PlagueBloodySpider</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 33</span> <a href="PlagueBloodySpiderLarge.html">PlagueBloodySpiderLarge</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="PlagueBloodySpiderPet.html">PlagueBloodySpiderPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="PlagueBuyer.html">PlagueBuyer</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="PlagueCaptainBack.html">PlagueCaptainBack</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="PlagueCargoHoldHead.html">PlagueCargoHoldHead</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="PlagueCityGoPoints.html">PlagueCityGoPoints</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="PlagueCitySave.html">PlagueCitySave</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="PlagueCitySmith.html">PlagueCitySmith</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="PlagueDailyQuests.html">PlagueDailyQuests</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 75</span> <a href="PlagueDragon.html">PlagueDragon</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="PlagueFreeSave.html">PlagueFreeSave</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 35</span> <a href="PlagueFrog.html">PlagueFrog</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 37</span> <a href="PlagueFrogLarge.html">PlagueFrogLarge</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 50</span> <a href="PlagueGiantRat.html">PlagueGiantRat</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="PlagueGoPoints.html">PlagueGoPoints</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 30</span> <a href="PlagueInfectedSpider.html">PlagueInfectedSpider</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 33</span> <a href="PlagueInfectedSpiderLarge.html">PlagueInfectedSpiderLarge</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="PlagueInfectedSpiderPet.html">PlagueInfectedSpiderPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="PlagueMoneySave.html">PlagueMoneySave</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 25</span> <a href="PlagueRat.html">PlagueRat</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="Player.html">Player</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="PortCaptainLarge.html">PortCaptainLarge</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="PortCaptainMedium.html">PortCaptainMedium</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="PortCaptainNoCargo.html">PortCaptainNoCargo</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="PortCargoHoldHead.html">PortCargoHoldHead</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 35</span> <a href="RareHorseChestnut.html">RareHorseChestnut</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="RareHorseChestnutPet.html">RareHorseChestnutPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 35</span> <a href="RareHorsePalomino.html">RareHorsePalomino</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="RareHorsePalominoPet.html">RareHorsePalominoPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 35</span> <a href="RareHorsePalominoPinto.html">RareHorsePalominoPinto</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="RareHorsePalominoPintoPet.html">RareHorsePalominoPintoPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 70</span> <a href="Reaper.html">Reaper</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="ReaperPet.html">ReaperPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 45</span> <a href="Scorpion.html">Scorpion</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 70</span> <a href="ScorpionBoss.html">ScorpionBoss</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 47</span> <a href="ScorpionLarge.html">ScorpionLarge</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="ScorpionPet.html">ScorpionPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="ScorpionPetLarge.html">ScorpionPetLarge</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="Seagull.html">Seagull</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="SeagullPet.html">SeagullPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="ShipRat.html">ShipRat</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 10</span> <a href="ShipShark.html">ShipShark</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 25</span> <a href="SkeletonBoss.html">SkeletonBoss</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 25</span> <a href="SkeletonBossEvent.html">SkeletonBossEvent</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 65</span> <a href="SkeletonGuard.html">SkeletonGuard</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 25</span> <a href="SkeletonGuardEvent.html">SkeletonGuardEvent</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="SkeletonGuardPet.html">SkeletonGuardPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 25</span> <a href="SkeletonHalloweenWarrior.html">SkeletonHalloweenWarrior</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 65</span> <a href="SkeletonKnight.html">SkeletonKnight</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 25</span> <a href="SkeletonKnightEvent.html">SkeletonKnightEvent</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="SkeletonKnightPet.html">SkeletonKnightPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 20</span> <a href="SkeletonRanger.html">SkeletonRanger</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 10</span> <a href="SkeletonUnarmed.html">SkeletonUnarmed</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 15</span> <a href="SkeletonWarrior.html">SkeletonWarrior</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 13</span> <a href="SkeletonWithStone.html">SkeletonWithStone</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="SkeletonWithStonePet.html">SkeletonWithStonePet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="SpiderPet.html">SpiderPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 20</span> <a href="SquirrelEvent.html">SquirrelEvent</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="SquirrelPet.html">SquirrelPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 25</span> <a href="StartingIslandGuardian.html">StartingIslandGuardian</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="StartingIslandHermit.html">StartingIslandHermit</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 50</span> <a href="StoneArcher.html">StoneArcher</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 50</span> <a href="StoneFlailer.html">StoneFlailer</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 50</span> <a href="StoneSwordsman.html">StoneSwordsman</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="StoryBoatswain.html">StoryBoatswain</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="StoryBombardier.html">StoryBombardier</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="StoryCook.html">StoryCook</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="StoryDaughter.html">StoryDaughter</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="StoryHelmsman.html">StoryHelmsman</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="StorySeniorMate.html">StorySeniorMate</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 23</span> <a href="SwampInsect.html">SwampInsect</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 25</span> <a href="SwampInsectLarge.html">SwampInsectLarge</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 35</span> <a href="SwampReptile.html">SwampReptile</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 37</span> <a href="SwampReptileLarge.html">SwampReptileLarge</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 27</span> <a href="SwampSlug.html">SwampSlug</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 30</span> <a href="SwampSlugLarge.html">SwampSlugLarge</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 10</span> <a href="TestMob.html">TestMob</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 35</span> <a href="Tetrachnide.html">Tetrachnide</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 37</span> <a href="TetrachnideLarge.html">TetrachnideLarge</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="TetrachnidePet.html">TetrachnidePet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 55</span> <a href="TreeEnt.html">TreeEnt</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 50</span> <a href="Undead.html">Undead</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 50</span> <a href="UndeadAxe.html">UndeadAxe</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 40</span> <a href="UndeadAxeDungeon.html">UndeadAxeDungeon</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 50</span> <a href="UndeadDragonKeeper.html">UndeadDragonKeeper</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 35</span> <a href="UndeadDragonServant.html">UndeadDragonServant</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 45</span> <a href="UndeadDungeon.html">UndeadDungeon</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 50</span> <a href="UndeadMace.html">UndeadMace</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 50</span> <a href="UndeadMaceDragonKeeper.html">UndeadMaceDragonKeeper</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 50</span> <a href="UndeadMage.html">UndeadMage</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 50</span> <a href="UndeadMageDragonKeeper.html">UndeadMageDragonKeeper</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 40</span> <a href="UndeadPickaxeDungeon.html">UndeadPickaxeDungeon</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 50</span> <a href="UndeadSword.html">UndeadSword</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 50</span> <a href="UndeadSwordHalloween.html">UndeadSwordHalloween</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 40</span> <a href="UndergroundGuardian.html">UndergroundGuardian</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 43</span> <a href="UndergroundGuardianLarge.html">UndergroundGuardianLarge</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 60</span> <a href="Undertaker.html">Undertaker</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 60</span> <a href="UnderwaterBoss.html">UnderwaterBoss</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 20</span> <a href="UsualHorseBay.html">UsualHorseBay</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="UsualHorseBayPet.html">UsualHorseBayPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 20</span> <a href="UsualHorsePintobay.html">UsualHorsePintobay</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="UsualHorsePintobayPet.html">UsualHorsePintobayPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="ValorousKnightPet.html">ValorousKnightPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 60</span> <a href="Vampire.html">Vampire</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 35</span> <a href="VeinKeeper.html">VeinKeeper</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 38</span> <a href="VeinKeeperLarge.html">VeinKeeperLarge</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 50</span> <a href="Vespomorph.html">Vespomorph</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 54</span> <a href="VespomorphLarge.html">VespomorphLarge</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 20</span> <a href="Viper.html">Viper</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="ViperPet.html">ViperPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="WeranglerfishPet.html">WeranglerfishPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 70</span> <a href="Werecrocodile.html">Werecrocodile</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 70</span> <a href="Weresnake.html">Weresnake</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="WeresquidPet.html">WeresquidPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="WeretoadPet.html">WeretoadPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 55</span> <a href="Werewolf.html">Werewolf</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 45</span> <a href="WerewolfDungeon.html">WerewolfDungeon</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 35</span> <a href="Witch.html">Witch</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 35</span> <a href="Wolf.html">Wolf</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 28</span> <a href="WolfArctic.html">WolfArctic</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 28</span> <a href="WolfArcticEvent.html">WolfArcticEvent</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 50</span> <a href="WolfDark.html">WolfDark</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 52</span> <a href="WolfDarkLarge.html">WolfDarkLarge</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="WolfDarkPet.html">WolfDarkPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 37</span> <a href="WolfLarge.html">WolfLarge</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="WolfPet.html">WolfPet</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 1</span> <a href="WolfPetLarge.html">WolfPetLarge</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 25</span> <a href="ZombieBoar.html">ZombieBoar</a></div>
-<div class="mob-row"><span class="mob-lvl">Lvl 28</span> <a href="ZombieBoarLarge.html">ZombieBoarLarge</a></div>
-</div></body></html>
+</head>
+<body>
+
+<div id="sidebar">
+    <div class="locale-switch">
+        <select id="locale-select" onchange="changeLocale()">
+            <option value="en">English</option>
+            <option value="ru">Russian</option>
+        </select>
+    </div>
+
+    <input type="text" id="search" class="search-box" placeholder="Search..." onkeyup="filterList()">
+
+    <div id="tabs">
+        <button onclick="showList('mobs')">Mobs</button>
+        <button onclick="showList('items')">Items</button>
+        <button onclick="showList('quests')">Quests</button>
+        <button onclick="showList('recipes')">Recipes</button>
+    </div>
+
+    <div id="list-container"></div>
+</div>
+
+<div id="content">
+    <h1>Welcome to the Wiki</h1>
+    <p>Select an item from the left to view details.</p>
+</div>
+
+<script>
+    let data = {};
+    let currentLocale = 'en';
+    let currentType = 'mobs';
+
+    async function loadData() {
+        const response = await fetch('wiki_data.json');
+        data = await response.json();
+        showList('mobs');
+    }
+
+    function getLoc(key) {
+        if (data.locales && data.locales[currentLocale] && data.locales[currentLocale][key]) {
+            return data.locales[currentLocale][key];
+        }
+        return key;
+    }
+
+    function changeLocale() {
+        currentLocale = document.getElementById('locale-select').value;
+        showList(currentType);
+        document.getElementById('content').innerHTML = '<h1>Welcome to the Wiki</h1><p>Select an item from the left to view details.</p>';
+    }
+
+    function showList(type) {
+        currentType = type;
+        const container = document.getElementById('list-container');
+        container.innerHTML = '';
+
+        data[type].forEach(item => {
+            const div = document.createElement('div');
+            div.className = 'list-item';
+            let name = item.id;
+            if (type === 'quests') {
+                name = getLoc(item.loc_key_name);
+            } else if (type === 'recipes') {
+                name = item.id; // Recipes usually don't have a direct loc key for the recipe itself, maybe use product name?
+                if (item.products && item.products.length > 0) {
+                     name = getLoc(item.products[0].loc_key) + " (Recipe)";
+                }
+            } else {
+                name = getLoc(item.loc_key);
+            }
+            div.textContent = name;
+            div.dataset.id = item.id;
+            div.onclick = () => showDetails(item, type);
+            container.appendChild(div);
+        });
+    }
+
+    function filterList() {
+        const query = document.getElementById('search').value.toLowerCase();
+        const items = document.querySelectorAll('.list-item');
+        items.forEach(item => {
+            if (item.textContent.toLowerCase().includes(query)) {
+                item.classList.remove('hidden');
+            } else {
+                item.classList.add('hidden');
+            }
+        });
+    }
+
+    function showDetails(item, type) {
+        const content = document.getElementById('content');
+        let html = '';
+
+        if (type === 'mobs') {
+            const name = getLoc(item.loc_key);
+            html += `<h2>${name}</h2>`;
+            html += `<div class="field"><span class="label">ID:</span> ${item.id}</div>`;
+            html += `<div class="field"><span class="label">Level:</span> ${item.level || 'N/A'}</div>`;
+            html += `<div class="field"><span class="label">Health:</span> ${item.health || 'N/A'}</div>`;
+            html += `<div class="field"><span class="label">Stamina:</span> ${item.stamina || 'N/A'}</div>`;
+            html += `<div class="field"><span class="label">Walk Speed:</span> ${item.walkSpeed || 'N/A'}</div>`;
+            html += `<div class="field"><span class="label">Run Speed:</span> ${item.runSpeed || 'N/A'}</div>`;
+
+            if (item.skills && item.skills.length > 0) {
+                html += `<h3>Skills</h3><ul>`;
+                item.skills.forEach(skillName => {
+                    let skillInfo = data.skills_info[skillName];
+                    let damageStr = "";
+                    if (skillInfo && (skillInfo.minDamage || skillInfo.maxDamage)) {
+                        damageStr = ` (Damage: ${skillInfo.minDamage || 0} - ${skillInfo.maxDamage || 0})`;
+                    }
+                    html += `<li>${skillName}${damageStr}</li>`;
+                });
+                html += `</ul>`;
+            }
+
+            if (item.drops && item.drops.length > 0) {
+                html += `<h3>Drops</h3>`;
+                item.drops.forEach(drop => {
+                    if (drop.money) {
+                        html += `<div class="field"><span class="label">Money:</span> ${drop.money.amount} - ${drop.money.amountMax || drop.money.amount} (Chance: ${drop.money.chance})</div>`;
+                    }
+                    if (drop.list) {
+                        html += `<ul>`;
+                        drop.list.forEach(group => {
+                            html += `<li>Chance: ${group.chance}`;
+                            if (group.randomList) {
+                                html += `<ul>`;
+                                group.randomList.forEach(loot => {
+                                    const itemName = getLoc(`Item.${loot.typeName}`);
+                                    html += `<li>${itemName} (${loot.amount || 1}${loot.amountMax ? '-' + loot.amountMax : ''})</li>`;
+                                });
+                                html += `</ul>`;
+                            }
+                            html += `</li>`;
+                        });
+                        html += `</ul>`;
+                    }
+                });
+            }
+
+        } else if (type === 'items') {
+            const name = getLoc(item.loc_key);
+            const desc = getLoc(item.loc_key + ".Description");
+            html += `<h2>${name}</h2>`;
+            if (desc !== item.loc_key + ".Description") {
+                html += `<p>${desc}</p>`;
+            }
+            html += `<div class="field"><span class="label">ID:</span> ${item.id}</div>`;
+            if (item.sellPrice) html += `<div class="field"><span class="label">Sell Price:</span> ${item.sellPrice}</div>`;
+            if (item.buyUpPrice) html += `<div class="field"><span class="label">Buy Up Price:</span> ${item.buyUpPrice}</div>`;
+            if (item.maxStack) html += `<div class="field"><span class="label">Max Stack:</span> ${item.maxStack}</div>`;
+
+        } else if (type === 'quests') {
+            const name = getLoc(item.loc_key_name);
+            const desc = getLoc(item.loc_key_desc);
+            html += `<h2>${name}</h2>`;
+            html += `<p>${desc}</p>`;
+            html += `<div class="field"><span class="label">ID:</span> ${item.id}</div>`;
+        } else if (type === 'recipes') {
+            let name = item.id;
+            if (item.products && item.products.length > 0) {
+                 name = getLoc(item.products[0].loc_key) + " (Recipe)";
+            }
+            html += `<h2>${name}</h2>`;
+            html += `<div class="field"><span class="label">ID:</span> ${item.id}</div>`;
+
+            if (item.resources && item.resources.length > 0) {
+                html += `<h3>Resources</h3><ul>`;
+                item.resources.forEach(res => {
+                    const resName = res.loc_key ? getLoc(res.loc_key) : (res.name || 'Unknown');
+                    html += `<li>${resName}: ${res.amount}</li>`;
+                });
+                html += `</ul>`;
+            }
+
+            if (item.products && item.products.length > 0) {
+                html += `<h3>Products</h3><ul>`;
+                item.products.forEach(prod => {
+                    const prodName = prod.loc_key ? getLoc(prod.loc_key) : (prod.name || 'Unknown');
+                    html += `<li>${prodName}: ${prod.amount}</li>`;
+                });
+                html += `</ul>`;
+            }
+        }
+
+        content.innerHTML = html;
+    }
+
+    loadData();
+</script>
+
+</body>
+</html>
