@@ -1,0 +1,12 @@
+{
+  "m_Name": "ColdBloodLubricant",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "0c1bd3529575e104b96c15e92fa9cf4f",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "20",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "ColdBloodLubricant",
+  "loc_key": "Item.ColdBloodLubricant",
+  "icon_path": "textures/ColdBloodLubricant.png"
+}

@@ -1,0 +1,33 @@
+{
+  "m_Name": "AlchemyDistillationGlue",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "1c57f79c5bec2b842b93ffe2e2e76db5",
+      "amount": "5",
+      "name": "Chitin",
+      "loc_key": "Item.Chitin"
+    },
+    {
+      "guid": "b601056686e52cb4ead308fd023da26f",
+      "amount": "1",
+      "name": "BoneFlour",
+      "loc_key": "Item.BoneFlour"
+    },
+    {
+      "guid": "b6d13d3b78440884daa8e9b8d835ec28",
+      "amount": "1",
+      "name": "DistilledWater",
+      "loc_key": "Item.DistilledWater"
+    }
+  ],
+  "products": [
+    {
+      "guid": "77a7f2d1c6a6177488a19046fcf32bfe",
+      "amount": "2",
+      "name": "Glue",
+      "loc_key": "Item.Glue"
+    }
+  ],
+  "id": "AlchemyDistillationGlue"
+}

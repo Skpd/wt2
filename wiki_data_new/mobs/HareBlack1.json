@@ -1,0 +1,41 @@
+{
+  "m_Name": "HareBlack1",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "30",
+  "stamina": "100",
+  "level": "3",
+  "walkSpeed": "2",
+  "runSpeed": "3.2",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "1",
+  "mobBehaviour": "104ad351df3bc714e868744b5b1384ea",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "a487a0e615d0daa428588e018a9b9ecb",
+  "entityPrefab_fid": "1551411748451937",
+  "entityBonuses": {},
+  "skills": [],
+  "id": "HareBlack1",
+  "loc_key": "Entity.HareBlack1",
+  "skinning_drops": [
+    {
+      "itemId": "YellowChristmasBall",
+      "chance": "0.25",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "Firework",
+      "chance": "1",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "Snowballs",
+      "chance": "0.4",
+      "min": "1",
+      "max": "3"
+    }
+  ]
+}

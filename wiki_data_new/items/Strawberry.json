@@ -1,0 +1,116 @@
+{
+  "m_Name": "Strawberry",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "0fcf4fe7c18adf345ae14120902db6ec",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.05",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Strawberry",
+  "loc_key": "Item.Strawberry",
+  "icon_path": "textures/strawberry.png",
+  "dropped_by": [
+    {
+      "sourceId": "GodsendObstacle",
+      "chance": 0.09090909090909091,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "GodsendGraveyard",
+      "chance": 0.058823529411764705,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "GodsendMainland",
+      "chance": 0.058823529411764705,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "GodsendMainlandSouth",
+      "chance": 0.06666666666666667,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "CultistSwordsman",
+      "chance": 0.06666666666666667,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfWorker",
+      "chance": 0.014285714285714287,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "CultistGhostSwordsman",
+      "chance": 0.0625,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "MineKobold",
+      "chance": 0.07142857142857142,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "MountainDwarf",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfDigger",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfEngineer",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfAmbusher",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfSoldier",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfOfficer",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "Dwarf\u0421ommander",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfAmbusherHideout",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "ChurchCultist",
+      "chance": 0.0625,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

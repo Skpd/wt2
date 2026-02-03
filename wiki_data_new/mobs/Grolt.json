@@ -1,0 +1,44 @@
+{
+  "m_Name": "Grolt",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "12000",
+  "stamina": "100",
+  "level": "65",
+  "walkSpeed": "2",
+  "runSpeed": "5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "0",
+  "mobBehaviour": "1ffb7607b4dfea441a4aafc9f96b3976",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "d3279e3e26f6dc74395b5b08adda8c16",
+  "entityPrefab_fid": "1513369595702624",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "a78a4e5b9d44052428999289ee71a2c6",
+      "name": "GroltAttack",
+      "minDamage": "50",
+      "maxDamage": "70",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.5",
+      "ignoreDefense": "0.3",
+      "criticalChance": "0.1",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "f8e1775df3d53da4ea386114f22294be",
+      "name": "GroltStunAOE",
+      "minDamage": "5",
+      "maxDamage": "5",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "1",
+      "ignoreDefense": "1",
+      "criticalChance": "0",
+      "criticalValue": "0"
+    }
+  ],
+  "id": "Grolt",
+  "loc_key": "Entity.Grolt"
+}

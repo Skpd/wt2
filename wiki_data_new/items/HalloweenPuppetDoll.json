@@ -1,0 +1,25 @@
+{
+  "m_Name": "HalloweenPuppetDoll",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "0155d52d83044a341bd5552e3e42f691",
+  "image_fid": "21300000",
+  "sellPrice": "50",
+  "buyUpPrice": "4",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "HalloweenPuppetDoll",
+  "loc_key": "Item.HalloweenPuppetDoll",
+  "dropped_by": [
+    {
+      "sourceId": "HalloweenGodsend",
+      "chance": 0.07142857142857142,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HalloweenGodsend",
+      "chance": 0.07142857142857142,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

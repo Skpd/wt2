@@ -1,0 +1,209 @@
+{
+  "m_Name": "SkeletonWarrior",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "100",
+  "stamina": "100",
+  "level": "15",
+  "walkSpeed": "2",
+  "runSpeed": "3.5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "4",
+  "mobBehaviour": "a089e3814136a724aa652e787c6ebc2f",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "460e2843cf271b443a7e106ca8057e6a",
+  "entityPrefab_fid": "1501676639445809",
+  "entityBonuses": {
+    "Parry": "0.1",
+    "Block": "0.1",
+    "BlockProjectile": "0.1",
+    "IgnoreBloodDots": "1",
+    "Defense": "0.5"
+  },
+  "skills": [
+    {
+      "id": "bee9c547d3823d542a7432cde1c940d9",
+      "name": "SkeletonWarriorAttack",
+      "minDamage": "15",
+      "maxDamage": "20",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.1",
+      "criticalValue": "1.5"
+    }
+  ],
+  "id": "SkeletonWarrior",
+  "loc_key": "Entity.SkeletonWarrior",
+  "drops": [
+    {
+      "itemId": "Money",
+      "chance": 0.3,
+      "min": 5,
+      "max": 25
+    },
+    {
+      "itemId": "BoneBoots",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "BoneGloves",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "BoneHelmet",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "BoneLower",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "BoneShoulders",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "BoneUpper",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Bone",
+      "chance": 1,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "SkeletonSkull",
+      "chance": 0.004,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "TorchWeapon",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SkeletonSword",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "WoodLogs",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "itemId": "TinRawOre",
+      "chance": 0.16666666666666666,
+      "min": 2,
+      "max": 6
+    },
+    {
+      "itemId": "SkeletonShield",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Torch",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Bone",
+      "chance": 1,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "GatherMushroomQuestItem",
+      "chance": 0.0025,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "GatherNoviceQuestItem",
+      "chance": 0.0025,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "ChickenPetQuestItem",
+      "chance": 0.0025,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "BottleMapQuestItem",
+      "chance": 0.0025,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "LootKnife",
+      "chance": 0.00014285714285714287,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "MimicQuestItem",
+      "chance": 0.00014285714285714287,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "DwarfQuestItem",
+      "chance": 0.00014285714285714287,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "FishingQuestItem",
+      "chance": 0.00014285714285714287,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SpiderQuestItem",
+      "chance": 0.00014285714285714287,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "PetEssenceUnstable",
+      "chance": 0.00014285714285714287,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "LoveLetterQuestItem",
+      "chance": 0.00014285714285714287,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Worm",
+      "chance": 1,
+      "min": 1,
+      "max": 2
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "m_Name": "Lumbering-03-GatherWoodLogs",
+  "m_Script": "bbef8bd82ea7ec3f83b28462fb539071",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "20",
+    "rewardItem": "a75227aa7a5c43e4f9d09c8b43cc38e3",
+    "rewardItemName": "WoodLogs"
+  },
+  "id": "Lumbering-03-GatherWoodLogs",
+  "group": "General"
+}

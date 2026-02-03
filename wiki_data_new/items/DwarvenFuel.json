@@ -1,0 +1,49 @@
+{
+  "m_Name": "DwarvenFuel",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "4d7f645227376dd4a96e090205d309ac",
+  "image_fid": "21300000",
+  "sellPrice": "25",
+  "buyUpPrice": "25",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "DwarvenFuel",
+  "loc_key": "Item.DwarvenFuel",
+  "dropped_by": [
+    {
+      "sourceId": "DwarfEngineer",
+      "chance": 0.06,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "sourceId": "DwarfFortFinalChest",
+      "chance": 0.5,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "sourceId": "DwarfFortFinalChest",
+      "chance": 0.125,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "sourceId": "DwarfFortFinalChest",
+      "chance": 0.125,
+      "min": 15,
+      "max": 15
+    },
+    {
+      "sourceId": "DwarfFortFinalChest",
+      "chance": 0.125,
+      "min": 20,
+      "max": 20
+    },
+    {
+      "sourceId": "DwarfFortGodsendMaterial",
+      "chance": 0.007000000000000001,
+      "min": 1,
+      "max": 5
+    }
+  ]
+}

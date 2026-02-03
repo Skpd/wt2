@@ -1,0 +1,19 @@
+{
+  "m_Name": "CherryStrudel",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "a6fc644d33bd3204cb4078a573a45719",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "30",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "CherryStrudel",
+  "loc_key": "Item.CherryStrudel",
+  "dropped_by": [
+    {
+      "sourceId": "ElderFinalChest",
+      "chance": 0.3333333333333333,
+      "min": 2,
+      "max": 2
+    }
+  ]
+}

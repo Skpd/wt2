@@ -1,0 +1,20 @@
+{
+  "m_Name": "EarthTitanHeart",
+  "m_Script": "420e0e364fdb917921d229f1b4a22ed9",
+  "image": "bcbb86a5975b5b045962b5574f461a5d",
+  "image_fid": "21300000",
+  "sellPrice": "5000",
+  "buyUpPrice": "500",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "EarthTitanHeart",
+  "loc_key": "Item.EarthTitanHeart",
+  "dropped_by": [
+    {
+      "sourceId": "EarthTitan",
+      "chance": "0.2",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    }
+  ]
+}

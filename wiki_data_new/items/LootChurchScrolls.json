@@ -1,0 +1,25 @@
+{
+  "m_Name": "LootChurchScrolls",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "3577c3be37769044e87a9be2d661db92",
+  "image_fid": "21300000",
+  "sellPrice": "50",
+  "buyUpPrice": "6",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "LootChurchScrolls",
+  "loc_key": "Item.LootChurchScrolls",
+  "dropped_by": [
+    {
+      "sourceId": "ChurchCultist",
+      "chance": 0.1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "ChurchCultist",
+      "chance": 0.1,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

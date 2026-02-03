@@ -1,0 +1,24 @@
+{
+  "m_Name": "BattlefieldPet-04-ObtainReaperPet",
+  "m_Script": "a33fbc2ed7ad8fe58f2dcfb6e1a39cab",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "c33919de331a8e64d8dfc5aaa353923e",
+  "predecessors": [
+    "BattlefieldPet-03-ObtainSkeletonGuardPet"
+  ],
+  "npcTaker": "c33919de331a8e64d8dfc5aaa353923e",
+  "reward": {
+    "money": "3000",
+    "guildXp": "0",
+    "amount": "1",
+    "rewardItem": "16907fc49d25fbf47bedd9ef53d35296",
+    "bookSkill": "Taming",
+    "rewardItemName": "SkillBookLevel20"
+  },
+  "id": "BattlefieldPet-04-ObtainReaperPet",
+  "npcGiverName": "AbandonedBattlefieldFisherElmar",
+  "npcTakerName": "AbandonedBattlefieldFisherElmar",
+  "group": "General"
+}

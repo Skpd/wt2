@@ -1,0 +1,23 @@
+{
+  "m_Name": "Easter-09-CraftEasterBuns",
+  "m_Script": "8bae99285fb9248eeae7964c5eaf8a95",
+  "line": "8",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "23b5f2c62fb06a147afb6b6229f6313d",
+  "predecessors": [
+    "Easter-08-KillMobsWolf"
+  ],
+  "npcTaker": "23b5f2c62fb06a147afb6b6229f6313d",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "4",
+    "rewardItem": "c493499d65224bf47991022be7f98f97",
+    "rewardItemName": "EasterCandy"
+  },
+  "id": "Easter-09-CraftEasterBuns",
+  "npcGiverName": "EasterMrBunny",
+  "npcTakerName": "EasterMrBunny",
+  "group": "General"
+}

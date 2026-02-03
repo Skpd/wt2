@@ -1,0 +1,11 @@
+{
+  "m_Name": "Noodles",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "a433cda87acf2364994d5e9d0039a418",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "3",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Noodles",
+  "loc_key": "Item.Noodles"
+}

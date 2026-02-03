@@ -1,0 +1,21 @@
+{
+  "m_Name": "BakeRawCherryStrudel",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "d1aac9635336bc642a2a0068694f65dc",
+      "amount": "1",
+      "name": "RawCherryStrudel",
+      "loc_key": "Item.RawCherryStrudel"
+    }
+  ],
+  "products": [
+    {
+      "guid": "a06dc0646dd702d46b8803abf1cf8b15",
+      "amount": "1",
+      "name": "CherryStrudelAfterBake",
+      "loc_key": "Item.CherryStrudelAfterBake"
+    }
+  ],
+  "id": "BakeRawCherryStrudel"
+}

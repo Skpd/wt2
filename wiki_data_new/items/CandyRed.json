@@ -1,0 +1,57 @@
+{
+  "m_Name": "CandyRed",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "8c9becce74ef5f0419e5355fdc53b221",
+  "image_fid": "21300000",
+  "sellPrice": "0",
+  "buyUpPrice": "0",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "CandyRed",
+  "loc_key": "Item.CandyRed",
+  "dropped_by": [
+    {
+      "sourceId": "DementedElf",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "Krampus",
+      "chance": 0.5,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "Krampus",
+      "chance": 0.3333333333333333,
+      "min": 2,
+      "max": 3
+    },
+    {
+      "sourceId": "Krampus",
+      "chance": 0.3333333333333333,
+      "min": 2,
+      "max": 3
+    },
+    {
+      "sourceId": "WinterForestFinalChest",
+      "chance": 0.1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HareBlack4",
+      "chance": "0.25",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "HareBlack3",
+      "chance": "0.1",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "m_Name": "BoarPet",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "1",
+  "stamina": "100",
+  "level": "1",
+  "walkSpeed": "1.6",
+  "runSpeed": "3.5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "1",
+  "mobBehaviour": {
+    "fileID": "0"
+  },
+  "entityPrefab": "98549401f56eb134baa125a6bce93b23",
+  "entityPrefab_fid": "1298603832291023",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "4ca377abd3f6780429813faa89ed9858",
+      "name": "BoarPetRage"
+    },
+    {
+      "id": "204d8aeb34ec90a48a2fe316c25a5b13",
+      "name": "BoarPetAttack",
+      "minDamage": "10",
+      "maxDamage": "15",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    }
+  ],
+  "id": "BoarPet",
+  "loc_key": "Entity.BoarPet",
+  "skinning_drops": [
+    {
+      "itemId": "MediumRawHide",
+      "chance": "1",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "RawBoarMeat",
+      "chance": "1",
+      "min": "3",
+      "max": "4"
+    },
+    {
+      "itemId": "RawAnimalFat",
+      "chance": "1",
+      "min": "2",
+      "max": "3"
+    },
+    {
+      "itemId": "Intestines",
+      "chance": "0.5",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "AnimalStomach",
+      "chance": "0.01",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "BoarTusk",
+      "chance": "0.01",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "OrganicsClot",
+      "chance": "1",
+      "min": "2",
+      "max": "3"
+    }
+  ]
+}

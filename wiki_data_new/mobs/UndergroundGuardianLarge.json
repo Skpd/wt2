@@ -1,0 +1,141 @@
+{
+  "m_Name": "UndergroundGuardianLarge",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "4300",
+  "stamina": "100",
+  "level": "43",
+  "walkSpeed": "1.9",
+  "runSpeed": "3.7",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "6",
+  "mobBehaviour": "1ffb7607b4dfea441a4aafc9f96b3976",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "19bb9cf4d4ee6b0468a75f11d7556c9e",
+  "entityPrefab_fid": "1577676098562595",
+  "entityBonuses": {
+    "Absorption": "30",
+    "IgnoreStun": "1",
+    "IgnoreBloodDots": "1",
+    "IgnoreFireDots": "1"
+  },
+  "skills": [
+    {
+      "id": "21870d81a698c634496430e249806a3b",
+      "name": "UndergroundGuardianAttackLarge",
+      "minDamage": "42",
+      "maxDamage": "55",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0.4",
+      "ignoreDefense": "0.35",
+      "criticalChance": "0",
+      "criticalValue": "0"
+    },
+    {
+      "id": "c2d45bb0557009148adcd6cf7d4c15af",
+      "name": "UndergroundGuardianShotLarge",
+      "minDamage": "35",
+      "maxDamage": "45",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0.8",
+      "ignoreDefense": "0.4",
+      "criticalChance": "0",
+      "criticalValue": "0"
+    }
+  ],
+  "id": "UndergroundGuardianLarge",
+  "loc_key": "Entity.UndergroundGuardianLarge",
+  "skinning_drops": [
+    {
+      "itemId": "StoneCloakDecorQuestItem",
+      "chance": "0.012",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "Limestone",
+      "chance": "1",
+      "min": "15",
+      "max": "30"
+    },
+    {
+      "itemId": "TinOre",
+      "chance": "1",
+      "min": "15",
+      "max": "30"
+    },
+    {
+      "itemId": "Coal",
+      "chance": "1",
+      "min": "15",
+      "max": "30"
+    },
+    {
+      "itemId": "IronRawOre",
+      "chance": "1",
+      "min": "6",
+      "max": "9"
+    },
+    {
+      "itemId": "IronOre",
+      "chance": "1",
+      "min": "6",
+      "max": "9"
+    },
+    {
+      "itemId": "MagmaCrystal",
+      "chance": "0.3",
+      "min": "3",
+      "max": "3"
+    },
+    {
+      "itemId": "Salt",
+      "chance": "0.4",
+      "min": "3",
+      "max": "9"
+    },
+    {
+      "itemId": "Sulfur",
+      "chance": "0.4",
+      "min": "3",
+      "max": "6"
+    },
+    {
+      "itemId": "GemUncutAmethyst",
+      "chance": "0.1",
+      "min": "3",
+      "max": "6"
+    },
+    {
+      "itemId": "GemUncutEmerald",
+      "chance": "0.1",
+      "min": "3",
+      "max": "6"
+    },
+    {
+      "itemId": "GemUncutRuby",
+      "chance": "0.1",
+      "min": "3",
+      "max": "6"
+    },
+    {
+      "itemId": "GemUncutSapphire",
+      "chance": "0.1",
+      "min": "3",
+      "max": "6"
+    },
+    {
+      "itemId": "GemUncutTopaz",
+      "chance": "0.1",
+      "min": "3",
+      "max": "6"
+    },
+    {
+      "itemId": "GolemHeart",
+      "chance": "0.015",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

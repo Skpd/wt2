@@ -1,0 +1,20 @@
+{
+  "m_Name": "MimicBatWing",
+  "m_Script": "420e0e364fdb917921d229f1b4a22ed9",
+  "image": "843256224b8c8184d8937855633048ea",
+  "image_fid": "21300000",
+  "sellPrice": "1250",
+  "buyUpPrice": "125",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "MimicBatWing",
+  "loc_key": "Item.MimicBatWing",
+  "dropped_by": [
+    {
+      "sourceId": "MimicBat",
+      "chance": "0.02",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    }
+  ]
+}

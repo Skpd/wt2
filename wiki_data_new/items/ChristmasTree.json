@@ -1,0 +1,19 @@
+{
+  "m_Name": "ChristmasTree",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "da838d04c90a211428ae43fac4e43bbc",
+  "image_fid": "21300000",
+  "sellPrice": "0",
+  "buyUpPrice": "0",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "ChristmasTree",
+  "loc_key": "Item.ChristmasTree",
+  "dropped_by": [
+    {
+      "sourceId": "DementedElf",
+      "chance": 0.1,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

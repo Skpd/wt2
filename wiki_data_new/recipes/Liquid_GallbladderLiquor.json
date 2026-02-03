@@ -1,0 +1,27 @@
+{
+  "m_Name": "Liquid_GallbladderLiquor",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "498eedca61de10c45aebdf3fa92c4945",
+      "amount": "4",
+      "name": "InflamedGallbladder",
+      "loc_key": "Item.InflamedGallbladder"
+    },
+    {
+      "guid": "27d507923a0f91a489ebecc6d7e70fd4",
+      "amount": "4",
+      "name": "Water",
+      "loc_key": "Item.Water"
+    }
+  ],
+  "products": [
+    {
+      "guid": "e9236afb320ea5a49b7b66d76bc00575",
+      "amount": "5",
+      "name": "GallbladderLiquor",
+      "loc_key": "Item.GallbladderLiquor"
+    }
+  ],
+  "id": "Liquid_GallbladderLiquor"
+}

@@ -1,0 +1,19 @@
+{
+  "m_Name": "LootTravelersDiaryPage4",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "d4902f1483cc16046847b5c0b5e54202",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "40",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "LootTravelersDiaryPage4",
+  "loc_key": "Item.LootTravelersDiaryPage4",
+  "dropped_by": [
+    {
+      "sourceId": "HideoutGodsensBody",
+      "chance": 0.013636363636363636,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

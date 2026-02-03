@@ -1,0 +1,20 @@
+{
+  "m_Name": "Guild-Daily10-KillBossBloodyBear",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "9",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "b182360bab1520146835de5f9a273761",
+  "npcTaker": "b182360bab1520146835de5f9a273761",
+  "reward": {
+    "money": "0",
+    "guildXp": "200",
+    "amount": "10",
+    "rewardItem": "5078b580f7aeee548aafd37ccac5f852",
+    "rewardItemName": "GuildCoin"
+  },
+  "id": "Guild-Daily10-KillBossBloodyBear",
+  "npcGiverName": "GuildHallCoordinator",
+  "npcTakerName": "GuildHallCoordinator",
+  "group": "Daily"
+}

@@ -1,0 +1,288 @@
+{
+  "m_Name": "LootKnife",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "d393ab2aa297f7441b31b8bb0b2ebede",
+  "image_fid": "21300000",
+  "sellPrice": "6000",
+  "buyUpPrice": "500",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "entityMaxLevel": "0",
+  "minDamage": "4",
+  "maxDamage": "12",
+  "minPlagueDamage": "0",
+  "maxPlagueDamage": "0",
+  "criticalChance": "0.25",
+  "criticalValue": "3",
+  "dismountChance": "0",
+  "splash": "0",
+  "isAOE": "0",
+  "projectileAOERange": "0",
+  "prefabAOEName": null,
+  "ignoreAvoidingDamage": "0",
+  "ignoreAbsorb": "0",
+  "ignoreDefense": "0",
+  "abilityName": null,
+  "effectLevelLimit": "0",
+  "effects": [],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "0"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  "id": "LootKnife",
+  "loc_key": "Item.LootKnife",
+  "dropped_by": [
+    {
+      "sourceId": "SewersGodsendMaterial",
+      "chance": 0.0014285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "PlagueCityCorpses",
+      "chance": 0.0014285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "PlagueSpidersWeb",
+      "chance": 0.0014285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "AbandonedBattlefieldSpidersWeb",
+      "chance": 0.0014285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "GodsendGraveyard",
+      "chance": 0.002,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "GodsendMainland",
+      "chance": 0.002,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "GodsendMainlandSouth",
+      "chance": 0.0022222222222222222,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "SkeletonUnarmed",
+      "chance": 7.142857142857143e-05,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "SkeletonWithStone",
+      "chance": 7.142857142857143e-05,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "SkeletonUnarmed",
+      "chance": 0.00014285714285714287,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "SkeletonWithStone",
+      "chance": 0.00014285714285714287,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "Reaper",
+      "chance": 0.014285714285714287,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "CultistRisenSwordsman",
+      "chance": 0.0014285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "CultistCursedSwordsman",
+      "chance": 0.0014285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "CultistSwordsman",
+      "chance": 0.0014285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "SkeletonWarrior",
+      "chance": 0.00014285714285714287,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "SkeletonRanger",
+      "chance": 7.142857142857143e-05,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "SkeletonRanger",
+      "chance": 0.00014285714285714287,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "SkeletonBoss",
+      "chance": 0.0007142857142857143,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "SkeletonBoss",
+      "chance": 0.002857142857142857,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DemonWeak",
+      "chance": 0.014285714285714287,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DemonBrute",
+      "chance": 0.014285714285714287,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "UndeadSwordHalloween",
+      "chance": 0.0014285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfWorker",
+      "chance": 0.00014285714285714287,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "CursedKobold",
+      "chance": 0.004285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "MineKobold",
+      "chance": 0.00014285714285714287,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "MineKobold",
+      "chance": 0.00028571428571428574,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "UndeadAxe",
+      "chance": 0.0007142857142857143,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "UndeadMace",
+      "chance": 0.0007142857142857143,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "UndeadSword",
+      "chance": 0.0007142857142857143,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "UndeadMage",
+      "chance": 0.0008571428571428572,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "MountainDwarf",
+      "chance": 0.0004285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfDigger",
+      "chance": 0.0004285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfEngineer",
+      "chance": 0.0004285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfAmbusher",
+      "chance": 0.0004285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfSoldier",
+      "chance": 0.0004285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfOfficer",
+      "chance": 0.0004285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "Dwarf\u0421ommander",
+      "chance": 0.0004285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0011111111111111111,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfFortGodsendMaterial",
+      "chance": 0.0011111111111111111,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HideoutGodsensBody",
+      "chance": 0.0011111111111111111,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

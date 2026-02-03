@@ -1,0 +1,21 @@
+{
+  "m_Name": "BakeRawFlounderRoast",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "678e89b71c004d34ba9d61a314f7abce",
+      "amount": "1",
+      "name": "RawFlounderRoast",
+      "loc_key": "Item.RawFlounderRoast"
+    }
+  ],
+  "products": [
+    {
+      "guid": "7b42adef89726fa44af707e6c7ce2ac6",
+      "amount": "1",
+      "name": "FlounderRoast",
+      "loc_key": "Item.FlounderRoast"
+    }
+  ],
+  "id": "BakeRawFlounderRoast"
+}

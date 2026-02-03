@@ -1,0 +1,19 @@
+{
+  "m_Name": "TargetShield",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "78f0007db906fd24c8a76cfa27ea3b68",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "363",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "TargetShield",
+  "loc_key": "Item.TargetShield",
+  "dropped_by": [
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.049999999999999996,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

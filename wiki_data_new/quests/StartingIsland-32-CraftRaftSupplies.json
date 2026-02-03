@@ -1,0 +1,16 @@
+{
+  "m_Name": "StartingIsland-32-CraftRaftSupplies",
+  "m_Script": "8bae99285fb9248eeae7964c5eaf8a95",
+  "line": "1",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "1",
+    "rewardItem": "7e06f60aef7008f4da64f64b57b26a55",
+    "rewardItemName": "PremiumScrollD3"
+  },
+  "id": "StartingIsland-32-CraftRaftSupplies",
+  "group": "General"
+}

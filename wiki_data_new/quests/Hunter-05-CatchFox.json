@@ -1,0 +1,16 @@
+{
+  "m_Name": "Hunter-05-CatchFox",
+  "m_Script": "1f7e2daaf0f39066de4225206dae8ef0",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "5",
+    "rewardItem": "64d28e46628fc7c4d9269940075fc5c9",
+    "rewardItemName": "RawHareMeat"
+  },
+  "id": "Hunter-05-CatchFox",
+  "group": "General"
+}

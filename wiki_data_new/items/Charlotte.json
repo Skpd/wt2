@@ -1,0 +1,19 @@
+{
+  "m_Name": "Charlotte",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "1dd15e18d3c8ef04097b0c0151a329cb",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "25",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Charlotte",
+  "loc_key": "Item.Charlotte",
+  "dropped_by": [
+    {
+      "sourceId": "ElderFinalChest",
+      "chance": 0.3333333333333333,
+      "min": 2,
+      "max": 2
+    }
+  ]
+}

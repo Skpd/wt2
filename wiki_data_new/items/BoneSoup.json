@@ -1,0 +1,31 @@
+{
+  "m_Name": "BoneSoup",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "c447dfd17948c5a4c830e610928f42f2",
+  "image_fid": "21300000",
+  "sellPrice": "100",
+  "buyUpPrice": "6",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BoneSoup",
+  "loc_key": "Item.BoneSoup",
+  "dropped_by": [
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.14285714285714285,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.1111111111111111,
+      "min": 2,
+      "max": 3
+    },
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.1,
+      "min": 1,
+      "max": 2
+    }
+  ]
+}

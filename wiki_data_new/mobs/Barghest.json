@@ -1,0 +1,91 @@
+{
+  "m_Name": "Barghest",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "5000",
+  "stamina": "100",
+  "level": "60",
+  "walkSpeed": "2",
+  "runSpeed": "6",
+  "image": "8d0da026d372e134eb3fee92d713561e",
+  "image_fid": "21300000",
+  "entityClass": "10",
+  "mobBehaviour": "e01590057bf45ff42b2d2f7ebec424cd",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "e04ea36f094c81049b172b310d6ec3bf",
+  "entityPrefab_fid": "1491039348069214",
+  "entityBonuses": {
+    "Parry": "0.2",
+    "IgnoreStun": "1",
+    "IgnoreSlowdown": "1"
+  },
+  "skills": [
+    {
+      "id": "e2887fcff568b604da96534609b06208",
+      "name": "BarghestAttack",
+      "minDamage": "50",
+      "maxDamage": "80",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0.3",
+      "ignoreDefense": "0.3",
+      "criticalChance": "0.1",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "3930e311d070e5b48b5481a2d1d1d0b7",
+      "name": "BarghestFerociousBite",
+      "minDamage": "50",
+      "maxDamage": "60",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "1",
+      "criticalValue": "1"
+    }
+  ],
+  "id": "Barghest",
+  "loc_key": "Entity.Barghest",
+  "skinning_drops": [
+    {
+      "itemId": "MediumRawHide",
+      "chance": "1",
+      "min": "2",
+      "max": "5"
+    },
+    {
+      "itemId": "RawCarnivoreMeat",
+      "chance": "1",
+      "min": "10",
+      "max": "20"
+    },
+    {
+      "itemId": "LeprousRawhide",
+      "chance": "1",
+      "min": "1",
+      "max": "3"
+    },
+    {
+      "itemId": "LeprousRawhideParts",
+      "chance": "1",
+      "min": "20",
+      "max": "40"
+    },
+    {
+      "itemId": "LeprousBlood",
+      "chance": "0.5",
+      "min": "2",
+      "max": "5"
+    },
+    {
+      "itemId": "LeprousBone",
+      "chance": "0.5",
+      "min": "2",
+      "max": "5"
+    },
+    {
+      "itemId": "BarghestPet",
+      "chance": "0.05",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

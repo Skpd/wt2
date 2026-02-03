@@ -1,0 +1,12 @@
+{
+  "m_Name": "StoneCloak",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "8428e7e55e2eac14bbb713175ad5fcbc",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "StoneCloak",
+  "loc_key": "Item.StoneCloak",
+  "icon_path": "textures/StoneCloak.png"
+}

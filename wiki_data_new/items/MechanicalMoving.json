@@ -1,0 +1,11 @@
+{
+  "m_Name": "MechanicalMoving",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "3494858b6f4aaf841a2e7f05249b4e61",
+  "image_fid": "21300000",
+  "sellPrice": "25",
+  "buyUpPrice": "5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "MechanicalMoving",
+  "loc_key": "Item.MechanicalMoving"
+}

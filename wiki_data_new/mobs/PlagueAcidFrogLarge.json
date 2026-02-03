@@ -1,0 +1,90 @@
+{
+  "m_Name": "PlagueAcidFrogLarge",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "875",
+  "stamina": "100",
+  "level": "38",
+  "walkSpeed": "2",
+  "runSpeed": "4",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "9",
+  "mobBehaviour": "b3ac478c5ce45fe48b8d8d1298c5e4ca",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "547c4ba7353ef2d4895ad1eb90b21989",
+  "entityPrefab_fid": "1854171979160017",
+  "entityBonuses": {
+    "Dodge": "0.22"
+  },
+  "skills": [
+    {
+      "id": "ef70d426ed5769a409ddd3432d9ae5ad",
+      "name": "PlagueAcidFrogLargeAttack",
+      "minDamage": "39",
+      "maxDamage": "65",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.3",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "1e42e4651bf654844807e8de031680e1",
+      "name": "PlagueAcidFrogLargeFerociousBite",
+      "minDamage": "48",
+      "maxDamage": "60",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "1",
+      "criticalValue": "1"
+    }
+  ],
+  "id": "PlagueAcidFrogLarge",
+  "loc_key": "Entity.PlagueAcidFrogLarge",
+  "skinning_drops": [
+    {
+      "itemId": "RawCarnivoreMeat",
+      "chance": "1",
+      "min": "2",
+      "max": "6"
+    },
+    {
+      "itemId": "CausticMucus",
+      "chance": "0.075",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "LeprousBone",
+      "chance": "0.3",
+      "min": "1",
+      "max": "3"
+    },
+    {
+      "itemId": "LeprousBlood",
+      "chance": "0.75",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "LeprousBlood",
+      "chance": "0.2",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "InflamedGallbladder",
+      "chance": "0.45",
+      "min": "1",
+      "max": "4"
+    },
+    {
+      "itemId": "FrogLegs",
+      "chance": "0.4",
+      "min": "2",
+      "max": "3"
+    }
+  ]
+}

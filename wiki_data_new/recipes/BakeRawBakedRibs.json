@@ -1,0 +1,21 @@
+{
+  "m_Name": "BakeRawBakedRibs",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "a63f8500f4e7f654681ad413881ed745",
+      "amount": "1",
+      "name": "RawBakedRibs",
+      "loc_key": "Item.RawBakedRibs"
+    }
+  ],
+  "products": [
+    {
+      "guid": "86e5dbc8dad3e654db12b43480f60ec4",
+      "amount": "1",
+      "name": "BakedRibs",
+      "loc_key": "Item.BakedRibs"
+    }
+  ],
+  "id": "BakeRawBakedRibs"
+}

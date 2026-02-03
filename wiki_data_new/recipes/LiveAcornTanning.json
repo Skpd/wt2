@@ -1,0 +1,27 @@
+{
+  "m_Name": "LiveAcornTanning",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "11ffead8c4e598749bee8a4b5af4f128",
+      "amount": "1",
+      "name": "LiveAcorn",
+      "loc_key": "Item.LiveAcorn"
+    },
+    {
+      "guid": "ed387302f331ee747acf194bf9720c33",
+      "amount": "100",
+      "name": "LeprousBlood",
+      "loc_key": "Item.LeprousBlood"
+    }
+  ],
+  "products": [
+    {
+      "guid": "9ce902140ed2ce941aa69ce95edc18cf",
+      "amount": "1",
+      "name": "DementedTreeEntPet",
+      "loc_key": "Item.DementedTreeEntPet"
+    }
+  ],
+  "id": "LiveAcornTanning"
+}

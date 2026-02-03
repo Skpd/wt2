@@ -1,0 +1,12 @@
+{
+  "m_Name": "ColdCursedBlood",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "ad93c156e82e2694e9b789cb72669e70",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "20",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "ColdCursedBlood",
+  "loc_key": "Item.ColdCursedBlood",
+  "icon_path": "textures/ColdCursedBlood.png"
+}

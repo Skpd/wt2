@@ -1,0 +1,11 @@
+{
+  "m_Name": "ChristmasCookieShop",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "27f5102e35630064abeaf41c8edc53f2",
+  "image_fid": "21300000",
+  "sellPrice": "250",
+  "buyUpPrice": "0",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "ChristmasCookieShop",
+  "loc_key": "Item.ChristmasCookieShop"
+}

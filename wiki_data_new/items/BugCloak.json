@@ -1,0 +1,12 @@
+{
+  "m_Name": "BugCloak",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "b988aaa32644521459b330dd400647b0",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BugCloak",
+  "loc_key": "Item.BugCloak",
+  "icon_path": "textures/bug-cloak.png"
+}

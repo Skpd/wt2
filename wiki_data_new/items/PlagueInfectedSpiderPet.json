@@ -1,0 +1,11 @@
+{
+  "m_Name": "PlagueInfectedSpiderPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "f18a402b32552254f87b80b10f6ffad3",
+  "image_fid": "21300000",
+  "sellPrice": "200",
+  "buyUpPrice": "200",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "PlagueInfectedSpiderPet",
+  "loc_key": "Item.PlagueInfectedSpiderPet"
+}

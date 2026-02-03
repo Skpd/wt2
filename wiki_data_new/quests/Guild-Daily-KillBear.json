@@ -1,0 +1,18 @@
+{
+  "m_Name": "Guild-Daily-KillBear",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "9",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "7c9d9300dbb72b34f897f159a101c212",
+  "npcTaker": "7c9d9300dbb72b34f897f159a101c212",
+  "reward": {
+    "money": "0",
+    "guildXp": "125",
+    "amount": "0"
+  },
+  "id": "Guild-Daily-KillBear",
+  "npcGiverName": "CityGuildQuest",
+  "npcTakerName": "CityGuildQuest",
+  "group": "Daily"
+}

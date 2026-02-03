@@ -1,0 +1,33 @@
+{
+  "m_Name": "IncubationTetrachnidePetEgg",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "a2ae6b38da9a78e4bb908f3c5ac593e0",
+      "amount": "1",
+      "name": "TetrachnidePetEgg",
+      "loc_key": "Item.TetrachnidePetEgg"
+    },
+    {
+      "guid": "479528f7974763140b853e2ea414594e",
+      "amount": "1",
+      "name": "ColdTearsEnt",
+      "loc_key": "Item.ColdTearsEnt"
+    },
+    {
+      "guid": "22e62e83cdbcb35438e3ec4247770c5e",
+      "amount": "50",
+      "name": "LootCavecrawlerMaterial",
+      "loc_key": "Item.LootCavecrawlerMaterial"
+    }
+  ],
+  "products": [
+    {
+      "guid": "4ce3757f02c26294bbac57abab8b93dd",
+      "amount": "1",
+      "name": "TetrachnidePet",
+      "loc_key": "Item.TetrachnidePet"
+    }
+  ],
+  "id": "IncubationTetrachnidePetEgg"
+}

@@ -1,0 +1,51 @@
+{
+  "m_Name": "DemonSpear",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "4de52edcc222c0d4c842b2e7d0331759",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "117000",
+  "craftMaterialsBuyUpPricePercent": "1",
+  "entityMaxLevel": "0",
+  "minDamage": "42",
+  "maxDamage": "60",
+  "minPlagueDamage": "7",
+  "maxPlagueDamage": "14",
+  "criticalChance": "0.07",
+  "criticalValue": "1.5",
+  "dismountChance": "0",
+  "splash": "0",
+  "isAOE": "0",
+  "projectileAOERange": "0",
+  "prefabAOEName": null,
+  "ignoreAvoidingDamage": "0",
+  "ignoreAbsorb": "0.15",
+  "ignoreDefense": "0.1",
+  "abilityName": null,
+  "effectLevelLimit": "0",
+  "effects": [
+    {
+      "effect": {
+        "fileID": "11400000",
+        "guid": "1fa776eb33783ba41a96bd31159d64d2",
+        "type": "2"
+      },
+      "chance": "0.1",
+      "time": "5"
+    }
+  ],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "0"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  "id": "DemonSpear",
+  "loc_key": "Item.DemonSpear",
+  "icon_path": "textures/DemonSpear.png"
+}

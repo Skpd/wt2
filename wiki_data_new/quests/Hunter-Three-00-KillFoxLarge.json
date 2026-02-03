@@ -1,0 +1,22 @@
+{
+  "m_Name": "Hunter-Three-00-KillFoxLarge",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "dbbd65a03bea5164784da9022840adf8",
+  "predecessors": [
+    "Hunter-Two-03-KillWolf",
+    "SkillUp-00-GetBattleSkillLevel30"
+  ],
+  "npcTaker": "dbbd65a03bea5164784da9022840adf8",
+  "reward": {
+    "money": "1000",
+    "guildXp": "0",
+    "amount": "0"
+  },
+  "id": "Hunter-Three-00-KillFoxLarge",
+  "npcGiverName": "CityBreederErmak",
+  "npcTakerName": "CityBreederErmak",
+  "group": "General"
+}

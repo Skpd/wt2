@@ -1,0 +1,11 @@
+{
+  "m_Name": "SeafoodRolls",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "9b8175a09cf40a94abfdccd8b51878d1",
+  "image_fid": "21300000",
+  "sellPrice": "500",
+  "buyUpPrice": "10",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SeafoodRolls",
+  "loc_key": "Item.SeafoodRolls"
+}

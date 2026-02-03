@@ -1,0 +1,33 @@
+{
+  "m_Name": "SaltpeterPitPoopFertilizer",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "82841f21dbdaf5141b76cbbedc2117a8",
+      "amount": "2",
+      "name": "BirdDroppings",
+      "loc_key": "Item.BirdDroppings"
+    },
+    {
+      "guid": "3f4a5da5efd8d65408890d34180dde7f",
+      "amount": "5",
+      "name": "Feather",
+      "loc_key": "Item.Feather"
+    },
+    {
+      "guid": "27d507923a0f91a489ebecc6d7e70fd4",
+      "amount": "1",
+      "name": "Water",
+      "loc_key": "Item.Water"
+    }
+  ],
+  "products": [
+    {
+      "guid": "6129aa524e58bb842b4e9c2054d8c455",
+      "amount": "2",
+      "name": "PoopFertilizer",
+      "loc_key": "Item.PoopFertilizer"
+    }
+  ],
+  "id": "SaltpeterPitPoopFertilizer"
+}

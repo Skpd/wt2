@@ -1,0 +1,11 @@
+{
+  "m_Name": "AmuletFacetedAmethyst",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "c1370626fefc1404d9c5bf80f75e2b11",
+  "image_fid": "21300000",
+  "sellPrice": "100",
+  "buyUpPrice": "100",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "AmuletFacetedAmethyst",
+  "loc_key": "Item.AmuletFacetedAmethyst"
+}

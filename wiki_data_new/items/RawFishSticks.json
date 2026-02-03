@@ -1,0 +1,11 @@
+{
+  "m_Name": "RawFishSticks",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "c6ddafd5adb7fa54880ecef8dee2dbf3",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "2",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "RawFishSticks",
+  "loc_key": "Item.RawFishSticks"
+}

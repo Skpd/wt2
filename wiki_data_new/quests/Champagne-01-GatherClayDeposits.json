@@ -1,0 +1,16 @@
+{
+  "m_Name": "Champagne-01-GatherClayDeposits",
+  "m_Script": "b597784dc7837e744b6c4fa47c80a317",
+  "line": "5",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "50",
+    "guildXp": "0",
+    "amount": "1",
+    "rewardItem": "f3b42e6c166a9804d881f6a89420e3d6",
+    "rewardItemName": "Champagne"
+  },
+  "id": "Champagne-01-GatherClayDeposits",
+  "group": "General"
+}

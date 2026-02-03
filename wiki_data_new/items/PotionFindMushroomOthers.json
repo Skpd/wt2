@@ -1,0 +1,11 @@
+{
+  "m_Name": "PotionFindMushroomOthers",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "fdf50b9037d9da34d9ad0d2b7790070b",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "40",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "PotionFindMushroomOthers",
+  "loc_key": "Item.PotionFindMushroomOthers"
+}

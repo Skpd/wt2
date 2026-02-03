@@ -1,0 +1,11 @@
+{
+  "m_Name": "HelperBookPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "ede3833d53cd7ea41a6b1797664d1020",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "2",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "HelperBookPet",
+  "loc_key": "Item.HelperBookPet"
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "ConquerorHelmetBronze",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "671e4fe875e907b45aefb0d7cef11193",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "50",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "ConquerorHelmetBronze",
+  "loc_key": "Item.ConquerorHelmetBronze"
+}

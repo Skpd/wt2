@@ -1,0 +1,11 @@
+{
+  "m_Name": "RawPigMeat",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "30df365dd4b341242a02ba880f24a83c",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.03",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "RawPigMeat",
+  "loc_key": "Item.RawPigMeat"
+}

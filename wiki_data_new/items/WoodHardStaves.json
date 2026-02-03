@@ -1,0 +1,11 @@
+{
+  "m_Name": "WoodHardStaves",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "4462df5b2faa14a4a9ebec4cf3f81318",
+  "image_fid": "21300000",
+  "sellPrice": "15",
+  "buyUpPrice": "0.15",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "WoodHardStaves",
+  "loc_key": "Item.WoodHardStaves"
+}

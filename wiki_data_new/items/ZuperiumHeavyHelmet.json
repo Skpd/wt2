@@ -1,0 +1,11 @@
+{
+  "m_Name": "ZuperiumHeavyHelmet",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "698078a8b4e308b4988629f60db0d3ef",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "2316",
+  "craftMaterialsBuyUpPricePercent": "2",
+  "id": "ZuperiumHeavyHelmet",
+  "loc_key": "Item.ZuperiumHeavyHelmet"
+}

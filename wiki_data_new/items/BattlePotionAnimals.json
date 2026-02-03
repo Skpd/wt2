@@ -1,0 +1,11 @@
+{
+  "m_Name": "BattlePotionAnimals",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "bfaf511057a53704e81a615c6bbfad2c",
+  "image_fid": "21300000",
+  "sellPrice": "2500",
+  "buyUpPrice": "50",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BattlePotionAnimals",
+  "loc_key": "Item.BattlePotionAnimals"
+}

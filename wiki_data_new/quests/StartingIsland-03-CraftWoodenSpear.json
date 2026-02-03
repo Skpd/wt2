@@ -1,0 +1,16 @@
+{
+  "m_Name": "StartingIsland-03-CraftWoodenSpear",
+  "m_Script": "8bae99285fb9248eeae7964c5eaf8a95",
+  "line": "1",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "15",
+    "rewardItem": "a4435579d970a0444be1cb30dfe10053",
+    "rewardItemName": "WoodenSpear"
+  },
+  "id": "StartingIsland-03-CraftWoodenSpear",
+  "group": "General"
+}

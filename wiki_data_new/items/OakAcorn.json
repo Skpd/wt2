@@ -1,0 +1,11 @@
+{
+  "m_Name": "OakAcorn",
+  "m_Script": "420e0e364fdb917921d229f1b4a22ed9",
+  "image": "b2a99bc073d83f74d98263764694c61a",
+  "image_fid": "21300000",
+  "sellPrice": "1250",
+  "buyUpPrice": "125",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "OakAcorn",
+  "loc_key": "Item.OakAcorn"
+}

@@ -1,0 +1,25 @@
+{
+  "m_Name": "ExecutionerMaskDecor",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "5c3cdad0f2bcbc44384eaebfccd1d28a",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "50",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "ExecutionerMaskDecor",
+  "loc_key": "Item.ExecutionerMaskDecor",
+  "dropped_by": [
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "ExecutionerGrave",
+      "chance": 0.5,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

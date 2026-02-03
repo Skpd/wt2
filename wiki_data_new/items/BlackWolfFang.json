@@ -1,0 +1,27 @@
+{
+  "m_Name": "BlackWolfFang",
+  "m_Script": "420e0e364fdb917921d229f1b4a22ed9",
+  "image": "8d92c5c4579c14244ad9e86aac6c17e9",
+  "image_fid": "21300000",
+  "sellPrice": "2500",
+  "buyUpPrice": "250",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BlackWolfFang",
+  "loc_key": "Item.BlackWolfFang",
+  "dropped_by": [
+    {
+      "sourceId": "WolfDark",
+      "chance": "0.015",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "WolfDarkLarge",
+      "chance": "0.02",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    }
+  ]
+}

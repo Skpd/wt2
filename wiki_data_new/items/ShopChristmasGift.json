@@ -1,0 +1,12 @@
+{
+  "m_Name": "ShopChristmasGift",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "0159b3dfed852a84db25926c8a609154",
+  "image_fid": "21300000",
+  "sellPrice": "0",
+  "buyUpPrice": "0",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "ShopChristmasGift",
+  "loc_key": "Item.ShopChristmasGift",
+  "icon_path": "textures/ShopChristmasGift.png"
+}

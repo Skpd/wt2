@@ -1,0 +1,19 @@
+{
+  "m_Name": "HeavyMaskShoulders",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "3834d3fc5359a0f4891afe61a7ecd0cb",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "100",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "HeavyMaskShoulders",
+  "loc_key": "Item.HeavyMaskShoulders",
+  "dropped_by": [
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.049999999999999996,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

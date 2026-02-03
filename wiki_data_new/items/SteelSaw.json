@@ -1,0 +1,19 @@
+{
+  "m_Name": "SteelSaw",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "00871bcda79269d4785c41af878ff8ca",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "928.54004",
+  "craftMaterialsBuyUpPricePercent": "1.7",
+  "id": "SteelSaw",
+  "loc_key": "Item.SteelSaw",
+  "dropped_by": [
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

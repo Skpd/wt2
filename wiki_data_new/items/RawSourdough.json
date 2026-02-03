@@ -1,0 +1,11 @@
+{
+  "m_Name": "RawSourdough",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "38cbdee6666115a4bb5e339182c45799",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "1.1",
+  "id": "RawSourdough",
+  "loc_key": "Item.RawSourdough"
+}

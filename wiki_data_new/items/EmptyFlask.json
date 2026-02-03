@@ -1,0 +1,11 @@
+{
+  "m_Name": "EmptyFlask",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "299519f1a00b4d246859223235606322",
+  "image_fid": "21300000",
+  "sellPrice": "500",
+  "buyUpPrice": "5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "EmptyFlask",
+  "loc_key": "Item.EmptyFlask"
+}

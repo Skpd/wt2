@@ -1,0 +1,12 @@
+{
+  "m_Name": "DragonRexGreenMount",
+  "m_Script": "f5673bd2393c13a27685bda14e28f91a",
+  "image": {
+    "fileID": "0"
+  },
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "DragonRexGreenMount",
+  "loc_key": "Item.DragonRexGreenMount"
+}

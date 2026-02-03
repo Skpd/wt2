@@ -1,0 +1,67 @@
+{
+  "m_Name": "HeatproofWood",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "268af406afb80404cbcc4edb71dc077e",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "20",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "HeatproofWood",
+  "loc_key": "Item.HeatproofWood",
+  "icon_path": "textures/HeatproofWood.png",
+  "dropped_by": [
+    {
+      "sourceId": "CaveFinalChest",
+      "chance": 0.004545454545454546,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "GiantBeetle",
+      "chance": 0.004545454545454546,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfFortFinalChest",
+      "chance": 0.004545454545454546,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "BufomorphPet",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "DementedTreeEntPet",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "TreeEnt",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "EarthTitanPet",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "CrocodilePet",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    }
+  ]
+}

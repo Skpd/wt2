@@ -1,0 +1,33 @@
+{
+  "m_Name": "Alchemy_BlackPowder",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "504f2970767d3814baefff549117f7e5",
+      "amount": "20",
+      "name": "Saltpeter",
+      "loc_key": "Item.Saltpeter"
+    },
+    {
+      "guid": "0ff36829267b23044ae7764b83d207b6",
+      "amount": "8",
+      "name": "Sulfur",
+      "loc_key": "Item.Sulfur"
+    },
+    {
+      "guid": "2eb9c8ccc2acead4c9e7b2dbc0b72c80",
+      "amount": "12",
+      "name": "Coal",
+      "loc_key": "Item.Coal"
+    }
+  ],
+  "products": [
+    {
+      "guid": "b821f987d7536bb4db1a050206729335",
+      "amount": "5",
+      "name": "BlackPowder",
+      "loc_key": "Item.BlackPowder"
+    }
+  ],
+  "id": "Alchemy_BlackPowder"
+}

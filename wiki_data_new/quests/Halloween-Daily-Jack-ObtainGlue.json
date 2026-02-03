@@ -1,0 +1,23 @@
+{
+  "m_Name": "Halloween-Daily-Jack-ObtainGlue",
+  "m_Script": "a33fbc2ed7ad8fe58f2dcfb6e1a39cab",
+  "line": "6",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "ce962e26170bb4a428b2d535c36a8ef8",
+  "predecessors": [
+    "Halloween-03-KillWitch"
+  ],
+  "npcTaker": "ce962e26170bb4a428b2d535c36a8ef8",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "1",
+    "rewardItem": "288d461ab9d46af4989ecb3c1da9fc15",
+    "rewardItemName": "HalloweenGift"
+  },
+  "id": "Halloween-Daily-Jack-ObtainGlue",
+  "npcGiverName": "HalloweenMrJack",
+  "npcTakerName": "HalloweenMrJack",
+  "group": "Daily"
+}

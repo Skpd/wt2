@@ -1,0 +1,16 @@
+{
+  "m_Name": "Xmas-07-BuildChristmasTreeStation",
+  "m_Script": "6faa3f7e779ddd3382481629137a82cd",
+  "line": "3",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "1",
+    "rewardItem": "1f2ad3b83cd561d43a73bd089c3fa42b",
+    "rewardItemName": "GiftGreen"
+  },
+  "id": "Xmas-07-BuildChristmasTreeStation",
+  "group": "General"
+}

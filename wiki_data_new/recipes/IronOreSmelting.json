@@ -1,0 +1,21 @@
+{
+  "m_Name": "IronOreSmelting",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "431ba6b1457ab034a99495cd0757a5da",
+      "amount": "5",
+      "name": "IronOre",
+      "loc_key": "Item.IronOre"
+    }
+  ],
+  "products": [
+    {
+      "guid": "e0c83692f83f1884c9b05b1b646daa75",
+      "amount": "1",
+      "name": "IronBloom",
+      "loc_key": "Item.IronBloom"
+    }
+  ],
+  "id": "IronOreSmelting"
+}

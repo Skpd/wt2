@@ -1,0 +1,18 @@
+{
+  "m_Name": "FisheryWay-01-GatherWorm",
+  "m_Script": "bbef8bd82ea7ec3f83b28462fb539071",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcTaker": "ea6c0480facd1544f88dfc66a449df99",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "40",
+    "rewardItem": "5fcd5bdd70a48ad4b841eaf852a38c10",
+    "rewardItemName": "Worm"
+  },
+  "id": "FisheryWay-01-GatherWorm",
+  "npcTakerName": "CityFisherPaul",
+  "group": "General"
+}

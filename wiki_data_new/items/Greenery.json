@@ -1,0 +1,55 @@
+{
+  "m_Name": "Greenery",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "f6082339fbfb67c47b50627ab6be3ab6",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.05",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Greenery",
+  "loc_key": "Item.Greenery",
+  "dropped_by": [
+    {
+      "sourceId": "Reaper",
+      "chance": 0.125,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "sourceId": "CultistRisenSwordsman",
+      "chance": 0.125,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "sourceId": "CultistCursedSwordsman",
+      "chance": 0.125,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "sourceId": "DemonWeak",
+      "chance": 0.1,
+      "min": 10,
+      "max": 25
+    },
+    {
+      "sourceId": "DemonWeak",
+      "chance": 0.05,
+      "min": 10,
+      "max": 25
+    },
+    {
+      "sourceId": "DemonBrute",
+      "chance": 0.1,
+      "min": 10,
+      "max": 25
+    },
+    {
+      "sourceId": "DemonBrute",
+      "chance": 0.05,
+      "min": 10,
+      "max": 25
+    }
+  ]
+}

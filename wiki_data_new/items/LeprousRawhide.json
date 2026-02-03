@@ -1,0 +1,46 @@
+{
+  "m_Name": "LeprousRawhide",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "2d17e6eba65561e45b0646f998c8c184",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.2",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "LeprousRawhide",
+  "loc_key": "Item.LeprousRawhide",
+  "dropped_by": [
+    {
+      "sourceId": "FatOgre",
+      "chance": 1,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.2,
+      "min": 2,
+      "max": 3
+    },
+    {
+      "sourceId": "Barghest",
+      "chance": "1",
+      "min": "1",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "BarghestDungeon",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "PlagueGiantRat",
+      "chance": "0.5",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "m_Name": "PlagueBloodySpiderLarge",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "625",
+  "stamina": "100",
+  "level": "33",
+  "walkSpeed": "2",
+  "runSpeed": "4",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "2",
+  "mobBehaviour": "5f7e37332826e7d4fa8134797e067c4f",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "b5e2e4aa742fe1c4bb9feaac757d3c27",
+  "entityPrefab_fid": "1562014068714689",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "429718436d59d7a42a9677fb8230a6cd",
+      "name": "PlagueSpiderLargeShellAttack",
+      "minDamage": "13",
+      "maxDamage": "26",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.25",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "7b42352647dd3874f846614356ced2b3",
+      "name": "PlagueBloodySpiderLargeAttack",
+      "minDamage": "32",
+      "maxDamage": "45",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0.11",
+      "ignoreDefense": "0",
+      "criticalChance": "0.25",
+      "criticalValue": "1.5"
+    }
+  ],
+  "id": "PlagueBloodySpiderLarge",
+  "loc_key": "Entity.PlagueBloodySpiderLarge",
+  "skinning_drops": [
+    {
+      "itemId": "Chitin",
+      "chance": "1",
+      "min": "2",
+      "max": "4"
+    },
+    {
+      "itemId": "GrimSpiderWeb",
+      "chance": "0.6",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "MoldySilk",
+      "chance": "0.02",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "SpiderFingers",
+      "chance": "0.008",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

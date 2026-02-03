@@ -1,0 +1,11 @@
+{
+  "m_Name": "SalmonFillet",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "4fdb88e7f9f372144bcf8e342a14f482",
+  "image_fid": "21300000",
+  "sellPrice": "10",
+  "buyUpPrice": "50",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SalmonFillet",
+  "loc_key": "Item.SalmonFillet"
+}

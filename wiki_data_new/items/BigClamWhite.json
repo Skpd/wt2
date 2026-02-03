@@ -1,0 +1,11 @@
+{
+  "m_Name": "BigClamWhite",
+  "m_Script": "53d85703288a41ce0e87dcdb381b2599",
+  "image": "7b43656703b206d468d1706a0b6470a9",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "100",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BigClamWhite",
+  "loc_key": "Item.BigClamWhite"
+}

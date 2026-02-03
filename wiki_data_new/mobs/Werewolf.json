@@ -1,0 +1,87 @@
+{
+  "m_Name": "Werewolf",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "5000",
+  "stamina": "100",
+  "level": "55",
+  "walkSpeed": "2",
+  "runSpeed": "5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "0",
+  "mobBehaviour": "1ffb7607b4dfea441a4aafc9f96b3976",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "533f12b9bb15f3e42a151db8794faccd",
+  "entityPrefab_fid": "1089404930565139",
+  "entityBonuses": {
+    "Dodge": "0.15",
+    "Absorption": "0.1",
+    "Defense": "0.2",
+    "PlagueInfectionChance": "0.005"
+  },
+  "skills": [
+    {
+      "id": "88e4ceaba30589d4f8817b8f6fd4f24b",
+      "name": "WerewolfAttack",
+      "minDamage": "40",
+      "maxDamage": "50",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "f6d1f7afa85e7c14ea207497c9a03d27",
+      "name": "WolfHardSkin"
+    }
+  ],
+  "id": "Werewolf",
+  "loc_key": "Entity.Werewolf",
+  "icon_path": "textures/Werewolf.png",
+  "skinning_drops": [
+    {
+      "itemId": "MediumRawHide",
+      "chance": "1",
+      "min": "2",
+      "max": "4"
+    },
+    {
+      "itemId": "RawCarnivoreMeat",
+      "chance": "1",
+      "min": "4",
+      "max": "5"
+    },
+    {
+      "itemId": "LeprousBone",
+      "chance": "0.8",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "LeprousBlood",
+      "chance": "0.8",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "LeprousRawhideParts",
+      "chance": "1",
+      "min": "12",
+      "max": "40"
+    },
+    {
+      "itemId": "HumanEye",
+      "chance": "0.01",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "WerewolfEye",
+      "chance": "0.02",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

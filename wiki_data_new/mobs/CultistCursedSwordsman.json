@@ -1,0 +1,549 @@
+{
+  "m_Name": "CultistCursedSwordsman",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "1500",
+  "stamina": "100",
+  "level": "70",
+  "walkSpeed": "1",
+  "runSpeed": "3.5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "0",
+  "mobBehaviour": "7f2a32547cb9233428be1bf415b3df55",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "efeb69ad6105cd94d9eeeb09793c61ee",
+  "entityPrefab_fid": "1137592449702152",
+  "entityBonuses": {
+    "Parry": "0.25",
+    "Dodge": "0.2",
+    "Defense": "0.4",
+    "IgnoreNextSlowdown": "1",
+    "IgnoreNextStun": "1",
+    "PlagueDefense": "0.4"
+  },
+  "skills": [
+    {
+      "id": "67e31263d628acc49a83c5c74b001829",
+      "name": "CultistCursedSwordsmanSprint"
+    },
+    {
+      "id": "7f8a2612346e1c3438beb1b9339b74ab",
+      "name": "CultistCursedSwordsmanChargedAttack",
+      "minDamage": "35",
+      "maxDamage": "55",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.5",
+      "ignoreDefense": "0.2",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "676bffa8edea3ed4d98f4dd1af789ccb",
+      "name": "CultistCursedSwordsmanAttack",
+      "minDamage": "50",
+      "maxDamage": "75",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0.2",
+      "ignoreDefense": "0.2",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    }
+  ],
+  "id": "CultistCursedSwordsman",
+  "loc_key": "Entity.CultistCursedSwordsman",
+  "drops": [
+    {
+      "itemId": "Money",
+      "chance": 1,
+      "min": 1000,
+      "max": 3000
+    },
+    {
+      "itemId": "NecromancerSeal",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "CultistBlood",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SpiceBlackPepper",
+      "chance": 0.125,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "itemId": "SpiceCinnamon",
+      "chance": 0.125,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "itemId": "SpiceSugar",
+      "chance": 0.125,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "itemId": "SpiceSalt",
+      "chance": 0.125,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "itemId": "Greenery",
+      "chance": 0.125,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "itemId": "BeerWort",
+      "chance": 0.125,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "BeerBoiledWort",
+      "chance": 0.125,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "GraveBeetle",
+      "chance": 0.125,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "itemId": "PoisonArrow",
+      "chance": 0.038461538461538464,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "FireArrow",
+      "chance": 0.038461538461538464,
+      "min": 3,
+      "max": 7
+    },
+    {
+      "itemId": "CopperArrow",
+      "chance": 0.038461538461538464,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "itemId": "BronzeArrow",
+      "chance": 0.038461538461538464,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "itemId": "RoughBandages",
+      "chance": 0.038461538461538464,
+      "min": 2,
+      "max": 6
+    },
+    {
+      "itemId": "WeakAntidote",
+      "chance": 0.038461538461538464,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "itemId": "SimpleMedicine",
+      "chance": 0.038461538461538464,
+      "min": 2,
+      "max": 3
+    },
+    {
+      "itemId": "WideBandages",
+      "chance": 0.038461538461538464,
+      "min": 2,
+      "max": 3
+    },
+    {
+      "itemId": "IronOre",
+      "chance": 0.038461538461538464,
+      "min": 20,
+      "max": 40
+    },
+    {
+      "itemId": "IronIngot",
+      "chance": 0.038461538461538464,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "IronBloom",
+      "chance": 0.038461538461538464,
+      "min": 2,
+      "max": 8
+    },
+    {
+      "itemId": "TinIngot",
+      "chance": 0.038461538461538464,
+      "min": 7,
+      "max": 15
+    },
+    {
+      "itemId": "CopperIngot",
+      "chance": 0.038461538461538464,
+      "min": 7,
+      "max": 15
+    },
+    {
+      "itemId": "BronzeIngot",
+      "chance": 0.038461538461538464,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "itemId": "WoodLogs",
+      "chance": 0.038461538461538464,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "MediumLeather",
+      "chance": 0.038461538461538464,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "itemId": "MediumHide",
+      "chance": 0.038461538461538464,
+      "min": 3,
+      "max": 7
+    },
+    {
+      "itemId": "MediumRawHide",
+      "chance": 0.038461538461538464,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "CopperNail",
+      "chance": 0.038461538461538464,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "BronzeNail",
+      "chance": 0.038461538461538464,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "IronLines",
+      "chance": 0.038461538461538464,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "IronPlates",
+      "chance": 0.038461538461538464,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "IronNail",
+      "chance": 0.038461538461538464,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SpiceBlackPepper",
+      "chance": 0.038461538461538464,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "itemId": "SpiceCinnamon",
+      "chance": 0.038461538461538464,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "itemId": "SpiceSalt",
+      "chance": 0.038461538461538464,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "itemId": "HardenedLeather",
+      "chance": 0.25,
+      "min": 2,
+      "max": 3
+    },
+    {
+      "itemId": "IronIngot",
+      "chance": 0.25,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "itemId": "IronLines",
+      "chance": 0.25,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "IronPlates",
+      "chance": 0.25,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "HardenedLeather",
+      "chance": 0.25,
+      "min": 3,
+      "max": 5
+    },
+    {
+      "itemId": "IronIngot",
+      "chance": 0.25,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "itemId": "IronLines",
+      "chance": 0.25,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "IronPlates",
+      "chance": 0.25,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "SnareSteel",
+      "chance": 0.0375,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "itemId": "FishingSpoon",
+      "chance": 0.0375,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "itemId": "SteelRivets",
+      "chance": 0.0375,
+      "min": 2,
+      "max": 10
+    },
+    {
+      "itemId": "SteelLines",
+      "chance": 0.0375,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "SteelPlates",
+      "chance": 0.0375,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "MoldySilk",
+      "chance": 0.0375,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "AlchemicalReagents",
+      "chance": 0.0375,
+      "min": 10,
+      "max": 25
+    },
+    {
+      "itemId": "SteelIngot",
+      "chance": 0.0375,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "itemId": "SnareSteel",
+      "chance": 0.0375,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "itemId": "FishingSpoon",
+      "chance": 0.0375,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "itemId": "SteelRivets",
+      "chance": 0.0375,
+      "min": 2,
+      "max": 10
+    },
+    {
+      "itemId": "SteelLines",
+      "chance": 0.0375,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "SteelPlates",
+      "chance": 0.0375,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "MoldySilk",
+      "chance": 0.0375,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "AlchemicalReagents",
+      "chance": 0.0375,
+      "min": 10,
+      "max": 25
+    },
+    {
+      "itemId": "SteelIngot",
+      "chance": 0.0375,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "itemId": "GemUncutAmethyst",
+      "chance": 0.1,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "GemUncutEmerald",
+      "chance": 0.1,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "GemUncutRuby",
+      "chance": 0.1,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "GemUncutSapphire",
+      "chance": 0.1,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "GemUncutTopaz",
+      "chance": 0.1,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "GemUncutAmethyst",
+      "chance": 0.06,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "GemUncutEmerald",
+      "chance": 0.06,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "GemUncutRuby",
+      "chance": 0.06,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "GemUncutSapphire",
+      "chance": 0.06,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "GemUncutTopaz",
+      "chance": 0.06,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "Corn",
+      "chance": 0.15,
+      "min": 2,
+      "max": 4
+    },
+    {
+      "itemId": "CornSeeds",
+      "chance": 0.1,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "itemId": "SkillBookLevel20",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "CthulhuEye",
+      "chance": 0.04,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "LootKnife",
+      "chance": 0.0014285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "MimicQuestItem",
+      "chance": 0.0014285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "DwarfQuestItem",
+      "chance": 0.0014285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "FishingQuestItem",
+      "chance": 0.0014285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SpiderQuestItem",
+      "chance": 0.0014285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "PetEssenceUnstable",
+      "chance": 0.0014285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "LoveLetterQuestItem",
+      "chance": 0.0014285714285714286,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "EasterBackpack",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "ad71978712ebf2340919145fdc88486b",
+  "image_fid": "21300000",
+  "sellPrice": "25000",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "EasterBackpack",
+  "loc_key": "Item.EasterBackpack"
+}

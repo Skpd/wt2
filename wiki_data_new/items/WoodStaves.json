@@ -1,0 +1,25 @@
+{
+  "m_Name": "WoodStaves",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "085a4a5db89ab4c4ea68f34213ac6c19",
+  "image_fid": "21300000",
+  "sellPrice": "15",
+  "buyUpPrice": "0.1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "WoodStaves",
+  "loc_key": "Item.WoodStaves",
+  "dropped_by": [
+    {
+      "sourceId": "GodsendGraveyard",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "GodsendMainland",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 3
+    }
+  ]
+}

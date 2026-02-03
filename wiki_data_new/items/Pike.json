@@ -1,0 +1,11 @@
+{
+  "m_Name": "Pike",
+  "m_Script": "53d85703288a41ce0e87dcdb381b2599",
+  "image": "c191b26296b667244a85f54d296ecc17",
+  "image_fid": "21300000",
+  "sellPrice": "290",
+  "buyUpPrice": "7",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Pike",
+  "loc_key": "Item.Pike"
+}

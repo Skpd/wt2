@@ -1,0 +1,20 @@
+{
+  "m_Name": "DwarvenEngineer-Daily-ObtainBronzeBucket",
+  "m_Script": "a33fbc2ed7ad8fe58f2dcfb6e1a39cab",
+  "line": "0",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "afe7b09f6b32f3644b822883f221c101",
+  "npcTaker": "afe7b09f6b32f3644b822883f221c101",
+  "reward": {
+    "money": "1000",
+    "guildXp": "0",
+    "amount": "25",
+    "rewardItem": "143177d510aff3749ae16185237196f2",
+    "rewardItemName": "DwarvenFuel"
+  },
+  "id": "DwarvenEngineer-Daily-ObtainBronzeBucket",
+  "npcGiverName": "DwarvenEngineerMiner",
+  "npcTakerName": "DwarvenEngineerMiner",
+  "group": "Daily"
+}

@@ -1,0 +1,12 @@
+{
+  "m_Name": "SnakeSpinePlates",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "44871755df131494b9b8183d00ccca9e",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "20",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SnakeSpinePlates",
+  "loc_key": "Item.SnakeSpinePlates",
+  "icon_path": "textures/SnakeSpinePlates.png"
+}

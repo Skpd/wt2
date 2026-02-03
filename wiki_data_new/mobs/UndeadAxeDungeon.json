@@ -1,0 +1,303 @@
+{
+  "m_Name": "UndeadAxeDungeon",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "220",
+  "stamina": "100",
+  "level": "40",
+  "walkSpeed": "1",
+  "runSpeed": "3",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "3",
+  "mobBehaviour": "1ffb7607b4dfea441a4aafc9f96b3976",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "fc8f75fa7c514b548bfab6c0412fee23",
+  "entityPrefab_fid": "1502008745323982",
+  "entityBonuses": {
+    "IgnoreNormalDamage": "0.85",
+    "PlagueInfectionChance": "0.07",
+    "Parry": "0.1",
+    "Absorption": "5",
+    "Block": "0.25",
+    "BlockProjectile": "0.2",
+    "IgnoreNormalDamageDots": "1"
+  },
+  "skills": [
+    {
+      "id": "7c17553e6f5446a4c9841f31424f52aa",
+      "name": "UndeadAxeDungeonAttack",
+      "minDamage": "20",
+      "maxDamage": "40",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.15",
+      "criticalValue": "1.3"
+    }
+  ],
+  "id": "UndeadAxeDungeon",
+  "loc_key": "Entity.UndeadAxeDungeon",
+  "drops": [
+    {
+      "itemId": "Money",
+      "chance": 0.5,
+      "min": 30,
+      "max": 120
+    },
+    {
+      "itemId": "Worm",
+      "chance": 0.4,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "Intestines",
+      "chance": 0.4,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "RoughBandages",
+      "chance": 0.09090909090909091,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "WeakAntidote",
+      "chance": 0.09090909090909091,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "SimpleMedicine",
+      "chance": 0.09090909090909091,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "WideBandages",
+      "chance": 0.09090909090909091,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "BronzeSpear",
+      "chance": 0.09090909090909091,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "itemId": "MediumLeather",
+      "chance": 0.09090909090909091,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "MediumHide",
+      "chance": 0.09090909090909091,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "WoodLogs",
+      "chance": 0.09090909090909091,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "SpiceBlackPepper",
+      "chance": 0.09090909090909091,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "SpiceCinnamon",
+      "chance": 0.09090909090909091,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "SpiceSalt",
+      "chance": 0.09090909090909091,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "GrimWoodInfectedSlivers",
+      "chance": 1,
+      "min": 15,
+      "max": 40
+    },
+    {
+      "itemId": "LeprousRawhideParts",
+      "chance": 0.5,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "Salt",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "Honey",
+      "chance": 0.16666666666666666,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "itemId": "BirdDroppings",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "DarkWood",
+      "chance": 0.1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "LightUnfilteredBeer",
+      "chance": 0.005,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "CraftedKiemasBeer",
+      "chance": 0.005,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "CraftedCherryKriec",
+      "chance": 0.005,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "DarkUnfilteredBeer",
+      "chance": 0.005,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "DarkCraftedBeerVampire",
+      "chance": 0.005,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "DarkCraftedBeerBluePorter",
+      "chance": 0.005,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "BronzeAxe",
+      "chance": 0.2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "IronAxe",
+      "chance": 0.01,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SteelAxe",
+      "chance": 0.005,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "MorbiumHeavyHelmet",
+      "chance": 0.00016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "MorbiumHeavyShoulders",
+      "chance": 0.00016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "MorbiumHeavyGloves",
+      "chance": 0.00016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "LeprousLeatherHelmet",
+      "chance": 0.00016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "LeprousLeatherShoulders",
+      "chance": 0.00016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "LeprousLeatherGloves",
+      "chance": 0.00016666666666666666,
+      "min": 1,
+      "max": 1
+    }
+  ],
+  "skinning_drops": [
+    {
+      "itemId": "Worm",
+      "chance": "1",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "LeprousVeins",
+      "chance": "0.3",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "LeprousVeins",
+      "chance": "0.1",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "LeprousOrgans",
+      "chance": "0.1",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "RawDeadFlesh",
+      "chance": "0.3",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "LeprousBlood",
+      "chance": "0.02",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "LeprousBone",
+      "chance": "0.02",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "UndeadHand",
+      "chance": "0.003",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

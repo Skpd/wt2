@@ -1,0 +1,16 @@
+{
+  "m_Name": "Tutorial-One-00-GatherStone",
+  "m_Script": "b597784dc7837e744b6c4fa47c80a317",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "1",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "10",
+    "rewardItem": "b5caca2eefab25b419775f93b867cc5e",
+    "rewardItemName": "Stone"
+  },
+  "id": "Tutorial-One-00-GatherStone",
+  "group": "General"
+}

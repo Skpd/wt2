@@ -1,0 +1,27 @@
+{
+  "m_Name": "SoftSuppleMediumHideTanning",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "c85e6a79ed3287b4eb022e295fdb4ad5",
+      "amount": "1",
+      "name": "SuppleMediumHide",
+      "loc_key": "Item.SuppleMediumHide"
+    },
+    {
+      "guid": "e9236afb320ea5a49b7b66d76bc00575",
+      "amount": "1",
+      "name": "GallbladderLiquor",
+      "loc_key": "Item.GallbladderLiquor"
+    }
+  ],
+  "products": [
+    {
+      "guid": "406537ef53c3db4448e34dae586df4d7",
+      "amount": "1",
+      "name": "SoftSuppleMediumHide",
+      "loc_key": "Item.SoftSuppleMediumHide"
+    }
+  ],
+  "id": "SoftSuppleMediumHideTanning"
+}

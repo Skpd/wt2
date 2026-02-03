@@ -1,0 +1,25 @@
+{
+  "m_Name": "AppleSeeds",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "aa8863e24f49c234f90aa8af3d8e8313",
+  "image_fid": "21300000",
+  "sellPrice": "100",
+  "buyUpPrice": "0.05",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "AppleSeeds",
+  "loc_key": "Item.AppleSeeds",
+  "dropped_by": [
+    {
+      "sourceId": "MausoleumBossChest",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "GraveyardMausoleumWarriorsChest",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

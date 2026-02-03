@@ -1,0 +1,11 @@
+{
+  "m_Name": "MeatStew",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "bb4ee23c5e0849f4d90ed071bb9b29a3",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "20",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "MeatStew",
+  "loc_key": "Item.MeatStew"
+}

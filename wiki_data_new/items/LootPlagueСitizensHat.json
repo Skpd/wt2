@@ -1,0 +1,37 @@
+{
+  "m_Name": "LootPlague\u0421itizensHat",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "d3c90c0f5962e894e9945ddf0a430e0b",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "21",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "LootPlague\u0421itizensHat",
+  "loc_key": "Item.LootPlague\u0421itizensHat",
+  "dropped_by": [
+    {
+      "sourceId": "PlagueCityCorpses",
+      "chance": 0.1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "PlagueSkeletonsCorpses",
+      "chance": 0.1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "PlagueSkeletonsCorpses",
+      "chance": 0.1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "PlagueSpidersWeb",
+      "chance": 0.02,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

@@ -1,0 +1,596 @@
+{
+  "m_Name": "Torch",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "5ee3f890ae95fda4a90d1f5378153b69",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Torch",
+  "loc_key": "Item.Torch",
+  "icon_path": "textures/torch.png",
+  "dropped_by": [
+    {
+      "sourceId": "GodsendObstacle",
+      "chance": 0.07692307692307693,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "CultistSwordsman",
+      "chance": 0.1111111111111111,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "SkeletonWarrior",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "ChurchCultist",
+      "chance": 0.1,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

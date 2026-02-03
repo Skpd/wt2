@@ -1,0 +1,12 @@
+{
+  "m_Name": "LivingSteelFromHeart",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "5befa2b4e1260c64f9feef03763817b5",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "20",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "LivingSteelFromHeart",
+  "loc_key": "Item.LivingSteelFromHeart",
+  "icon_path": "textures/LivingSteelFromHeart.png"
+}

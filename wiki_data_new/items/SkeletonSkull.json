@@ -1,0 +1,98 @@
+{
+  "m_Name": "SkeletonSkull",
+  "m_Script": "420e0e364fdb917921d229f1b4a22ed9",
+  "image": "5f6f69496e6511e428845bea44d30907",
+  "image_fid": "21300000",
+  "sellPrice": "1250",
+  "buyUpPrice": "125",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SkeletonSkull",
+  "loc_key": "Item.SkeletonSkull",
+  "dropped_by": [
+    {
+      "sourceId": "AbandonedBattlefieldSpidersWeb",
+      "chance": 0.02,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "SkeletonUnarmed",
+      "chance": 0.004,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "SkeletonWithStone",
+      "chance": 0.004,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "SkeletonKnight",
+      "chance": 0.04,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "SkeletonGuard",
+      "chance": 0.04,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "Reaper",
+      "chance": 0.04,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "SkeletonWarrior",
+      "chance": 0.004,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "SkeletonRanger",
+      "chance": 0.004,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "SkeletonBossEvent",
+      "chance": 0.008,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "SkeletonGuardEvent",
+      "chance": 0.008,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "SkeletonKnightEvent",
+      "chance": 0.008,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "SkeletonBoss",
+      "chance": 0.05,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "Witch",
+      "chance": 0.026000000000000002,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "FlySkull",
+      "chance": "0.1",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    }
+  ]
+}

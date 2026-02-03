@@ -1,0 +1,11 @@
+{
+  "m_Name": "LuckyPowder",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "84258d99dc1596a4d9217158bbc4c668",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "LuckyPowder",
+  "loc_key": "Item.LuckyPowder"
+}

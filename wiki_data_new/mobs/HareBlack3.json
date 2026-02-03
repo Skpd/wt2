@@ -1,0 +1,65 @@
+{
+  "m_Name": "HareBlack3",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "300",
+  "stamina": "100",
+  "level": "9",
+  "walkSpeed": "2",
+  "runSpeed": "3.2",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "1",
+  "mobBehaviour": "f291c29a11fd66f4285f6ed68ecff503",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "bf105d3f56420304c90ea9435b197e2d",
+  "entityPrefab_fid": "1821870071407615",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "f8bcd4cbc51f9d944ae963af08fc4477",
+      "name": "FoxAttack",
+      "minDamage": "5",
+      "maxDamage": "10",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.1",
+      "criticalValue": "1.5"
+    }
+  ],
+  "id": "HareBlack3",
+  "loc_key": "Entity.HareBlack3",
+  "skinning_drops": [
+    {
+      "itemId": "YellowChristmasBall",
+      "chance": "0.5",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "SmallBoostPotion",
+      "chance": "0.25",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "Firework",
+      "chance": "1",
+      "min": "3",
+      "max": "5"
+    },
+    {
+      "itemId": "CandyRed",
+      "chance": "0.1",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "CandyPurple",
+      "chance": "0.1",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

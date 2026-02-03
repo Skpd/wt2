@@ -1,0 +1,14 @@
+{
+  "m_Name": "MainLandPeon-00-BecomeDweller",
+  "m_Script": "7ba363098419be20ea85b82919f52c19",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "0"
+  },
+  "id": "MainLandPeon-00-BecomeDweller",
+  "group": "General"
+}

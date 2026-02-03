@@ -1,0 +1,19 @@
+{
+  "m_Name": "KnightMedal",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "fe45b8124e5f227488fefddea6e0040a",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "100",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "KnightMedal",
+  "loc_key": "Item.KnightMedal",
+  "dropped_by": [
+    {
+      "sourceId": "SkeletonKnight",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

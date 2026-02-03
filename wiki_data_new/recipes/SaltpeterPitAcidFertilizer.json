@@ -1,0 +1,33 @@
+{
+  "m_Name": "SaltpeterPitAcidFertilizer",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "f382cfc5d9b022c45a6aa6d832e2d139",
+      "amount": "2",
+      "name": "GrimSpiderWeb",
+      "loc_key": "Item.GrimSpiderWeb"
+    },
+    {
+      "guid": "da24481767bdfee4c896180fdbfeaeea",
+      "amount": "5",
+      "name": "WolfBerries",
+      "loc_key": "Item.WolfBerries"
+    },
+    {
+      "guid": "d92c4b7aeaf7027499a4ccdde999109d",
+      "amount": "5",
+      "name": "DeadTreeLeaves",
+      "loc_key": "Item.DeadTreeLeaves"
+    }
+  ],
+  "products": [
+    {
+      "guid": "d52df728194c3494dbe1b26d9b660d1f",
+      "amount": "2",
+      "name": "AcidFertilizer",
+      "loc_key": "Item.AcidFertilizer"
+    }
+  ],
+  "id": "SaltpeterPitAcidFertilizer"
+}

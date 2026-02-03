@@ -1,0 +1,14 @@
+{
+  "m_Name": "Cemetery-04-KillCultistSwordsman",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "500",
+    "guildXp": "0",
+    "amount": "0"
+  },
+  "id": "Cemetery-04-KillCultistSwordsman",
+  "group": "General"
+}

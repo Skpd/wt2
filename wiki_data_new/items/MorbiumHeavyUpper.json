@@ -1,0 +1,19 @@
+{
+  "m_Name": "MorbiumHeavyUpper",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "080786ba1dfd81b49b9d2c6281b37ee2",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "3296",
+  "craftMaterialsBuyUpPricePercent": "2",
+  "id": "MorbiumHeavyUpper",
+  "loc_key": "Item.MorbiumHeavyUpper",
+  "dropped_by": [
+    {
+      "sourceId": "PlagueDragon",
+      "chance": 0.024999999999999998,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

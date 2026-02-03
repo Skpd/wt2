@@ -1,0 +1,32 @@
+{
+  "m_Name": "LargeBoostPotion",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "5efe2ac1884fd5a46afa95332f44f24e",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "LargeBoostPotion",
+  "loc_key": "Item.LargeBoostPotion",
+  "dropped_by": [
+    {
+      "sourceId": "DementedElf",
+      "chance": 0.01,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "WinterForestFinalChest",
+      "chance": 0.1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HareBlack5",
+      "chance": "0.15",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    }
+  ]
+}

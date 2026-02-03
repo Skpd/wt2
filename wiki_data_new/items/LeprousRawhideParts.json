@@ -1,0 +1,169 @@
+{
+  "m_Name": "LeprousRawhideParts",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "c25ac7f167e4a664bbeffeb6c3df1c98",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.01",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "LeprousRawhideParts",
+  "loc_key": "Item.LeprousRawhideParts",
+  "dropped_by": [
+    {
+      "sourceId": "UndeadPickaxeDungeon",
+      "chance": 0.5,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "UndeadAxeDungeon",
+      "chance": 0.5,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.125,
+      "min": 10,
+      "max": 30
+    },
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.25,
+      "min": 10,
+      "max": 30
+    },
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.25,
+      "min": 10,
+      "max": 30
+    },
+    {
+      "sourceId": "Barghest",
+      "chance": "1",
+      "min": "20",
+      "max": "40",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Werewolf",
+      "chance": "1",
+      "min": "12",
+      "max": "40",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Undertaker",
+      "chance": "0.2",
+      "min": "2",
+      "max": "4",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "WolfDark",
+      "chance": "0.5",
+      "min": "4",
+      "max": "8",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "WolfDark",
+      "chance": "0.5",
+      "min": "4",
+      "max": "20",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "BarghestDungeon",
+      "chance": "1",
+      "min": "15",
+      "max": "35",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "PlagueRat",
+      "chance": "0.2",
+      "min": "1",
+      "max": "4",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Ghoul",
+      "chance": "1",
+      "min": "5",
+      "max": "10",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Ghoul",
+      "chance": "0.7",
+      "min": "2",
+      "max": "6",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "GhoulDungeon",
+      "chance": "1",
+      "min": "5",
+      "max": "10",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "GhoulDungeon",
+      "chance": "0.7",
+      "min": "1",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "LivingFlesh",
+      "chance": "1",
+      "min": "5",
+      "max": "15",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "LivingFlesh",
+      "chance": "0.7",
+      "min": "1",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "WolfDarkLarge",
+      "chance": "1",
+      "min": "10",
+      "max": "18",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "WolfDarkLarge",
+      "chance": "0.65",
+      "min": "8",
+      "max": "40",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "WerewolfDungeon",
+      "chance": "1",
+      "min": "5",
+      "max": "15",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Vampire",
+      "chance": "1",
+      "min": "4",
+      "max": "8",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "PlagueGiantRat",
+      "chance": "1",
+      "min": "10",
+      "max": "30",
+      "type": "Skinning"
+    }
+  ]
+}

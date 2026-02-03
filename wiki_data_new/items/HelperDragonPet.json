@@ -1,0 +1,11 @@
+{
+  "m_Name": "HelperDragonPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "49631b1737be4624bb4ede8976b25c70",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "2",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "HelperDragonPet",
+  "loc_key": "Item.HelperDragonPet"
+}

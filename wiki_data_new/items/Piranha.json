@@ -1,0 +1,11 @@
+{
+  "m_Name": "Piranha",
+  "m_Script": "53d85703288a41ce0e87dcdb381b2599",
+  "image": "3d065859a97992445a86e5ed3bc35a48",
+  "image_fid": "21300000",
+  "sellPrice": "320",
+  "buyUpPrice": "18",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Piranha",
+  "loc_key": "Item.Piranha"
+}

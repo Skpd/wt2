@@ -1,0 +1,11 @@
+{
+  "m_Name": "BroomstickShopMountSkin",
+  "m_Script": "f5673bd2393c13a27685bda14e28f91a",
+  "image": "bbe3ad79d63f81845b24b4d9b322b5d2",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BroomstickShopMountSkin",
+  "loc_key": "Item.BroomstickShopMountSkin"
+}

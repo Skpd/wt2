@@ -1,0 +1,86 @@
+{
+  "m_Name": "Vespomorph",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "3000",
+  "stamina": "100",
+  "level": "50",
+  "walkSpeed": "1.6",
+  "runSpeed": "3.5",
+  "image": "56a019482c1618f4ca0f0b7f0d263e9e",
+  "image_fid": "21300000",
+  "entityClass": "2",
+  "mobBehaviour": "ff6d63f41bf87164cb7b7b71a6559110",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "f51578835195f504989cbaf2972190b1",
+  "entityPrefab_fid": "1568340210789841",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "cdaebb03f907eba4da9e0118027a2b3a",
+      "name": "VespomorphSpit",
+      "minDamage": "10",
+      "maxDamage": "10",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "1",
+      "ignoreDefense": "0.1",
+      "criticalChance": "0",
+      "criticalValue": "0"
+    },
+    {
+      "id": "9667e391900ea2242b774b9432e10f71",
+      "name": "VespomorphAttack",
+      "minDamage": "60",
+      "maxDamage": "70",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "bd056f311f026d445977a980177991ac",
+      "name": "VespomorphSting",
+      "minDamage": "60",
+      "maxDamage": "70",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.2",
+      "ignoreDefense": "0",
+      "criticalChance": "0",
+      "criticalValue": "0"
+    }
+  ],
+  "id": "Vespomorph",
+  "loc_key": "Entity.Vespomorph",
+  "skinning_drops": [
+    {
+      "itemId": "LootCavecrawlerShell",
+      "chance": "1",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "LootCavecrawlerWings",
+      "chance": "0.7",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "LootCavecrawlerBrain",
+      "chance": "0.4",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "CausticMucus",
+      "chance": "0.05",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "VespomorphClaw",
+      "chance": "0.005",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

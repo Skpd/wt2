@@ -1,0 +1,16 @@
+{
+  "m_Name": "StartingIsland-15a-BuildBasicTownHall",
+  "m_Script": "6faa3f7e779ddd3382481629137a82cd",
+  "line": "1",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "5",
+    "rewardItem": "8bd047932a5033542a570cc9b20e1ae4",
+    "rewardItemName": "SmallRawHide"
+  },
+  "id": "StartingIsland-15a-BuildBasicTownHall",
+  "group": "General"
+}

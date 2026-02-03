@@ -1,0 +1,11 @@
+{
+  "m_Name": "MediumLeatherScrap",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "47e0f074460108042b2dab812aec7001",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "MediumLeatherScrap",
+  "loc_key": "Item.MediumLeatherScrap"
+}

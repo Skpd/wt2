@@ -1,0 +1,11 @@
+{
+  "m_Name": "BronzeArrowhead",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "6ddb07720123fed419f7b6021d0ce6b7",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "1.2",
+  "id": "BronzeArrowhead",
+  "loc_key": "Item.BronzeArrowhead"
+}

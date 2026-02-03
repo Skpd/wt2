@@ -1,0 +1,11 @@
+{
+  "m_Name": "RawFishFillet",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "9c3b22be7f6a192489b6397bbfdf2522",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "7",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "RawFishFillet",
+  "loc_key": "Item.RawFishFillet"
+}

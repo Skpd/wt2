@@ -1,0 +1,214 @@
+{
+  "m_Name": "DragonRex",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "6600",
+  "stamina": "100",
+  "level": "60",
+  "walkSpeed": "3",
+  "runSpeed": "5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "9",
+  "mobBehaviour": "3668b3c284924484ab9a378c6b456488",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "4134612646ff3a1439ab70cbc432b3e0",
+  "entityPrefab_fid": "1557241418251979",
+  "entityBonuses": {
+    "Dodge": "0.1",
+    "Defense": "0.6",
+    "PlagueDefense": "0.6",
+    "Absorption": "10",
+    "IgnoreNextSlowdown": "1",
+    "IgnoreNextStun": "1"
+  },
+  "skills": [
+    {
+      "id": "53aa6cdcd3aac504a8b45c679b98ce18",
+      "name": "DragonRexRage"
+    },
+    {
+      "id": "20f359a054d0d4a4eb47ef03dbe7f621",
+      "name": "DragonRexFireBall",
+      "minDamage": "30",
+      "maxDamage": "40",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.3",
+      "ignoreDefense": "0.2",
+      "criticalChance": "0.1",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "995925994bb7e1c4ba06599c97ec6070",
+      "name": "DragonRexChillingBall",
+      "minDamage": "15",
+      "maxDamage": "30",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "1",
+      "ignoreDefense": "0.5",
+      "criticalChance": "0.1",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "6b3629ffc19328a498180a5673999170",
+      "name": "DragonRexBreath",
+      "minDamage": "20",
+      "maxDamage": "30",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "1",
+      "ignoreDefense": "1",
+      "criticalChance": "1",
+      "criticalValue": "1"
+    },
+    {
+      "id": "082a1372dd7f21346938d18ab7d2a0ac",
+      "name": "DragonRexSpikes"
+    },
+    {
+      "id": "8b206ab05790a0f4fb4287af9b793056",
+      "name": "DragonRexRecovery"
+    }
+  ],
+  "id": "DragonRex",
+  "loc_key": "Entity.DragonRex",
+  "drops": [
+    {
+      "itemId": "Money",
+      "chance": 1,
+      "min": 2500,
+      "max": 5500
+    },
+    {
+      "itemId": "DragonEgg",
+      "chance": 0.05,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SpectralSpear",
+      "chance": 0.02,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "ChristmasGift",
+      "chance": 1,
+      "min": 4,
+      "max": 6
+    },
+    {
+      "itemId": "Snowballs",
+      "chance": 1,
+      "min": 20,
+      "max": 50
+    },
+    {
+      "itemId": "Sulfur",
+      "chance": 1,
+      "min": 10,
+      "max": 30
+    },
+    {
+      "itemId": "IronIngot",
+      "chance": 0.25,
+      "min": 20,
+      "max": 50
+    },
+    {
+      "itemId": "IronNail",
+      "chance": 0.25,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "itemId": "SteelIngot",
+      "chance": 0.25,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "FishingSpoon",
+      "chance": 0.25,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "IronSlingAmmo",
+      "chance": 0.14285714285714285,
+      "min": 50,
+      "max": 100
+    },
+    {
+      "itemId": "SpikedSlingAmmo",
+      "chance": 0.14285714285714285,
+      "min": 50,
+      "max": 100
+    },
+    {
+      "itemId": "FrozenArrow",
+      "chance": 0.14285714285714285,
+      "min": 40,
+      "max": 50
+    },
+    {
+      "itemId": "IronArrow",
+      "chance": 0.14285714285714285,
+      "min": 50,
+      "max": 100
+    },
+    {
+      "itemId": "BronzeSpear",
+      "chance": 0.14285714285714285,
+      "min": 40,
+      "max": 50
+    },
+    {
+      "itemId": "IronSpear",
+      "chance": 0.14285714285714285,
+      "min": 40,
+      "max": 50
+    },
+    {
+      "itemId": "SteelSpear",
+      "chance": 0.14285714285714285,
+      "min": 40,
+      "max": 50
+    },
+    {
+      "itemId": "GemFacetedAmethyst",
+      "chance": 0.2,
+      "min": 3,
+      "max": 5
+    },
+    {
+      "itemId": "GemFacetedEmerald",
+      "chance": 0.2,
+      "min": 3,
+      "max": 5
+    },
+    {
+      "itemId": "GemFacetedRuby",
+      "chance": 0.2,
+      "min": 3,
+      "max": 5
+    },
+    {
+      "itemId": "GemFacetedSapphire",
+      "chance": 0.2,
+      "min": 3,
+      "max": 5
+    },
+    {
+      "itemId": "GemFacetedTopaz",
+      "chance": 0.2,
+      "min": 3,
+      "max": 5
+    },
+    {
+      "itemId": "SkillBookLevel30",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

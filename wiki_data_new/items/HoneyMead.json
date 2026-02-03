@@ -1,0 +1,11 @@
+{
+  "m_Name": "HoneyMead",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "b3fd083733c66a641a264022e396fbdf",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "7",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "HoneyMead",
+  "loc_key": "Item.HoneyMead"
+}

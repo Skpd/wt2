@@ -1,0 +1,11 @@
+{
+  "m_Name": "Pastirma",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "cd47a28cab8d27a4ca96253c82a4739d",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "25",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Pastirma",
+  "loc_key": "Item.Pastirma"
+}

@@ -1,0 +1,21 @@
+{
+  "m_Name": "UnfiredClayBowl",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "37f6e99a940f8d24faaff2c636865d45",
+      "amount": "1",
+      "name": "UnfiredClayBowl",
+      "loc_key": "Item.UnfiredClayBowl"
+    }
+  ],
+  "products": [
+    {
+      "guid": "69dd16103a567344486e0389ea98639e",
+      "amount": "1",
+      "name": "ClayBowl",
+      "loc_key": "Item.ClayBowl"
+    }
+  ],
+  "id": "UnfiredClayBowl"
+}

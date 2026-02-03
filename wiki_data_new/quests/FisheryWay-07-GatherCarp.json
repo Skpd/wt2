@@ -1,0 +1,23 @@
+{
+  "m_Name": "FisheryWay-07-GatherCarp",
+  "m_Script": "bbef8bd82ea7ec3f83b28462fb539071",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "ea6c0480facd1544f88dfc66a449df99",
+  "predecessors": [
+    "FisheryWay-06-ObtainPeas"
+  ],
+  "npcTaker": "ea6c0480facd1544f88dfc66a449df99",
+  "reward": {
+    "money": "3000",
+    "guildXp": "0",
+    "amount": "3",
+    "rewardItem": "79cda299b5e2b4646b39700d455b4cae",
+    "rewardItemName": "Moonshine"
+  },
+  "id": "FisheryWay-07-GatherCarp",
+  "npcGiverName": "CityFisherPaul",
+  "npcTakerName": "CityFisherPaul",
+  "group": "General"
+}

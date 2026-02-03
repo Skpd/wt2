@@ -1,0 +1,16 @@
+{
+  "m_Name": "StartingIsland-07-BuildDominium",
+  "m_Script": "6faa3f7e779ddd3382481629137a82cd",
+  "line": "1",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "20",
+    "rewardItem": "34f152c775f0a6b438e1d0825d8896ef",
+    "rewardItemName": "WoodSticks"
+  },
+  "id": "StartingIsland-07-BuildDominium",
+  "group": "General"
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "FishFilletAfterBake",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "2e86cd3c50736fa40ab01c0aa1512004",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "8",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "FishFilletAfterBake",
+  "loc_key": "Item.FishFilletAfterBake"
+}

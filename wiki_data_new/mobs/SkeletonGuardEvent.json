@@ -1,0 +1,104 @@
+{
+  "m_Name": "SkeletonGuardEvent",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "500",
+  "stamina": "100",
+  "level": "25",
+  "walkSpeed": "1.2",
+  "runSpeed": "4",
+  "image": "3fefa2518bfd30a4da28d914adb7d698",
+  "image_fid": "21300000",
+  "entityClass": "4",
+  "mobBehaviour": "1ffb7607b4dfea441a4aafc9f96b3976",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "7b25d7057741bb24f92dc58c2a343685",
+  "entityPrefab_fid": "1792148324970479",
+  "entityBonuses": {
+    "Block": "0.2",
+    "BlockProjectile": "0.3",
+    "IgnoreBloodDots": "1",
+    "Defense": "0.5",
+    "IgnoreNextSlowdown": "1",
+    "IgnoreNextStun": "1",
+    "Absorption": "10",
+    "PlagueDefense": "0.5"
+  },
+  "skills": [
+    {
+      "id": "519194ac72d5f51449613127752b0bfe",
+      "name": "SkeletonGuardEventShieldAttack",
+      "minDamage": "10",
+      "maxDamage": "15",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.5",
+      "ignoreDefense": "0.5",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "97161b4497f093c42bc423fb1d13e35e",
+      "name": "SkeletonGuardEventAttack",
+      "minDamage": "14",
+      "maxDamage": "22",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0.2",
+      "ignoreDefense": "0.1",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "0becaffa6322fe04b956f99aef9d5dd3",
+      "name": "SkeletonGuardEventAttack2",
+      "minDamage": "13",
+      "maxDamage": "23",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0.2",
+      "ignoreDefense": "0.1",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "aaa9509c02d325d46ae8e5eb1acda692",
+      "name": "SkeletonGuardEventAttack3",
+      "minDamage": "10",
+      "maxDamage": "15",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0.4",
+      "ignoreDefense": "0.2",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "764d0099b8077fd418722648a249bdf5",
+      "name": "SkeletonGuardEventBuff"
+    }
+  ],
+  "id": "SkeletonGuardEvent",
+  "loc_key": "Entity.SkeletonGuardEvent",
+  "drops": [
+    {
+      "itemId": "Money",
+      "chance": 0.5,
+      "min": 25,
+      "max": 70
+    },
+    {
+      "itemId": "Bone",
+      "chance": 1,
+      "min": 5,
+      "max": 12
+    },
+    {
+      "itemId": "SkeletonSkull",
+      "chance": 0.008,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SkeletonKeyPart2",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

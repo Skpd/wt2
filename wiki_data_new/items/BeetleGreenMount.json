@@ -1,0 +1,11 @@
+{
+  "m_Name": "BeetleGreenMount",
+  "m_Script": "f5673bd2393c13a27685bda14e28f91a",
+  "image": "5a0c5c41a177b5b48b26340d69a7354d",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BeetleGreenMount",
+  "loc_key": "Item.BeetleGreenMount"
+}

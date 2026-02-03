@@ -1,0 +1,54 @@
+{
+  "m_Name": "StoneSword",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "9e76ff76680e2e9409fbfe05efb3b2a2",
+  "image_fid": "21300000",
+  "sellPrice": "1",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "entityMaxLevel": "0",
+  "minDamage": "22",
+  "maxDamage": "30",
+  "minPlagueDamage": "0",
+  "maxPlagueDamage": "0",
+  "criticalChance": "0.1",
+  "criticalValue": "2",
+  "dismountChance": "0",
+  "splash": "1",
+  "isAOE": "0",
+  "projectileAOERange": "0",
+  "prefabAOEName": null,
+  "ignoreAvoidingDamage": "0",
+  "ignoreAbsorb": "0",
+  "ignoreDefense": "0",
+  "abilityName": null,
+  "effectLevelLimit": "0",
+  "effects": [],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "0"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  "id": "StoneSword",
+  "loc_key": "Item.StoneSword",
+  "dropped_by": [
+    {
+      "sourceId": "MausoleumBossChest",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "GraveyardMausoleumWarriorsChest",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

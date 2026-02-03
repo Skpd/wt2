@@ -1,0 +1,27 @@
+{
+  "m_Name": "Ammo_CopperSpear",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "5d0d7a7b36d396b4da48fd7db119af4a",
+      "amount": "10",
+      "name": "CopperIngot",
+      "loc_key": "Item.CopperIngot"
+    },
+    {
+      "guid": "5a4bd548ad2a7a64c8d60832b4f802ab",
+      "amount": "15",
+      "name": "WoodPoles",
+      "loc_key": "Item.WoodPoles"
+    }
+  ],
+  "products": [
+    {
+      "guid": "964c79371fd6b204cb6a17981d2196e7",
+      "amount": "100",
+      "name": "CopperSpear",
+      "loc_key": "Item.CopperSpear"
+    }
+  ],
+  "id": "Ammo_CopperSpear"
+}

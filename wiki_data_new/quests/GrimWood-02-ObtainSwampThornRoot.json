@@ -1,0 +1,21 @@
+{
+  "m_Name": "GrimWood-02-ObtainSwampThornRoot",
+  "m_Script": "a33fbc2ed7ad8fe58f2dcfb6e1a39cab",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "8ce3812143aff1846a638c1c38186604",
+  "predecessors": [
+    "GrimWood-01-ObtainDeadTreeLeaves"
+  ],
+  "npcTaker": "8ce3812143aff1846a638c1c38186604",
+  "reward": {
+    "money": "1000",
+    "guildXp": "0",
+    "amount": "0"
+  },
+  "id": "GrimWood-02-ObtainSwampThornRoot",
+  "npcGiverName": "PlagueCargoHoldHead",
+  "npcTakerName": "PlagueCargoHoldHead",
+  "group": "General"
+}

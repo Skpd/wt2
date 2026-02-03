@@ -1,0 +1,70 @@
+{
+  "m_Name": "ChurchRatLarge",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "750",
+  "stamina": "100",
+  "level": "17",
+  "walkSpeed": "2",
+  "runSpeed": "3.5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "1",
+  "mobBehaviour": "a089e3814136a724aa652e787c6ebc2f",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "232cec5d240e5f74c8575870a6e5549b",
+  "entityPrefab_fid": "1965074006536362",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "441062fb1ff1a8e4bb9e5becc7dd3f64",
+      "name": "RatAttackLarge",
+      "minDamage": "34",
+      "maxDamage": "51",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.25",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "746794ad4fa71f74a92c0a21f76df1a6",
+      "name": "RatInfectedBiteLarge",
+      "minDamage": "34",
+      "maxDamage": "51",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.3",
+      "criticalValue": "1.5"
+    }
+  ],
+  "id": "ChurchRatLarge",
+  "loc_key": "Entity.ChurchRatLarge",
+  "skinning_drops": [
+    {
+      "itemId": "InfectedRawHide",
+      "chance": "0.2",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "InflamedGallbladder",
+      "chance": "0.2",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "Maggot",
+      "chance": "0.75",
+      "min": "2",
+      "max": "4"
+    },
+    {
+      "itemId": "RatTailOrgan",
+      "chance": "0.005",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

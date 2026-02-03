@@ -1,0 +1,50 @@
+{
+  "m_Name": "NecromancerTibiaMace2",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "87f6397724ab44749be15467c5fa0c4e",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1262.04",
+  "craftMaterialsBuyUpPricePercent": "1.2",
+  "entityMaxLevel": "0",
+  "minDamage": "23",
+  "maxDamage": "42",
+  "minPlagueDamage": "0",
+  "maxPlagueDamage": "0",
+  "criticalChance": "0.05",
+  "criticalValue": "1.5",
+  "dismountChance": "0",
+  "splash": "0",
+  "isAOE": "0",
+  "projectileAOERange": "0",
+  "prefabAOEName": null,
+  "ignoreAvoidingDamage": "0",
+  "ignoreAbsorb": "0.29",
+  "ignoreDefense": "0.3",
+  "abilityName": null,
+  "effectLevelLimit": "0",
+  "effects": [
+    {
+      "effect": {
+        "fileID": "11400000",
+        "guid": "abfc567efe627b64abf8d62a708a4887",
+        "type": "2"
+      },
+      "chance": "0.17",
+      "time": "5"
+    }
+  ],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "0"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  "id": "NecromancerTibiaMace2",
+  "loc_key": "Item.NecromancerTibiaMace2"
+}

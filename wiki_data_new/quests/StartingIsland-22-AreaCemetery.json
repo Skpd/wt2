@@ -1,0 +1,19 @@
+{
+  "m_Name": "StartingIsland-22-AreaCemetery",
+  "m_Script": "7ea1a62e0b02710abdd0d1eea19cc51d",
+  "line": "1",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "b7136c05b76423a4f812abddafd5560b",
+  "predecessors": [
+    "StartingIsland-21-TalkToHermit"
+  ],
+  "reward": {
+    "money": "150",
+    "guildXp": "0",
+    "amount": "0"
+  },
+  "id": "StartingIsland-22-AreaCemetery",
+  "npcGiverName": "StartingIslandHermit",
+  "group": "General"
+}

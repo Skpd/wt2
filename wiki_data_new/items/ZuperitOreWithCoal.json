@@ -1,0 +1,11 @@
+{
+  "m_Name": "ZuperitOreWithCoal",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "fa5e6917d9bbcf94aabd68e4d3c2f9e6",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.25",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "ZuperitOreWithCoal",
+  "loc_key": "Item.ZuperitOreWithCoal"
+}

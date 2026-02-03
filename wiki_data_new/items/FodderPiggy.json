@@ -1,0 +1,11 @@
+{
+  "m_Name": "FodderPiggy",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "4ea90703be30729449d8404f874851bb",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "FodderPiggy",
+  "loc_key": "Item.FodderPiggy"
+}

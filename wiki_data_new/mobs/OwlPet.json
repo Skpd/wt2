@@ -1,0 +1,84 @@
+{
+  "m_Name": "OwlPet",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "150",
+  "stamina": "100",
+  "level": "1",
+  "walkSpeed": "1.6",
+  "runSpeed": "3.5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "8",
+  "mobBehaviour": {
+    "fileID": "0"
+  },
+  "entityPrefab": "5aafae0139671e44883df6f4c169168e",
+  "entityPrefab_fid": "1730290540719938",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "1dbe7d24cdb3f464d8d44753231b509f",
+      "name": "OwlAttack",
+      "minDamage": "10",
+      "maxDamage": "20",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    }
+  ],
+  "id": "OwlPet",
+  "loc_key": "Entity.OwlPet",
+  "skinning_drops": [
+    {
+      "itemId": "MediumRawHide",
+      "chance": "1",
+      "min": "3",
+      "max": "5"
+    },
+    {
+      "itemId": "RawCarnivoreMeat",
+      "chance": "1",
+      "min": "20",
+      "max": "30"
+    },
+    {
+      "itemId": "RawAnimalFat",
+      "chance": "1",
+      "min": "10",
+      "max": "20"
+    },
+    {
+      "itemId": "BearHideFragment",
+      "chance": "1",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "Intestines",
+      "chance": "1",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "AnimalStomach",
+      "chance": "0.05",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "BearPaw",
+      "chance": "0.1",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "OrganicsClot",
+      "chance": "1",
+      "min": "3",
+      "max": "6"
+    }
+  ]
+}

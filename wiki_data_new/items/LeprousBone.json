@@ -1,0 +1,321 @@
+{
+  "m_Name": "LeprousBone",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "bb46b8d93d139ba48aa71fc560f98c24",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.2",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "LeprousBone",
+  "loc_key": "Item.LeprousBone",
+  "dropped_by": [
+    {
+      "sourceId": "PlagueCityCorpses",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "PlagueCityCorpses",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "PlagueCityCorpses",
+      "chance": 0.1111111111111111,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "PlagueCityCorpses",
+      "chance": 0.1111111111111111,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "PlagueSkeletonsCorpses",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "PlagueSkeletonsCorpses",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "PlagueSkeletonsCorpses",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "sourceId": "PlagueSkeletonsCorpses",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "PlagueSkeletonsCorpses",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "PlagueSkeletonsCorpses",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "sourceId": "PlagueSpidersWeb",
+      "chance": 0.5,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "PlagueSpidersWeb",
+      "chance": 0.5,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "PlagueDragon",
+      "chance": 1,
+      "min": 10,
+      "max": 50
+    },
+    {
+      "sourceId": "FatOgre",
+      "chance": 1,
+      "min": 2,
+      "max": 10
+    },
+    {
+      "sourceId": "Barghest",
+      "chance": "0.5",
+      "min": "2",
+      "max": "5",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "UndeadMageDragonKeeper",
+      "chance": "0.1",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Crocodile",
+      "chance": "1",
+      "min": "1",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Crocodile",
+      "chance": "0.7",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Werewolf",
+      "chance": "0.8",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "UndeadSwordHalloween",
+      "chance": "0.1",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "UndeadMage",
+      "chance": "0.1",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Undertaker",
+      "chance": "0.5",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "WolfDark",
+      "chance": "0.2",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "BarghestDungeon",
+      "chance": "0.4",
+      "min": "1",
+      "max": "4",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Undead",
+      "chance": "0.1",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "CrocodileDungeon",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "CrocodileDungeon",
+      "chance": "0.5",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Ghoul",
+      "chance": "1",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "UndeadAxe",
+      "chance": "0.1",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "UndeadDragonServant",
+      "chance": "0.1",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "PlagueFrogLarge",
+      "chance": "0.3",
+      "min": "1",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "UndeadSword",
+      "chance": "0.1",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "GhoulDungeon",
+      "chance": "0.5",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "LivingFlesh",
+      "chance": "0.7",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "WolfDarkLarge",
+      "chance": "0.4",
+      "min": "1",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "PlagueAcidFrog",
+      "chance": "0.2",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "WerewolfDungeon",
+      "chance": "0.4",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "UndeadDungeon",
+      "chance": "0.05",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "UndeadAxeDungeon",
+      "chance": "0.02",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "UndeadMace",
+      "chance": "0.1",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "PlagueAcidFrogLarge",
+      "chance": "0.3",
+      "min": "1",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "UndeadPickaxeDungeon",
+      "chance": "0.02",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "UndeadDragonKeeper",
+      "chance": "0.1",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Vampire",
+      "chance": "0.7",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "PlagueFrog",
+      "chance": "0.2",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "UndeadMaceDragonKeeper",
+      "chance": "0.1",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    }
+  ]
+}

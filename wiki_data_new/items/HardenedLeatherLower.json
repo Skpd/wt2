@@ -1,0 +1,11 @@
+{
+  "m_Name": "HardenedLeatherLower",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "6f49bb1b64cdd9b4694a08e0a1075ed6",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "111",
+  "craftMaterialsBuyUpPricePercent": "1.5",
+  "id": "HardenedLeatherLower",
+  "loc_key": "Item.HardenedLeatherLower"
+}

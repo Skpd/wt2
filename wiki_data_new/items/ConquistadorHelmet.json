@@ -1,0 +1,11 @@
+{
+  "m_Name": "ConquistadorHelmet",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "fdc7e722785a2704984036a91b67e3a5",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "51",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "ConquistadorHelmet",
+  "loc_key": "Item.ConquistadorHelmet"
+}

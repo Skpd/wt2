@@ -1,0 +1,33 @@
+{
+  "m_Name": "ZuperiumIngotSmelting",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "634f0855c7eb22e4992c663708d2da41",
+      "amount": "1",
+      "name": "ZuperitIngot",
+      "loc_key": "Item.ZuperitIngot"
+    },
+    {
+      "guid": "f8091ab887ebc844eb423681c7ce8309",
+      "amount": "1",
+      "name": "SteelIngot",
+      "loc_key": "Item.SteelIngot"
+    },
+    {
+      "guid": "34a3fb28185afb8479128e97a0814fd2",
+      "amount": "2",
+      "name": "BronzeIngot",
+      "loc_key": "Item.BronzeIngot"
+    }
+  ],
+  "products": [
+    {
+      "guid": "1be3eb1fa1c24864fb6d7e661395a61b",
+      "amount": "1",
+      "name": "ZuperiumIngot",
+      "loc_key": "Item.ZuperiumIngot"
+    }
+  ],
+  "id": "ZuperiumIngotSmelting"
+}

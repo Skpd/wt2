@@ -1,0 +1,11 @@
+{
+  "m_Name": "EpicHorseChestnutPintoPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "91c75c4c715b6f645aebd10244b3d28e",
+  "image_fid": "21300000",
+  "sellPrice": "30000",
+  "buyUpPrice": "300",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "EpicHorseChestnutPintoPet",
+  "loc_key": "Item.EpicHorseChestnutPintoPet"
+}

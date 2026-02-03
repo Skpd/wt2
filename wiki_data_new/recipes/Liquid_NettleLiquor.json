@@ -1,0 +1,27 @@
+{
+  "m_Name": "Liquid_NettleLiquor",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "646568439822b5c459e7ae6498e9b5e7",
+      "amount": "4",
+      "name": "Nettle",
+      "loc_key": "Item.Nettle"
+    },
+    {
+      "guid": "27d507923a0f91a489ebecc6d7e70fd4",
+      "amount": "4",
+      "name": "Water",
+      "loc_key": "Item.Water"
+    }
+  ],
+  "products": [
+    {
+      "guid": "01302561d4a89674d94d03d6f2a643e9",
+      "amount": "5",
+      "name": "NettleLiquor",
+      "loc_key": "Item.NettleLiquor"
+    }
+  ],
+  "id": "Liquid_NettleLiquor"
+}

@@ -1,0 +1,19 @@
+{
+  "m_Name": "EasterBasket",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "a8f625d65cb5770499b26b6973a7a15c",
+  "image_fid": "21300000",
+  "sellPrice": "250",
+  "buyUpPrice": "10",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "EasterBasket",
+  "loc_key": "Item.EasterBasket",
+  "dropped_by": [
+    {
+      "sourceId": "EasterObjectBasket",
+      "chance": 0.08,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

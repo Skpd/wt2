@@ -1,0 +1,172 @@
+{
+  "m_Name": "OrcShaman",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "600",
+  "stamina": "100",
+  "level": "25",
+  "walkSpeed": "1.8",
+  "runSpeed": "3.5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "0",
+  "mobBehaviour": "1ffb7607b4dfea441a4aafc9f96b3976",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "c818000037ce0c84e995844e2713f3b8",
+  "entityPrefab_fid": "1531242348566785",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "0a29babc60921ed4b858f7091ff12597",
+      "name": "OrcShamanBall",
+      "minDamage": "30",
+      "maxDamage": "40",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.5",
+      "ignoreDefense": "0",
+      "criticalChance": "0.2",
+      "criticalValue": "2"
+    },
+    {
+      "id": "e956d59d471d42c49a2bcd01d833931d",
+      "name": "OrcShamanAttack",
+      "minDamage": "30",
+      "maxDamage": "40",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    }
+  ],
+  "id": "OrcShaman",
+  "loc_key": "Entity.OrcShaman",
+  "drops": [
+    {
+      "itemId": "Money",
+      "chance": 0.5,
+      "min": 110,
+      "max": 200
+    },
+    {
+      "itemId": "CopperOre",
+      "chance": 0.25,
+      "min": 20,
+      "max": 30
+    },
+    {
+      "itemId": "IronRawOre",
+      "chance": 0.25,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "TinOre",
+      "chance": 0.25,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "IronOre",
+      "chance": 0.25,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "BoneBoots",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "BoneGloves",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "BoneHelmet",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "BoneLower",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "BoneShoulders",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "BoneUpper",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "InflamedGallbladder",
+      "chance": 0.2,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "InfectedRawHide",
+      "chance": 0.2,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "MediumLeather",
+      "chance": 0.2,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "MediumHide",
+      "chance": 0.2,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "itemId": "MediumRawHide",
+      "chance": 0.2,
+      "min": 20,
+      "max": 30
+    },
+    {
+      "itemId": "NecromancerTibia",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "BloodFromHideout",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "ZombieBoarMount",
+      "chance": 0.1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SkeletonPetQuestItem",
+      "chance": 0.1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SkillBookLevel10",
+      "chance": 0.4,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

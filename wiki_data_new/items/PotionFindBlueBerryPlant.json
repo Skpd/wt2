@@ -1,0 +1,11 @@
+{
+  "m_Name": "PotionFindBlueBerryPlant",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "d0dba51e9a0d59a4bb808637011f1956",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "40",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "PotionFindBlueBerryPlant",
+  "loc_key": "Item.PotionFindBlueBerryPlant"
+}

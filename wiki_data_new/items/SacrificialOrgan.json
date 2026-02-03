@@ -1,0 +1,12 @@
+{
+  "m_Name": "SacrificialOrgan",
+  "m_Script": "e9e8cd7dfae056c7853ceb4dd2a801ce",
+  "image": "ee8429f612d1d1b45966aff66b238ac4",
+  "image_fid": "21300000",
+  "sellPrice": "5000",
+  "buyUpPrice": "500",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SacrificialOrgan",
+  "loc_key": "Item.SacrificialOrgan",
+  "icon_path": "textures/SacrificialOrgan.png"
+}

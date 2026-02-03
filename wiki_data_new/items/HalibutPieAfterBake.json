@@ -1,0 +1,11 @@
+{
+  "m_Name": "HalibutPieAfterBake",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "acf0c175eee413b4a9cbf61a058b4fc7",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "HalibutPieAfterBake",
+  "loc_key": "Item.HalibutPieAfterBake"
+}

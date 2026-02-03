@@ -1,0 +1,31 @@
+{
+  "m_Name": "DwarvenEngineerBox",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "0fd53219b5502cf49a28f66b2ef80c9e",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "100",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "DwarvenEngineerBox",
+  "loc_key": "Item.DwarvenEngineerBox",
+  "dropped_by": [
+    {
+      "sourceId": "DwarfEngineer",
+      "chance": 0.4,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfEngineer",
+      "chance": 0.06,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfFortGodsendMaterial",
+      "chance": 0.007000000000000001,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

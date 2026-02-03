@@ -1,0 +1,14 @@
+{
+  "m_Name": "StartingIsland-16-BuildSmallDryingFrame",
+  "m_Script": "6faa3f7e779ddd3382481629137a82cd",
+  "line": "1",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "0"
+  },
+  "id": "StartingIsland-16-BuildSmallDryingFrame",
+  "group": "General"
+}

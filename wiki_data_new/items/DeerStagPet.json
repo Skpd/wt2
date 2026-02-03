@@ -1,0 +1,11 @@
+{
+  "m_Name": "DeerStagPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "5d5fa0f00f4e20145a44971602e153f2",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "DeerStagPet",
+  "loc_key": "Item.DeerStagPet"
+}

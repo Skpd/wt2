@@ -1,0 +1,105 @@
+{
+  "m_Name": "Cavecrawler",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "20000",
+  "stamina": "100",
+  "level": "65",
+  "walkSpeed": "2",
+  "runSpeed": "4",
+  "image": "3080d078f6fda8145bd625c3d4e5b872",
+  "image_fid": "21300000",
+  "entityClass": "2",
+  "mobBehaviour": "1ffb7607b4dfea441a4aafc9f96b3976",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "1e8ac1236e3a0014a872c932566b4f9d",
+  "entityPrefab_fid": "1006434924073802",
+  "entityBonuses": {
+    "IgnoreStun": "1"
+  },
+  "skills": [
+    {
+      "id": "56b5a01962966384bbd09b1a6f6ca701",
+      "name": "CavecrawlerAttack",
+      "minDamage": "50",
+      "maxDamage": "80",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "fb0f8d9259ae16749a75754561f397b8",
+      "name": "CavecrawlerSting",
+      "minDamage": "70",
+      "maxDamage": "80",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.2",
+      "ignoreDefense": "0",
+      "criticalChance": "0",
+      "criticalValue": "0"
+    },
+    {
+      "id": "dab4e5fbff91f194ebfb395a2f8dc8d6",
+      "name": "CavecrawlerStun",
+      "minDamage": "30",
+      "maxDamage": "30",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0",
+      "criticalValue": "0"
+    },
+    {
+      "id": "de3527dac3f2f754a8563dc9bc0f9887",
+      "name": "CavecrawlerBreath",
+      "minDamage": "20",
+      "maxDamage": "20",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "1",
+      "ignoreDefense": "1",
+      "criticalChance": "0",
+      "criticalValue": "0"
+    }
+  ],
+  "id": "Cavecrawler",
+  "loc_key": "Entity.Cavecrawler",
+  "skinning_drops": [
+    {
+      "itemId": "LootCavecrawlerShell",
+      "chance": "1",
+      "min": "2",
+      "max": "4"
+    },
+    {
+      "itemId": "LootCavecrawlerLegs",
+      "chance": "1",
+      "min": "2",
+      "max": "4"
+    },
+    {
+      "itemId": "LootCavecrawlerBrain",
+      "chance": "1",
+      "min": "2",
+      "max": "3"
+    },
+    {
+      "itemId": "LootCavecrawlerClaw",
+      "chance": "1",
+      "min": "2",
+      "max": "3"
+    },
+    {
+      "itemId": "VespomorphClaw",
+      "chance": "0.2",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "TetrachnideMountSkin",
+      "chance": "0.015",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

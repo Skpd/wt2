@@ -1,0 +1,11 @@
+{
+  "m_Name": "HalloweenWitchAmulet2",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "170cc4be0501d3d41b460c805e063bb4",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "3",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "HalloweenWitchAmulet2",
+  "loc_key": "Item.HalloweenWitchAmulet2"
+}

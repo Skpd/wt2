@@ -1,0 +1,20 @@
+{
+  "m_Name": "MineBatWing",
+  "m_Script": "420e0e364fdb917921d229f1b4a22ed9",
+  "image": "43c6f4de73d287f429af6fc5f26d5273",
+  "image_fid": "21300000",
+  "sellPrice": "1250",
+  "buyUpPrice": "125",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "MineBatWing",
+  "loc_key": "Item.MineBatWing",
+  "dropped_by": [
+    {
+      "sourceId": "MineBat",
+      "chance": "0.003",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    }
+  ]
+}

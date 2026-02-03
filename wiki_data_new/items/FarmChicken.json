@@ -1,0 +1,11 @@
+{
+  "m_Name": "FarmChicken",
+  "m_Script": "19aae51a76263c851ea99fd1d6839342",
+  "image": "98eac18af6919a240be96bf9914e526c",
+  "image_fid": "21300000",
+  "sellPrice": "3000",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "FarmChicken",
+  "loc_key": "Item.FarmChicken"
+}

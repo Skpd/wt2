@@ -1,0 +1,11 @@
+{
+  "m_Name": "PotionFindCopperOre",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "b7240752f86fe5648bf5fb1e29d62e43",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "40",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "PotionFindCopperOre",
+  "loc_key": "Item.PotionFindCopperOre"
+}

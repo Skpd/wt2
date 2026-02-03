@@ -1,0 +1,23 @@
+{
+  "m_Name": "Easter-05-CraftEasterDinner",
+  "m_Script": "8bae99285fb9248eeae7964c5eaf8a95",
+  "line": "8",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "23b5f2c62fb06a147afb6b6229f6313d",
+  "predecessors": [
+    "Easter-04-KillMobsFox"
+  ],
+  "npcTaker": "23b5f2c62fb06a147afb6b6229f6313d",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "2",
+    "rewardItem": "d7f96e19a9373f3459513248757a77bc",
+    "rewardItemName": "EasterEggPetEssence"
+  },
+  "id": "Easter-05-CraftEasterDinner",
+  "npcGiverName": "EasterMrBunny",
+  "npcTakerName": "EasterMrBunny",
+  "group": "General"
+}

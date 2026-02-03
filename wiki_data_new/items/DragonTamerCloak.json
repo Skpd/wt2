@@ -1,0 +1,12 @@
+{
+  "m_Name": "DragonTamerCloak",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "85d4e71b9fa40a3418884d4edcf8ac3c",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "DragonTamerCloak",
+  "loc_key": "Item.DragonTamerCloak",
+  "icon_path": "textures/dragontamer-cloak.png"
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "PotionFindNettlePlant",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "1719fd0817d8a8e4a86fa69d1b1fb410",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "40",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "PotionFindNettlePlant",
+  "loc_key": "Item.PotionFindNettlePlant"
+}

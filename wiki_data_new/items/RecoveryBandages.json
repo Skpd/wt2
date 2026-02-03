@@ -1,0 +1,11 @@
+{
+  "m_Name": "RecoveryBandages",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "80dbc4f4d73fd1446b8c2f703ba3f6af",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "1.1",
+  "id": "RecoveryBandages",
+  "loc_key": "Item.RecoveryBandages"
+}

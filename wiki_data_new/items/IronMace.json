@@ -1,0 +1,82 @@
+{
+  "m_Name": "IronMace",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "af2c793dc960a614dab40263be3d1781",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "184.79999",
+  "craftMaterialsBuyUpPricePercent": "1.5",
+  "entityMaxLevel": "0",
+  "minDamage": "24",
+  "maxDamage": "40",
+  "minPlagueDamage": "0",
+  "maxPlagueDamage": "0",
+  "criticalChance": "0.04",
+  "criticalValue": "1.5",
+  "dismountChance": "0",
+  "splash": "0",
+  "isAOE": "0",
+  "projectileAOERange": "0",
+  "prefabAOEName": null,
+  "ignoreAvoidingDamage": "0",
+  "ignoreAbsorb": "0.2",
+  "ignoreDefense": "0.2",
+  "abilityName": null,
+  "effectLevelLimit": "0",
+  "effects": [
+    {
+      "effect": {
+        "fileID": "11400000",
+        "guid": "8a114ef22846c324cad8b6cd0cf4c9e7",
+        "type": "2"
+      },
+      "chance": "0.04",
+      "time": "3"
+    }
+  ],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "0"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  "id": "IronMace",
+  "loc_key": "Item.IronMace",
+  "dropped_by": [
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "CaveFinalChest",
+      "chance": 0.045454545454545456,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HideoutFinalChest",
+      "chance": 0.09999999999999999,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

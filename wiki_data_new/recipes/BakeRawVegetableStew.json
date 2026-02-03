@@ -1,0 +1,21 @@
+{
+  "m_Name": "BakeRawVegetableStew",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "526ac9e1bbbca1a40a192517c3bc7b3d",
+      "amount": "1",
+      "name": "RawVegetableStew",
+      "loc_key": "Item.RawVegetableStew"
+    }
+  ],
+  "products": [
+    {
+      "guid": "e1d7626c24ada0342810733ea9783871",
+      "amount": "1",
+      "name": "VegetableStew",
+      "loc_key": "Item.VegetableStew"
+    }
+  ],
+  "id": "BakeRawVegetableStew"
+}

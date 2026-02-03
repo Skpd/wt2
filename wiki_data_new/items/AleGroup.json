@@ -1,0 +1,12 @@
+{
+  "m_Name": "AleGroup",
+  "m_Script": "7b4bb98a79393629e9cbe2fb1e7f5983",
+  "image": {
+    "fileID": "0"
+  },
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "AleGroup",
+  "loc_key": "Item.AleGroup"
+}

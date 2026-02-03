@@ -1,0 +1,23 @@
+{
+  "m_Name": "Boss-08-KillDemonWeak",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "e5ba14d4b44a1d14e9671ecf011a5bc6",
+  "predecessors": [
+    "Boss-07-KillDwarfCursedChampion"
+  ],
+  "npcTaker": "e5ba14d4b44a1d14e9671ecf011a5bc6",
+  "reward": {
+    "money": "30000",
+    "guildXp": "0",
+    "amount": "1",
+    "rewardItem": "d64e30af8e26f4347a17d347de14887d",
+    "rewardItemName": "DemonPowder"
+  },
+  "id": "Boss-08-KillDemonWeak",
+  "npcGiverName": "MainIslandTownDailyHardcoreQuests",
+  "npcTakerName": "MainIslandTownDailyHardcoreQuests",
+  "group": "General"
+}

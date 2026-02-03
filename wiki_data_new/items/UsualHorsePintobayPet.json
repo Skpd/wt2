@@ -1,0 +1,11 @@
+{
+  "m_Name": "UsualHorsePintobayPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "0c30011957e0d8847bf3da39c43c153e",
+  "image_fid": "21300000",
+  "sellPrice": "2000",
+  "buyUpPrice": "50",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "UsualHorsePintobayPet",
+  "loc_key": "Item.UsualHorsePintobayPet"
+}

@@ -1,0 +1,21 @@
+{
+  "m_Name": "RoastPike",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "4fa42cc1e253e104481ae3747566087b",
+      "amount": "1",
+      "name": "Pike",
+      "loc_key": "Item.Pike"
+    }
+  ],
+  "products": [
+    {
+      "guid": "005b6a0c4620d4140a4d7e6095ef8d2f",
+      "amount": "10",
+      "name": "RoastedFishMeat",
+      "loc_key": "Item.RoastedFishMeat"
+    }
+  ],
+  "id": "RoastPike"
+}

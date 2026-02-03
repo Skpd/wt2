@@ -1,0 +1,11 @@
+{
+  "m_Name": "MechanicalSensor",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "b235273decd65104ca36f5fa1675f452",
+  "image_fid": "21300000",
+  "sellPrice": "25",
+  "buyUpPrice": "5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "MechanicalSensor",
+  "loc_key": "Item.MechanicalSensor"
+}

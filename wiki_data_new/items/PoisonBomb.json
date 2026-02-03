@@ -1,0 +1,88 @@
+{
+  "m_Name": "PoisonBomb",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "5e53f93a42bc34c479efc2063fe15904",
+  "image_fid": "21300000",
+  "sellPrice": "3",
+  "buyUpPrice": "0.1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "entityMaxLevel": "0",
+  "minDamage": "6",
+  "maxDamage": "10",
+  "minPlagueDamage": "0",
+  "maxPlagueDamage": "0",
+  "criticalChance": "0",
+  "criticalValue": "1",
+  "dismountChance": "0",
+  "splash": "0",
+  "isAOE": "1",
+  "projectileAOERange": "3",
+  "prefabAOEName": "PoisonBomb",
+  "ignoreAvoidingDamage": "1",
+  "ignoreAbsorb": "0.1",
+  "ignoreDefense": "0",
+  "abilityName": null,
+  "effectLevelLimit": "0",
+  "effects": [
+    {
+      "effect": {
+        "fileID": "11400000",
+        "guid": "abfc567efe627b64abf8d62a708a4887",
+        "type": "2"
+      },
+      "chance": "1",
+      "time": "15"
+    }
+  ],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "0"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  "id": "PoisonBomb",
+  "loc_key": "Item.PoisonBomb",
+  "dropped_by": [
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.1,
+      "min": 3,
+      "max": 5
+    },
+    {
+      "sourceId": "DwarfFortFinalChest",
+      "chance": 0.07142857142857142,
+      "min": 2,
+      "max": 3
+    },
+    {
+      "sourceId": "HideoutFinalChest",
+      "chance": 0.07692307692307693,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "HideoutFinalChest",
+      "chance": 0.07692307692307693,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "WinterForestFinalChest",
+      "chance": 0.07692307692307693,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "WinterForestFinalChest",
+      "chance": 0.07692307692307693,
+      "min": 1,
+      "max": 3
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "m_Name": "LootCavecrawlerBrain",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "b51947e10410d834cadb113fc3c53260",
+  "image_fid": "21300000",
+  "sellPrice": "50",
+  "buyUpPrice": "100",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "LootCavecrawlerBrain",
+  "loc_key": "Item.LootCavecrawlerBrain",
+  "dropped_by": [
+    {
+      "sourceId": "GiantBeetle",
+      "chance": 1,
+      "min": 2,
+      "max": 3
+    },
+    {
+      "sourceId": "Tetrachnide",
+      "chance": "0.05",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "CavecrawlerSmall",
+      "chance": "0.5",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Cavecrawler",
+      "chance": "1",
+      "min": "2",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "TetrachnideLarge",
+      "chance": "0.1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "VespomorphLarge",
+      "chance": "0.5",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Vespomorph",
+      "chance": "0.4",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "TetrachnidePet",
+      "chance": "0.05",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    }
+  ]
+}

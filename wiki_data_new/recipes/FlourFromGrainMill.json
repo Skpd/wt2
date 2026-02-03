@@ -1,0 +1,21 @@
+{
+  "m_Name": "FlourFromGrainMill",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "c8a0969dcdeaf6e44a7dd376bf9930b9",
+      "amount": "5",
+      "name": "Grain",
+      "loc_key": "Item.Grain"
+    }
+  ],
+  "products": [
+    {
+      "guid": "013eb2699025dea4fbc6416d3c9e3f14",
+      "amount": "2",
+      "name": "Flour",
+      "loc_key": "Item.Flour"
+    }
+  ],
+  "id": "FlourFromGrainMill"
+}

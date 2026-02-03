@@ -1,0 +1,49 @@
+{
+  "m_Name": "DwarfTest",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "200",
+  "stamina": "100",
+  "level": "40",
+  "walkSpeed": "2",
+  "runSpeed": "5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "5",
+  "mobBehaviour": "5eea92b8634ca844ba1b6e4b5b6efbe3",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "cc86786414bc3654f9dc93646b6a8f2f",
+  "entityPrefab_fid": "1542359371484662",
+  "entityBonuses": {
+    "Parry": "0.2",
+    "Block": "0.3",
+    "BlockProjectile": "0.3",
+    "Defense": "0.5"
+  },
+  "skills": [
+    {
+      "id": "84bc7388510f60d4984efcb44d219258",
+      "name": "MountainDwarfThrow",
+      "minDamage": "30",
+      "maxDamage": "40",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0",
+      "criticalValue": "0"
+    },
+    {
+      "id": "3ac09fef12a163b458dbb8ecf429a1cc",
+      "name": "MountainDwarfAttack",
+      "minDamage": "35",
+      "maxDamage": "45",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.1",
+      "criticalValue": "1.5"
+    }
+  ],
+  "id": "DwarfTest",
+  "loc_key": "Entity.DwarfTest"
+}

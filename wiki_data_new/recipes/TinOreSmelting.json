@@ -1,0 +1,21 @@
+{
+  "m_Name": "TinOreSmelting",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "6e629c23269ed1e478fb99c5bb757a83",
+      "amount": "5",
+      "name": "TinOre",
+      "loc_key": "Item.TinOre"
+    }
+  ],
+  "products": [
+    {
+      "guid": "6cc94aba99e7453478051fa2a077b8fd",
+      "amount": "1",
+      "name": "TinIngot",
+      "loc_key": "Item.TinIngot"
+    }
+  ],
+  "id": "TinOreSmelting"
+}

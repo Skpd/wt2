@@ -1,0 +1,187 @@
+{
+  "m_Name": "IronSpear",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "246dfcb496e7efa49bd8b607654e1ee9",
+  "image_fid": "21300000",
+  "sellPrice": "30",
+  "buyUpPrice": "2.665",
+  "craftMaterialsBuyUpPricePercent": "1.3",
+  "entityMaxLevel": "70",
+  "minDamage": "30",
+  "maxDamage": "50",
+  "minPlagueDamage": "0",
+  "maxPlagueDamage": "0",
+  "criticalChance": "0.05",
+  "criticalValue": "1.5",
+  "dismountChance": "0",
+  "splash": "0",
+  "isAOE": "0",
+  "projectileAOERange": "0",
+  "prefabAOEName": null,
+  "ignoreAvoidingDamage": "0",
+  "ignoreAbsorb": "0.1",
+  "ignoreDefense": "0.05",
+  "abilityName": null,
+  "effectLevelLimit": "0",
+  "effects": [],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "0"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  "id": "IronSpear",
+  "loc_key": "Item.IronSpear",
+  "icon_path": "textures/IronSpear.png",
+  "dropped_by": [
+    {
+      "sourceId": "SewersFinalChest",
+      "chance": 0.125,
+      "min": 20,
+      "max": 50
+    },
+    {
+      "sourceId": "SewersGodsendMaterial",
+      "chance": 0.16666666666666666,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "sourceId": "SewersGodsendMaterial",
+      "chance": 0.08333333333333333,
+      "min": 2,
+      "max": 6
+    },
+    {
+      "sourceId": "Reaper",
+      "chance": 0.1111111111111111,
+      "min": 2,
+      "max": 6
+    },
+    {
+      "sourceId": "LizardSpear",
+      "chance": 0.043478260869565216,
+      "min": 6,
+      "max": 20
+    },
+    {
+      "sourceId": "Weresnake",
+      "chance": 0.043478260869565216,
+      "min": 6,
+      "max": 20
+    },
+    {
+      "sourceId": "Werecrocodile",
+      "chance": 0.043478260869565216,
+      "min": 6,
+      "max": 20
+    },
+    {
+      "sourceId": "LizardSpear",
+      "chance": 0.008695652173913044,
+      "min": 6,
+      "max": 20
+    },
+    {
+      "sourceId": "Weresnake",
+      "chance": 0.008695652173913044,
+      "min": 6,
+      "max": 20
+    },
+    {
+      "sourceId": "Werecrocodile",
+      "chance": 0.008695652173913044,
+      "min": 6,
+      "max": 20
+    },
+    {
+      "sourceId": "LizardSpear",
+      "chance": 0.02,
+      "min": 12,
+      "max": 36
+    },
+    {
+      "sourceId": "DemonWeak",
+      "chance": 0.25,
+      "min": 25,
+      "max": 50
+    },
+    {
+      "sourceId": "DemonWeak",
+      "chance": 0.25,
+      "min": 25,
+      "max": 50
+    },
+    {
+      "sourceId": "DemonBrute",
+      "chance": 0.25,
+      "min": 25,
+      "max": 50
+    },
+    {
+      "sourceId": "DemonBrute",
+      "chance": 0.25,
+      "min": 25,
+      "max": 50
+    },
+    {
+      "sourceId": "DragonRex",
+      "chance": 0.14285714285714285,
+      "min": 40,
+      "max": 50
+    },
+    {
+      "sourceId": "PlagueDragon",
+      "chance": 0.16666666666666666,
+      "min": 10,
+      "max": 30
+    },
+    {
+      "sourceId": "PlagueDragon",
+      "chance": 0.16666666666666666,
+      "min": 10,
+      "max": 30
+    },
+    {
+      "sourceId": "FatOgre",
+      "chance": 0.1111111111111111,
+      "min": 2,
+      "max": 6
+    },
+    {
+      "sourceId": "FatOgre",
+      "chance": 0.1111111111111111,
+      "min": 2,
+      "max": 6
+    },
+    {
+      "sourceId": "DwarfAmbusherHideout",
+      "chance": 0.16666666666666666,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.14285714285714285,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.1111111111111111,
+      "min": 4,
+      "max": 10
+    },
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.1,
+      "min": 3,
+      "max": 10
+    }
+  ]
+}

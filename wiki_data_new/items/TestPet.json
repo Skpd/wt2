@@ -1,0 +1,11 @@
+{
+  "m_Name": "TestPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "7c2ef94f8e4560242b95fad9968ae973",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "TestPet",
+  "loc_key": "Item.TestPet"
+}

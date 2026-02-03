@@ -1,0 +1,11 @@
+{
+  "m_Name": "VegetableOil",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "68991fccf7706524f9413677c6779f85",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "1.1",
+  "id": "VegetableOil",
+  "loc_key": "Item.VegetableOil"
+}

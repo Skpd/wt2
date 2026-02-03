@@ -1,0 +1,11 @@
+{
+  "m_Name": "RatStew",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "d3d5af4852d601244919dbb9a7b4787b",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "RatStew",
+  "loc_key": "Item.RatStew"
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "EngineeringPlateReinforced",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "f28dd59a9f7a097429d62ccf8e2ecc4c",
+  "image_fid": "21300000",
+  "sellPrice": "25",
+  "buyUpPrice": "5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "EngineeringPlateReinforced",
+  "loc_key": "Item.EngineeringPlateReinforced"
+}

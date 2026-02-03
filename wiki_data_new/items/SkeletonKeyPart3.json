@@ -1,0 +1,19 @@
+{
+  "m_Name": "SkeletonKeyPart3",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "6a9a019880334654dbf55b54adb80950",
+  "image_fid": "21300000",
+  "sellPrice": "10",
+  "buyUpPrice": "0.05",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SkeletonKeyPart3",
+  "loc_key": "Item.SkeletonKeyPart3",
+  "dropped_by": [
+    {
+      "sourceId": "SkeletonBossEvent",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

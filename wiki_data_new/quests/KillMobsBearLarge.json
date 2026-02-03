@@ -1,0 +1,23 @@
+{
+  "m_Name": "KillMobsBearLarge",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "0",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "a2b2d861524c72142a3366233cccc744",
+  "predecessors": [
+    "Hunter-Three-03-KillBearLarge"
+  ],
+  "npcTaker": "dbbd65a03bea5164784da9022840adf8",
+  "reward": {
+    "money": "3000",
+    "guildXp": "0",
+    "amount": "30",
+    "rewardItem": "a318a57cdad4fc34bb7b6c0004c7a92a",
+    "rewardItemName": "WideBandages"
+  },
+  "id": "KillMobsBearLarge",
+  "npcGiverName": "MainIslandTownDailyQuests",
+  "npcTakerName": "CityBreederErmak",
+  "group": "Daily"
+}

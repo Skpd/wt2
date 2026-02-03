@@ -1,0 +1,21 @@
+{
+  "m_Name": "BakeRawCornsticks",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "0db98636966c0bc449e09b1b526f7595",
+      "amount": "1",
+      "name": "RawCornsticks",
+      "loc_key": "Item.RawCornsticks"
+    }
+  ],
+  "products": [
+    {
+      "guid": "7279ac98502febb45a8191900e002197",
+      "amount": "1",
+      "name": "Cornsticks",
+      "loc_key": "Item.Cornsticks"
+    }
+  ],
+  "id": "BakeRawCornsticks"
+}

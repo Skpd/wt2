@@ -1,0 +1,11 @@
+{
+  "m_Name": "HardenedLeatherUpper",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "15715af030444ed4fbc0cdce4d388844",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "153",
+  "craftMaterialsBuyUpPricePercent": "1.5",
+  "id": "HardenedLeatherUpper",
+  "loc_key": "Item.HardenedLeatherUpper"
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "WoodVarnish",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "044c3b0805830334ebc12db344f5c341",
+  "image_fid": "21300000",
+  "sellPrice": "200",
+  "buyUpPrice": "40",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "WoodVarnish",
+  "loc_key": "Item.WoodVarnish"
+}

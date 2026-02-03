@@ -1,0 +1,474 @@
+{
+  "m_Name": "DwarfCursedChampion",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "6000",
+  "stamina": "100",
+  "level": "70",
+  "walkSpeed": "1.6",
+  "runSpeed": "4",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "5",
+  "mobBehaviour": "54de8ab60229ec544a231a7c83484671",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "75bc11ecea27f9a4283860ceabd2cdbe",
+  "entityPrefab_fid": "1375674806592496",
+  "entityBonuses": {
+    "Block": "0.6",
+    "BlockProjectile": "0.8",
+    "Defense": "0.8",
+    "PlagueDefense": "0.8",
+    "Absorption": "30",
+    "IgnoreNextSlowdown": "1",
+    "IgnoreNextStun": "1"
+  },
+  "skills": [
+    {
+      "id": "7bfbf16e7e6ec6740aa4654b6acef296",
+      "name": "DwarfCursedChampionSprint"
+    },
+    {
+      "id": "b04b3e9c2561583419b99526153d8418",
+      "name": "DwarfCursedChampionHoldLine"
+    },
+    {
+      "id": "7eb5a0b4e561e0d498fea727fd4ecfea",
+      "name": "DwarfCursedChampionTwirl",
+      "minDamage": "60",
+      "maxDamage": "80",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.7",
+      "ignoreDefense": "0.4",
+      "criticalChance": "0",
+      "criticalValue": "0"
+    },
+    {
+      "id": "70aac299066e95d47beddc2b23ae0798",
+      "name": "DwarfCursedChampionRage"
+    },
+    {
+      "id": "ef5a438cfc5c762438846c0b45bc4c7a",
+      "name": "DwarfCursedChampionThrow",
+      "minDamage": "50",
+      "maxDamage": "70",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.5",
+      "ignoreDefense": "0.5",
+      "criticalChance": "0",
+      "criticalValue": "0"
+    }
+  ],
+  "id": "DwarfCursedChampion",
+  "loc_key": "Entity.DwarfCursedChampion",
+  "drops": [
+    {
+      "itemId": "Money",
+      "chance": 1,
+      "min": 7000,
+      "max": 10000
+    },
+    {
+      "itemId": "SteelIngot",
+      "chance": 0.25,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "itemId": "ZuperitIngot",
+      "chance": 0.25,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "itemId": "SangitIngot",
+      "chance": 0.25,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "itemId": "SilverIngot",
+      "chance": 0.25,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "itemId": "IronIngot",
+      "chance": 0.2,
+      "min": 30,
+      "max": 50
+    },
+    {
+      "itemId": "TinIngot",
+      "chance": 0.2,
+      "min": 40,
+      "max": 50
+    },
+    {
+      "itemId": "BronzeIngot",
+      "chance": 0.2,
+      "min": 40,
+      "max": 50
+    },
+    {
+      "itemId": "CopperIngot",
+      "chance": 0.2,
+      "min": 40,
+      "max": 50
+    },
+    {
+      "itemId": "IronNail",
+      "chance": 0.2,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "itemId": "IronIngot",
+      "chance": 0.2,
+      "min": 30,
+      "max": 50
+    },
+    {
+      "itemId": "TinIngot",
+      "chance": 0.2,
+      "min": 40,
+      "max": 50
+    },
+    {
+      "itemId": "BronzeIngot",
+      "chance": 0.2,
+      "min": 40,
+      "max": 50
+    },
+    {
+      "itemId": "CopperIngot",
+      "chance": 0.2,
+      "min": 40,
+      "max": 50
+    },
+    {
+      "itemId": "IronNail",
+      "chance": 0.2,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "itemId": "StunBomb",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "itemId": "StickyBomb",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "itemId": "BleedingBomb",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "itemId": "BurningBomb",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "itemId": "LacerationBomb",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "itemId": "StunBomb",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "itemId": "StickyBomb",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "itemId": "BleedingBomb",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "itemId": "PlagueBomb",
+      "chance": 0.1111111111111111,
+      "min": 3,
+      "max": 5
+    },
+    {
+      "itemId": "StunBomb",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "itemId": "StickyBomb",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "itemId": "BleedingBomb",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "itemId": "BurningBomb",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "itemId": "LacerationBomb",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "itemId": "StunBomb",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "itemId": "StickyBomb",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "itemId": "BleedingBomb",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "itemId": "PlagueBomb",
+      "chance": 0.1111111111111111,
+      "min": 3,
+      "max": 5
+    },
+    {
+      "itemId": "StunBomb",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "itemId": "StickyBomb",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "itemId": "BleedingBomb",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "itemId": "BurningBomb",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "itemId": "LacerationBomb",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "itemId": "StunBomb",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "itemId": "StickyBomb",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "itemId": "BleedingBomb",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "itemId": "PlagueBomb",
+      "chance": 0.1111111111111111,
+      "min": 3,
+      "max": 5
+    },
+    {
+      "itemId": "GemFacetedAmethyst",
+      "chance": 0.2,
+      "min": 5,
+      "max": 5
+    },
+    {
+      "itemId": "GemFacetedEmerald",
+      "chance": 0.2,
+      "min": 5,
+      "max": 5
+    },
+    {
+      "itemId": "GemFacetedRuby",
+      "chance": 0.2,
+      "min": 5,
+      "max": 5
+    },
+    {
+      "itemId": "GemFacetedSapphire",
+      "chance": 0.2,
+      "min": 5,
+      "max": 5
+    },
+    {
+      "itemId": "GemFacetedTopaz",
+      "chance": 0.2,
+      "min": 5,
+      "max": 5
+    },
+    {
+      "itemId": "GemFacetedAmethyst",
+      "chance": 0.2,
+      "min": 2,
+      "max": 2
+    },
+    {
+      "itemId": "GemFacetedEmerald",
+      "chance": 0.2,
+      "min": 2,
+      "max": 2
+    },
+    {
+      "itemId": "GemFacetedRuby",
+      "chance": 0.2,
+      "min": 3,
+      "max": 3
+    },
+    {
+      "itemId": "GemFacetedSapphire",
+      "chance": 0.2,
+      "min": 3,
+      "max": 3
+    },
+    {
+      "itemId": "GemFacetedTopaz",
+      "chance": 0.2,
+      "min": 3,
+      "max": 3
+    },
+    {
+      "itemId": "GemFacetedAmethyst",
+      "chance": 0.2,
+      "min": 3,
+      "max": 3
+    },
+    {
+      "itemId": "GemFacetedEmerald",
+      "chance": 0.2,
+      "min": 3,
+      "max": 3
+    },
+    {
+      "itemId": "GemFacetedRuby",
+      "chance": 0.2,
+      "min": 3,
+      "max": 3
+    },
+    {
+      "itemId": "GemFacetedSapphire",
+      "chance": 0.2,
+      "min": 3,
+      "max": 3
+    },
+    {
+      "itemId": "GemFacetedTopaz",
+      "chance": 0.2,
+      "min": 3,
+      "max": 3
+    },
+    {
+      "itemId": "SpiceBlackPepper",
+      "chance": 0.3333333333333333,
+      "min": 50,
+      "max": 50
+    },
+    {
+      "itemId": "SpiceCinnamon",
+      "chance": 0.3333333333333333,
+      "min": 50,
+      "max": 50
+    },
+    {
+      "itemId": "SpiceSugar",
+      "chance": 0.3333333333333333,
+      "min": 50,
+      "max": 50
+    },
+    {
+      "itemId": "FishingSpoon",
+      "chance": 0.075,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "itemId": "Moonshine",
+      "chance": 0.075,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "FishingQuestItem",
+      "chance": 0.075,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Maggot",
+      "chance": 0.075,
+      "min": 50,
+      "max": 50
+    },
+    {
+      "itemId": "SkillBookLevel20",
+      "chance": 0.5,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SkillBookLevel30",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "DwarfQuestItem",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "DarkChampionCloak",
+      "chance": 0.1,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

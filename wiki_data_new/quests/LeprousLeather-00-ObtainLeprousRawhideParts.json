@@ -1,0 +1,23 @@
+{
+  "m_Name": "LeprousLeather-00-ObtainLeprousRawhideParts",
+  "m_Script": "a33fbc2ed7ad8fe58f2dcfb6e1a39cab",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "8ce3812143aff1846a638c1c38186604",
+  "predecessors": [
+    "Port-00-TalkToNiece"
+  ],
+  "npcTaker": "8ce3812143aff1846a638c1c38186604",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "5",
+    "rewardItem": "ac816532bb9247345a842c61464835af",
+    "rewardItemName": "LeprousRawhide"
+  },
+  "id": "LeprousLeather-00-ObtainLeprousRawhideParts",
+  "npcGiverName": "PlagueCargoHoldHead",
+  "npcTakerName": "PlagueCargoHoldHead",
+  "group": "General"
+}

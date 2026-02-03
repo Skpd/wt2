@@ -1,0 +1,659 @@
+{
+  "m_Name": "MediumRawHide",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "f0bf77682b0df5b4ca457c419dac1b85",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.4",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "MediumRawHide",
+  "loc_key": "Item.MediumRawHide",
+  "dropped_by": [
+    {
+      "sourceId": "ElderBasementMaterial",
+      "chance": 0.14285714285714285,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "ElderBasementMaterial",
+      "chance": 0.07142857142857142,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "GodsendGraveyard",
+      "chance": 0.06818181818181818,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "sourceId": "GodsendMainland",
+      "chance": 0.06818181818181818,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "sourceId": "CultistRisenSwordsman",
+      "chance": 0.038461538461538464,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "CultistCursedSwordsman",
+      "chance": 0.038461538461538464,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "OrcShaman",
+      "chance": 0.2,
+      "min": 20,
+      "max": 30
+    },
+    {
+      "sourceId": "ChurchCultist",
+      "chance": 0.1111111111111111,
+      "min": 3,
+      "max": 4
+    },
+    {
+      "sourceId": "ChurchFinalChest",
+      "chance": 0.3333333333333333,
+      "min": 10,
+      "max": 15
+    },
+    {
+      "sourceId": "ChurchFinalChest",
+      "chance": 0.038461538461538464,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "ChurchFinalChest",
+      "chance": 0.038461538461538464,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "ChurchFinalChest",
+      "chance": 0.038461538461538464,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "ChurchFinalChest",
+      "chance": 0.038461538461538464,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "ChurchFinalChest",
+      "chance": 0.038461538461538464,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "MausoleumBossChest",
+      "chance": 0.5,
+      "min": 7,
+      "max": 10
+    },
+    {
+      "sourceId": "GraveyardMausoleumWarriorsChest",
+      "chance": 0.5,
+      "min": 7,
+      "max": 10
+    },
+    {
+      "sourceId": "MausoleumBossChest",
+      "chance": 0.0625,
+      "min": 7,
+      "max": 13
+    },
+    {
+      "sourceId": "GraveyardMausoleumWarriorsChest",
+      "chance": 0.0625,
+      "min": 7,
+      "max": 13
+    },
+    {
+      "sourceId": "MausoleumBossChest",
+      "chance": 0.0625,
+      "min": 7,
+      "max": 13
+    },
+    {
+      "sourceId": "GraveyardMausoleumWarriorsChest",
+      "chance": 0.0625,
+      "min": 7,
+      "max": 13
+    },
+    {
+      "sourceId": "MausoleumBossChest",
+      "chance": 0.0625,
+      "min": 7,
+      "max": 13
+    },
+    {
+      "sourceId": "GraveyardMausoleumWarriorsChest",
+      "chance": 0.0625,
+      "min": 7,
+      "max": 13
+    },
+    {
+      "sourceId": "HideoutGodsensBody",
+      "chance": 0.041666666666666664,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "sourceId": "HideoutFinalChest",
+      "chance": 0.3333333333333333,
+      "min": 10,
+      "max": 15
+    },
+    {
+      "sourceId": "HideoutFinalChest",
+      "chance": 0.038461538461538464,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "HideoutFinalChest",
+      "chance": 0.038461538461538464,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "HideoutFinalChest",
+      "chance": 0.038461538461538464,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "HideoutFinalChest",
+      "chance": 0.038461538461538464,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "GodsendWinter",
+      "chance": 0.07692307692307693,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "sourceId": "WinterForestFinalChest",
+      "chance": 0.3333333333333333,
+      "min": 10,
+      "max": 15
+    },
+    {
+      "sourceId": "WinterForestFinalChest",
+      "chance": 0.038461538461538464,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "WinterForestFinalChest",
+      "chance": 0.04,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "WinterForestFinalChest",
+      "chance": 0.04,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "WeresquidPet",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "CactusPet",
+      "chance": "1",
+      "min": "3",
+      "max": "5",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "ScorpionPet",
+      "chance": "1",
+      "min": "3",
+      "max": "5",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "LionPet",
+      "chance": "1",
+      "min": "3",
+      "max": "5",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "SkeletonGuardPet",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "FlySkullPet",
+      "chance": "1",
+      "min": "3",
+      "max": "5",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "ScorpionPetLarge",
+      "chance": "1",
+      "min": "3",
+      "max": "5",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "SkeletonKnightPet",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "WeranglerfishPet",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "OwlPet",
+      "chance": "1",
+      "min": "3",
+      "max": "5",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "ReaperPet",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "BearPet",
+      "chance": "1",
+      "min": "3",
+      "max": "5",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "HugeBoarPet",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "HelperEyePet",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "HelperBookPet",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "UsualHorsePintobayPet",
+      "chance": "1",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "RareHorseChestnutPet",
+      "chance": "1",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "UsualHorseBayPet",
+      "chance": "1",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "RareHorsePalominoPet",
+      "chance": "1",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "WolfPetLarge",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "WolfDarkPet",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "DeerPet",
+      "chance": "1",
+      "min": "2",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "RareHorsePalominoPintoPet",
+      "chance": "1",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "EpicHorseGrayPet",
+      "chance": "1",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "HelperChestPet",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "BearPetLarge",
+      "chance": "1",
+      "min": "3",
+      "max": "5",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "ValorousKnightPet",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "BarghestPet",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "HelperDragonPet",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "LittleWolfPet",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "GoatPet",
+      "chance": "1",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "BoarPet",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "EpicHorseBlackPintoPet",
+      "chance": "1",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "WolfPet",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "EpicHorseChestnutPintoPet",
+      "chance": "1",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "EpicHorseWhitePet",
+      "chance": "1",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "RareHorsePalominoPinto",
+      "chance": "1",
+      "min": "1",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "UsualHorseBay",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "EpicHorseChestnutPinto",
+      "chance": "1",
+      "min": "2",
+      "max": "4",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Bear",
+      "chance": "1",
+      "min": "3",
+      "max": "5",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Wolf",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "HugeBoar",
+      "chance": "1",
+      "min": "2",
+      "max": "4",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Boar",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "WolfArctic",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "EpicHorseGray",
+      "chance": "1",
+      "min": "2",
+      "max": "4",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "UsualHorsePintobay",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Goat",
+      "chance": "1",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "EpicHorseBlackPinto",
+      "chance": "1",
+      "min": "2",
+      "max": "4",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "HorsePintobay",
+      "chance": "1",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "DeerStag",
+      "chance": "1",
+      "min": "2",
+      "max": "4",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "EpicHorseWhite",
+      "chance": "1",
+      "min": "2",
+      "max": "4",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "RareHorsePalomino",
+      "chance": "1",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "WolfLarge",
+      "chance": "1",
+      "min": "3",
+      "max": "8",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "WolfArcticEvent",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Coyote",
+      "chance": "1",
+      "min": "1",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "BearLarge",
+      "chance": "1",
+      "min": "12",
+      "max": "20",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "RareHorseChestnut",
+      "chance": "1",
+      "min": "1",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "DeerDoe",
+      "chance": "1",
+      "min": "2",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Barghest",
+      "chance": "1",
+      "min": "2",
+      "max": "5",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Werewolf",
+      "chance": "1",
+      "min": "2",
+      "max": "4",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "WolfDark",
+      "chance": "1",
+      "min": "1",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "BarghestDungeon",
+      "chance": "1",
+      "min": "1",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "WolfDarkLarge",
+      "chance": "1",
+      "min": "3",
+      "max": "5",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "WerewolfDungeon",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    }
+  ]
+}

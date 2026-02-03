@@ -1,0 +1,27 @@
+{
+  "m_Name": "Cookery_AnimalFat",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "e27f4a128899fe440b92fae754367cc7",
+      "amount": "4",
+      "name": "RawAnimalFat",
+      "loc_key": "Item.RawAnimalFat"
+    },
+    {
+      "guid": "7732f85b90d91df488170c45b72917c4",
+      "amount": "4",
+      "name": "ClayPot",
+      "loc_key": "Item.ClayPot"
+    }
+  ],
+  "products": [
+    {
+      "guid": "e7c5c1c7bbd5ac144a27492e6027a124",
+      "amount": "5",
+      "name": "AnimalFat",
+      "loc_key": "Item.AnimalFat"
+    }
+  ],
+  "id": "Cookery_AnimalFat"
+}

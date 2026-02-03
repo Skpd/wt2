@@ -1,0 +1,66 @@
+{
+  "m_Name": "GreatBow",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "3b1f43cf59c45374786a01b0fe89ff63",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "93.375",
+  "craftMaterialsBuyUpPricePercent": "1.5",
+  "entityMaxLevel": "0",
+  "minDamage": "18",
+  "maxDamage": "27",
+  "minPlagueDamage": "0",
+  "maxPlagueDamage": "0",
+  "criticalChance": "0.07",
+  "criticalValue": "2",
+  "dismountChance": "0",
+  "splash": "0",
+  "isAOE": "0",
+  "projectileAOERange": "0",
+  "prefabAOEName": null,
+  "ignoreAvoidingDamage": "0",
+  "ignoreAbsorb": "0",
+  "ignoreDefense": "0",
+  "abilityName": null,
+  "effectLevelLimit": "0",
+  "effects": [],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "0"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  "id": "GreatBow",
+  "loc_key": "Item.GreatBow",
+  "dropped_by": [
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "CaveFinalChest",
+      "chance": 0.045454545454545456,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

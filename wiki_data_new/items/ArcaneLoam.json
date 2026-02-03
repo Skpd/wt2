@@ -1,0 +1,12 @@
+{
+  "m_Name": "ArcaneLoam",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "0848406b85b40cf4ca00913baa7252e4",
+  "image_fid": "21300000",
+  "sellPrice": "10",
+  "buyUpPrice": "0.05",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "ArcaneLoam",
+  "loc_key": "Item.ArcaneLoam",
+  "icon_path": "textures/ArcaneLoam.png"
+}

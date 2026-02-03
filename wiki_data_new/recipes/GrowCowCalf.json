@@ -1,0 +1,20 @@
+{
+  "m_Name": "GrowCowCalf",
+  "m_Script": "37d6a230f8991a4267be4fd19e466e02",
+  "resources": [
+    {
+      "guid": "cb9f7a960e130984f83c444045cb652c",
+      "amount": "1",
+      "name": "FodderCalf",
+      "loc_key": "Item.FodderCalf"
+    },
+    {
+      "guid": "27d507923a0f91a489ebecc6d7e70fd4",
+      "amount": "2",
+      "name": "Water",
+      "loc_key": "Item.Water"
+    }
+  ],
+  "products": [],
+  "id": "GrowCowCalf"
+}

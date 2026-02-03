@@ -1,0 +1,68 @@
+{
+  "m_Name": "BoneFlour",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "485656f703d432c419aff45ea8cb9b12",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.3",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BoneFlour",
+  "loc_key": "Item.BoneFlour",
+  "dropped_by": [
+    {
+      "sourceId": "HalloweenGrave",
+      "chance": 0.08333333333333333,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "HalloweenGrave",
+      "chance": 0.08333333333333333,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "HalloweenGrave",
+      "chance": 0.1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HalloweenGrave",
+      "chance": 0.05714285714285715,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "SkeletonKnight",
+      "chance": 0.5,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "SkeletonGuard",
+      "chance": 0.5,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "Reaper",
+      "chance": 0.5,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "MausoleumGodsensBones",
+      "chance": 0.1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "FlySkull",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "PotionFindIronOre",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "27984a07daf2aee4083ed83980411d8f",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "40",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "PotionFindIronOre",
+  "loc_key": "Item.PotionFindIronOre"
+}

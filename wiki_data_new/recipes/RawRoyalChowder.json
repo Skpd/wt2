@@ -1,0 +1,21 @@
+{
+  "m_Name": "RawRoyalChowder",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "324dc975027490342a77da3743c781d9",
+      "amount": "1",
+      "name": "RawFishPikeSoup",
+      "loc_key": "Item.RawFishPikeSoup"
+    }
+  ],
+  "products": [
+    {
+      "guid": "8c5252872800f6549b12f44334546b96",
+      "amount": "1",
+      "name": "FishPikeSoup",
+      "loc_key": "Item.FishPikeSoup"
+    }
+  ],
+  "id": "RawRoyalChowder"
+}

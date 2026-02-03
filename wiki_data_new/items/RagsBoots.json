@@ -1,0 +1,12 @@
+{
+  "m_Name": "RagsBoots",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "42396739eb1f0294b8c0c5ccd59dd1fa",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "RagsBoots",
+  "loc_key": "Item.RagsBoots",
+  "icon_path": "textures/RagsBoots.png"
+}

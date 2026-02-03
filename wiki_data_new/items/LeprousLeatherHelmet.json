@@ -1,0 +1,37 @@
+{
+  "m_Name": "LeprousLeatherHelmet",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "fb465e5269303124bb89bfc0113d1c1a",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "413.78",
+  "craftMaterialsBuyUpPricePercent": "1.7",
+  "id": "LeprousLeatherHelmet",
+  "loc_key": "Item.LeprousLeatherHelmet",
+  "dropped_by": [
+    {
+      "sourceId": "PlagueDragon",
+      "chance": 0.024999999999999998,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "FatOgre",
+      "chance": 0.008333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "UndeadPickaxeDungeon",
+      "chance": 0.00016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "UndeadAxeDungeon",
+      "chance": 0.00016666666666666666,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

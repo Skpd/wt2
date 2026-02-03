@@ -1,0 +1,39 @@
+{
+  "m_Name": "CauldronBloodyBearMountSkinProduce",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "cf4f805c412de254fad6d6809fd49b23",
+      "amount": "1",
+      "name": "TransmorphPotionEpic",
+      "loc_key": "Item.TransmorphPotionEpic"
+    },
+    {
+      "guid": "d35cf5be5f1876146988f4bda281d0f1",
+      "amount": "3",
+      "name": "BloodyBearMount",
+      "loc_key": "Item.BloodyBearMount"
+    },
+    {
+      "guid": "f166fb9eadfbc494c94d3de333412faa",
+      "amount": "3",
+      "name": "LootChurch\u0421andles",
+      "loc_key": "Item.LootChurch\u0421andles"
+    },
+    {
+      "guid": "30156556d281ef24d8e0024f3f983527",
+      "amount": "30",
+      "name": "ReagentPotion",
+      "loc_key": "Item.ReagentPotion"
+    }
+  ],
+  "products": [
+    {
+      "guid": "e4296da3866f76949b6a7ca4a07ae6f4",
+      "amount": "1",
+      "name": "BloodyBearMountSkin",
+      "loc_key": "Item.BloodyBearMountSkin"
+    }
+  ],
+  "id": "CauldronBloodyBearMountSkinProduce"
+}

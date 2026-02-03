@@ -1,0 +1,21 @@
+{
+  "m_Name": "RoastSeaFishFillet",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "50ec2e53c017e374eb0e14001d671700",
+      "amount": "1",
+      "name": "SeaFishFillet",
+      "loc_key": "Item.SeaFishFillet"
+    }
+  ],
+  "products": [
+    {
+      "guid": "005b6a0c4620d4140a4d7e6095ef8d2f",
+      "amount": "1",
+      "name": "RoastedFishMeat",
+      "loc_key": "Item.RoastedFishMeat"
+    }
+  ],
+  "id": "RoastSeaFishFillet"
+}

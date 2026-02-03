@@ -1,0 +1,21 @@
+{
+  "m_Name": "BakeBeerBoiledWort",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "66c539d92e6f1434c82839e7fa29acb9",
+      "amount": "1",
+      "name": "BeerWort",
+      "loc_key": "Item.BeerWort"
+    }
+  ],
+  "products": [
+    {
+      "guid": "e64a8f0ae22afa042a2fab29b07bd72b",
+      "amount": "1",
+      "name": "BeerBoiledWort",
+      "loc_key": "Item.BeerBoiledWort"
+    }
+  ],
+  "id": "BakeBeerBoiledWort"
+}

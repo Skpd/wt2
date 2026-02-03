@@ -1,0 +1,23 @@
+{
+  "m_Name": "Boss-04-KillTreeEnt",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "aa1f3266fd872f94f8da74c4f48119a6",
+  "predecessors": [
+    "Boss-03-KillGiantBeetle"
+  ],
+  "npcTaker": "aa1f3266fd872f94f8da74c4f48119a6",
+  "reward": {
+    "money": "4000",
+    "guildXp": "0",
+    "amount": "1",
+    "rewardItem": "432f1e3535718634086696f87d9df46b",
+    "rewardItemName": "HeatproofWood"
+  },
+  "id": "Boss-04-KillTreeEnt",
+  "npcGiverName": "CityCarpenterTom",
+  "npcTakerName": "CityCarpenterTom",
+  "group": "General"
+}

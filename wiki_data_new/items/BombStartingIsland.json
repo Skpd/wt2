@@ -1,0 +1,40 @@
+{
+  "m_Name": "BombStartingIsland",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "50c751e748d26be429bedf3023f9fec2",
+  "image_fid": "21300000",
+  "sellPrice": "3",
+  "buyUpPrice": "0.1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "entityMaxLevel": "0",
+  "minDamage": "0",
+  "maxDamage": "0",
+  "minPlagueDamage": "1",
+  "maxPlagueDamage": "2",
+  "criticalChance": "0",
+  "criticalValue": "1",
+  "dismountChance": "0",
+  "splash": "0",
+  "isAOE": "1",
+  "projectileAOERange": "2",
+  "prefabAOEName": "StunBomb",
+  "ignoreAvoidingDamage": "1",
+  "ignoreAbsorb": "0",
+  "ignoreDefense": "0",
+  "abilityName": null,
+  "effectLevelLimit": "0",
+  "effects": [],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "0"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  "id": "BombStartingIsland",
+  "loc_key": "Item.BombStartingIsland"
+}

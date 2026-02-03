@@ -1,0 +1,12 @@
+{
+  "m_Name": "DemonPowder",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "88bb20a780c3a9a43b681b3291e12417",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "10000",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "DemonPowder",
+  "loc_key": "Item.DemonPowder",
+  "icon_path": "textures/DemonPowder.png"
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "BlanksNecklace",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "b96141f06a81d794080e67db6868f522",
+  "image_fid": "21300000",
+  "sellPrice": "170",
+  "buyUpPrice": "3.3865",
+  "craftMaterialsBuyUpPricePercent": "1.3",
+  "id": "BlanksNecklace",
+  "loc_key": "Item.BlanksNecklace"
+}

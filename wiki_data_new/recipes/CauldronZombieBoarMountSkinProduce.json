@@ -1,0 +1,39 @@
+{
+  "m_Name": "CauldronZombieBoarMountSkinProduce",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "5ca566e5d9d0e684e98f6703d64f5f57",
+      "amount": "1",
+      "name": "TransmorphPotion",
+      "loc_key": "Item.TransmorphPotion"
+    },
+    {
+      "guid": "2ec10710ddaf7de4da229c08aca339a6",
+      "amount": "3",
+      "name": "ZombieBoarMount",
+      "loc_key": "Item.ZombieBoarMount"
+    },
+    {
+      "guid": "71ada1be3e50749418f55ae4a0daebc0",
+      "amount": "10",
+      "name": "CultistBlood",
+      "loc_key": "Item.CultistBlood"
+    },
+    {
+      "guid": "ed387302f331ee747acf194bf9720c33",
+      "amount": "10",
+      "name": "LeprousBlood",
+      "loc_key": "Item.LeprousBlood"
+    }
+  ],
+  "products": [
+    {
+      "guid": "f0fe1778f4a0f3f4db253851be2926fe",
+      "amount": "1",
+      "name": "ZombieBoarMountSkin",
+      "loc_key": "Item.ZombieBoarMountSkin"
+    }
+  ],
+  "id": "CauldronZombieBoarMountSkinProduce"
+}

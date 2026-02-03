@@ -1,0 +1,61 @@
+{
+  "m_Name": "BronzeSlingAmmo",
+  "m_Script": "b2cd456c67ed7fbd493e563aaef7330a",
+  "image": "79c2ca8f6aeae8e49be305de2aac838f",
+  "image_fid": "21300000",
+  "sellPrice": "10",
+  "buyUpPrice": "0.2",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BronzeSlingAmmo",
+  "loc_key": "Item.BronzeSlingAmmo",
+  "dropped_by": [
+    {
+      "sourceId": "SewersFinalChest",
+      "chance": 0.125,
+      "min": 50,
+      "max": 100
+    },
+    {
+      "sourceId": "BattlefieldGodsend",
+      "chance": 0.14285714285714285,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "BattlefieldGodsend",
+      "chance": 0.14285714285714285,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "BattlefieldGodsend",
+      "chance": 0.05714285714285715,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "Reaper",
+      "chance": 0.1111111111111111,
+      "min": 3,
+      "max": 8
+    },
+    {
+      "sourceId": "FatOgre",
+      "chance": 0.1111111111111111,
+      "min": 3,
+      "max": 8
+    },
+    {
+      "sourceId": "FatOgre",
+      "chance": 0.1111111111111111,
+      "min": 3,
+      "max": 8
+    },
+    {
+      "sourceId": "DwarfAmbusherHideout",
+      "chance": 0.16666666666666666,
+      "min": 10,
+      "max": 15
+    }
+  ]
+}

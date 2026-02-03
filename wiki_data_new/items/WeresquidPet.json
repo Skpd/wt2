@@ -1,0 +1,11 @@
+{
+  "m_Name": "WeresquidPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "2ef886cdb676d3349b214df712539ee2",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "WeresquidPet",
+  "loc_key": "Item.WeresquidPet"
+}

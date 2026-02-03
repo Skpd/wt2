@@ -1,0 +1,11 @@
+{
+  "m_Name": "AmuletLuckyClover",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "80c2b4e4fb55df642ae0f11cfc4edada",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "AmuletLuckyClover",
+  "loc_key": "Item.AmuletLuckyClover"
+}

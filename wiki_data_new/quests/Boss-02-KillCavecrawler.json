@@ -1,0 +1,23 @@
+{
+  "m_Name": "Boss-02-KillCavecrawler",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "876f3c2fb7d15044aa3b6d235cf3d3cf",
+  "predecessors": [
+    "Boss-01-KillStatues"
+  ],
+  "npcTaker": "876f3c2fb7d15044aa3b6d235cf3d3cf",
+  "reward": {
+    "money": "2500",
+    "guildXp": "0",
+    "amount": "20",
+    "rewardItem": "655b3027940f4f94796f9ccccb8bf8ce",
+    "rewardItemName": "ZuperitOre"
+  },
+  "id": "Boss-02-KillCavecrawler",
+  "npcGiverName": "CitySmithHank",
+  "npcTakerName": "CitySmithHank",
+  "group": "General"
+}

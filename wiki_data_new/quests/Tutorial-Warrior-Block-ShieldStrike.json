@@ -1,0 +1,14 @@
+{
+  "m_Name": "Tutorial-Warrior-Block-ShieldStrike",
+  "m_Script": "37001e5caca9decc6ade0b0930d0ee80",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "100",
+    "guildXp": "0",
+    "amount": "0"
+  },
+  "id": "Tutorial-Warrior-Block-ShieldStrike",
+  "group": "General"
+}

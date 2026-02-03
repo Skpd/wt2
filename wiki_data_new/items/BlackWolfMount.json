@@ -1,0 +1,11 @@
+{
+  "m_Name": "BlackWolfMount",
+  "m_Script": "f5673bd2393c13a27685bda14e28f91a",
+  "image": "877db2ab5b13c9447b36ec2a0b0eb3d9",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BlackWolfMount",
+  "loc_key": "Item.BlackWolfMount"
+}

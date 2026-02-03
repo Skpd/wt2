@@ -1,0 +1,21 @@
+{
+  "m_Name": "BakeRawHalibutPie",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "7baaabdfcf92958438f42e895dc97020",
+      "amount": "1",
+      "name": "RawHalibutPie",
+      "loc_key": "Item.RawHalibutPie"
+    }
+  ],
+  "products": [
+    {
+      "guid": "3eb9f418f6386864eb0016db69578b5f",
+      "amount": "1",
+      "name": "HalibutPieAfterBake",
+      "loc_key": "Item.HalibutPieAfterBake"
+    }
+  ],
+  "id": "BakeRawHalibutPie"
+}

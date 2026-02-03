@@ -1,0 +1,11 @@
+{
+  "m_Name": "HoneyDonutAfterBake",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "7e513d96b11ad0a43833c1fa253f2e34",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "6",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "HoneyDonutAfterBake",
+  "loc_key": "Item.HoneyDonutAfterBake"
+}

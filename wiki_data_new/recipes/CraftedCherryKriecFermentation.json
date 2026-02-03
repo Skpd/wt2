@@ -1,0 +1,45 @@
+{
+  "m_Name": "CraftedCherryKriecFermentation",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "e64a8f0ae22afa042a2fab29b07bd72b",
+      "amount": "1",
+      "name": "BeerBoiledWort",
+      "loc_key": "Item.BeerBoiledWort"
+    },
+    {
+      "guid": "3898d0e4a12051f4a8b3f96f7cbb5509",
+      "amount": "1",
+      "name": "WaterJug",
+      "loc_key": "Item.WaterJug"
+    },
+    {
+      "guid": "99d35305bbc7a484b807d7a67c0ea229",
+      "amount": "1",
+      "name": "SpiceSugar",
+      "loc_key": "Item.SpiceSugar"
+    },
+    {
+      "guid": "5c838aff889d0554ea8f458d34f69835",
+      "amount": "5",
+      "name": "Cherries",
+      "loc_key": "Item.Cherries"
+    },
+    {
+      "guid": "71ada1be3e50749418f55ae4a0daebc0",
+      "amount": "1",
+      "name": "CultistBlood",
+      "loc_key": "Item.CultistBlood"
+    }
+  ],
+  "products": [
+    {
+      "guid": "7d7eb0565ec230140aea00a3c7c695a3",
+      "amount": "1",
+      "name": "CraftedCherryKriec",
+      "loc_key": "Item.CraftedCherryKriec"
+    }
+  ],
+  "id": "CraftedCherryKriecFermentation"
+}

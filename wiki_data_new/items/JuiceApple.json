@@ -1,0 +1,11 @@
+{
+  "m_Name": "JuiceApple",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "7da3c70a32453ac4192e303901f10318",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "2",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "JuiceApple",
+  "loc_key": "Item.JuiceApple"
+}

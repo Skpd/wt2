@@ -1,0 +1,23 @@
+{
+  "m_Name": "Easter-Daily-ObtainSpiceSugar",
+  "m_Script": "a33fbc2ed7ad8fe58f2dcfb6e1a39cab",
+  "line": "8",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "23b5f2c62fb06a147afb6b6229f6313d",
+  "predecessors": [
+    "Easter-10-ObtainEasterBasketSweets"
+  ],
+  "npcTaker": "23b5f2c62fb06a147afb6b6229f6313d",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "5",
+    "rewardItem": "afa290799fd485147a53a455452e0797",
+    "rewardItemName": "EasterSugar"
+  },
+  "id": "Easter-Daily-ObtainSpiceSugar",
+  "npcGiverName": "EasterMrBunny",
+  "npcTakerName": "EasterMrBunny",
+  "group": "Daily"
+}

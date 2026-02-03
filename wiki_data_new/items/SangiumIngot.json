@@ -1,0 +1,11 @@
+{
+  "m_Name": "SangiumIngot",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "11304859315b8b146a252d8a52e3b73b",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "30",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SangiumIngot",
+  "loc_key": "Item.SangiumIngot"
+}

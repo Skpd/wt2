@@ -1,0 +1,31 @@
+{
+  "m_Name": "ZuperiumIngot",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "24a7460d67bc1dd41b1ba3505575d848",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "20",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "ZuperiumIngot",
+  "loc_key": "Item.ZuperiumIngot",
+  "dropped_by": [
+    {
+      "sourceId": "SewersFinalChest",
+      "chance": 0.2,
+      "min": 6,
+      "max": 12
+    },
+    {
+      "sourceId": "DemonWeak",
+      "chance": 0.2,
+      "min": 6,
+      "max": 12
+    },
+    {
+      "sourceId": "DemonBrute",
+      "chance": 0.2,
+      "min": 6,
+      "max": 15
+    }
+  ]
+}

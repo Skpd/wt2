@@ -1,0 +1,11 @@
+{
+  "m_Name": "JuicePear",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "d48fca114cac5ec4dbcad35167a8cecd",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "2",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "JuicePear",
+  "loc_key": "Item.JuicePear"
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "HalloweenTearsDead",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "962e1ce5c815a964682c92202e09d723",
+  "image_fid": "21300000",
+  "sellPrice": "50",
+  "buyUpPrice": "4",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "HalloweenTearsDead",
+  "loc_key": "Item.HalloweenTearsDead"
+}

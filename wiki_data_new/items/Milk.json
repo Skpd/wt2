@@ -1,0 +1,11 @@
+{
+  "m_Name": "Milk",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "0a9a24656f9c742468ed86ad1b9db1eb",
+  "image_fid": "21300000",
+  "sellPrice": "10",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Milk",
+  "loc_key": "Item.Milk"
+}

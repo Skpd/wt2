@@ -1,0 +1,11 @@
+{
+  "m_Name": "Lemon",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "7488e417e5a76294aa86e9a8130b31c7",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.25",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Lemon",
+  "loc_key": "Item.Lemon"
+}

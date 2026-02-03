@@ -1,0 +1,21 @@
+{
+  "m_Name": "BoneFlourMill",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "7179edcffd1b69848adee8685db3e999",
+      "amount": "5",
+      "name": "Bone",
+      "loc_key": "Item.Bone"
+    }
+  ],
+  "products": [
+    {
+      "guid": "b601056686e52cb4ead308fd023da26f",
+      "amount": "1",
+      "name": "BoneFlour",
+      "loc_key": "Item.BoneFlour"
+    }
+  ],
+  "id": "BoneFlourMill"
+}

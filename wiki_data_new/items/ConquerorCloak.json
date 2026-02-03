@@ -1,0 +1,11 @@
+{
+  "m_Name": "ConquerorCloak",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "3b83c26a72741f540b0d0fd32ea5ff5b",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "ConquerorCloak",
+  "loc_key": "Item.ConquerorCloak"
+}

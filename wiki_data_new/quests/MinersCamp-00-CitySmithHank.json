@@ -1,0 +1,21 @@
+{
+  "m_Name": "MinersCamp-00-CitySmithHank",
+  "m_Script": "a33fbc2ed7ad8fe58f2dcfb6e1a39cab",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "876f3c2fb7d15044aa3b6d235cf3d3cf",
+  "predecessors": [
+    "Smithing-Two-05-CraftBronzePickaxe"
+  ],
+  "npcTaker": "cc538b1fb3a4b9544aedd1b82b22aa43",
+  "reward": {
+    "money": "1000",
+    "guildXp": "0",
+    "amount": "0"
+  },
+  "id": "MinersCamp-00-CitySmithHank",
+  "npcGiverName": "CitySmithHank",
+  "npcTakerName": "MinersCampRonold",
+  "group": "General"
+}

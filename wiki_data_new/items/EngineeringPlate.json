@@ -1,0 +1,11 @@
+{
+  "m_Name": "EngineeringPlate",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "5dd9ce442248e144dbd494121f7d56aa",
+  "image_fid": "21300000",
+  "sellPrice": "25",
+  "buyUpPrice": "5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "EngineeringPlate",
+  "loc_key": "Item.EngineeringPlate"
+}

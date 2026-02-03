@@ -1,0 +1,21 @@
+{
+  "m_Name": "Ammo_IronSlingAmmo",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "1086820f809fc164fa661770a8aaab09",
+      "amount": "5",
+      "name": "IronIngot",
+      "loc_key": "Item.IronIngot"
+    }
+  ],
+  "products": [
+    {
+      "guid": "b6a4b1e77d703d348aa09945346db415",
+      "amount": "100",
+      "name": "IronSlingAmmo",
+      "loc_key": "Item.IronSlingAmmo"
+    }
+  ],
+  "id": "Ammo_IronSlingAmmo"
+}

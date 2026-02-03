@@ -1,0 +1,31 @@
+{
+  "m_Name": "BlackPowder",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "f104d501e7183514f80ca42fd79863f7",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BlackPowder",
+  "loc_key": "Item.BlackPowder",
+  "dropped_by": [
+    {
+      "sourceId": "DwarfFortFinalChest",
+      "chance": 0.03225806451612903,
+      "min": 3,
+      "max": 5
+    },
+    {
+      "sourceId": "DwarfFortFinalChest",
+      "chance": 0.03225806451612903,
+      "min": 3,
+      "max": 5
+    },
+    {
+      "sourceId": "DwarfFortGodsendMaterial",
+      "chance": 0.045454545454545456,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

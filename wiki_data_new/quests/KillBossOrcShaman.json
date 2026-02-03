@@ -1,0 +1,23 @@
+{
+  "m_Name": "KillBossOrcShaman",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "0",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "a2b2d861524c72142a3366233cccc744",
+  "predecessors": [
+    "Graveyard-05-KillOrcShaman"
+  ],
+  "npcTaker": "4a1e3234210c65c4ca409eefa714207e",
+  "reward": {
+    "money": "500",
+    "guildXp": "0",
+    "amount": "5",
+    "rewardItem": "7aa5fa185fda1bc43bc91e76b41ab09f",
+    "rewardItemName": "HealingOintment"
+  },
+  "id": "KillBossOrcShaman",
+  "npcGiverName": "MainIslandTownDailyQuests",
+  "npcTakerName": "JunkerRagnara",
+  "group": "Daily"
+}

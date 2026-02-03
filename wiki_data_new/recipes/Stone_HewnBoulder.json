@@ -1,0 +1,27 @@
+{
+  "m_Name": "Stone_HewnBoulder",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "3ad62d6d17567e84f9700e7cc383499c",
+      "amount": "4",
+      "name": "Boulder",
+      "loc_key": "Item.Boulder"
+    },
+    {
+      "guid": "386f5ec3f42558645a5306b081b016ec",
+      "amount": "4",
+      "name": "HewnStone",
+      "loc_key": "Item.HewnStone"
+    }
+  ],
+  "products": [
+    {
+      "guid": "85afdc62df793ce46a7fe7b01e963121",
+      "amount": "5",
+      "name": "HewnBoulder",
+      "loc_key": "Item.HewnBoulder"
+    }
+  ],
+  "id": "Stone_HewnBoulder"
+}

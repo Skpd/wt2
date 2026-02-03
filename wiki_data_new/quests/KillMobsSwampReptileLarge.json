@@ -1,0 +1,23 @@
+{
+  "m_Name": "KillMobsSwampReptileLarge",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "0",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "a2b2d861524c72142a3366233cccc744",
+  "predecessors": [
+    "Hunter-Three-02-KillSwampReptileLarge"
+  ],
+  "npcTaker": "dbbd65a03bea5164784da9022840adf8",
+  "reward": {
+    "money": "3000",
+    "guildXp": "0",
+    "amount": "5",
+    "rewardItem": "7aa5fa185fda1bc43bc91e76b41ab09f",
+    "rewardItemName": "HealingOintment"
+  },
+  "id": "KillMobsSwampReptileLarge",
+  "npcGiverName": "MainIslandTownDailyQuests",
+  "npcTakerName": "CityBreederErmak",
+  "group": "Daily"
+}

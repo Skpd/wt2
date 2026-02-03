@@ -1,0 +1,11 @@
+{
+  "m_Name": "MinerCracker",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "dcf28a475d58e4f41b7b9fafd9f870de",
+  "image_fid": "21300000",
+  "sellPrice": "100",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "MinerCracker",
+  "loc_key": "Item.MinerCracker"
+}

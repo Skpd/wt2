@@ -1,0 +1,33 @@
+{
+  "m_Name": "Ammo_BronzeBolt",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "91478cc6f25bea8499756fb11fc4fc3f",
+      "amount": "25",
+      "name": "SmallHide",
+      "loc_key": "Item.SmallHide"
+    },
+    {
+      "guid": "032b6ca0d2212c441983bf53ac186b27",
+      "amount": "10",
+      "name": "BronzeNail",
+      "loc_key": "Item.BronzeNail"
+    },
+    {
+      "guid": "5280b4e0c8bfc4d4d880da274930bce3",
+      "amount": "25",
+      "name": "WoodHardSticks",
+      "loc_key": "Item.WoodHardSticks"
+    }
+  ],
+  "products": [
+    {
+      "guid": "42bdfde68800ae74cb16e87f6e56365d",
+      "amount": "100",
+      "name": "BronzeBolt",
+      "loc_key": "Item.BronzeBolt"
+    }
+  ],
+  "id": "Ammo_BronzeBolt"
+}

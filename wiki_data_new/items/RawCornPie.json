@@ -1,0 +1,11 @@
+{
+  "m_Name": "RawCornPie",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "a6f6a1e36d157f344bc5f1ae4a230195",
+  "image_fid": "21300000",
+  "sellPrice": "10",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "RawCornPie",
+  "loc_key": "Item.RawCornPie"
+}

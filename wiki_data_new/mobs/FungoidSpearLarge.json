@@ -1,0 +1,85 @@
+{
+  "m_Name": "FungoidSpearLarge",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "1750",
+  "stamina": "100",
+  "level": "63",
+  "walkSpeed": "2",
+  "runSpeed": "4",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "7",
+  "mobBehaviour": "1ffb7607b4dfea441a4aafc9f96b3976",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "ff5b8c7f97f3eab4db11e5171e11bcc6",
+  "entityPrefab_fid": "1110152368157479",
+  "entityBonuses": {
+    "Parry": "0.22",
+    "Defense": "0.35"
+  },
+  "skills": [
+    {
+      "id": "352eb79ec71ae394796e74c9370ba24d",
+      "name": "FungoidSpearLargeAttack",
+      "minDamage": "39",
+      "maxDamage": "65",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0.2",
+      "ignoreDefense": "0.5",
+      "criticalChance": "0.25",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "a1aa38c795a875845aa2e56d0d9998a7",
+      "name": "FungoidSpearLargeSpinAttack",
+      "minDamage": "39",
+      "maxDamage": "65",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.2",
+      "ignoreDefense": "0.5",
+      "criticalChance": "0.25",
+      "criticalValue": "1.5"
+    }
+  ],
+  "id": "FungoidSpearLarge",
+  "loc_key": "Entity.FungoidSpearLarge",
+  "skinning_drops": [
+    {
+      "itemId": "RawMushroomAmanitaRed",
+      "chance": "0.6",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "RawMushroomAmanitaGrey",
+      "chance": "0.6",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "SporesSwampMushrooms",
+      "chance": "1",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "LeprousBlood",
+      "chance": "0.4",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "SporesSwampMushrooms",
+      "chance": "1",
+      "min": "2",
+      "max": "3"
+    },
+    {
+      "itemId": "FungoidSpores",
+      "chance": "0.015",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

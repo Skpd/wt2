@@ -1,0 +1,31 @@
+{
+  "m_Name": "BoneFlourFertilizer",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "6599b166faeecdd4fbdeab1650dd2e44",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1.2479999",
+  "craftMaterialsBuyUpPricePercent": "1.3",
+  "id": "BoneFlourFertilizer",
+  "loc_key": "Item.BoneFlourFertilizer",
+  "dropped_by": [
+    {
+      "sourceId": "SewersGodsendMaterial",
+      "chance": 0.07142857142857142,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HideoutGodsendMaterial",
+      "chance": 0.07142857142857142,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "GodsendWinter",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

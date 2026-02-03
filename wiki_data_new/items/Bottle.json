@@ -1,0 +1,11 @@
+{
+  "m_Name": "Bottle",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "30b85970480271844b9ba7a062dad8d8",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Bottle",
+  "loc_key": "Item.Bottle"
+}

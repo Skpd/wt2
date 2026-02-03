@@ -1,0 +1,88 @@
+{
+  "m_Name": "RawHareMeat",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "ad8185353dd69c848920616bed5ffdfc",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.03",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "RawHareMeat",
+  "loc_key": "Item.RawHareMeat",
+  "dropped_by": [
+    {
+      "sourceId": "GodsendGraveyard",
+      "chance": 0.03571428571428571,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "sourceId": "GodsendMainland",
+      "chance": 0.03571428571428571,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "sourceId": "Frog",
+      "chance": "1",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Crab",
+      "chance": "1",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Lizard",
+      "chance": "1",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "HareWhitePet",
+      "chance": "1",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "GoosePet",
+      "chance": "1",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "ChickenPet",
+      "chance": "1",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "HarePet",
+      "chance": "1",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Hare",
+      "chance": "1",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "HareGold",
+      "chance": "1",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    }
+  ]
+}

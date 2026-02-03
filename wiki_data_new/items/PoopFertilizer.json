@@ -1,0 +1,11 @@
+{
+  "m_Name": "PoopFertilizer",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "eb41253ccb17e9a4681a9d7e928629cf",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.0825",
+  "craftMaterialsBuyUpPricePercent": "1.1",
+  "id": "PoopFertilizer",
+  "loc_key": "Item.PoopFertilizer"
+}

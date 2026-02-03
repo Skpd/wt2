@@ -1,0 +1,11 @@
+{
+  "m_Name": "CodLiverSalad",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "b792ea4a9f22a364098145c0c097caea",
+  "image_fid": "21300000",
+  "sellPrice": "500",
+  "buyUpPrice": "50",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "CodLiverSalad",
+  "loc_key": "Item.CodLiverSalad"
+}

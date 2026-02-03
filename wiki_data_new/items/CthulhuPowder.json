@@ -1,0 +1,12 @@
+{
+  "m_Name": "CthulhuPowder",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "0e539de66b16b4248bd81b4dc256d3e9",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "10000",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "CthulhuPowder",
+  "loc_key": "Item.CthulhuPowder",
+  "icon_path": "textures/CthulhuPowder.png"
+}

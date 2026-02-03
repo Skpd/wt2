@@ -1,0 +1,23 @@
+{
+  "m_Name": "StartingIsland-22a-GatherEggs",
+  "m_Script": "a33fbc2ed7ad8fe58f2dcfb6e1a39cab",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "b7136c05b76423a4f812abddafd5560b",
+  "predecessors": [
+    "StartingIsland-21-TalkToHermit"
+  ],
+  "npcTaker": "b7136c05b76423a4f812abddafd5560b",
+  "reward": {
+    "money": "100",
+    "guildXp": "0",
+    "amount": "1",
+    "rewardItem": "7b0607af9f8a7124e98fc97591863186",
+    "rewardItemName": "ChickenPetQuestItem"
+  },
+  "id": "StartingIsland-22a-GatherEggs",
+  "npcGiverName": "StartingIslandHermit",
+  "npcTakerName": "StartingIslandHermit",
+  "group": "General"
+}

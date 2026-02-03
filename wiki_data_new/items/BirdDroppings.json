@@ -1,0 +1,25 @@
+{
+  "m_Name": "BirdDroppings",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "5c29ed5204e92b949a19d6d1e8323151",
+  "image_fid": "21300000",
+  "sellPrice": "30",
+  "buyUpPrice": "0.05",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BirdDroppings",
+  "loc_key": "Item.BirdDroppings",
+  "dropped_by": [
+    {
+      "sourceId": "CultistGhostSwordsman",
+      "chance": 0.25,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "UndeadAxeDungeon",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 2
+    }
+  ]
+}

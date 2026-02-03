@@ -1,0 +1,25 @@
+{
+  "m_Name": "SkeletonPetQuestItem",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "d3a83058eda200245be55ef07f654224",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "10",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SkeletonPetQuestItem",
+  "loc_key": "Item.SkeletonPetQuestItem",
+  "dropped_by": [
+    {
+      "sourceId": "ElderFinalChest",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "OrcShaman",
+      "chance": 0.1,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "NettleLiquor",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "ae0681484efe0d942ac7654ca9587747",
+  "image_fid": "21300000",
+  "sellPrice": "30",
+  "buyUpPrice": "0.2",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "NettleLiquor",
+  "loc_key": "Item.NettleLiquor"
+}

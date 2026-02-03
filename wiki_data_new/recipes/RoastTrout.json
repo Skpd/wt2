@@ -1,0 +1,21 @@
+{
+  "m_Name": "RoastTrout",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "f2c965b93db94544bb18bedd216498ec",
+      "amount": "1",
+      "name": "Trout",
+      "loc_key": "Item.Trout"
+    }
+  ],
+  "products": [
+    {
+      "guid": "005b6a0c4620d4140a4d7e6095ef8d2f",
+      "amount": "5",
+      "name": "RoastedFishMeat",
+      "loc_key": "Item.RoastedFishMeat"
+    }
+  ],
+  "id": "RoastTrout"
+}

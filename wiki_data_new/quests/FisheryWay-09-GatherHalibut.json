@@ -1,0 +1,23 @@
+{
+  "m_Name": "FisheryWay-09-GatherHalibut",
+  "m_Script": "bbef8bd82ea7ec3f83b28462fb539071",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "ea6c0480facd1544f88dfc66a449df99",
+  "predecessors": [
+    "FisheryWay-08-GatherPike"
+  ],
+  "npcTaker": "ea6c0480facd1544f88dfc66a449df99",
+  "reward": {
+    "money": "5000",
+    "guildXp": "0",
+    "amount": "5",
+    "rewardItem": "79cda299b5e2b4646b39700d455b4cae",
+    "rewardItemName": "Moonshine"
+  },
+  "id": "FisheryWay-09-GatherHalibut",
+  "npcGiverName": "CityFisherPaul",
+  "npcTakerName": "CityFisherPaul",
+  "group": "General"
+}

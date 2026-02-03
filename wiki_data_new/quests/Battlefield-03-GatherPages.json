@@ -1,0 +1,24 @@
+{
+  "m_Name": "Battlefield-03-GatherPages",
+  "m_Script": "bbef8bd82ea7ec3f83b28462fb539071",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "c33919de331a8e64d8dfc5aaa353923e",
+  "predecessors": [
+    "Battlefield-02-KillSkeletonGuard"
+  ],
+  "npcTaker": "c33919de331a8e64d8dfc5aaa353923e",
+  "reward": {
+    "money": "5000",
+    "guildXp": "0",
+    "amount": "1",
+    "rewardItem": "16907fc49d25fbf47bedd9ef53d35296",
+    "bookSkill": "Identify",
+    "rewardItemName": "SkillBookLevel20"
+  },
+  "id": "Battlefield-03-GatherPages",
+  "npcGiverName": "AbandonedBattlefieldFisherElmar",
+  "npcTakerName": "AbandonedBattlefieldFisherElmar",
+  "group": "General"
+}

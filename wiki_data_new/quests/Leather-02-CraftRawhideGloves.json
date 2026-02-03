@@ -1,0 +1,16 @@
+{
+  "m_Name": "Leather-02-CraftRawhideGloves",
+  "m_Script": "8bae99285fb9248eeae7964c5eaf8a95",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "5",
+    "rewardItem": "8bd047932a5033542a570cc9b20e1ae4",
+    "rewardItemName": "SmallRawHide"
+  },
+  "id": "Leather-02-CraftRawhideGloves",
+  "group": "General"
+}

@@ -1,0 +1,19 @@
+{
+  "m_Name": "PinkDust",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "a808f669a22b22b46ab1a20fc92b3475",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "300",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "PinkDust",
+  "loc_key": "Item.PinkDust",
+  "dropped_by": [
+    {
+      "sourceId": "UndeadSwordHalloween",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

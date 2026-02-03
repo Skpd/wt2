@@ -1,0 +1,27 @@
+{
+  "m_Name": "HardenedLeatherTanning",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "a81d8534aab4a694bbf67f01ed2cb9c5",
+      "amount": "1",
+      "name": "MediumLeather",
+      "loc_key": "Item.MediumLeather"
+    },
+    {
+      "guid": "77a7f2d1c6a6177488a19046fcf32bfe",
+      "amount": "1",
+      "name": "Glue",
+      "loc_key": "Item.Glue"
+    }
+  ],
+  "products": [
+    {
+      "guid": "06d69d3293eafb84694ecb1f0a2b7c97",
+      "amount": "1",
+      "name": "HardenedLeather",
+      "loc_key": "Item.HardenedLeather"
+    }
+  ],
+  "id": "HardenedLeatherTanning"
+}

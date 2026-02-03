@@ -1,0 +1,11 @@
+{
+  "m_Name": "MerchantSmokedChicken",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "11bd11d02ed2e4a4ba6a73a370c4db62",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "MerchantSmokedChicken",
+  "loc_key": "Item.MerchantSmokedChicken"
+}

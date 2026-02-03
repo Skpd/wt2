@@ -1,0 +1,11 @@
+{
+  "m_Name": "Salmon",
+  "m_Script": "53d85703288a41ce0e87dcdb381b2599",
+  "image": "ebe3a73ab64d0c749a731078e3fd6438",
+  "image_fid": "21300000",
+  "sellPrice": "600",
+  "buyUpPrice": "22",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Salmon",
+  "loc_key": "Item.Salmon"
+}

@@ -1,0 +1,139 @@
+{
+  "m_Name": "HardenedLeather",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "04bc8a21ef0e65f47869676226632a29",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "4",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "HardenedLeather",
+  "loc_key": "Item.HardenedLeather",
+  "dropped_by": [
+    {
+      "sourceId": "SewersFinalChest",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "sourceId": "SewersFinalChest",
+      "chance": 0.3333333333333333,
+      "min": 2,
+      "max": 6
+    },
+    {
+      "sourceId": "Reaper",
+      "chance": 0.3333333333333333,
+      "min": 2,
+      "max": 8
+    },
+    {
+      "sourceId": "Reaper",
+      "chance": 0.3333333333333333,
+      "min": 3,
+      "max": 9
+    },
+    {
+      "sourceId": "CultistCursedSwordsman",
+      "chance": 0.25,
+      "min": 2,
+      "max": 3
+    },
+    {
+      "sourceId": "CultistCursedSwordsman",
+      "chance": 0.25,
+      "min": 3,
+      "max": 5
+    },
+    {
+      "sourceId": "LizardSpear",
+      "chance": 0.01,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "Weresnake",
+      "chance": 0.01,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "Werecrocodile",
+      "chance": 0.01,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "LizardSpear",
+      "chance": 0.005,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "Weresnake",
+      "chance": 0.005,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "Werecrocodile",
+      "chance": 0.005,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "DemonWeak",
+      "chance": 0.3333333333333333,
+      "min": 6,
+      "max": 12
+    },
+    {
+      "sourceId": "DemonWeak",
+      "chance": 0.3333333333333333,
+      "min": 6,
+      "max": 12
+    },
+    {
+      "sourceId": "DemonBrute",
+      "chance": 0.3333333333333333,
+      "min": 6,
+      "max": 12
+    },
+    {
+      "sourceId": "DemonBrute",
+      "chance": 0.3333333333333333,
+      "min": 6,
+      "max": 12
+    },
+    {
+      "sourceId": "CaveFinalChest",
+      "chance": 1,
+      "min": 4,
+      "max": 15
+    },
+    {
+      "sourceId": "HideoutFinalChest",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "HideoutFinalChest",
+      "chance": 0.3333333333333333,
+      "min": 2,
+      "max": 3
+    },
+    {
+      "sourceId": "WinterForestFinalChest",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "WinterForestFinalChest",
+      "chance": 0.3333333333333333,
+      "min": 2,
+      "max": 3
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "m_Name": "SkullChestShoulders",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "956bd434c4b2d674688ba804149e754f",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "200",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SkullChestShoulders",
+  "loc_key": "Item.SkullChestShoulders",
+  "dropped_by": [
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "CaveFinalChest",
+      "chance": 0.045454545454545456,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

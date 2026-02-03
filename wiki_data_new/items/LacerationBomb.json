@@ -1,0 +1,106 @@
+{
+  "m_Name": "LacerationBomb",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "6fd3022ca407e0a44b5bbd1bac90aa96",
+  "image_fid": "21300000",
+  "sellPrice": "3",
+  "buyUpPrice": "0.1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "entityMaxLevel": "0",
+  "minDamage": "17",
+  "maxDamage": "36",
+  "minPlagueDamage": "0",
+  "maxPlagueDamage": "0",
+  "criticalChance": "0.1",
+  "criticalValue": "1.5",
+  "dismountChance": "0",
+  "splash": "0",
+  "isAOE": "1",
+  "projectileAOERange": "3",
+  "prefabAOEName": "LacerationBomb",
+  "ignoreAvoidingDamage": "1",
+  "ignoreAbsorb": "0.1",
+  "ignoreDefense": "0.2",
+  "abilityName": null,
+  "effectLevelLimit": "0",
+  "effects": [
+    {
+      "effect": {
+        "fileID": "11400000",
+        "guid": "77a6543df4767e44eaf8e0097eef5d80",
+        "type": "2"
+      },
+      "chance": "1",
+      "time": "7"
+    }
+  ],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "0"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  "id": "LacerationBomb",
+  "loc_key": "Item.LacerationBomb",
+  "dropped_by": [
+    {
+      "sourceId": "SewersFinalChest",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "sourceId": "SewersFinalChest",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "sourceId": "SewersFinalChest",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "sourceId": "DwarfOfficer",
+      "chance": 0.007692307692307693,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "Dwarf\u0421ommander",
+      "chance": 0.007692307692307693,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfCursedChampion",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "sourceId": "DwarfCursedChampion",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "sourceId": "DwarfCursedChampion",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "sourceId": "DwarfFortFinalChest",
+      "chance": 0.07142857142857142,
+      "min": 2,
+      "max": 2
+    }
+  ]
+}

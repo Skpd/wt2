@@ -1,0 +1,11 @@
+{
+  "m_Name": "BeefTartare",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "4fd84ed9164a3844c874976c2d37961e",
+  "image_fid": "21300000",
+  "sellPrice": "2000",
+  "buyUpPrice": "100",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BeefTartare",
+  "loc_key": "Item.BeefTartare"
+}

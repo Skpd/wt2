@@ -1,0 +1,21 @@
+{
+  "m_Name": "HareWhite",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "10",
+  "stamina": "100",
+  "level": "1",
+  "walkSpeed": "2",
+  "runSpeed": "3.2",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "1",
+  "mobBehaviour": "104ad351df3bc714e868744b5b1384ea",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "f1b6eff68d8c70848a829fa5d5e1d669",
+  "entityPrefab_fid": "1035617270896672",
+  "entityBonuses": {},
+  "skills": [],
+  "id": "HareWhite",
+  "loc_key": "Entity.HareWhite"
+}

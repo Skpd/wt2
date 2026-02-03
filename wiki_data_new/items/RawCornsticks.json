@@ -1,0 +1,11 @@
+{
+  "m_Name": "RawCornsticks",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "8a996d2ca8fe4744dbf31581c8416252",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "15",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "RawCornsticks",
+  "loc_key": "Item.RawCornsticks"
+}

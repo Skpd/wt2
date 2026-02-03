@@ -1,0 +1,11 @@
+{
+  "m_Name": "UsualHorseBayPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "49ebfac55c8ec5e41ad2542e9b62f1ae",
+  "image_fid": "21300000",
+  "sellPrice": "2000",
+  "buyUpPrice": "50",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "UsualHorseBayPet",
+  "loc_key": "Item.UsualHorseBayPet"
+}

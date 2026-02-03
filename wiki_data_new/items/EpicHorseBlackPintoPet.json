@@ -1,0 +1,11 @@
+{
+  "m_Name": "EpicHorseBlackPintoPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "547c821d24880b74a8396abef816843f",
+  "image_fid": "21300000",
+  "sellPrice": "50000",
+  "buyUpPrice": "300",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "EpicHorseBlackPintoPet",
+  "loc_key": "Item.EpicHorseBlackPintoPet"
+}

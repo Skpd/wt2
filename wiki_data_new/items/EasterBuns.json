@@ -1,0 +1,25 @@
+{
+  "m_Name": "EasterBuns",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "14278f87afb7f754eae793f6ed317198",
+  "image_fid": "21300000",
+  "sellPrice": "500",
+  "buyUpPrice": "10",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "EasterBuns",
+  "loc_key": "Item.EasterBuns",
+  "dropped_by": [
+    {
+      "sourceId": "EasterObjectBasket",
+      "chance": 0.08333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "EasterObjectBasket",
+      "chance": 0.08333333333333333,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

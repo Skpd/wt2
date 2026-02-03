@@ -1,0 +1,11 @@
+{
+  "m_Name": "AmuletQualityFacetedSapphireRandom",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "9f1ef1cbaf8008f4c82196a6c1ffeb84",
+  "image_fid": "21300000",
+  "sellPrice": "10",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "1.5",
+  "id": "AmuletQualityFacetedSapphireRandom",
+  "loc_key": "Item.AmuletQualityFacetedSapphireRandom"
+}

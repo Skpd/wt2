@@ -1,0 +1,16 @@
+{
+  "m_Name": "Smithing-01-MiningCopperDeposit",
+  "m_Script": "b597784dc7837e744b6c4fa47c80a317",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "10",
+    "rewardItem": "e3ed92d5721e0be4ea604add8ea939a2",
+    "rewardItemName": "CopperOre"
+  },
+  "id": "Smithing-01-MiningCopperDeposit",
+  "group": "General"
+}

@@ -1,0 +1,39 @@
+{
+  "m_Name": "CauldronPlagueSpiderInfectedMountSkinProduce",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "cf4f805c412de254fad6d6809fd49b23",
+      "amount": "3",
+      "name": "TransmorphPotionEpic",
+      "loc_key": "Item.TransmorphPotionEpic"
+    },
+    {
+      "guid": "aab859d950dd87448abd12aaf6eda4dd",
+      "amount": "3",
+      "name": "PlagueInfectedSpiderPet",
+      "loc_key": "Item.PlagueInfectedSpiderPet"
+    },
+    {
+      "guid": "ed387302f331ee747acf194bf9720c33",
+      "amount": "30",
+      "name": "LeprousBlood",
+      "loc_key": "Item.LeprousBlood"
+    },
+    {
+      "guid": "e0b0d83c4b91ed541b33a9c10eaa54af",
+      "amount": "30",
+      "name": "LeprousOrgans",
+      "loc_key": "Item.LeprousOrgans"
+    }
+  ],
+  "products": [
+    {
+      "guid": "b6401d15b492b2346876563d017003b5",
+      "amount": "1",
+      "name": "PlagueSpiderInfectedMountSkin",
+      "loc_key": "Item.PlagueSpiderInfectedMountSkin"
+    }
+  ],
+  "id": "CauldronPlagueSpiderInfectedMountSkinProduce"
+}

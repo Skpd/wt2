@@ -1,0 +1,41 @@
+{
+  "m_Name": "FrogLegs",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "3fe31faa1dd078f4984e88e45c4564f1",
+  "image_fid": "21300000",
+  "sellPrice": "20",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "FrogLegs",
+  "loc_key": "Item.FrogLegs",
+  "dropped_by": [
+    {
+      "sourceId": "PlagueFrogLarge",
+      "chance": "0.4",
+      "min": "2",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "PlagueAcidFrog",
+      "chance": "0.3",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "PlagueAcidFrogLarge",
+      "chance": "0.4",
+      "min": "2",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "PlagueFrog",
+      "chance": "0.3",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    }
+  ]
+}

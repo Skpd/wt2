@@ -1,0 +1,59 @@
+{
+  "m_Name": "SwampInsect",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "400",
+  "stamina": "100",
+  "level": "23",
+  "walkSpeed": "2",
+  "runSpeed": "3.5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "2",
+  "mobBehaviour": "a089e3814136a724aa652e787c6ebc2f",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "513545c05d0bafe4d998b4f04810560b",
+  "entityPrefab_fid": "1713597266380338",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "8f5932be2ba31a34eb9d00f104599ad3",
+      "name": "SwampInsectAttack",
+      "minDamage": "25",
+      "maxDamage": "30",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    }
+  ],
+  "id": "SwampInsect",
+  "loc_key": "Entity.SwampInsect",
+  "skinning_drops": [
+    {
+      "itemId": "Chitin",
+      "chance": "1",
+      "min": "2",
+      "max": "4"
+    },
+    {
+      "itemId": "InflamedGallbladder",
+      "chance": "0.7",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "CausticMucus",
+      "chance": "0.05",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "SwampInsectWings",
+      "chance": "0.005",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

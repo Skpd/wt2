@@ -1,0 +1,21 @@
+{
+  "m_Name": "MushroomBoletusBake",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "78bf0fe1b0cd94a43bff1090c7dc7ebc",
+      "amount": "1",
+      "name": "RawMushroomBoletus",
+      "loc_key": "Item.RawMushroomBoletus"
+    }
+  ],
+  "products": [
+    {
+      "guid": "88a419031a203304db1ab26f5336d6d4",
+      "amount": "1",
+      "name": "BakedMushroom",
+      "loc_key": "Item.BakedMushroom"
+    }
+  ],
+  "id": "MushroomBoletusBake"
+}

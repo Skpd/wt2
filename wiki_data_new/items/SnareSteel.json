@@ -1,0 +1,208 @@
+{
+  "m_Name": "SnareSteel",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "22e0fd23146837a429db0ee4b4b536f7",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "1.7",
+  "entityMaxLevel": "0",
+  "minDamage": "0",
+  "maxDamage": "0",
+  "minPlagueDamage": "0",
+  "maxPlagueDamage": "0",
+  "criticalChance": "0",
+  "criticalValue": "0",
+  "dismountChance": "0",
+  "splash": "0",
+  "isAOE": "0",
+  "projectileAOERange": "0",
+  "prefabAOEName": null,
+  "ignoreAvoidingDamage": "1",
+  "ignoreAbsorb": "1",
+  "ignoreDefense": "0",
+  "abilityName": null,
+  "effectLevelLimit": "60",
+  "effects": [
+    {
+      "effect": {
+        "fileID": "11400000",
+        "guid": "f9212bbc070368f4fbc28e73bf0809d8",
+        "type": "2"
+      },
+      "chance": "1",
+      "time": "5"
+    }
+  ],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "0"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  "id": "SnareSteel",
+  "loc_key": "Item.SnareSteel",
+  "dropped_by": [
+    {
+      "sourceId": "SkeletonKnight",
+      "chance": 0.0125,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "SkeletonGuard",
+      "chance": 0.0125,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "Reaper",
+      "chance": 0.0125,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "SkeletonKnight",
+      "chance": 0.00625,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "SkeletonGuard",
+      "chance": 0.00625,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "Reaper",
+      "chance": 0.00625,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "Reaper",
+      "chance": 0.05714285714285715,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "sourceId": "Reaper",
+      "chance": 0.05714285714285715,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "sourceId": "Reaper",
+      "chance": 0.05714285714285715,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "sourceId": "CultistRisenSwordsman",
+      "chance": 0.0125,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "CultistRisenSwordsman",
+      "chance": 0.00625,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "CultistRisenSwordsman",
+      "chance": 0.03,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "CultistCursedSwordsman",
+      "chance": 0.0375,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "sourceId": "CultistCursedSwordsman",
+      "chance": 0.0375,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "sourceId": "LizardSpear",
+      "chance": 0.01,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "Weresnake",
+      "chance": 0.01,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "Werecrocodile",
+      "chance": 0.01,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "LizardSpear",
+      "chance": 0.005,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "Weresnake",
+      "chance": 0.005,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "Werecrocodile",
+      "chance": 0.005,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "DemonWeak",
+      "chance": 0.125,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "sourceId": "DemonWeak",
+      "chance": 0.125,
+      "min": 2,
+      "max": 8
+    },
+    {
+      "sourceId": "DemonWeak",
+      "chance": 0.125,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "sourceId": "DemonBrute",
+      "chance": 0.125,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "sourceId": "DemonBrute",
+      "chance": 0.125,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "sourceId": "DemonBrute",
+      "chance": 0.125,
+      "min": 1,
+      "max": 10
+    }
+  ]
+}

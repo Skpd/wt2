@@ -1,0 +1,11 @@
+{
+  "m_Name": "XmasGift",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "c64ac0e7bbd2a2344b96eae67c4ca73e",
+  "image_fid": "21300000",
+  "sellPrice": "0",
+  "buyUpPrice": "0",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "XmasGift",
+  "loc_key": "Item.XmasGift"
+}

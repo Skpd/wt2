@@ -1,0 +1,125 @@
+{
+  "m_Name": "RawDeadFlesh",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "af55232b98dab284196a12aff8d26a2e",
+  "image_fid": "21300000",
+  "sellPrice": "10",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "RawDeadFlesh",
+  "loc_key": "Item.RawDeadFlesh",
+  "dropped_by": [
+    {
+      "sourceId": "UndeadMageDragonKeeper",
+      "chance": "0.3",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "UndeadSwordHalloween",
+      "chance": "0.3",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "UndeadMage",
+      "chance": "0.3",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "WolfDark",
+      "chance": "0.2",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Undead",
+      "chance": "0.3",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "UndeadAxe",
+      "chance": "0.3",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "UndeadDragonServant",
+      "chance": "0.3",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "UndeadSword",
+      "chance": "0.3",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "LivingFlesh",
+      "chance": "0.6",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "WolfDarkLarge",
+      "chance": "0.5",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "UndeadDungeon",
+      "chance": "0.3",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "UndeadAxeDungeon",
+      "chance": "0.3",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "UndeadMace",
+      "chance": "0.3",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "UndeadPickaxeDungeon",
+      "chance": "0.3",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "UndeadDragonKeeper",
+      "chance": "0.3",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "UndeadMaceDragonKeeper",
+      "chance": "0.3",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    }
+  ]
+}

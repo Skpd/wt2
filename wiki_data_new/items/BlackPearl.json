@@ -1,0 +1,11 @@
+{
+  "m_Name": "BlackPearl",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "12fe2f554fe1b114aa34ff694b6fea93",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "500",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BlackPearl",
+  "loc_key": "Item.BlackPearl"
+}

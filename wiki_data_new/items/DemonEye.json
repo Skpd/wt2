@@ -1,0 +1,31 @@
+{
+  "m_Name": "DemonEye",
+  "m_Script": "420e0e364fdb917921d229f1b4a22ed9",
+  "image": "b95a3e8a67cdafe40b904f54f3872e70",
+  "image_fid": "21300000",
+  "sellPrice": "5000",
+  "buyUpPrice": "500",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "DemonEye",
+  "loc_key": "Item.DemonEye",
+  "dropped_by": [
+    {
+      "sourceId": "LizardSpear",
+      "chance": 0.005,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "Weresnake",
+      "chance": 0.005,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "Werecrocodile",
+      "chance": 0.005,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

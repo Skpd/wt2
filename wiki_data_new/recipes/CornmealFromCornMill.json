@@ -1,0 +1,21 @@
+{
+  "m_Name": "CornmealFromCornMill",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "aebe102c41faf5244a68b74a8bc1aaaa",
+      "amount": "1",
+      "name": "Corn",
+      "loc_key": "Item.Corn"
+    }
+  ],
+  "products": [
+    {
+      "guid": "e4afcb35be1707449ab630abda40da87",
+      "amount": "3",
+      "name": "Cornmeal",
+      "loc_key": "Item.Cornmeal"
+    }
+  ],
+  "id": "CornmealFromCornMill"
+}

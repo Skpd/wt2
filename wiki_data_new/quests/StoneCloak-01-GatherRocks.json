@@ -1,0 +1,16 @@
+{
+  "m_Name": "StoneCloak-01-GatherRocks",
+  "m_Script": "b597784dc7837e744b6c4fa47c80a317",
+  "line": "4",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "1",
+    "rewardItem": "590e9f94129736d4099351de1397f2ba",
+    "rewardItemName": "StoneCloak"
+  },
+  "id": "StoneCloak-01-GatherRocks",
+  "group": "General"
+}

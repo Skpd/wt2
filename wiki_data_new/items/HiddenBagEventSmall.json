@@ -1,0 +1,11 @@
+{
+  "m_Name": "HiddenBagEventSmall",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "84822017963284c4ab7cffde8646aaff",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "2000",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "HiddenBagEventSmall",
+  "loc_key": "Item.HiddenBagEventSmall"
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "RawBeefTartare",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "d2bb6ac18874b974fa02937339b50882",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "15",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "RawBeefTartare",
+  "loc_key": "Item.RawBeefTartare"
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "FlySkullPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "03f3d0db5e13a1a4590c751ad1a7a7e7",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "FlySkullPet",
+  "loc_key": "Item.FlySkullPet"
+}

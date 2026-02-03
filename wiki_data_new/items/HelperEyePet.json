@@ -1,0 +1,11 @@
+{
+  "m_Name": "HelperEyePet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "00046901b52a35646af2c8a65f9410ca",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "HelperEyePet",
+  "loc_key": "Item.HelperEyePet"
+}

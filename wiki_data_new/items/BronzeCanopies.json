@@ -1,0 +1,11 @@
+{
+  "m_Name": "BronzeCanopies",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "ebeefc1a9a644834b91c0cea080b5677",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "1.2",
+  "id": "BronzeCanopies",
+  "loc_key": "Item.BronzeCanopies"
+}

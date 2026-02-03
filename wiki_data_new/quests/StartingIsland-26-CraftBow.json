@@ -1,0 +1,21 @@
+{
+  "m_Name": "StartingIsland-26-CraftBow",
+  "m_Script": "8bae99285fb9248eeae7964c5eaf8a95",
+  "line": "1",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "b7136c05b76423a4f812abddafd5560b",
+  "predecessors": [
+    "StartingIsland-25-TalkToHermit"
+  ],
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "50",
+    "rewardItem": "60532c05e90765e42afb8ce4364a6073",
+    "rewardItemName": "FireArrow"
+  },
+  "id": "StartingIsland-26-CraftBow",
+  "npcGiverName": "StartingIslandHermit",
+  "group": "General"
+}

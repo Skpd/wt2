@@ -1,0 +1,43 @@
+{
+  "m_Name": "SmallHide",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "06373528e85c7e04d94c61e976968f02",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.3",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SmallHide",
+  "loc_key": "Item.SmallHide",
+  "dropped_by": [
+    {
+      "sourceId": "ElderBasementMaterial",
+      "chance": 0.14285714285714285,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "ElderBasementMaterial",
+      "chance": 0.07142857142857142,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "GodsendObstacle",
+      "chance": 0.07692307692307693,
+      "min": 2,
+      "max": 3
+    },
+    {
+      "sourceId": "GodsendGraveyard",
+      "chance": 0.05555555555555555,
+      "min": 2,
+      "max": 3
+    },
+    {
+      "sourceId": "GodsendMainland",
+      "chance": 0.05555555555555555,
+      "min": 2,
+      "max": 3
+    }
+  ]
+}

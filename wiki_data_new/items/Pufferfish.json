@@ -1,0 +1,11 @@
+{
+  "m_Name": "Pufferfish",
+  "m_Script": "53d85703288a41ce0e87dcdb381b2599",
+  "image": "6d6731dd01dfe5345b7e86b235ddaff7",
+  "image_fid": "21300000",
+  "sellPrice": "400",
+  "buyUpPrice": "24",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Pufferfish",
+  "loc_key": "Item.Pufferfish"
+}

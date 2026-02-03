@@ -1,0 +1,19 @@
+{
+  "m_Name": "LeprousBonePowder",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "e37761b32014edf47a7dbafaa8ffebc3",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.2",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "LeprousBonePowder",
+  "loc_key": "Item.LeprousBonePowder",
+  "dropped_by": [
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.3,
+      "min": 1,
+      "max": 4
+    }
+  ]
+}

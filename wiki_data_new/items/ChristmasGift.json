@@ -1,0 +1,55 @@
+{
+  "m_Name": "ChristmasGift",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "28da9a66a9285514693455d705e56540",
+  "image_fid": "21300000",
+  "sellPrice": "0",
+  "buyUpPrice": "0",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "ChristmasGift",
+  "loc_key": "Item.ChristmasGift",
+  "dropped_by": [
+    {
+      "sourceId": "UndeadDragonServant",
+      "chance": 0.05,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "UndeadDragonServant",
+      "chance": 0.07,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "UndeadDragonServant",
+      "chance": 0.1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "UndeadDragonServant",
+      "chance": 0.12,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "UndeadDragonServant",
+      "chance": 0.15,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DragonRex",
+      "chance": 1,
+      "min": 4,
+      "max": 6
+    },
+    {
+      "sourceId": "WinterForestFinalChest",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

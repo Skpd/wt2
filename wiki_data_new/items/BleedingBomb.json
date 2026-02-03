@@ -1,0 +1,256 @@
+{
+  "m_Name": "BleedingBomb",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "0396058c240f49c43bd5347682cc3d02",
+  "image_fid": "21300000",
+  "sellPrice": "3",
+  "buyUpPrice": "0.1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "entityMaxLevel": "0",
+  "minDamage": "9",
+  "maxDamage": "15",
+  "minPlagueDamage": "0",
+  "maxPlagueDamage": "0",
+  "criticalChance": "0",
+  "criticalValue": "1",
+  "dismountChance": "0",
+  "splash": "0",
+  "isAOE": "1",
+  "projectileAOERange": "4",
+  "prefabAOEName": "BleedingBomb",
+  "ignoreAvoidingDamage": "1",
+  "ignoreAbsorb": "0.1",
+  "ignoreDefense": "0",
+  "abilityName": null,
+  "effectLevelLimit": "0",
+  "effects": [
+    {
+      "effect": {
+        "fileID": "11400000",
+        "guid": "1fa776eb33783ba41a96bd31159d64d2",
+        "type": "2"
+      },
+      "chance": "1",
+      "time": "10"
+    }
+  ],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "0"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  "id": "BleedingBomb",
+  "loc_key": "Item.BleedingBomb",
+  "dropped_by": [
+    {
+      "sourceId": "SewersFinalChest",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "sourceId": "SewersFinalChest",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "sourceId": "SewersFinalChest",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "sourceId": "SewersFinalChest",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "sourceId": "SewersFinalChest",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "sourceId": "SewersFinalChest",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "sourceId": "DwarfEngineer",
+      "chance": 0.0062499999999999995,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfEngineer",
+      "chance": 0.0062499999999999995,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfAmbusher",
+      "chance": 0.008333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfSoldier",
+      "chance": 0.008333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfOfficer",
+      "chance": 0.008333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "Dwarf\u0421ommander",
+      "chance": 0.008333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfAmbusher",
+      "chance": 0.008333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfSoldier",
+      "chance": 0.008333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfOfficer",
+      "chance": 0.008333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "Dwarf\u0421ommander",
+      "chance": 0.008333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfSoldier",
+      "chance": 0.006666666666666667,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfSoldier",
+      "chance": 0.006666666666666667,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfOfficer",
+      "chance": 0.007692307692307693,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "Dwarf\u0421ommander",
+      "chance": 0.007692307692307693,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfOfficer",
+      "chance": 0.007692307692307693,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "Dwarf\u0421ommander",
+      "chance": 0.007692307692307693,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfCursedChampion",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "sourceId": "DwarfCursedChampion",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "sourceId": "DwarfCursedChampion",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "sourceId": "DwarfCursedChampion",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "sourceId": "DwarfCursedChampion",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "sourceId": "DwarfCursedChampion",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "sourceId": "DwarfFortFinalChest",
+      "chance": 0.07142857142857142,
+      "min": 2,
+      "max": 2
+    },
+    {
+      "sourceId": "DwarfFortFinalChest",
+      "chance": 0.07142857142857142,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "HideoutFinalChest",
+      "chance": 0.07692307692307693,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "HideoutFinalChest",
+      "chance": 0.07692307692307693,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "WinterForestFinalChest",
+      "chance": 0.07692307692307693,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "WinterForestFinalChest",
+      "chance": 0.07692307692307693,
+      "min": 1,
+      "max": 2
+    }
+  ]
+}

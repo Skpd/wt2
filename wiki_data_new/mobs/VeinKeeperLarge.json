@@ -1,0 +1,100 @@
+{
+  "m_Name": "VeinKeeperLarge",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "2500",
+  "stamina": "100",
+  "level": "38",
+  "walkSpeed": "3.5",
+  "runSpeed": "3.5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "6",
+  "mobBehaviour": "1ffb7607b4dfea441a4aafc9f96b3976",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "1c6976647b71b2d479cb4f5490100e7c",
+  "entityPrefab_fid": "1028310465591690",
+  "entityBonuses": {
+    "Absorption": "25",
+    "IgnoreSlowdown": "1",
+    "IgnoreBloodDots": "1",
+    "IgnoreFireDots": "1"
+  },
+  "skills": [
+    {
+      "id": "aa06fb86a4daead4e9cf8a5cac44c61a",
+      "name": "VeinKeeperAttackLarge",
+      "minDamage": "60",
+      "maxDamage": "85",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0.3",
+      "ignoreDefense": "0.3",
+      "criticalChance": "0",
+      "criticalValue": "0"
+    }
+  ],
+  "id": "VeinKeeperLarge",
+  "loc_key": "Entity.VeinKeeperLarge",
+  "skinning_drops": [
+    {
+      "itemId": "StoneCloakDecorQuestItem",
+      "chance": "0.01",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "Boulder",
+      "chance": "1",
+      "min": "9",
+      "max": "18"
+    },
+    {
+      "itemId": "Limestone",
+      "chance": "1",
+      "min": "15",
+      "max": "30"
+    },
+    {
+      "itemId": "TinOre",
+      "chance": "1",
+      "min": "15",
+      "max": "30"
+    },
+    {
+      "itemId": "Coal",
+      "chance": "1",
+      "min": "9",
+      "max": "18"
+    },
+    {
+      "itemId": "IronRawOre",
+      "chance": "0.6",
+      "min": "6",
+      "max": "9"
+    },
+    {
+      "itemId": "MagmaCrystal",
+      "chance": "0.1",
+      "min": "3",
+      "max": "3"
+    },
+    {
+      "itemId": "Salt",
+      "chance": "0.2",
+      "min": "2",
+      "max": "6"
+    },
+    {
+      "itemId": "Sulfur",
+      "chance": "0.2",
+      "min": "3",
+      "max": "6"
+    },
+    {
+      "itemId": "GolemHeart",
+      "chance": "0.015",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

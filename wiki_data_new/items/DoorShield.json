@@ -1,0 +1,49 @@
+{
+  "m_Name": "DoorShield",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "532f9582b706baf41a17719a7d75157e",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "300",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "DoorShield",
+  "loc_key": "Item.DoorShield",
+  "dropped_by": [
+    {
+      "sourceId": "DwarfAmbusher",
+      "chance": 0.005,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfSoldier",
+      "chance": 0.005,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfOfficer",
+      "chance": 0.005,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "Dwarf\u0421ommander",
+      "chance": 0.005,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfFortFinalChest",
+      "chance": 0.25,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

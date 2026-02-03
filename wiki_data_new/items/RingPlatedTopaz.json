@@ -1,0 +1,11 @@
+{
+  "m_Name": "RingPlatedTopaz",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "6e191162e7a476d428582fe507115bd3",
+  "image_fid": "21300000",
+  "sellPrice": "100",
+  "buyUpPrice": "100",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "RingPlatedTopaz",
+  "loc_key": "Item.RingPlatedTopaz"
+}

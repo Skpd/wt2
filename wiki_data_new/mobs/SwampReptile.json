@@ -1,0 +1,69 @@
+{
+  "m_Name": "SwampReptile",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "1000",
+  "stamina": "100",
+  "level": "35",
+  "walkSpeed": "2.5",
+  "runSpeed": "4",
+  "image": "1a2d1e3ebdf138b47811fc0a41e65e26",
+  "image_fid": "21300000",
+  "entityClass": "9",
+  "mobBehaviour": "a089e3814136a724aa652e787c6ebc2f",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "1767a172174b6ac4fb44c38c891a41c8",
+  "entityPrefab_fid": "1258126833307157",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "d4a2aacac268a474599a8181b25f8bca",
+      "name": "SwampReptileAttack",
+      "minDamage": "40",
+      "maxDamage": "50",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "e212818a6969cc845b60bca93009923f",
+      "name": "SwampReptileChop",
+      "minDamage": "100",
+      "maxDamage": "100",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "1",
+      "criticalValue": "1"
+    }
+  ],
+  "id": "SwampReptile",
+  "loc_key": "Entity.SwampReptile",
+  "skinning_drops": [
+    {
+      "itemId": "InfectedRawHide",
+      "chance": "0.3",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "InflamedGallbladder",
+      "chance": "1",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "CausticMucus",
+      "chance": "0.1",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "SwampReptileClaw",
+      "chance": "0.01",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

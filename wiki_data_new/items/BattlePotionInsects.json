@@ -1,0 +1,11 @@
+{
+  "m_Name": "BattlePotionInsects",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "34ddae9ec16dc934abcd6fa14de30533",
+  "image_fid": "21300000",
+  "sellPrice": "2500",
+  "buyUpPrice": "50",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BattlePotionInsects",
+  "loc_key": "Item.BattlePotionInsects"
+}

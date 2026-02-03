@@ -1,0 +1,27 @@
+{
+  "m_Name": "FeedChickenWheat",
+  "m_Script": "37d6a230f8991a4267be4fd19e466e02",
+  "resources": [
+    {
+      "guid": "429d3fcf5e2248b49a62089fa3accb7f",
+      "amount": "5",
+      "name": "Wheat",
+      "loc_key": "Item.Wheat"
+    }
+  ],
+  "products": [
+    {
+      "guid": "c96ca6b2e2e6df4438568cec07873777",
+      "amount": "1",
+      "name": "WildEggs",
+      "loc_key": "Item.WildEggs"
+    },
+    {
+      "guid": "82841f21dbdaf5141b76cbbedc2117a8",
+      "amount": "1",
+      "name": "BirdDroppings",
+      "loc_key": "Item.BirdDroppings"
+    }
+  ],
+  "id": "FeedChickenWheat"
+}

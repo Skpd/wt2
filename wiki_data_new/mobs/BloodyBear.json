@@ -1,0 +1,86 @@
+{
+  "m_Name": "BloodyBear",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "1000",
+  "stamina": "100",
+  "level": "30",
+  "walkSpeed": "1.7",
+  "runSpeed": "4",
+  "image": "7869cb72d27d4d64ca972e9015738044",
+  "image_fid": "21300000",
+  "entityClass": "10",
+  "mobBehaviour": "1ffb7607b4dfea441a4aafc9f96b3976",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "b1ae3052ac88694409d367243800e8e1",
+  "entityPrefab_fid": "1854737034290000",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "76f8413f855559f4a9e103467ebb920e",
+      "name": "BloodyBearAttack",
+      "minDamage": "35",
+      "maxDamage": "50",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "750b37ff5dd8aa04898d717c4a8aac2f",
+      "name": "BloodyBearClaws",
+      "minDamage": "35",
+      "maxDamage": "50",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "2c3def5545bc6b74892da954c47a09c1",
+      "name": "BloodyBearFortitude"
+    }
+  ],
+  "id": "BloodyBear",
+  "loc_key": "Entity.BloodyBear",
+  "icon_path": "textures/bloody_bear.png",
+  "skinning_drops": [
+    {
+      "itemId": "InfectedBearHead",
+      "chance": "1",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "InfectedRawHide",
+      "chance": "1",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "InflamedGallbladder",
+      "chance": "1",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "Maggot",
+      "chance": "1",
+      "min": "2",
+      "max": "6"
+    },
+    {
+      "itemId": "Intestines",
+      "chance": "1",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "BearPaw",
+      "chance": "0.01",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

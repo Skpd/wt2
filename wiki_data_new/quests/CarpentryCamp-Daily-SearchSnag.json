@@ -1,0 +1,21 @@
+{
+  "m_Name": "CarpentryCamp-Daily-SearchSnag",
+  "m_Script": "b597784dc7837e744b6c4fa47c80a317",
+  "line": "0",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "92438ab9d3ff4204da74b38b6dd67dcd",
+  "predecessors": [
+    "CarpentryCamp-09-ObtainHeatproofWood"
+  ],
+  "npcTaker": "c691fc22711f7524f903f7d5151967b9",
+  "reward": {
+    "money": "1000",
+    "guildXp": "0",
+    "amount": "0"
+  },
+  "id": "CarpentryCamp-Daily-SearchSnag",
+  "npcGiverName": "CarpentryCampDailyQuests",
+  "npcTakerName": "CarpentryCampOakcrusher",
+  "group": "Daily"
+}

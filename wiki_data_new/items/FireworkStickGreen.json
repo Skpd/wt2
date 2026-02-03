@@ -1,0 +1,19 @@
+{
+  "m_Name": "FireworkStickGreen",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "80b37edeac0f36147b30198d5e7a7ea3",
+  "image_fid": "21300000",
+  "sellPrice": "500",
+  "buyUpPrice": "0",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "FireworkStickGreen",
+  "loc_key": "Item.FireworkStickGreen",
+  "dropped_by": [
+    {
+      "sourceId": "Krampus",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

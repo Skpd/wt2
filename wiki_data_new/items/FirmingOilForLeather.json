@@ -1,0 +1,11 @@
+{
+  "m_Name": "FirmingOilForLeather",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "8104bf03f36e366499f49e832daee914",
+  "image_fid": "21300000",
+  "sellPrice": "200",
+  "buyUpPrice": "40",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "FirmingOilForLeather",
+  "loc_key": "Item.FirmingOilForLeather"
+}

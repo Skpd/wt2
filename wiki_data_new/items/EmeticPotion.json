@@ -1,0 +1,11 @@
+{
+  "m_Name": "EmeticPotion",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "14427e2732d82fa4a85cccda7b6ac047",
+  "image_fid": "21300000",
+  "sellPrice": "100",
+  "buyUpPrice": "5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "EmeticPotion",
+  "loc_key": "Item.EmeticPotion"
+}

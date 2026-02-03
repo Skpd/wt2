@@ -1,0 +1,25 @@
+{
+  "m_Name": "DemonHeart",
+  "m_Script": "420e0e364fdb917921d229f1b4a22ed9",
+  "image": "957425e086d59cc45859930ac8c9099a",
+  "image_fid": "21300000",
+  "sellPrice": "5000",
+  "buyUpPrice": "500",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "DemonHeart",
+  "loc_key": "Item.DemonHeart",
+  "dropped_by": [
+    {
+      "sourceId": "DemonWeak",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DemonBrute",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

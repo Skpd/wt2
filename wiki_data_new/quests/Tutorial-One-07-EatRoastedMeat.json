@@ -1,0 +1,14 @@
+{
+  "m_Name": "Tutorial-One-07-EatRoastedMeat",
+  "m_Script": "89aba7364ee1a5f43756e7fab3dfb3b6",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "0"
+  },
+  "id": "Tutorial-One-07-EatRoastedMeat",
+  "group": "General"
+}

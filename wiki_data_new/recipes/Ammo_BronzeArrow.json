@@ -1,0 +1,33 @@
+{
+  "m_Name": "Ammo_BronzeArrow",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "7116c98df77e4d646851ee71d3618990",
+      "amount": "5",
+      "name": "BronzeArrowhead",
+      "loc_key": "Item.BronzeArrowhead"
+    },
+    {
+      "guid": "34f152c775f0a6b438e1d0825d8896ef",
+      "amount": "25",
+      "name": "WoodSticks",
+      "loc_key": "Item.WoodSticks"
+    },
+    {
+      "guid": "3f4a5da5efd8d65408890d34180dde7f",
+      "amount": "10",
+      "name": "Feather",
+      "loc_key": "Item.Feather"
+    }
+  ],
+  "products": [
+    {
+      "guid": "7d1b85fdcf341e84d9119fa1b5bc4e49",
+      "amount": "50",
+      "name": "BronzeArrow",
+      "loc_key": "Item.BronzeArrow"
+    }
+  ],
+  "id": "Ammo_BronzeArrow"
+}

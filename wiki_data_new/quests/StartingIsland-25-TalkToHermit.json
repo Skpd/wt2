@@ -1,0 +1,16 @@
+{
+  "m_Name": "StartingIsland-25-TalkToHermit",
+  "m_Script": "3f34cf8edd22a94fa4186474bfc1a0fe",
+  "line": "1",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcTaker": "b7136c05b76423a4f812abddafd5560b",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "0"
+  },
+  "id": "StartingIsland-25-TalkToHermit",
+  "npcTakerName": "StartingIslandHermit",
+  "group": "General"
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "RawPorkTenderloin",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "e77a15ca2579e3f45acda81126d8c18a",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "3",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "RawPorkTenderloin",
+  "loc_key": "Item.RawPorkTenderloin"
+}

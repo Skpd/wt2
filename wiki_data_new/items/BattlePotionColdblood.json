@@ -1,0 +1,11 @@
+{
+  "m_Name": "BattlePotionColdblood",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "5535d58a45d052c46878b5d9da00ff0c",
+  "image_fid": "21300000",
+  "sellPrice": "2500",
+  "buyUpPrice": "50",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BattlePotionColdblood",
+  "loc_key": "Item.BattlePotionColdblood"
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "BarleyPorridge",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "e09e5a22d787930479a774e8be18e047",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BarleyPorridge",
+  "loc_key": "Item.BarleyPorridge"
+}

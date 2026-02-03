@@ -1,0 +1,11 @@
+{
+  "m_Name": "ElephantMount",
+  "m_Script": "f5673bd2393c13a27685bda14e28f91a",
+  "image": "136a4ba7031ddaa4aaba1b2742d5ce44",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "ElephantMount",
+  "loc_key": "Item.ElephantMount"
+}

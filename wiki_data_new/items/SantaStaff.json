@@ -1,0 +1,59 @@
+{
+  "m_Name": "SantaStaff",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "72b68edfdd6b0874ba8c352877d244fb",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "10",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "entityMaxLevel": "0",
+  "minDamage": "26",
+  "maxDamage": "33",
+  "minPlagueDamage": "0",
+  "maxPlagueDamage": "0",
+  "criticalChance": "0.1",
+  "criticalValue": "1.5",
+  "dismountChance": "0",
+  "splash": "0",
+  "isAOE": "0",
+  "projectileAOERange": "0",
+  "prefabAOEName": null,
+  "ignoreAvoidingDamage": "0",
+  "ignoreAbsorb": "0.1",
+  "ignoreDefense": "0.1",
+  "abilityName": null,
+  "effectLevelLimit": "0",
+  "effects": [
+    {
+      "effect": {
+        "fileID": "11400000",
+        "guid": "a26f8b57a56ecc54c8454b0f06d6be26",
+        "type": "2"
+      },
+      "chance": "0.1",
+      "time": "4"
+    }
+  ],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "0"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  "id": "SantaStaff",
+  "loc_key": "Item.SantaStaff",
+  "icon_path": "textures/SantaStaff.png",
+  "dropped_by": [
+    {
+      "sourceId": "Krampus",
+      "chance": 0.07,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

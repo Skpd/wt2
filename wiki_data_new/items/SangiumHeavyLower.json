@@ -1,0 +1,11 @@
+{
+  "m_Name": "SangiumHeavyLower",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "b370c7b5e1bb3ef4d8e17f9cdbed719b",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "3720",
+  "craftMaterialsBuyUpPricePercent": "2",
+  "id": "SangiumHeavyLower",
+  "loc_key": "Item.SangiumHeavyLower"
+}

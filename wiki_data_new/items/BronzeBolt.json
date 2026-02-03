@@ -1,0 +1,11 @@
+{
+  "m_Name": "BronzeBolt",
+  "m_Script": "b2cd456c67ed7fbd493e563aaef7330a",
+  "image": "429f704710410a44d9ecc78a9d53aebf",
+  "image_fid": "21300000",
+  "sellPrice": "10",
+  "buyUpPrice": "1.2485001",
+  "craftMaterialsBuyUpPricePercent": "1.1",
+  "id": "BronzeBolt",
+  "loc_key": "Item.BronzeBolt"
+}

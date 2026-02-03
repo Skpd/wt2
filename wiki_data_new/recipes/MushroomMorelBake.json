@@ -1,0 +1,21 @@
+{
+  "m_Name": "MushroomMorelBake",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "f1f8e0b6276b65143925d637f18bc8d3",
+      "amount": "1",
+      "name": "RawMushroomMorels",
+      "loc_key": "Item.RawMushroomMorels"
+    }
+  ],
+  "products": [
+    {
+      "guid": "88a419031a203304db1ab26f5336d6d4",
+      "amount": "1",
+      "name": "BakedMushroom",
+      "loc_key": "Item.BakedMushroom"
+    }
+  ],
+  "id": "MushroomMorelBake"
+}

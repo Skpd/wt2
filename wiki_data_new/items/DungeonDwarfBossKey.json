@@ -1,0 +1,19 @@
+{
+  "m_Name": "DungeonDwarfBossKey",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "734c3ef90ed90e1448eb17704b20d78a",
+  "image_fid": "21300000",
+  "sellPrice": "0",
+  "buyUpPrice": "0",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "DungeonDwarfBossKey",
+  "loc_key": "Item.DungeonDwarfBossKey",
+  "dropped_by": [
+    {
+      "sourceId": "GiantBeetle",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

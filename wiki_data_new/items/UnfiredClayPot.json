@@ -1,0 +1,11 @@
+{
+  "m_Name": "UnfiredClayPot",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "b503ee847806cc54c813f0c0a7b95214",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "UnfiredClayPot",
+  "loc_key": "Item.UnfiredClayPot"
+}

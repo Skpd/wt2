@@ -1,0 +1,115 @@
+{
+  "m_Name": "SkillBookLevel10",
+  "m_Script": "b16db3d39d738f81b76a135cf01093de",
+  "image": "d743b582c4643674cb4987241078e42b",
+  "image_fid": "21300000",
+  "sellPrice": "4000",
+  "buyUpPrice": "300",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SkillBookLevel10",
+  "loc_key": "Item.SkillBookLevel10",
+  "dropped_by": [
+    {
+      "sourceId": "UndeadDragonServant",
+      "chance": 0.1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "SkeletonHalloweenWarrior",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DementedElf",
+      "chance": 0.2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.8,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "MausoleumBossChest",
+      "chance": 0.2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "GraveyardMausoleumWarriorsChest",
+      "chance": 0.2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HideoutFinalChest",
+      "chance": 0.3,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "WinterForestFinalChest",
+      "chance": 0.35,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "GodsendObstacle",
+      "chance": 0.01,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "GodsendMainland",
+      "chance": 0.01,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "GodsendGraveyard",
+      "chance": 0.03,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "GodsendMainlandSouth",
+      "chance": 0.03,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "GodsendWinter",
+      "chance": 0.03,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "CultistSwordsman",
+      "chance": 0.2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "OrcShaman",
+      "chance": 0.4,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "ChurchFinalChest",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "RustyChest",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

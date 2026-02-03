@@ -1,0 +1,25 @@
+{
+  "m_Name": "DarkUnfilteredBeer",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "375a98875f2b4eb439414946b170f236",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "15",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "DarkUnfilteredBeer",
+  "loc_key": "Item.DarkUnfilteredBeer",
+  "dropped_by": [
+    {
+      "sourceId": "ElderFinalChest",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "UndeadAxeDungeon",
+      "chance": 0.005,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

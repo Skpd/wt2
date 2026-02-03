@@ -1,0 +1,154 @@
+{
+  "m_Name": "CausticMucus",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "3c0bf2d3a78a0c24f81867e7b182da94",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "20",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "CausticMucus",
+  "loc_key": "Item.CausticMucus",
+  "icon_path": "textures/CausticMucus.png",
+  "dropped_by": [
+    {
+      "sourceId": "DragonSnake",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Weresnake",
+      "chance": "0.5",
+      "min": "2",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "ScorpionBoss",
+      "chance": "1",
+      "min": "6",
+      "max": "12",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "VespomorphLarge",
+      "chance": "0.1",
+      "min": "3",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "SwampReptileLarge",
+      "chance": "0.2",
+      "min": "3",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "SwampReptile",
+      "chance": "0.1",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Viper",
+      "chance": "0.2",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "SwampInsect",
+      "chance": "0.05",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Scorpion",
+      "chance": "0.15",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "SwampSlugLarge",
+      "chance": "0.14",
+      "min": "3",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "SwampSlug",
+      "chance": "0.07",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Vespomorph",
+      "chance": "0.05",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "SwampInsectLarge",
+      "chance": "0.05",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "ScorpionLarge",
+      "chance": "0.15",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Ghoul",
+      "chance": "0.1",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "PlagueAcidSpiderLarge",
+      "chance": "0.03",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "GhoulDungeon",
+      "chance": "0.07",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "PlagueAcidFrog",
+      "chance": "0.05",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "PlagueAcidFrogLarge",
+      "chance": "0.075",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "PlagueAcidSpider",
+      "chance": "0.02",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    }
+  ]
+}

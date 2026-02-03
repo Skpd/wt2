@@ -1,0 +1,61 @@
+{
+  "m_Name": "IronShovel",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "82844b559f7e12b4bafa7c756ded0a70",
+  "image_fid": "21300000",
+  "sellPrice": "6000",
+  "buyUpPrice": "126.299995",
+  "craftMaterialsBuyUpPricePercent": "1.5",
+  "entityMaxLevel": "0",
+  "minDamage": "15",
+  "maxDamage": "20",
+  "minPlagueDamage": "0",
+  "maxPlagueDamage": "0",
+  "criticalChance": "0.1",
+  "criticalValue": "1.5",
+  "dismountChance": "0",
+  "splash": "1",
+  "isAOE": "0",
+  "projectileAOERange": "0",
+  "prefabAOEName": null,
+  "ignoreAvoidingDamage": "0",
+  "ignoreAbsorb": "0",
+  "ignoreDefense": "0",
+  "abilityName": null,
+  "effectLevelLimit": "0",
+  "effects": [],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "0"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  "id": "IronShovel",
+  "loc_key": "Item.IronShovel",
+  "icon_path": "textures/IronShovel.png",
+  "dropped_by": [
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "m_Name": "CarpentryCamp-Daily-ItemCraftWoodPlanks",
+  "m_Script": "8bae99285fb9248eeae7964c5eaf8a95",
+  "line": "0",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "92438ab9d3ff4204da74b38b6dd67dcd",
+  "predecessors": [
+    "CarpentryCamp-09-ObtainHeatproofWood"
+  ],
+  "npcTaker": "860dcc9b67deabf47b8c22508ece8568",
+  "reward": {
+    "money": "1000",
+    "guildXp": "0",
+    "amount": "0"
+  },
+  "id": "CarpentryCamp-Daily-ItemCraftWoodPlanks",
+  "npcGiverName": "CarpentryCampDailyQuests",
+  "npcTakerName": "CarpentryCampBonan",
+  "group": "Daily"
+}

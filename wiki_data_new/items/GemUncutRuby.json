@@ -1,0 +1,315 @@
+{
+  "m_Name": "GemUncutRuby",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "1aec9053c1cdcfd4f8725ea31ae9f639",
+  "image_fid": "21300000",
+  "sellPrice": "500",
+  "buyUpPrice": "50",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "GemUncutRuby",
+  "loc_key": "Item.GemUncutRuby",
+  "dropped_by": [
+    {
+      "sourceId": "SewersFinalChest",
+      "chance": 0.2,
+      "min": 4,
+      "max": 7
+    },
+    {
+      "sourceId": "SewersGodsendMaterial",
+      "chance": 0.06,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "AbandonedBattlefieldSpidersWeb",
+      "chance": 0.02,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "GodsendMainlandSouth",
+      "chance": 0.08333333333333333,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "SkeletonKnight",
+      "chance": 0.02,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "SkeletonGuard",
+      "chance": 0.02,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "Reaper",
+      "chance": 0.02,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "Reaper",
+      "chance": 0.08333333333333333,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "Reaper",
+      "chance": 0.08333333333333333,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "CultistRisenSwordsman",
+      "chance": 0.02,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "CultistCursedSwordsman",
+      "chance": 0.1,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "CultistCursedSwordsman",
+      "chance": 0.06,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "LizardSpear",
+      "chance": 0.04,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "Weresnake",
+      "chance": 0.04,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "Werecrocodile",
+      "chance": 0.04,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "LizardSpear",
+      "chance": 0.02,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "Weresnake",
+      "chance": 0.02,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "Werecrocodile",
+      "chance": 0.02,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "DemonWeak",
+      "chance": 0.08333333333333333,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "DemonWeak",
+      "chance": 0.08333333333333333,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "DemonBrute",
+      "chance": 0.14285714285714285,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "DemonBrute",
+      "chance": 0.08333333333333333,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "DemonBrute",
+      "chance": 0.08333333333333333,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "UndeadSwordHalloween",
+      "chance": 0.025,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "CursedKobold",
+      "chance": 0.2,
+      "min": 2,
+      "max": 3
+    },
+    {
+      "sourceId": "CursedKobold",
+      "chance": 0.1,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "CursedKobold",
+      "chance": 0.04,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "MineKobold",
+      "chance": 0.02,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "UndeadPickaxeDungeon",
+      "chance": 0.016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "UndeadAxe",
+      "chance": 0.016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "UndeadMace",
+      "chance": 0.016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "UndeadSword",
+      "chance": 0.016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "UndeadMage",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "MountainDwarf",
+      "chance": 0.016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfDigger",
+      "chance": 0.016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfEngineer",
+      "chance": 0.016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfAmbusher",
+      "chance": 0.016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfSoldier",
+      "chance": 0.016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfOfficer",
+      "chance": 0.016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "Dwarf\u0421ommander",
+      "chance": 0.016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfAmbusherHideout",
+      "chance": 0.049999999999999996,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "ChurchGodsendMoney",
+      "chance": 0.04,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "ChurchGodsendMoney",
+      "chance": 0.02,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "ChurchGodsendMoney",
+      "chance": 0.01,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "ChurchFinalChest",
+      "chance": 0.2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HideoutFinalChest",
+      "chance": 0.2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "WinterForestFinalChest",
+      "chance": 0.2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "UndergroundGuardian",
+      "chance": "0.05",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "UndergroundGuardianLarge",
+      "chance": "0.1",
+      "min": "3",
+      "max": "6",
+      "type": "Skinning"
+    }
+  ]
+}

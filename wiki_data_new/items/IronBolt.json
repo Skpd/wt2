@@ -1,0 +1,11 @@
+{
+  "m_Name": "IronBolt",
+  "m_Script": "b2cd456c67ed7fbd493e563aaef7330a",
+  "image": "1de97e58157e91041a6335faaec7cc9f",
+  "image_fid": "21300000",
+  "sellPrice": "10",
+  "buyUpPrice": "0.1243",
+  "craftMaterialsBuyUpPricePercent": "1.1",
+  "id": "IronBolt",
+  "loc_key": "Item.IronBolt"
+}

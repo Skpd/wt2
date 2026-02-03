@@ -1,0 +1,11 @@
+{
+  "m_Name": "PetEssenceRare",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "29d42b5591bafe04098d7b11e3ce662f",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "PetEssenceRare",
+  "loc_key": "Item.PetEssenceRare"
+}

@@ -1,0 +1,31 @@
+{
+  "m_Name": "LeprousLeather",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "037fd1380f3c6b647a583374c33f021e",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.2",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "LeprousLeather",
+  "loc_key": "Item.LeprousLeather",
+  "dropped_by": [
+    {
+      "sourceId": "PlagueDragon",
+      "chance": 0.7,
+      "min": 10,
+      "max": 50
+    },
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.15,
+      "min": 2,
+      "max": 3
+    },
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.5,
+      "min": 2,
+      "max": 5
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "m_Name": "HardenedLeatherBelt",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "8734373718002ce478fedd5df474b064",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "116.32185",
+  "craftMaterialsBuyUpPricePercent": "1.5",
+  "id": "HardenedLeatherBelt",
+  "loc_key": "Item.HardenedLeatherBelt",
+  "icon_path": "textures/HardenedLeatherBelt.png",
+  "dropped_by": [
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

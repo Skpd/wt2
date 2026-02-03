@@ -1,0 +1,27 @@
+{
+  "m_Name": "Stone_HewnMarblestoneBoulder",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "42be4e6d291d7d64fa67b9a0f005d5b8",
+      "amount": "4",
+      "name": "MarblestoneBoulder",
+      "loc_key": "Item.MarblestoneBoulder"
+    },
+    {
+      "guid": "f10ceebbac2b97b4d920db3cb7ec1c67",
+      "amount": "8",
+      "name": "HewnMarblestone",
+      "loc_key": "Item.HewnMarblestone"
+    }
+  ],
+  "products": [
+    {
+      "guid": "a4077f1c5bef73e498d8a9d5a8072d7a",
+      "amount": "5",
+      "name": "HewnMarblestoneBoulder",
+      "loc_key": "Item.HewnMarblestoneBoulder"
+    }
+  ],
+  "id": "Stone_HewnMarblestoneBoulder"
+}

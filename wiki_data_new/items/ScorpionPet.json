@@ -1,0 +1,11 @@
+{
+  "m_Name": "ScorpionPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "a965ff683e55d804d94c13ba4fc78a55",
+  "image_fid": "21300000",
+  "sellPrice": "400",
+  "buyUpPrice": "400",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "ScorpionPet",
+  "loc_key": "Item.ScorpionPet"
+}

@@ -1,0 +1,12 @@
+{
+  "m_Name": "KeepersHeartOil",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "f3415b5e9041f7743ab17447d541c321",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "20",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "KeepersHeartOil",
+  "loc_key": "Item.KeepersHeartOil",
+  "icon_path": "textures/KeepersHeartOil.png"
+}

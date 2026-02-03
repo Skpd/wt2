@@ -1,0 +1,19 @@
+{
+  "m_Name": "ReaperMedallion",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "d58f0da1c8fe2854fa5790b4e7406149",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "500",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "ReaperMedallion",
+  "loc_key": "Item.ReaperMedallion",
+  "dropped_by": [
+    {
+      "sourceId": "Reaper",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

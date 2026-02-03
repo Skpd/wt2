@@ -1,0 +1,16 @@
+{
+  "m_Name": "MainLand-03-GatherClay",
+  "m_Script": "bbef8bd82ea7ec3f83b28462fb539071",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "20",
+    "rewardItem": "a83980bfedbb3934586ec062e50447fb",
+    "rewardItemName": "Clay"
+  },
+  "id": "MainLand-03-GatherClay",
+  "group": "General"
+}

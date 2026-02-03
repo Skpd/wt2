@@ -1,0 +1,73 @@
+{
+  "m_Name": "PumpkinPiece",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "d72a7c4f88f17ea4a989121c242a9bfd",
+  "image_fid": "21300000",
+  "sellPrice": "10",
+  "buyUpPrice": "0.05",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "PumpkinPiece",
+  "loc_key": "Item.PumpkinPiece",
+  "dropped_by": [
+    {
+      "sourceId": "HalloweenGodsend",
+      "chance": 0.07142857142857142,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "HalloweenGodsend",
+      "chance": 0.07142857142857142,
+      "min": 2,
+      "max": 4
+    },
+    {
+      "sourceId": "HalloweenGodsend",
+      "chance": 0.07142857142857142,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "HalloweenGodsend",
+      "chance": 0.07142857142857142,
+      "min": 2,
+      "max": 4
+    },
+    {
+      "sourceId": "HalloweenGrave",
+      "chance": 0.08333333333333333,
+      "min": 2,
+      "max": 4
+    },
+    {
+      "sourceId": "HalloweenGrave",
+      "chance": 0.08333333333333333,
+      "min": 2,
+      "max": 4
+    },
+    {
+      "sourceId": "HalloweenGrave",
+      "chance": 0.05714285714285715,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "sourceId": "HalloweenGrave",
+      "chance": 0.05714285714285715,
+      "min": 2,
+      "max": 4
+    },
+    {
+      "sourceId": "UndeadSwordHalloween",
+      "chance": 0.08333333333333333,
+      "min": 3,
+      "max": 6
+    },
+    {
+      "sourceId": "UndeadSwordHalloween",
+      "chance": 0.08333333333333333,
+      "min": 2,
+      "max": 4
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "m_Name": "MorbiumHeavyHelmet",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "5a64e0b950cd1584584d0cb60b820b7b",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1476.8",
+  "craftMaterialsBuyUpPricePercent": "2",
+  "id": "MorbiumHeavyHelmet",
+  "loc_key": "Item.MorbiumHeavyHelmet",
+  "dropped_by": [
+    {
+      "sourceId": "PlagueDragon",
+      "chance": 0.024999999999999998,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "FatOgre",
+      "chance": 0.008333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "UndeadPickaxeDungeon",
+      "chance": 0.00016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "UndeadAxeDungeon",
+      "chance": 0.00016666666666666666,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

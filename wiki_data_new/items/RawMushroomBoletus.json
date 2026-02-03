@@ -1,0 +1,11 @@
+{
+  "m_Name": "RawMushroomBoletus",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "8b76a750afc6099459f9f22e452276b0",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.05",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "RawMushroomBoletus",
+  "loc_key": "Item.RawMushroomBoletus"
+}

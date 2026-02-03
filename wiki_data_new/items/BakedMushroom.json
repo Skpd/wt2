@@ -1,0 +1,43 @@
+{
+  "m_Name": "BakedMushroom",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "96e88770bcd30fe4c9a0511591db2a9b",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "2",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BakedMushroom",
+  "loc_key": "Item.BakedMushroom",
+  "dropped_by": [
+    {
+      "sourceId": "ElderBasementMaterial",
+      "chance": 0.14285714285714285,
+      "min": 2,
+      "max": 2
+    },
+    {
+      "sourceId": "GodsendGraveyard",
+      "chance": 0.06818181818181818,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "sourceId": "GodsendMainland",
+      "chance": 0.06818181818181818,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "sourceId": "HideoutGodsensBody",
+      "chance": 0.041666666666666664,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "sourceId": "GodsendWinter",
+      "chance": 0.07692307692307693,
+      "min": 1,
+      "max": 4
+    }
+  ]
+}

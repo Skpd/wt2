@@ -1,0 +1,11 @@
+{
+  "m_Name": "ElvenCloack",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "5375f4df0f92ce7419beebfb20859dc2",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "ElvenCloack",
+  "loc_key": "Item.ElvenCloack"
+}

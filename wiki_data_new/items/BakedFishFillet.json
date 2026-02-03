@@ -1,0 +1,11 @@
+{
+  "m_Name": "BakedFishFillet",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "08a2c29e3a2f0c94d9ce71f8d7ae6350",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "30",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BakedFishFillet",
+  "loc_key": "Item.BakedFishFillet"
+}

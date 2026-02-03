@@ -1,0 +1,11 @@
+{
+  "m_Name": "CrabPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "b196582e450538a47945fc6e54699d6c",
+  "image_fid": "21300000",
+  "sellPrice": "20",
+  "buyUpPrice": "20",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "CrabPet",
+  "loc_key": "Item.CrabPet"
+}

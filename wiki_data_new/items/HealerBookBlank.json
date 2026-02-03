@@ -1,0 +1,19 @@
+{
+  "m_Name": "HealerBookBlank",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "357efa1d9e16c5c428ea56d3546984d6",
+  "image_fid": "21300000",
+  "sellPrice": "500",
+  "buyUpPrice": "100",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "HealerBookBlank",
+  "loc_key": "Item.HealerBookBlank",
+  "dropped_by": [
+    {
+      "sourceId": "UndeadMage",
+      "chance": 0.1,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

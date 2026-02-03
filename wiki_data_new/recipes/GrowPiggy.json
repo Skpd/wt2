@@ -1,0 +1,20 @@
+{
+  "m_Name": "GrowPiggy",
+  "m_Script": "37d6a230f8991a4267be4fd19e466e02",
+  "resources": [
+    {
+      "guid": "7b4badd85a98ba4499ac0306a2406a10",
+      "amount": "1",
+      "name": "FodderPiggy",
+      "loc_key": "Item.FodderPiggy"
+    },
+    {
+      "guid": "27d507923a0f91a489ebecc6d7e70fd4",
+      "amount": "1",
+      "name": "Water",
+      "loc_key": "Item.Water"
+    }
+  ],
+  "products": [],
+  "id": "GrowPiggy"
+}

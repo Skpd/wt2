@@ -1,0 +1,23 @@
+{
+  "m_Name": "FisheryGatherCarp",
+  "m_Script": "bbef8bd82ea7ec3f83b28462fb539071",
+  "line": "0",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "ea6c0480facd1544f88dfc66a449df99",
+  "predecessors": [
+    "FisheryWay-07-GatherCarp"
+  ],
+  "npcTaker": "2058711686d49784387315eeba6ff568",
+  "reward": {
+    "money": "1000",
+    "guildXp": "0",
+    "amount": "5",
+    "rewardItem": "27e5c0819ded16541901dadcb385e4d3",
+    "rewardItemName": "BakedFishFillet"
+  },
+  "id": "FisheryGatherCarp",
+  "npcGiverName": "CityFisherPaul",
+  "npcTakerName": "CityCookPatty",
+  "group": "Daily"
+}

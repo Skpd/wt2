@@ -1,0 +1,11 @@
+{
+  "m_Name": "Grain",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "86f0b76e44deeb043abe46c0f5d63041",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.05",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Grain",
+  "loc_key": "Item.Grain"
+}

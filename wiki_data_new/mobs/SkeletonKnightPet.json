@@ -1,0 +1,106 @@
+{
+  "m_Name": "SkeletonKnightPet",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "1",
+  "stamina": "100",
+  "level": "1",
+  "walkSpeed": "1.6",
+  "runSpeed": "3.5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "4",
+  "mobBehaviour": {
+    "fileID": "0"
+  },
+  "entityPrefab": "98549401f56eb134baa125a6bce93b23",
+  "entityPrefab_fid": "1298603832291023",
+  "entityBonuses": {
+    "IgnoreBloodDots": "1"
+  },
+  "skills": [
+    {
+      "id": "5304f9d88189d2342830ce48ca08d3dd",
+      "name": "SkeletonKnightPetAttack",
+      "minDamage": "40",
+      "maxDamage": "60",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "7aca958f21e976e46b6c4bb31cc84488",
+      "name": "SkeletonKnightPetAttack2",
+      "minDamage": "40",
+      "maxDamage": "60",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "7e01c922b0cddbd419075e983f087785",
+      "name": "SkeletonKnightPetAttack3",
+      "minDamage": "30",
+      "maxDamage": "50",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "74b05a1fe8ce52d468528a40e807f17e",
+      "name": "SkeletonKnightPetBuff"
+    }
+  ],
+  "id": "SkeletonKnightPet",
+  "loc_key": "Entity.SkeletonKnightPet",
+  "skinning_drops": [
+    {
+      "itemId": "MediumRawHide",
+      "chance": "1",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "RawBoarMeat",
+      "chance": "1",
+      "min": "3",
+      "max": "4"
+    },
+    {
+      "itemId": "RawAnimalFat",
+      "chance": "1",
+      "min": "2",
+      "max": "3"
+    },
+    {
+      "itemId": "Intestines",
+      "chance": "0.5",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "AnimalStomach",
+      "chance": "0.01",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "BoarTusk",
+      "chance": "0.01",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "OrganicsClot",
+      "chance": "1",
+      "min": "2",
+      "max": "3"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "RawLoafBread",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "0ddec4e6fc8618243ae2406f743c9eae",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "3",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "RawLoafBread",
+  "loc_key": "Item.RawLoafBread"
+}

@@ -1,0 +1,23 @@
+{
+  "m_Name": "Halloween-03-KillWitch",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "6",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "4a1e3234210c65c4ca409eefa714207e",
+  "predecessors": [
+    "Halloween-02-CraftBroomstickMount"
+  ],
+  "npcTaker": "4a1e3234210c65c4ca409eefa714207e",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "1",
+    "rewardItem": "5f6b328781981dd44a0363140af40342",
+    "rewardItemName": "WitchHat"
+  },
+  "id": "Halloween-03-KillWitch",
+  "npcGiverName": "JunkerRagnara",
+  "npcTakerName": "JunkerRagnara",
+  "group": "General"
+}

@@ -1,0 +1,79 @@
+{
+  "m_Name": "GatherNoviceQuestItem",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "061a85f331d488e4c87b42e61555c100",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "200",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "GatherNoviceQuestItem",
+  "loc_key": "Item.GatherNoviceQuestItem",
+  "dropped_by": [
+    {
+      "sourceId": "GodsendObstacle",
+      "chance": 0.035,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "GodsendGraveyard",
+      "chance": 0.005,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "GodsendMainland",
+      "chance": 0.005,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "GodsendMainlandSouth",
+      "chance": 0.0075,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "SkeletonUnarmed",
+      "chance": 0.005,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "SkeletonWithStone",
+      "chance": 0.005,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "CultistSwordsman",
+      "chance": 0.05,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "SkeletonWarrior",
+      "chance": 0.0025,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "SkeletonRanger",
+      "chance": 0.0025,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "CultistGhostSwordsman",
+      "chance": 0.025,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HideoutGodsensBody",
+      "chance": 0.0025,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

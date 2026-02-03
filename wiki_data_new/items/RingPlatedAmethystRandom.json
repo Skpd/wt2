@@ -1,0 +1,11 @@
+{
+  "m_Name": "RingPlatedAmethystRandom",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "fb2fc25a52c736b4abc87cbe3dd82a5c",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "1.3",
+  "id": "RingPlatedAmethystRandom",
+  "loc_key": "Item.RingPlatedAmethystRandom"
+}

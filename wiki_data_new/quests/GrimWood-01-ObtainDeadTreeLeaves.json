@@ -1,0 +1,23 @@
+{
+  "m_Name": "GrimWood-01-ObtainDeadTreeLeaves",
+  "m_Script": "a33fbc2ed7ad8fe58f2dcfb6e1a39cab",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "8ce3812143aff1846a638c1c38186604",
+  "predecessors": [
+    "GrimWood-00-ObtainGrimWoodInfectedSlivers"
+  ],
+  "npcTaker": "8ce3812143aff1846a638c1c38186604",
+  "reward": {
+    "money": "500",
+    "guildXp": "0",
+    "amount": "3",
+    "rewardItem": "7190ebe0348477c438d8128d3d2aa034",
+    "rewardItemName": "DarkCraftedBeerVampire"
+  },
+  "id": "GrimWood-01-ObtainDeadTreeLeaves",
+  "npcGiverName": "PlagueCargoHoldHead",
+  "npcTakerName": "PlagueCargoHoldHead",
+  "group": "General"
+}

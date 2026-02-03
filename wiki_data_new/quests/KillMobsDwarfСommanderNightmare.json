@@ -1,0 +1,23 @@
+{
+  "m_Name": "KillMobsDwarf\u0421ommanderNightmare",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "0",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "e5ba14d4b44a1d14e9671ecf011a5bc6",
+  "predecessors": [
+    "Boss-04-KillTreeEnt"
+  ],
+  "npcTaker": "876f3c2fb7d15044aa3b6d235cf3d3cf",
+  "reward": {
+    "money": "8000",
+    "guildXp": "0",
+    "amount": "5",
+    "rewardItem": "e68acf752b0bd3842b083c80ced4f6de",
+    "rewardItemName": "SangiumIngot"
+  },
+  "id": "KillMobsDwarf\u0421ommanderNightmare",
+  "npcGiverName": "MainIslandTownDailyHardcoreQuests",
+  "npcTakerName": "CitySmithHank",
+  "group": "Daily"
+}

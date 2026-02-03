@@ -1,0 +1,21 @@
+{
+  "m_Name": "RoastCarp",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "af991b0763c857249bba9ecc7bac954d",
+      "amount": "1",
+      "name": "Carp",
+      "loc_key": "Item.Carp"
+    }
+  ],
+  "products": [
+    {
+      "guid": "005b6a0c4620d4140a4d7e6095ef8d2f",
+      "amount": "3",
+      "name": "RoastedFishMeat",
+      "loc_key": "Item.RoastedFishMeat"
+    }
+  ],
+  "id": "RoastCarp"
+}

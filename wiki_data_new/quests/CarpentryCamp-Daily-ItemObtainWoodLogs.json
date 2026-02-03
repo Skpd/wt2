@@ -1,0 +1,23 @@
+{
+  "m_Name": "CarpentryCamp-Daily-ItemObtainWoodLogs",
+  "m_Script": "a33fbc2ed7ad8fe58f2dcfb6e1a39cab",
+  "line": "0",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "92438ab9d3ff4204da74b38b6dd67dcd",
+  "predecessors": [
+    "CarpentryCamp-09-ObtainHeatproofWood"
+  ],
+  "npcTaker": "c691fc22711f7524f903f7d5151967b9",
+  "reward": {
+    "money": "1000",
+    "guildXp": "0",
+    "amount": "1",
+    "rewardItem": "3eeb8c0cb2e73834eb542e3ba7a35fda",
+    "rewardItemName": "WoodVarnish"
+  },
+  "id": "CarpentryCamp-Daily-ItemObtainWoodLogs",
+  "npcGiverName": "CarpentryCampDailyQuests",
+  "npcTakerName": "CarpentryCampOakcrusher",
+  "group": "Daily"
+}

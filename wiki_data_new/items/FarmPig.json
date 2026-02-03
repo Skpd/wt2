@@ -1,0 +1,11 @@
+{
+  "m_Name": "FarmPig",
+  "m_Script": "19aae51a76263c851ea99fd1d6839342",
+  "image": "b3ec9f30c258dc34e96c269602ee90d2",
+  "image_fid": "21300000",
+  "sellPrice": "15000",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "FarmPig",
+  "loc_key": "Item.FarmPig"
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "RawHuntingSausages",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "33a429c430ebd454fa84c7af0880bd95",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "2",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "RawHuntingSausages",
+  "loc_key": "Item.RawHuntingSausages"
+}

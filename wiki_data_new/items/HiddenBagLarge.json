@@ -1,0 +1,12 @@
+{
+  "m_Name": "HiddenBagLarge",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "a2c28ce77bde7a14dae9605112a95e3c",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "13102.023",
+  "craftMaterialsBuyUpPricePercent": "1.1",
+  "id": "HiddenBagLarge",
+  "loc_key": "Item.HiddenBagLarge",
+  "icon_path": "textures/HiddenBagLarge.png"
+}

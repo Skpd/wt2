@@ -1,0 +1,11 @@
+{
+  "m_Name": "OrganicFertilizer",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "90001caa57241e940893bbd385e09708",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "6.2204995",
+  "craftMaterialsBuyUpPricePercent": "1.3",
+  "id": "OrganicFertilizer",
+  "loc_key": "Item.OrganicFertilizer"
+}

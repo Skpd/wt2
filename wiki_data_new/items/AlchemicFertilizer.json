@@ -1,0 +1,11 @@
+{
+  "m_Name": "AlchemicFertilizer",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "6512c6113426d2d49a7e6db931854059",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "50.988",
+  "craftMaterialsBuyUpPricePercent": "1.5",
+  "id": "AlchemicFertilizer",
+  "loc_key": "Item.AlchemicFertilizer"
+}

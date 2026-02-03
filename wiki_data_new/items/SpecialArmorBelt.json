@@ -1,0 +1,11 @@
+{
+  "m_Name": "SpecialArmorBelt",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "2a662b696f04b9547907163ceb231d35",
+  "image_fid": "21300000",
+  "sellPrice": "1000",
+  "buyUpPrice": "100",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SpecialArmorBelt",
+  "loc_key": "Item.SpecialArmorBelt"
+}

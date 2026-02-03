@@ -1,0 +1,21 @@
+{
+  "m_Name": "Saw_WoodPlanks",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "a75227aa7a5c43e4f9d09c8b43cc38e3",
+      "amount": "4",
+      "name": "WoodLogs",
+      "loc_key": "Item.WoodLogs"
+    }
+  ],
+  "products": [
+    {
+      "guid": "e6d3f8a649a7bc547b8935c137321cbc",
+      "amount": "10",
+      "name": "WoodPlanks",
+      "loc_key": "Item.WoodPlanks"
+    }
+  ],
+  "id": "Saw_WoodPlanks"
+}

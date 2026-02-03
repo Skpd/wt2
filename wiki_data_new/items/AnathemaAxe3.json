@@ -1,0 +1,50 @@
+{
+  "m_Name": "AnathemaAxe3",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "d82de11db3fbc284fa6dcd8f3429f1bf",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "3004.6318",
+  "craftMaterialsBuyUpPricePercent": "0.9",
+  "entityMaxLevel": "0",
+  "minDamage": "34",
+  "maxDamage": "59",
+  "minPlagueDamage": "0",
+  "maxPlagueDamage": "0",
+  "criticalChance": "0.1",
+  "criticalValue": "1.5",
+  "dismountChance": "0",
+  "splash": "1",
+  "isAOE": "0",
+  "projectileAOERange": "0",
+  "prefabAOEName": null,
+  "ignoreAvoidingDamage": "0",
+  "ignoreAbsorb": "0",
+  "ignoreDefense": "0",
+  "abilityName": null,
+  "effectLevelLimit": "0",
+  "effects": [
+    {
+      "effect": {
+        "fileID": "11400000",
+        "guid": "1fa776eb33783ba41a96bd31159d64d2",
+        "type": "2"
+      },
+      "chance": "0.11",
+      "time": "4"
+    }
+  ],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "0"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  "id": "AnathemaAxe3",
+  "loc_key": "Item.AnathemaAxe3"
+}

@@ -1,0 +1,23 @@
+{
+  "m_Name": "Easter-Daily-ObtainHoney",
+  "m_Script": "a33fbc2ed7ad8fe58f2dcfb6e1a39cab",
+  "line": "8",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "23b5f2c62fb06a147afb6b6229f6313d",
+  "predecessors": [
+    "Easter-10-ObtainEasterBasketSweets"
+  ],
+  "npcTaker": "23b5f2c62fb06a147afb6b6229f6313d",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "5",
+    "rewardItem": "c493499d65224bf47991022be7f98f97",
+    "rewardItemName": "EasterCandy"
+  },
+  "id": "Easter-Daily-ObtainHoney",
+  "npcGiverName": "EasterMrBunny",
+  "npcTakerName": "EasterMrBunny",
+  "group": "Daily"
+}

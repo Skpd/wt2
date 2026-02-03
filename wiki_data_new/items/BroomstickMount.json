@@ -1,0 +1,11 @@
+{
+  "m_Name": "BroomstickMount",
+  "m_Script": "f5673bd2393c13a27685bda14e28f91a",
+  "image": "5535b778ae7a5e9479a9395ac555866b",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BroomstickMount",
+  "loc_key": "Item.BroomstickMount"
+}

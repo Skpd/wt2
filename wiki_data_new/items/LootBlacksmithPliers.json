@@ -1,0 +1,25 @@
+{
+  "m_Name": "LootBlacksmithPliers",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "a5d99f139400f97479dc6281a39f273c",
+  "image_fid": "21300000",
+  "sellPrice": "500",
+  "buyUpPrice": "125",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "LootBlacksmithPliers",
+  "loc_key": "Item.LootBlacksmithPliers",
+  "dropped_by": [
+    {
+      "sourceId": "DwarfEngineer",
+      "chance": 0.09090909090909091,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfFortGodsendMaterial",
+      "chance": 0.045454545454545456,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

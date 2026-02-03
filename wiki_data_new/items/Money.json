@@ -1,0 +1,494 @@
+{
+  "m_Name": "Money",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "ffa450d9fc0da1747b02912cf9a13303",
+  "image_fid": "21300000",
+  "sellPrice": "0",
+  "buyUpPrice": "0",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Money",
+  "loc_key": "Item.Money",
+  "icon_path": "textures/money.png",
+  "dropped_by": [
+    {
+      "sourceId": "SewersFinalChest",
+      "chance": 1,
+      "min": 9000,
+      "max": 15000
+    },
+    {
+      "sourceId": "ElderFinalChest",
+      "chance": 1,
+      "min": 100,
+      "max": 250
+    },
+    {
+      "sourceId": "PlagueCityBrokenFurniture",
+      "chance": 1,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "sourceId": "PlagueCityCorpses",
+      "chance": 0.2,
+      "min": 25,
+      "max": 20
+    },
+    {
+      "sourceId": "PlagueSkeletonsCorpses",
+      "chance": 0.25,
+      "min": 20,
+      "max": 60
+    },
+    {
+      "sourceId": "BattlefieldGodsend",
+      "chance": 0.6,
+      "min": 30,
+      "max": 70
+    },
+    {
+      "sourceId": "EasterObjectBasket",
+      "chance": 0.25,
+      "min": 5,
+      "max": 50
+    },
+    {
+      "sourceId": "GodsendObstacle",
+      "chance": 0.2,
+      "min": 1,
+      "max": 12
+    },
+    {
+      "sourceId": "GodsendGraveyard",
+      "chance": 0.2,
+      "min": 2,
+      "max": 30
+    },
+    {
+      "sourceId": "GodsendMainland",
+      "chance": 0.2,
+      "min": 2,
+      "max": 30
+    },
+    {
+      "sourceId": "GodsendMainlandSouth",
+      "chance": 0.25,
+      "min": 5,
+      "max": 50
+    },
+    {
+      "sourceId": "RustyChest",
+      "chance": 1,
+      "min": 10,
+      "max": 40
+    },
+    {
+      "sourceId": "SkeletonUnarmed",
+      "chance": 0.3,
+      "min": 1,
+      "max": 12
+    },
+    {
+      "sourceId": "SkeletonWithStone",
+      "chance": 0.3,
+      "min": 1,
+      "max": 12
+    },
+    {
+      "sourceId": "SkeletonKnight",
+      "chance": 1,
+      "min": 200,
+      "max": 500
+    },
+    {
+      "sourceId": "SkeletonGuard",
+      "chance": 1,
+      "min": 200,
+      "max": 500
+    },
+    {
+      "sourceId": "Reaper",
+      "chance": 1,
+      "min": 2000,
+      "max": 5000
+    },
+    {
+      "sourceId": "CultistRisenSwordsman",
+      "chance": 1,
+      "min": 300,
+      "max": 600
+    },
+    {
+      "sourceId": "CultistCursedSwordsman",
+      "chance": 1,
+      "min": 1000,
+      "max": 3000
+    },
+    {
+      "sourceId": "CultistSwordsman",
+      "chance": 1,
+      "min": 20,
+      "max": 30
+    },
+    {
+      "sourceId": "SkeletonWarrior",
+      "chance": 0.3,
+      "min": 5,
+      "max": 25
+    },
+    {
+      "sourceId": "SkeletonRanger",
+      "chance": 0.3,
+      "min": 5,
+      "max": 25
+    },
+    {
+      "sourceId": "SkeletonBossEvent",
+      "chance": 0.5,
+      "min": 25,
+      "max": 70
+    },
+    {
+      "sourceId": "SkeletonGuardEvent",
+      "chance": 0.5,
+      "min": 25,
+      "max": 70
+    },
+    {
+      "sourceId": "SkeletonKnightEvent",
+      "chance": 0.5,
+      "min": 25,
+      "max": 70
+    },
+    {
+      "sourceId": "SkeletonBoss",
+      "chance": 0.8,
+      "min": 10,
+      "max": 50
+    },
+    {
+      "sourceId": "LizardSpear",
+      "chance": 1,
+      "min": 400,
+      "max": 700
+    },
+    {
+      "sourceId": "Weresnake",
+      "chance": 1,
+      "min": 300,
+      "max": 600
+    },
+    {
+      "sourceId": "Werecrocodile",
+      "chance": 1,
+      "min": 600,
+      "max": 900
+    },
+    {
+      "sourceId": "DemonWeak",
+      "chance": 1,
+      "min": 8000,
+      "max": 12000
+    },
+    {
+      "sourceId": "DemonBrute",
+      "chance": 1,
+      "min": 20000,
+      "max": 30000
+    },
+    {
+      "sourceId": "UndeadDragonServant",
+      "chance": 1,
+      "min": 1,
+      "max": 250
+    },
+    {
+      "sourceId": "SkeletonHalloweenWarrior",
+      "chance": 1,
+      "min": 100,
+      "max": 500
+    },
+    {
+      "sourceId": "UndeadSwordHalloween",
+      "chance": 1,
+      "min": 500,
+      "max": 1000
+    },
+    {
+      "sourceId": "Witch",
+      "chance": 1,
+      "min": 500,
+      "max": 1000
+    },
+    {
+      "sourceId": "MausoleumGodsensBones",
+      "chance": 0.1,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "DragonRex",
+      "chance": 1,
+      "min": 2500,
+      "max": 5500
+    },
+    {
+      "sourceId": "DwarfWorker",
+      "chance": 0.1,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "sourceId": "DementedElf",
+      "chance": 1,
+      "min": 100,
+      "max": 500
+    },
+    {
+      "sourceId": "CursedKobold",
+      "chance": 1,
+      "min": 300,
+      "max": 800
+    },
+    {
+      "sourceId": "MineKobold",
+      "chance": 0.5,
+      "min": 50,
+      "max": 80
+    },
+    {
+      "sourceId": "PlagueDragon",
+      "chance": 1,
+      "min": 5000,
+      "max": 30000
+    },
+    {
+      "sourceId": "FatOgre",
+      "chance": 1,
+      "min": 1000,
+      "max": 5000
+    },
+    {
+      "sourceId": "UndeadPickaxeDungeon",
+      "chance": 0.5,
+      "min": 30,
+      "max": 120
+    },
+    {
+      "sourceId": "UndeadAxeDungeon",
+      "chance": 0.5,
+      "min": 30,
+      "max": 120
+    },
+    {
+      "sourceId": "UndeadAxe",
+      "chance": 0.8,
+      "min": 100,
+      "max": 300
+    },
+    {
+      "sourceId": "UndeadMace",
+      "chance": 0.8,
+      "min": 100,
+      "max": 300
+    },
+    {
+      "sourceId": "UndeadSword",
+      "chance": 0.8,
+      "min": 100,
+      "max": 300
+    },
+    {
+      "sourceId": "UndeadMage",
+      "chance": 1,
+      "min": 200,
+      "max": 500
+    },
+    {
+      "sourceId": "MountainDwarf",
+      "chance": 0.1,
+      "min": 20,
+      "max": 120
+    },
+    {
+      "sourceId": "DwarfDigger",
+      "chance": 0.1,
+      "min": 20,
+      "max": 120
+    },
+    {
+      "sourceId": "DwarfEngineer",
+      "chance": 0.1,
+      "min": 20,
+      "max": 120
+    },
+    {
+      "sourceId": "DwarfAmbusher",
+      "chance": 0.1,
+      "min": 20,
+      "max": 120
+    },
+    {
+      "sourceId": "DwarfSoldier",
+      "chance": 0.1,
+      "min": 20,
+      "max": 120
+    },
+    {
+      "sourceId": "DwarfOfficer",
+      "chance": 0.1,
+      "min": 20,
+      "max": 120
+    },
+    {
+      "sourceId": "Dwarf\u0421ommander",
+      "chance": 0.1,
+      "min": 20,
+      "max": 120
+    },
+    {
+      "sourceId": "DwarfAmbusherHideout",
+      "chance": 1,
+      "min": 200,
+      "max": 300
+    },
+    {
+      "sourceId": "DwarfAmbusher",
+      "chance": 0.15,
+      "min": 20,
+      "max": 200
+    },
+    {
+      "sourceId": "DwarfSoldier",
+      "chance": 0.15,
+      "min": 20,
+      "max": 200
+    },
+    {
+      "sourceId": "DwarfOfficer",
+      "chance": 0.15,
+      "min": 20,
+      "max": 200
+    },
+    {
+      "sourceId": "Dwarf\u0421ommander",
+      "chance": 0.15,
+      "min": 20,
+      "max": 200
+    },
+    {
+      "sourceId": "DwarfSoldier",
+      "chance": 0.3,
+      "min": 50,
+      "max": 200
+    },
+    {
+      "sourceId": "DwarfOfficer",
+      "chance": 1,
+      "min": 150,
+      "max": 250
+    },
+    {
+      "sourceId": "Dwarf\u0421ommander",
+      "chance": 1,
+      "min": 150,
+      "max": 250
+    },
+    {
+      "sourceId": "DwarfCursedChampion",
+      "chance": 1,
+      "min": 7000,
+      "max": 10000
+    },
+    {
+      "sourceId": "Dwarf\u0421ommander",
+      "chance": 1,
+      "min": 150,
+      "max": 250
+    },
+    {
+      "sourceId": "OrcShaman",
+      "chance": 0.5,
+      "min": 110,
+      "max": 200
+    },
+    {
+      "sourceId": "Krampus",
+      "chance": 0.5,
+      "min": 100,
+      "max": 200
+    },
+    {
+      "sourceId": "Harpy",
+      "chance": 1,
+      "min": 100,
+      "max": 300
+    },
+    {
+      "sourceId": "HarpyLarge",
+      "chance": 1,
+      "min": 200,
+      "max": 600
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 1,
+      "min": 5,
+      "max": 200
+    },
+    {
+      "sourceId": "ChurchGodsendMoney",
+      "chance": 1,
+      "min": 40,
+      "max": 100
+    },
+    {
+      "sourceId": "ChurchCultist",
+      "chance": 0.5,
+      "min": 50,
+      "max": 200
+    },
+    {
+      "sourceId": "ChurchFinalChest",
+      "chance": 1,
+      "min": 200,
+      "max": 1000
+    },
+    {
+      "sourceId": "CaveFinalChest",
+      "chance": 1,
+      "min": 4000,
+      "max": 6000
+    },
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 1,
+      "min": 700,
+      "max": 1500
+    },
+    {
+      "sourceId": "DwarfFortFinalChest",
+      "chance": 1,
+      "min": 10000,
+      "max": 20000
+    },
+    {
+      "sourceId": "HideoutGodsensBody",
+      "chance": 1,
+      "min": 40,
+      "max": 120
+    },
+    {
+      "sourceId": "HideoutFinalChest",
+      "chance": 1,
+      "min": 400,
+      "max": 800
+    },
+    {
+      "sourceId": "WinterForestFinalChest",
+      "chance": 1,
+      "min": 300,
+      "max": 600
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "m_Name": "StolenGifts",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "e58b3f86ed8ccf144ab2f8b66d83a0b8",
+  "image_fid": "21300000",
+  "sellPrice": "0",
+  "buyUpPrice": "50",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "StolenGifts",
+  "loc_key": "Item.StolenGifts",
+  "dropped_by": [
+    {
+      "sourceId": "WinterForestFinalChest",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

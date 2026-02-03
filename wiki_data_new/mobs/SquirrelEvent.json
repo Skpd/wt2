@@ -1,0 +1,55 @@
+{
+  "m_Name": "SquirrelEvent",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "30",
+  "stamina": "100",
+  "level": "20",
+  "walkSpeed": "2",
+  "runSpeed": "4",
+  "image": "fd77cc7a1b91f8b46a48dbf4f377af8f",
+  "image_fid": "21300000",
+  "entityClass": "1",
+  "mobBehaviour": "7857e188f412ede438921edd6c6ed6b0",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "0363812ab4c8141488c2a7fad6766df2",
+  "entityPrefab_fid": "1071688935413221",
+  "entityBonuses": {
+    "Dodge": "0.3",
+    "IgnorePetAttacks": "1"
+  },
+  "skills": [
+    {
+      "id": "a33a933605baa424489a8ddcfa3eda97",
+      "name": "MimicSquirrelAttack",
+      "minDamage": "1",
+      "maxDamage": "2",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "1",
+      "ignoreDefense": "1",
+      "criticalChance": "0.3",
+      "criticalValue": "1.2"
+    }
+  ],
+  "id": "SquirrelEvent",
+  "loc_key": "Entity.SquirrelEvent",
+  "skinning_drops": [
+    {
+      "itemId": "SmallRawHide",
+      "chance": "1",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "WoodNuts",
+      "chance": "0.5",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "OrganicsClot",
+      "chance": "1",
+      "min": "2",
+      "max": "4"
+    }
+  ]
+}

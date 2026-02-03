@@ -1,0 +1,21 @@
+{
+  "m_Name": "CopperOreSmelting",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "e3ed92d5721e0be4ea604add8ea939a2",
+      "amount": "5",
+      "name": "CopperOre",
+      "loc_key": "Item.CopperOre"
+    }
+  ],
+  "products": [
+    {
+      "guid": "5d0d7a7b36d396b4da48fd7db119af4a",
+      "amount": "1",
+      "name": "CopperIngot",
+      "loc_key": "Item.CopperIngot"
+    }
+  ],
+  "id": "CopperOreSmelting"
+}

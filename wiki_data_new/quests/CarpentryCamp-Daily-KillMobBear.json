@@ -1,0 +1,21 @@
+{
+  "m_Name": "CarpentryCamp-Daily-KillMobBear",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "0",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "92438ab9d3ff4204da74b38b6dd67dcd",
+  "predecessors": [
+    "CarpentryCamp-09-ObtainHeatproofWood"
+  ],
+  "npcTaker": "2588405983ff4fa4d9d522bb0b8ff5c1",
+  "reward": {
+    "money": "2500",
+    "guildXp": "0",
+    "amount": "0"
+  },
+  "id": "CarpentryCamp-Daily-KillMobBear",
+  "npcGiverName": "CarpentryCampDailyQuests",
+  "npcTakerName": "CarpentryCampBerne",
+  "group": "Daily"
+}

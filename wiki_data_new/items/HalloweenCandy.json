@@ -1,0 +1,37 @@
+{
+  "m_Name": "HalloweenCandy",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "ec307dbc57e4807498e11a7a8f96a20d",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "HalloweenCandy",
+  "loc_key": "Item.HalloweenCandy",
+  "dropped_by": [
+    {
+      "sourceId": "HalloweenGodsend",
+      "chance": 0.014285714285714287,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HalloweenGrave",
+      "chance": 0.0125,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "UndeadSwordHalloween",
+      "chance": 0.08333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "Witch",
+      "chance": 0.09999999999999999,
+      "min": 1,
+      "max": 2
+    }
+  ]
+}

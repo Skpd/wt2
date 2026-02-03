@@ -1,0 +1,11 @@
+{
+  "m_Name": "Cornsticks",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "5c3cb44efdc6afe4d8fd4f3952ea901d",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "25",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Cornsticks",
+  "loc_key": "Item.Cornsticks"
+}

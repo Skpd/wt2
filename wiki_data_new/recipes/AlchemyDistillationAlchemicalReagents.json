@@ -1,0 +1,39 @@
+{
+  "m_Name": "AlchemyDistillationAlchemicalReagents",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "3890bf01502cde44084459b94b66b41f",
+      "amount": "1",
+      "name": "Salt",
+      "loc_key": "Item.Salt"
+    },
+    {
+      "guid": "0ff36829267b23044ae7764b83d207b6",
+      "amount": "1",
+      "name": "Sulfur",
+      "loc_key": "Item.Sulfur"
+    },
+    {
+      "guid": "504f2970767d3814baefff549117f7e5",
+      "amount": "1",
+      "name": "Saltpeter",
+      "loc_key": "Item.Saltpeter"
+    },
+    {
+      "guid": "b601056686e52cb4ead308fd023da26f",
+      "amount": "1",
+      "name": "BoneFlour",
+      "loc_key": "Item.BoneFlour"
+    }
+  ],
+  "products": [
+    {
+      "guid": "1b796d045c02a3643a3a035ca70291f8",
+      "amount": "7",
+      "name": "AlchemicalReagents",
+      "loc_key": "Item.AlchemicalReagents"
+    }
+  ],
+  "id": "AlchemyDistillationAlchemicalReagents"
+}

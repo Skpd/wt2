@@ -1,0 +1,11 @@
+{
+  "m_Name": "MinerRation",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "beac4e298523c0043bc21c41babb1a9c",
+  "image_fid": "21300000",
+  "sellPrice": "500",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "MinerRation",
+  "loc_key": "Item.MinerRation"
+}

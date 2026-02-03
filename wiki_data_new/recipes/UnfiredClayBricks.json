@@ -1,0 +1,21 @@
+{
+  "m_Name": "UnfiredClayBricks",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "90587221aa3a3a9429d7eaf1c25a5aaf",
+      "amount": "1",
+      "name": "UnfiredClayBricks",
+      "loc_key": "Item.UnfiredClayBricks"
+    }
+  ],
+  "products": [
+    {
+      "guid": "e6af13a95185ea54b9a22b1f8b7455d5",
+      "amount": "1",
+      "name": "ClayBricks",
+      "loc_key": "Item.ClayBricks"
+    }
+  ],
+  "id": "UnfiredClayBricks"
+}

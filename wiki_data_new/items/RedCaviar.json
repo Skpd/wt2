@@ -1,0 +1,11 @@
+{
+  "m_Name": "RedCaviar",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "ec05f8ca4bb305a449c4b351326bd09b",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "50",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "RedCaviar",
+  "loc_key": "Item.RedCaviar"
+}

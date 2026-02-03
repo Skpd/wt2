@@ -1,0 +1,11 @@
+{
+  "m_Name": "ChristmasCandyShop",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "03591e5c51e1058478a7648d4fd9409f",
+  "image_fid": "21300000",
+  "sellPrice": "250",
+  "buyUpPrice": "0",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "ChristmasCandyShop",
+  "loc_key": "Item.ChristmasCandyShop"
+}

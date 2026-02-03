@@ -1,0 +1,27 @@
+{
+  "m_Name": "WoodNuts",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "fef3a126d7431d849ba4112230df859d",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.05",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "WoodNuts",
+  "loc_key": "Item.WoodNuts",
+  "dropped_by": [
+    {
+      "sourceId": "SquirrelEvent",
+      "chance": "0.5",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "MimicSquirrel",
+      "chance": "0.5",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    }
+  ]
+}

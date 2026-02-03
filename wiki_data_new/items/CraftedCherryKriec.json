@@ -1,0 +1,19 @@
+{
+  "m_Name": "CraftedCherryKriec",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "d6385bf228563fb4eae0b1154c9ff4e5",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "14",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "CraftedCherryKriec",
+  "loc_key": "Item.CraftedCherryKriec",
+  "dropped_by": [
+    {
+      "sourceId": "UndeadAxeDungeon",
+      "chance": 0.005,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "m_Name": "Boss-06-KillDragonSnake",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "a20a70d3f39a56f42ae49bbed8091456",
+  "predecessors": [
+    "Boss-05-KillEarthTitan"
+  ],
+  "npcTaker": "a20a70d3f39a56f42ae49bbed8091456",
+  "reward": {
+    "money": "6000",
+    "guildXp": "0",
+    "amount": "50",
+    "rewardItem": "77a7f2d1c6a6177488a19046fcf32bfe",
+    "rewardItemName": "Glue"
+  },
+  "id": "Boss-06-KillDragonSnake",
+  "npcGiverName": "CityTannerLara",
+  "npcTakerName": "CityTannerLara",
+  "group": "General"
+}

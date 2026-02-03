@@ -1,0 +1,33 @@
+{
+  "m_Name": "SaltpeterPitLimeFertilizer",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "cab434caa5579504384cf5c2dcf6bd52",
+      "amount": "5",
+      "name": "Lime",
+      "loc_key": "Item.Lime"
+    },
+    {
+      "guid": "c96ca6b2e2e6df4438568cec07873777",
+      "amount": "2",
+      "name": "WildEggs",
+      "loc_key": "Item.WildEggs"
+    },
+    {
+      "guid": "27d507923a0f91a489ebecc6d7e70fd4",
+      "amount": "1",
+      "name": "Water",
+      "loc_key": "Item.Water"
+    }
+  ],
+  "products": [
+    {
+      "guid": "6789077183464974787c89273feca62b",
+      "amount": "2",
+      "name": "LimeFertilizer",
+      "loc_key": "Item.LimeFertilizer"
+    }
+  ],
+  "id": "SaltpeterPitLimeFertilizer"
+}

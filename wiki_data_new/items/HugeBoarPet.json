@@ -1,0 +1,11 @@
+{
+  "m_Name": "HugeBoarPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "881eda6fc6811d74c9001a720a38d5df",
+  "image_fid": "21300000",
+  "sellPrice": "300",
+  "buyUpPrice": "300",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "HugeBoarPet",
+  "loc_key": "Item.HugeBoarPet"
+}

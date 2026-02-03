@@ -1,0 +1,25 @@
+{
+  "m_Name": "LootPlagueOldClayJug",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "14b07146a2c33214b82e95a2a97056f5",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "20",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "LootPlagueOldClayJug",
+  "loc_key": "Item.LootPlagueOldClayJug",
+  "dropped_by": [
+    {
+      "sourceId": "PlagueCityBrokenFurniture",
+      "chance": 0.14285714285714285,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "PlagueCityBrokenFurniture",
+      "chance": 0.14285714285714285,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

@@ -1,0 +1,607 @@
+{
+  "m_Name": "LizardSpear",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "2000",
+  "stamina": "100",
+  "level": "70",
+  "walkSpeed": "1.3",
+  "runSpeed": "4.3",
+  "image": "6b3f6d35ce0a7714d8765122f0880960",
+  "image_fid": "21300000",
+  "entityClass": "9",
+  "mobBehaviour": "1ffb7607b4dfea441a4aafc9f96b3976",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "29195207359fa404d8f63b8fd4ff9d2f",
+  "entityPrefab_fid": "1132640452498212",
+  "entityBonuses": {
+    "Parry": "0.2",
+    "Dodge": "0.3",
+    "IgnoreNextSlowdown": "0.7",
+    "IgnoreNextStun": "0.7"
+  },
+  "skills": [
+    {
+      "id": "211faaee9d047b343bb5349c1f41e1f9",
+      "name": "LizardSpearStunAttack",
+      "minDamage": "40",
+      "maxDamage": "60",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.2",
+      "ignoreDefense": "0.5",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "e49b7ba6ec99e804bb2dce62912ab4fc",
+      "name": "LizardSpearAttack",
+      "minDamage": "50",
+      "maxDamage": "70",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.2",
+      "ignoreDefense": "0.5",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "a4e3ef0e5b62e7546b093baa1859379f",
+      "name": "LizardSpearRage"
+    },
+    {
+      "id": "d02993652ca4bed468c0ae4e9a6b27fb",
+      "name": "LizardSpearThrowSpear",
+      "minDamage": "40",
+      "maxDamage": "60",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.3",
+      "ignoreDefense": "0.3",
+      "criticalChance": "0",
+      "criticalValue": "0"
+    }
+  ],
+  "id": "LizardSpear",
+  "loc_key": "Entity.LizardSpear",
+  "drops": [
+    {
+      "itemId": "DemonEye",
+      "chance": 0.005,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "RoughBandages",
+      "chance": 0.043478260869565216,
+      "min": 4,
+      "max": 10
+    },
+    {
+      "itemId": "WeakAntidote",
+      "chance": 0.043478260869565216,
+      "min": 3,
+      "max": 6
+    },
+    {
+      "itemId": "WideBandages",
+      "chance": 0.043478260869565216,
+      "min": 3,
+      "max": 6
+    },
+    {
+      "itemId": "IronOre",
+      "chance": 0.043478260869565216,
+      "min": 10,
+      "max": 30
+    },
+    {
+      "itemId": "IronIngot",
+      "chance": 0.043478260869565216,
+      "min": 2,
+      "max": 8
+    },
+    {
+      "itemId": "IronBloom",
+      "chance": 0.043478260869565216,
+      "min": 6,
+      "max": 12
+    },
+    {
+      "itemId": "TinIngot",
+      "chance": 0.043478260869565216,
+      "min": 6,
+      "max": 12
+    },
+    {
+      "itemId": "CopperIngot",
+      "chance": 0.043478260869565216,
+      "min": 6,
+      "max": 12
+    },
+    {
+      "itemId": "BronzeIngot",
+      "chance": 0.043478260869565216,
+      "min": 4,
+      "max": 10
+    },
+    {
+      "itemId": "MediumLeather",
+      "chance": 0.043478260869565216,
+      "min": 2,
+      "max": 8
+    },
+    {
+      "itemId": "IronLines",
+      "chance": 0.043478260869565216,
+      "min": 2,
+      "max": 3
+    },
+    {
+      "itemId": "IronPlates",
+      "chance": 0.043478260869565216,
+      "min": 2,
+      "max": 3
+    },
+    {
+      "itemId": "IronNail",
+      "chance": 0.043478260869565216,
+      "min": 2,
+      "max": 4
+    },
+    {
+      "itemId": "SpiceBlackPepper",
+      "chance": 0.043478260869565216,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "itemId": "SpiceCinnamon",
+      "chance": 0.043478260869565216,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "itemId": "SpiceSalt",
+      "chance": 0.043478260869565216,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "itemId": "IronSpear",
+      "chance": 0.043478260869565216,
+      "min": 6,
+      "max": 20
+    },
+    {
+      "itemId": "SteelSpear",
+      "chance": 0.043478260869565216,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "itemId": "IronSlingAmmo",
+      "chance": 0.043478260869565216,
+      "min": 10,
+      "max": 30
+    },
+    {
+      "itemId": "SpikedSlingAmmo",
+      "chance": 0.043478260869565216,
+      "min": 8,
+      "max": 24
+    },
+    {
+      "itemId": "IronArrow",
+      "chance": 0.043478260869565216,
+      "min": 10,
+      "max": 30
+    },
+    {
+      "itemId": "SteelArrow",
+      "chance": 0.043478260869565216,
+      "min": 6,
+      "max": 20
+    },
+    {
+      "itemId": "PoisonArrow",
+      "chance": 0.043478260869565216,
+      "min": 10,
+      "max": 25
+    },
+    {
+      "itemId": "RoughBandages",
+      "chance": 0.008695652173913044,
+      "min": 4,
+      "max": 10
+    },
+    {
+      "itemId": "WeakAntidote",
+      "chance": 0.008695652173913044,
+      "min": 3,
+      "max": 6
+    },
+    {
+      "itemId": "WideBandages",
+      "chance": 0.008695652173913044,
+      "min": 3,
+      "max": 6
+    },
+    {
+      "itemId": "IronOre",
+      "chance": 0.008695652173913044,
+      "min": 10,
+      "max": 30
+    },
+    {
+      "itemId": "IronIngot",
+      "chance": 0.008695652173913044,
+      "min": 2,
+      "max": 8
+    },
+    {
+      "itemId": "IronBloom",
+      "chance": 0.008695652173913044,
+      "min": 6,
+      "max": 12
+    },
+    {
+      "itemId": "TinIngot",
+      "chance": 0.008695652173913044,
+      "min": 6,
+      "max": 12
+    },
+    {
+      "itemId": "CopperIngot",
+      "chance": 0.008695652173913044,
+      "min": 6,
+      "max": 12
+    },
+    {
+      "itemId": "BronzeIngot",
+      "chance": 0.008695652173913044,
+      "min": 4,
+      "max": 10
+    },
+    {
+      "itemId": "MediumLeather",
+      "chance": 0.008695652173913044,
+      "min": 2,
+      "max": 8
+    },
+    {
+      "itemId": "IronLines",
+      "chance": 0.008695652173913044,
+      "min": 2,
+      "max": 3
+    },
+    {
+      "itemId": "IronPlates",
+      "chance": 0.008695652173913044,
+      "min": 2,
+      "max": 3
+    },
+    {
+      "itemId": "IronNail",
+      "chance": 0.008695652173913044,
+      "min": 2,
+      "max": 4
+    },
+    {
+      "itemId": "SpiceBlackPepper",
+      "chance": 0.008695652173913044,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "itemId": "SpiceCinnamon",
+      "chance": 0.008695652173913044,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "itemId": "SpiceSalt",
+      "chance": 0.008695652173913044,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "itemId": "IronSpear",
+      "chance": 0.008695652173913044,
+      "min": 6,
+      "max": 20
+    },
+    {
+      "itemId": "SteelSpear",
+      "chance": 0.008695652173913044,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "itemId": "IronSlingAmmo",
+      "chance": 0.008695652173913044,
+      "min": 10,
+      "max": 30
+    },
+    {
+      "itemId": "SpikedSlingAmmo",
+      "chance": 0.008695652173913044,
+      "min": 8,
+      "max": 24
+    },
+    {
+      "itemId": "IronArrow",
+      "chance": 0.008695652173913044,
+      "min": 10,
+      "max": 30
+    },
+    {
+      "itemId": "SteelArrow",
+      "chance": 0.008695652173913044,
+      "min": 6,
+      "max": 20
+    },
+    {
+      "itemId": "PoisonArrow",
+      "chance": 0.008695652173913044,
+      "min": 10,
+      "max": 25
+    },
+    {
+      "itemId": "SnareSteel",
+      "chance": 0.01,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "HardenedLeather",
+      "chance": 0.01,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "HardenedLeatherStrip",
+      "chance": 0.01,
+      "min": 2,
+      "max": 6
+    },
+    {
+      "itemId": "FishingSpoon",
+      "chance": 0.01,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "SteelRivets",
+      "chance": 0.01,
+      "min": 2,
+      "max": 2
+    },
+    {
+      "itemId": "SteelLines",
+      "chance": 0.01,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SteelPlates",
+      "chance": 0.01,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "MoldySilk",
+      "chance": 0.01,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "AlchemicalReagents",
+      "chance": 0.01,
+      "min": 3,
+      "max": 6
+    },
+    {
+      "itemId": "SteelIngot",
+      "chance": 0.01,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "SnareSteel",
+      "chance": 0.005,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "HardenedLeather",
+      "chance": 0.005,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "HardenedLeatherStrip",
+      "chance": 0.005,
+      "min": 2,
+      "max": 6
+    },
+    {
+      "itemId": "FishingSpoon",
+      "chance": 0.005,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "SteelRivets",
+      "chance": 0.005,
+      "min": 2,
+      "max": 2
+    },
+    {
+      "itemId": "SteelLines",
+      "chance": 0.005,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SteelPlates",
+      "chance": 0.005,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "MoldySilk",
+      "chance": 0.005,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "AlchemicalReagents",
+      "chance": 0.005,
+      "min": 3,
+      "max": 6
+    },
+    {
+      "itemId": "SteelIngot",
+      "chance": 0.005,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "GemUncutAmethyst",
+      "chance": 0.04,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "GemUncutEmerald",
+      "chance": 0.04,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "GemUncutRuby",
+      "chance": 0.04,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "GemUncutSapphire",
+      "chance": 0.04,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "GemUncutTopaz",
+      "chance": 0.04,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "GemUncutAmethyst",
+      "chance": 0.02,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "GemUncutEmerald",
+      "chance": 0.02,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "GemUncutRuby",
+      "chance": 0.02,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "GemUncutSapphire",
+      "chance": 0.02,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "GemUncutTopaz",
+      "chance": 0.02,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "SkillBookLevel20",
+      "chance": 0.05,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Money",
+      "chance": 1,
+      "min": 400,
+      "max": 700
+    },
+    {
+      "itemId": "IronSpear",
+      "chance": 0.02,
+      "min": 12,
+      "max": 36
+    },
+    {
+      "itemId": "HealingBandages",
+      "chance": 0.02,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "itemId": "HealingBandages",
+      "chance": 0.02,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "itemId": "WideBandages",
+      "chance": 0.02,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "itemId": "WideBandages",
+      "chance": 0.02,
+      "min": 4,
+      "max": 8
+    }
+  ],
+  "skinning_drops": [
+    {
+      "itemId": "Chitin",
+      "chance": "1",
+      "min": "6",
+      "max": "9"
+    },
+    {
+      "itemId": "RawCarnivoreMeat",
+      "chance": "1",
+      "min": "8",
+      "max": "12"
+    },
+    {
+      "itemId": "Bone",
+      "chance": "1",
+      "min": "6",
+      "max": "10"
+    },
+    {
+      "itemId": "InflamedGallbladder",
+      "chance": "0.5",
+      "min": "1",
+      "max": "3"
+    },
+    {
+      "itemId": "OrganicsClot",
+      "chance": "1",
+      "min": "15",
+      "max": "30"
+    },
+    {
+      "itemId": "LizardTail",
+      "chance": "0.08",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

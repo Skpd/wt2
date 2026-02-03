@@ -1,0 +1,12 @@
+{
+  "m_Name": "ChampionCloak",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "e5588eba6d745dd4b8534a16cd643855",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "ChampionCloak",
+  "loc_key": "Item.ChampionCloak",
+  "icon_path": "textures/champion-cloak.png"
+}

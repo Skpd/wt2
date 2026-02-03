@@ -1,0 +1,11 @@
+{
+  "m_Name": "InspirationPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "ef0c551c5a956204dabfb1de6f59a899",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "InspirationPet",
+  "loc_key": "Item.InspirationPet"
+}

@@ -1,0 +1,12 @@
+{
+  "m_Name": "PlaguePowder",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "ace413711d6e7f644b1c121d9d5faa1b",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "10000",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "PlaguePowder",
+  "loc_key": "Item.PlaguePowder",
+  "icon_path": "textures/PlaguePowder.png"
+}

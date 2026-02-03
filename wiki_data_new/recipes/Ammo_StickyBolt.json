@@ -1,0 +1,33 @@
+{
+  "m_Name": "Ammo_StickyBolt",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "21732cb7e90574a4093ae2f24e0bc37c",
+      "amount": "25",
+      "name": "PoisonProjectilePotion",
+      "loc_key": "Item.PoisonProjectilePotion"
+    },
+    {
+      "guid": "57ec541410877da42bb49cf2029bb87c",
+      "amount": "100",
+      "name": "SteelBolt",
+      "loc_key": "Item.SteelBolt"
+    },
+    {
+      "guid": "e68acf752b0bd3842b083c80ced4f6de",
+      "amount": "5",
+      "name": "SangiumIngot",
+      "loc_key": "Item.SangiumIngot"
+    }
+  ],
+  "products": [
+    {
+      "guid": "cb38502078dc62f43952b379903fedfd",
+      "amount": "100",
+      "name": "StickyBolt",
+      "loc_key": "Item.StickyBolt"
+    }
+  ],
+  "id": "Ammo_StickyBolt"
+}

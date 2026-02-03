@@ -1,0 +1,21 @@
+{
+  "m_Name": "MediumHideDrying",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "c6a2122d0f51b3e49a1a800e7068a352",
+      "amount": "1",
+      "name": "MediumRawHide",
+      "loc_key": "Item.MediumRawHide"
+    }
+  ],
+  "products": [
+    {
+      "guid": "fba08432622eb244e8420beadc896bb5",
+      "amount": "1",
+      "name": "MediumHide",
+      "loc_key": "Item.MediumHide"
+    }
+  ],
+  "id": "MediumHideDrying"
+}

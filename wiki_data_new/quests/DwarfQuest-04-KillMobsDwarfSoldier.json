@@ -1,0 +1,14 @@
+{
+  "m_Name": "DwarfQuest-04-KillMobsDwarfSoldier",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "5",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "0"
+  },
+  "id": "DwarfQuest-04-KillMobsDwarfSoldier",
+  "group": "General"
+}

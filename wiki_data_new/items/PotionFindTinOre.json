@@ -1,0 +1,11 @@
+{
+  "m_Name": "PotionFindTinOre",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "89eefc32a4b74fc4c883a3174bc1e8a2",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "40",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "PotionFindTinOre",
+  "loc_key": "Item.PotionFindTinOre"
+}

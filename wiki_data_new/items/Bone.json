@@ -1,0 +1,264 @@
+{
+  "m_Name": "Bone",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "b19fafa15eb3c23499420fbb30e71fe8",
+  "image_fid": "21300000",
+  "sellPrice": "30",
+  "buyUpPrice": "0.05",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Bone",
+  "loc_key": "Item.Bone",
+  "icon_path": "textures/bone.png",
+  "dropped_by": [
+    {
+      "sourceId": "AbandonedBattlefieldSpidersWeb",
+      "chance": 0.5,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "AbandonedBattlefieldSpidersWeb",
+      "chance": 0.5,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "HalloweenGrave",
+      "chance": 0.08333333333333333,
+      "min": 2,
+      "max": 4
+    },
+    {
+      "sourceId": "HalloweenGrave",
+      "chance": 0.08333333333333333,
+      "min": 3,
+      "max": 5
+    },
+    {
+      "sourceId": "HalloweenGrave",
+      "chance": 0.08333333333333333,
+      "min": 2,
+      "max": 4
+    },
+    {
+      "sourceId": "HalloweenGrave",
+      "chance": 0.08333333333333333,
+      "min": 3,
+      "max": 5
+    },
+    {
+      "sourceId": "HalloweenGrave",
+      "chance": 0.05714285714285715,
+      "min": 2,
+      "max": 4
+    },
+    {
+      "sourceId": "SkeletonUnarmed",
+      "chance": 1,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "SkeletonWithStone",
+      "chance": 1,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "SkeletonKnight",
+      "chance": 1,
+      "min": 3,
+      "max": 7
+    },
+    {
+      "sourceId": "SkeletonGuard",
+      "chance": 1,
+      "min": 3,
+      "max": 7
+    },
+    {
+      "sourceId": "Reaper",
+      "chance": 1,
+      "min": 3,
+      "max": 7
+    },
+    {
+      "sourceId": "SkeletonWarrior",
+      "chance": 1,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "SkeletonRanger",
+      "chance": 1,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "SkeletonBossEvent",
+      "chance": 1,
+      "min": 5,
+      "max": 12
+    },
+    {
+      "sourceId": "SkeletonGuardEvent",
+      "chance": 1,
+      "min": 5,
+      "max": 12
+    },
+    {
+      "sourceId": "SkeletonKnightEvent",
+      "chance": 1,
+      "min": 5,
+      "max": 12
+    },
+    {
+      "sourceId": "SkeletonWarrior",
+      "chance": 1,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "SkeletonRanger",
+      "chance": 1,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "SkeletonBoss",
+      "chance": 1,
+      "min": 6,
+      "max": 12
+    },
+    {
+      "sourceId": "SkeletonHalloweenWarrior",
+      "chance": 1,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "sourceId": "MausoleumGodsensBones",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "MausoleumGodsensBones",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "MausoleumGodsensBones",
+      "chance": 0.3333333333333333,
+      "min": 2,
+      "max": 3
+    },
+    {
+      "sourceId": "MausoleumGodsensBones",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "MausoleumGodsensBones",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "sourceId": "MausoleumGodsensBones",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "sourceId": "MausoleumGodsensBones",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "MausoleumGodsensBones",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "sourceId": "MausoleumGodsensBones",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "sourceId": "Harpy",
+      "chance": 0.5,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "Harpy",
+      "chance": 0.5,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "Harpy",
+      "chance": 0.5,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "HarpyLarge",
+      "chance": 0.5,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "sourceId": "HarpyLarge",
+      "chance": 0.5,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "sourceId": "HarpyLarge",
+      "chance": 0.5,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.5,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "Weresnake",
+      "chance": "1",
+      "min": "3",
+      "max": "6",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Werecrocodile",
+      "chance": "1",
+      "min": "6",
+      "max": "10",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "LizardSpear",
+      "chance": "1",
+      "min": "6",
+      "max": "10",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "HugeBoar",
+      "chance": "0.5",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    }
+  ]
+}

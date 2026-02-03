@@ -1,0 +1,35 @@
+{
+  "m_Name": "SmallShellfish",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "4d6048b245e4e3c429b02a2a594a4112",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.05",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SmallShellfish",
+  "loc_key": "Item.SmallShellfish",
+  "icon_path": "textures/SmallShellfish.png",
+  "dropped_by": [
+    {
+      "sourceId": "BlackGiantCrab",
+      "chance": "1",
+      "min": "3",
+      "max": "10",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "GiantCrab",
+      "chance": "1",
+      "min": "3",
+      "max": "10",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "MimicCrab",
+      "chance": "0.3",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    }
+  ]
+}

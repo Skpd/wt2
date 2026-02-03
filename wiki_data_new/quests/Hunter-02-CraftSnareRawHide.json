@@ -1,0 +1,16 @@
+{
+  "m_Name": "Hunter-02-CraftSnareRawHide",
+  "m_Script": "8bae99285fb9248eeae7964c5eaf8a95",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "5",
+    "rewardItem": "5ff4aca00ef84a746a05bf45aef2b430",
+    "rewardItemName": "SnareRawHide"
+  },
+  "id": "Hunter-02-CraftSnareRawHide",
+  "group": "General"
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "CandyMixed",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "f91fb544d2ae8134da1033db984fbd53",
+  "image_fid": "21300000",
+  "sellPrice": "0",
+  "buyUpPrice": "0",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "CandyMixed",
+  "loc_key": "Item.CandyMixed"
+}

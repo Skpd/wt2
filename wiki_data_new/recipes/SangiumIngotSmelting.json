@@ -1,0 +1,33 @@
+{
+  "m_Name": "SangiumIngotSmelting",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "5e5e29710babadd46a3414a57bd2990d",
+      "amount": "1",
+      "name": "SangitIngot",
+      "loc_key": "Item.SangitIngot"
+    },
+    {
+      "guid": "f8091ab887ebc844eb423681c7ce8309",
+      "amount": "1",
+      "name": "SteelIngot",
+      "loc_key": "Item.SteelIngot"
+    },
+    {
+      "guid": "34a3fb28185afb8479128e97a0814fd2",
+      "amount": "2",
+      "name": "BronzeIngot",
+      "loc_key": "Item.BronzeIngot"
+    }
+  ],
+  "products": [
+    {
+      "guid": "e68acf752b0bd3842b083c80ced4f6de",
+      "amount": "1",
+      "name": "SangiumIngot",
+      "loc_key": "Item.SangiumIngot"
+    }
+  ],
+  "id": "SangiumIngotSmelting"
+}

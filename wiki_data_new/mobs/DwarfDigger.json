@@ -1,0 +1,409 @@
+{
+  "m_Name": "DwarfDigger",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "300",
+  "stamina": "100",
+  "level": "45",
+  "walkSpeed": "1.6",
+  "runSpeed": "3.5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "5",
+  "mobBehaviour": "d77c4e994d7d039458fd70b1feed15ee",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "66ec1fc191f7cd84782c312eef58841a",
+  "entityPrefab_fid": "1937007763381334",
+  "entityBonuses": {
+    "Defense": "0.3"
+  },
+  "skills": [
+    {
+      "id": "618bd506360144745ba09df3913e304f",
+      "name": "DwarfDiggerAttack",
+      "minDamage": "40",
+      "maxDamage": "50",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0.2",
+      "ignoreDefense": "0.2",
+      "criticalChance": "0.1",
+      "criticalValue": "1.5"
+    }
+  ],
+  "id": "DwarfDigger",
+  "loc_key": "Entity.DwarfDigger",
+  "drops": [
+    {
+      "itemId": "Money",
+      "chance": 0.1,
+      "min": 20,
+      "max": 120
+    },
+    {
+      "itemId": "Bread",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Apple",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "Pear",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "Bannock",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "\u0421heesePiece",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "Jerky",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "SpiceBlackPepper",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SpiceCinnamon",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SpiceSalt",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SpiceSugar",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Cherries",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Strawberry",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Grape",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Carrot",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Beetroot",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Onion",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Garlic",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Peas",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Salt",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "Sulfur",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Coal",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "itemId": "CopperRawOre",
+      "chance": 0.03333333333333333,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "itemId": "CopperOre",
+      "chance": 0.03333333333333333,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "TinOre",
+      "chance": 0.03333333333333333,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "TinRawOre",
+      "chance": 0.03333333333333333,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "itemId": "IronRawOre",
+      "chance": 0.03333333333333333,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "itemId": "IronOre",
+      "chance": 0.03333333333333333,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "CopperIngot",
+      "chance": 0.03333333333333333,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "itemId": "TinIngot",
+      "chance": 0.03333333333333333,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "itemId": "BronzeIngot",
+      "chance": 0.03333333333333333,
+      "min": 2,
+      "max": 4
+    },
+    {
+      "itemId": "IronBloom",
+      "chance": 0.03333333333333333,
+      "min": 2,
+      "max": 4
+    },
+    {
+      "itemId": "IronIngot",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "itemId": "IronWithCoal",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "Salt",
+      "chance": 0.0375,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "CopperRawOre",
+      "chance": 0.0375,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "itemId": "CopperOre",
+      "chance": 0.0375,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "TinOre",
+      "chance": 0.0375,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "TinRawOre",
+      "chance": 0.0375,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "itemId": "IronRawOre",
+      "chance": 0.0375,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "itemId": "IronOre",
+      "chance": 0.0375,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "IronBloom",
+      "chance": 0.0375,
+      "min": 2,
+      "max": 4
+    },
+    {
+      "itemId": "GemUncutAmethyst",
+      "chance": 0.016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "GemUncutEmerald",
+      "chance": 0.016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "GemUncutRuby",
+      "chance": 0.016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "GemUncutSapphire",
+      "chance": 0.016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "GemUncutTopaz",
+      "chance": 0.016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SteelIngot",
+      "chance": 0.016666666666666666,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "LootKnife",
+      "chance": 0.0004285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "MimicQuestItem",
+      "chance": 0.0004285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "DwarfQuestItem",
+      "chance": 0.0004285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "FishingQuestItem",
+      "chance": 0.0004285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SpiderQuestItem",
+      "chance": 0.0004285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "PetEssenceUnstable",
+      "chance": 0.0004285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "LoveLetterQuestItem",
+      "chance": 0.0004285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Coal",
+      "chance": 0.16666666666666666,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "itemId": "Limestone",
+      "chance": 0.16666666666666666,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "itemId": "Rock",
+      "chance": 0.16666666666666666,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "itemId": "Marblestone",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "MarblestoneBoulder",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "ZuperitOre",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "DwarvenMinerNote",
+      "chance": 0.4,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "FlounderRoast",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "4d16a92671dbb9a4fb50a90e4323247e",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "64",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "FlounderRoast",
+  "loc_key": "Item.FlounderRoast"
+}

@@ -1,0 +1,25 @@
+{
+  "m_Name": "CandyViolet",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "9ee293c73ab2b304891989307276a45b",
+  "image_fid": "21300000",
+  "sellPrice": "0",
+  "buyUpPrice": "0",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "CandyViolet",
+  "loc_key": "Item.CandyViolet",
+  "dropped_by": [
+    {
+      "sourceId": "Krampus",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "Krampus",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 2
+    }
+  ]
+}

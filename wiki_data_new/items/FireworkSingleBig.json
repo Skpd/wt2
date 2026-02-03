@@ -1,0 +1,11 @@
+{
+  "m_Name": "FireworkSingleBig",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "ac8cc7281b1ed8e41927368bc6abe96f",
+  "image_fid": "21300000",
+  "sellPrice": "2000",
+  "buyUpPrice": "0",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "FireworkSingleBig",
+  "loc_key": "Item.FireworkSingleBig"
+}

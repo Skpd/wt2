@@ -1,0 +1,87 @@
+{
+  "m_Name": "Vampire",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "1500",
+  "stamina": "100",
+  "level": "60",
+  "walkSpeed": "2",
+  "runSpeed": "4",
+  "image": "bb3aa4d82bbea90488c51d08cc380cbc",
+  "image_fid": "21300000",
+  "entityClass": "3",
+  "mobBehaviour": "1ffb7607b4dfea441a4aafc9f96b3976",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "4155ca651cbd03c408470f660b094a20",
+  "entityPrefab_fid": "1989487100138143",
+  "entityBonuses": {
+    "IgnoreNormalDamage": "1",
+    "Dodge": "0.2",
+    "PlagueInfectionChance": "0.02",
+    "IgnoreNormalDamageDots": "1"
+  },
+  "skills": [
+    {
+      "id": "47ad0b937f49d2e459057bbfd877ee7c",
+      "name": "VampireAttack",
+      "minDamage": "15",
+      "maxDamage": "25",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    }
+  ],
+  "id": "Vampire",
+  "loc_key": "Entity.Vampire",
+  "skinning_drops": [
+    {
+      "itemId": "LeprousBone",
+      "chance": "0.7",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "LeprousBlood",
+      "chance": "0.7",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "LeprousRawhideParts",
+      "chance": "1",
+      "min": "4",
+      "max": "8"
+    },
+    {
+      "itemId": "LeprousBlood",
+      "chance": "1",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "LeprousVeins",
+      "chance": "0.7",
+      "min": "1",
+      "max": "3"
+    },
+    {
+      "itemId": "LeprousOrgans",
+      "chance": "0.5",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "VampireBlood",
+      "chance": "0.01",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "PlagueOrgan",
+      "chance": "0.02",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

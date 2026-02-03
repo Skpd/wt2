@@ -1,0 +1,27 @@
+{
+  "m_Name": "Alchemy_Saltpeter",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "300cb9b412c3ce94ca2586270ff8c597",
+      "amount": "8",
+      "name": "SaltpeterLimestone",
+      "loc_key": "Item.SaltpeterLimestone"
+    },
+    {
+      "guid": "27d507923a0f91a489ebecc6d7e70fd4",
+      "amount": "4",
+      "name": "Water",
+      "loc_key": "Item.Water"
+    }
+  ],
+  "products": [
+    {
+      "guid": "504f2970767d3814baefff549117f7e5",
+      "amount": "5",
+      "name": "Saltpeter",
+      "loc_key": "Item.Saltpeter"
+    }
+  ],
+  "id": "Alchemy_Saltpeter"
+}

@@ -1,0 +1,27 @@
+{
+  "m_Name": "Ammo_BronzeSlingAmmo",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "34a3fb28185afb8479128e97a0814fd2",
+      "amount": "5",
+      "name": "BronzeIngot",
+      "loc_key": "Item.BronzeIngot"
+    },
+    {
+      "guid": "3ec7933650f9ae643a96e16adf4ceb32",
+      "amount": "5",
+      "name": "Sand",
+      "loc_key": "Item.Sand"
+    }
+  ],
+  "products": [
+    {
+      "guid": "fd50477f46143ee43bfcd9c5c81abf46",
+      "amount": "100",
+      "name": "BronzeSlingAmmo",
+      "loc_key": "Item.BronzeSlingAmmo"
+    }
+  ],
+  "id": "Ammo_BronzeSlingAmmo"
+}

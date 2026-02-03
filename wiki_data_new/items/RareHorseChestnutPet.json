@@ -1,0 +1,11 @@
+{
+  "m_Name": "RareHorseChestnutPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "093fdcaff4134d148b45d2f923a16f55",
+  "image_fid": "21300000",
+  "sellPrice": "20000",
+  "buyUpPrice": "200",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "RareHorseChestnutPet",
+  "loc_key": "Item.RareHorseChestnutPet"
+}

@@ -1,0 +1,38 @@
+{
+  "m_Name": "OvenLootHelmet",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "927f37f6f81268145badc7f7ca3c389a",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "100",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "OvenLootHelmet",
+  "loc_key": "Item.OvenLootHelmet",
+  "icon_path": "textures/OvenLootHelmet.png",
+  "dropped_by": [
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "ChurchFinalChest",
+      "chance": 0.25,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

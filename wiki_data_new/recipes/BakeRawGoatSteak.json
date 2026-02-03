@@ -1,0 +1,21 @@
+{
+  "m_Name": "BakeRawGoatSteak",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "069d6ed7a305f2045b9ff0dd5d73d3c8",
+      "amount": "1",
+      "name": "RawGoatSteak",
+      "loc_key": "Item.RawGoatSteak"
+    }
+  ],
+  "products": [
+    {
+      "guid": "4a5b5b3214ad6314e9cdf86d4c1d517f",
+      "amount": "1",
+      "name": "GoatSteak",
+      "loc_key": "Item.GoatSteak"
+    }
+  ],
+  "id": "BakeRawGoatSteak"
+}

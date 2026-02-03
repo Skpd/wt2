@@ -1,0 +1,11 @@
+{
+  "m_Name": "PetChickenEgg",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "4ce2274e1cb910540860a4f28905d045",
+  "image_fid": "21300000",
+  "sellPrice": "0",
+  "buyUpPrice": "50",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "PetChickenEgg",
+  "loc_key": "Item.PetChickenEgg"
+}

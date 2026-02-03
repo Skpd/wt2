@@ -1,0 +1,11 @@
+{
+  "m_Name": "MinerBackpack3",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "bb86cc434d58db9409d3bff16c1239aa",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "11364.067",
+  "craftMaterialsBuyUpPricePercent": "1.2",
+  "id": "MinerBackpack3",
+  "loc_key": "Item.MinerBackpack3"
+}

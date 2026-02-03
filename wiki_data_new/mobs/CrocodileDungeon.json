@@ -1,0 +1,92 @@
+{
+  "m_Name": "CrocodileDungeon",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "6800",
+  "stamina": "100",
+  "level": "62",
+  "walkSpeed": "1.6",
+  "runSpeed": "3",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "9",
+  "mobBehaviour": "f291c29a11fd66f4285f6ed68ecff503",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "acfea69c51035d64b801fbd5400adbfb",
+  "entityPrefab_fid": "1640522408064932",
+  "entityBonuses": {
+    "IgnoreEffects": "1",
+    "Absorption": "17",
+    "Defense": "0.25"
+  },
+  "skills": [
+    {
+      "id": "de7cf0ae9896fb44fbaf908cc1d32f0d",
+      "name": "CrocodileAttackDungeon",
+      "minDamage": "42",
+      "maxDamage": "68",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0.25",
+      "ignoreDefense": "0.17",
+      "criticalChance": "0.1",
+      "criticalValue": "1.2"
+    },
+    {
+      "id": "aac6c504563dce946ac4f4a2cb8427f4",
+      "name": "CrocodileFerociousBiteDungeon",
+      "minDamage": "42",
+      "maxDamage": "51",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.42",
+      "ignoreDefense": "0.42",
+      "criticalChance": "1",
+      "criticalValue": "1"
+    }
+  ],
+  "id": "CrocodileDungeon",
+  "loc_key": "Entity.CrocodileDungeon",
+  "skinning_drops": [
+    {
+      "itemId": "Chitin",
+      "chance": "1",
+      "min": "3",
+      "max": "7"
+    },
+    {
+      "itemId": "RawCarnivoreMeat",
+      "chance": "1",
+      "min": "3",
+      "max": "7"
+    },
+    {
+      "itemId": "LeprousBlood",
+      "chance": "1",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "LeprousBlood",
+      "chance": "0.5",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "LeprousBone",
+      "chance": "1",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "LeprousBone",
+      "chance": "0.5",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "CrocodileJaw",
+      "chance": "0.1",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

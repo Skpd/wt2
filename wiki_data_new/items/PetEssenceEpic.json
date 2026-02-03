@@ -1,0 +1,11 @@
+{
+  "m_Name": "PetEssenceEpic",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "7dd357b90b03a0842aea4757f6be9ec8",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "PetEssenceEpic",
+  "loc_key": "Item.PetEssenceEpic"
+}

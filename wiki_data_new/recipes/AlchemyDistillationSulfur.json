@@ -1,0 +1,33 @@
+{
+  "m_Name": "AlchemyDistillationSulfur",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "322f06d905aa606458c16fb8db399d40",
+      "amount": "5",
+      "name": "SulfurOre",
+      "loc_key": "Item.SulfurOre"
+    },
+    {
+      "guid": "b601056686e52cb4ead308fd023da26f",
+      "amount": "1",
+      "name": "BoneFlour",
+      "loc_key": "Item.BoneFlour"
+    },
+    {
+      "guid": "b6d13d3b78440884daa8e9b8d835ec28",
+      "amount": "1",
+      "name": "DistilledWater",
+      "loc_key": "Item.DistilledWater"
+    }
+  ],
+  "products": [
+    {
+      "guid": "0ff36829267b23044ae7764b83d207b6",
+      "amount": "1",
+      "name": "Sulfur",
+      "loc_key": "Item.Sulfur"
+    }
+  ],
+  "id": "AlchemyDistillationSulfur"
+}

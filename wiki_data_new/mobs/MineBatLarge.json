@@ -1,0 +1,64 @@
+{
+  "m_Name": "MineBatLarge",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "625",
+  "stamina": "100",
+  "level": "27",
+  "walkSpeed": "2",
+  "runSpeed": "4.5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "1",
+  "mobBehaviour": "9a91df156d5ca1a48be0638cc52fc6f3",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "8a7634b2ee697a645a6d21ed55406b8d",
+  "entityPrefab_fid": "1527371042903856",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "04fc679d64451e846bebfdc4b27c0994",
+      "name": "MineBatAttackLarge",
+      "minDamage": "34",
+      "maxDamage": "51",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.25",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "07ff05b0487e94c40abe746b4d7a55bb",
+      "name": "MineBatBiteLarge",
+      "minDamage": "34",
+      "maxDamage": "51",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.1",
+      "ignoreDefense": "0",
+      "criticalChance": "0.3",
+      "criticalValue": "1.5"
+    }
+  ],
+  "id": "MineBatLarge",
+  "loc_key": "Entity.MineBatLarge",
+  "skinning_drops": [
+    {
+      "itemId": "InfectedRawHide",
+      "chance": "0.3",
+      "min": "3",
+      "max": "3"
+    },
+    {
+      "itemId": "SmallRawHide",
+      "chance": "1",
+      "min": "3",
+      "max": "6"
+    },
+    {
+      "itemId": "OrganicsClot",
+      "chance": "1",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

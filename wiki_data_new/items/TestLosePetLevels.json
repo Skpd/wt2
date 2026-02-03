@@ -1,0 +1,11 @@
+{
+  "m_Name": "TestLosePetLevels",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "6fbf9b26ef05c0049a55edcd54545bbb",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "TestLosePetLevels",
+  "loc_key": "Item.TestLosePetLevels"
+}

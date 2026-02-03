@@ -1,0 +1,27 @@
+{
+  "m_Name": "PandoraBox",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "d3b2faa2400d4f34aaca216603be346f",
+  "image_fid": "21300000",
+  "sellPrice": "0",
+  "buyUpPrice": "0",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "PandoraBox",
+  "loc_key": "Item.PandoraBox",
+  "dropped_by": [
+    {
+      "sourceId": "HareBlack5",
+      "chance": "1",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "HareBlack4",
+      "chance": "0.3",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    }
+  ]
+}

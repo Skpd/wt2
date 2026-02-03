@@ -1,0 +1,76 @@
+{
+  "m_Name": "LuckyHareFoot",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "c8f13bcd678e1a54a9587bca8c2f62b3",
+  "image_fid": "21300000",
+  "sellPrice": "10",
+  "buyUpPrice": "0.05",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "LuckyHareFoot",
+  "loc_key": "Item.LuckyHareFoot",
+  "dropped_by": [
+    {
+      "sourceId": "Frog",
+      "chance": "0.08",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Crab",
+      "chance": "0.08",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Lizard",
+      "chance": "0.08",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "HareWhitePet",
+      "chance": "0.08",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "GoosePet",
+      "chance": "0.08",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "ChickenPet",
+      "chance": "0.08",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "HarePet",
+      "chance": "0.08",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Hare",
+      "chance": "0.08",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "HareGold",
+      "chance": "0.08",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    }
+  ]
+}

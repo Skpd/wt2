@@ -1,0 +1,11 @@
+{
+  "m_Name": "OwlPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "a5a44a7a3ffe7cd4b94490af0bba79b4",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "OwlPet",
+  "loc_key": "Item.OwlPet"
+}

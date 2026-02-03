@@ -1,0 +1,11 @@
+{
+  "m_Name": "MerchantBreakfast",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "cd5f252a76a2621448ae6604323e3bc3",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "MerchantBreakfast",
+  "loc_key": "Item.MerchantBreakfast"
+}

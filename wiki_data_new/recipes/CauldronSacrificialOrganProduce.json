@@ -1,0 +1,33 @@
+{
+  "m_Name": "CauldronSacrificialOrganProduce",
+  "m_Script": "241914504fa4bbfc865ca8c6f53028f5",
+  "resources": [
+    {
+      "guid": "96778eff7d6ee4c488c1ddcb51b5cf50",
+      "amount": "1",
+      "name": "ScorpionTail",
+      "loc_key": "Item.ScorpionTail"
+    },
+    {
+      "guid": "1035ad0c47e49e64f8a9c1567c5aa8fa",
+      "amount": "5",
+      "name": "InfectedRawHide",
+      "loc_key": "Item.InfectedRawHide"
+    },
+    {
+      "guid": "8e1bca5ad61fb7b44a4fc4afd0562181",
+      "amount": "10",
+      "name": "ReagentPowder",
+      "loc_key": "Item.ReagentPowder"
+    }
+  ],
+  "products": [
+    {
+      "guid": "5c06a2af9f8568c408f0a2c9e8a329b8",
+      "amount": "1",
+      "name": "SacrificialOrgan",
+      "loc_key": "Item.SacrificialOrgan"
+    }
+  ],
+  "id": "CauldronSacrificialOrganProduce"
+}

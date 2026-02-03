@@ -1,0 +1,41 @@
+{
+  "m_Name": "LootCavecrawlerMaterial",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "f500c573a22251c4da34601474cae492",
+  "image_fid": "21300000",
+  "sellPrice": "750",
+  "buyUpPrice": "25",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "LootCavecrawlerMaterial",
+  "loc_key": "Item.LootCavecrawlerMaterial",
+  "dropped_by": [
+    {
+      "sourceId": "Tetrachnide",
+      "chance": "0.6",
+      "min": "1",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "CavecrawlerSmall",
+      "chance": "1",
+      "min": "1",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "TetrachnideLarge",
+      "chance": "1",
+      "min": "1",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "TetrachnidePet",
+      "chance": "0.6",
+      "min": "1",
+      "max": "3",
+      "type": "Skinning"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "m_Name": "WolfDark",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "1200",
+  "stamina": "100",
+  "level": "50",
+  "walkSpeed": "2",
+  "runSpeed": "5",
+  "image": "877db2ab5b13c9447b36ec2a0b0eb3d9",
+  "image_fid": "21300000",
+  "entityClass": "1",
+  "mobBehaviour": "39dd1c703ba236f4098db705bda0cda1",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "1797523ec97f8534dbf9be67cf883c05",
+  "entityPrefab_fid": "1598445385854648",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "fd8a9ed5a530238478153be6db09128e",
+      "name": "WolfDarkAttack",
+      "minDamage": "30",
+      "maxDamage": "40",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.1",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "a32b41ce8bc1f4a4fa7152ce56cb58f9",
+      "name": "WolfDarkHardSkin"
+    },
+    {
+      "id": "9a6bce91053ebd04bae0735aaecdcac6",
+      "name": "WolfDarkFerociousBite",
+      "minDamage": "40",
+      "maxDamage": "50",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "1",
+      "criticalValue": "1"
+    }
+  ],
+  "id": "WolfDark",
+  "loc_key": "Entity.WolfDark",
+  "skinning_drops": [
+    {
+      "itemId": "MediumRawHide",
+      "chance": "1",
+      "min": "1",
+      "max": "3"
+    },
+    {
+      "itemId": "RawCarnivoreMeat",
+      "chance": "1",
+      "min": "2",
+      "max": "3"
+    },
+    {
+      "itemId": "LeprousRawhideParts",
+      "chance": "0.5",
+      "min": "4",
+      "max": "8"
+    },
+    {
+      "itemId": "LeprousRawhideParts",
+      "chance": "0.5",
+      "min": "4",
+      "max": "20"
+    },
+    {
+      "itemId": "LeprousBlood",
+      "chance": "0.2",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "LeprousBone",
+      "chance": "0.2",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "RawDeadFlesh",
+      "chance": "0.2",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "BlackWolfFang",
+      "chance": "0.015",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "WolfClaws",
+      "chance": "0.01",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "m_Name": "Boss-01-KillCrocodile",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "f25f74f380d9f0041af14bd2e376816f",
+  "predecessors": [
+    "Boss-00-KillBarghest"
+  ],
+  "npcTaker": "f25f74f380d9f0041af14bd2e376816f",
+  "reward": {
+    "money": "3000",
+    "guildXp": "0",
+    "amount": "0"
+  },
+  "id": "Boss-01-KillCrocodile",
+  "npcGiverName": "PlagueGoPoints",
+  "npcTakerName": "PlagueGoPoints",
+  "group": "General"
+}

@@ -1,0 +1,12 @@
+{
+  "m_Name": "Christmas2022Cloak",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "9821322a0a9a06845ab596435c6a9b9b",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Christmas2022Cloak",
+  "loc_key": "Item.Christmas2022Cloak",
+  "icon_path": "textures/Christmas2022Cloak.png"
+}

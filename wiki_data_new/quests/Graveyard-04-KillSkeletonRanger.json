@@ -1,0 +1,14 @@
+{
+  "m_Name": "Graveyard-04-KillSkeletonRanger",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "300",
+    "guildXp": "0",
+    "amount": "0"
+  },
+  "id": "Graveyard-04-KillSkeletonRanger",
+  "group": "General"
+}

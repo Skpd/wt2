@@ -1,0 +1,11 @@
+{
+  "m_Name": "UnfiredClayJug",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "2d974627806fdb64e889f3c5b77bea13",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "UnfiredClayJug",
+  "loc_key": "Item.UnfiredClayJug"
+}

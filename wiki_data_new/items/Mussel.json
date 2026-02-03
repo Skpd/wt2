@@ -1,0 +1,11 @@
+{
+  "m_Name": "Mussel",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "c61ecf54beabf5a4fb89fc0c88d49344",
+  "image_fid": "21300000",
+  "sellPrice": "50",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Mussel",
+  "loc_key": "Item.Mussel"
+}

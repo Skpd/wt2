@@ -1,0 +1,16 @@
+{
+  "m_Name": "Smithing-Two-00-MiningTinDeposit",
+  "m_Script": "b597784dc7837e744b6c4fa47c80a317",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "10",
+    "rewardItem": "6e629c23269ed1e478fb99c5bb757a83",
+    "rewardItemName": "TinOre"
+  },
+  "id": "Smithing-Two-00-MiningTinDeposit",
+  "group": "General"
+}

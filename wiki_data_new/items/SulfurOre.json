@@ -1,0 +1,20 @@
+{
+  "m_Name": "SulfurOre",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "3f70efdc7fcf428448f3ee0a56ac75eb",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SulfurOre",
+  "loc_key": "Item.SulfurOre",
+  "dropped_by": [
+    {
+      "sourceId": "ScorpionBoss",
+      "chance": "1",
+      "min": "20",
+      "max": "30",
+      "type": "Skinning"
+    }
+  ]
+}

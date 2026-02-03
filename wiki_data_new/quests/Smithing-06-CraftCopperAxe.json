@@ -1,0 +1,16 @@
+{
+  "m_Name": "Smithing-06-CraftCopperAxe",
+  "m_Script": "8bae99285fb9248eeae7964c5eaf8a95",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "5",
+    "rewardItem": "5d0d7a7b36d396b4da48fd7db119af4a",
+    "rewardItemName": "CopperIngot"
+  },
+  "id": "Smithing-06-CraftCopperAxe",
+  "group": "General"
+}

@@ -1,0 +1,16 @@
+{
+  "m_Name": "Smithing-Two-09-GatherRawIronOre",
+  "m_Script": "bbef8bd82ea7ec3f83b28462fb539071",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "20",
+    "rewardItem": "431ba6b1457ab034a99495cd0757a5da",
+    "rewardItemName": "IronOre"
+  },
+  "id": "Smithing-Two-09-GatherRawIronOre",
+  "group": "General"
+}

@@ -1,0 +1,39 @@
+{
+  "m_Name": "BerryTinctureFermentation",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "9b0c889c7ed690c44ba3845849c82c86",
+      "amount": "3",
+      "name": "Strawberry",
+      "loc_key": "Item.Strawberry"
+    },
+    {
+      "guid": "9cd48afcd3da71340a145aefc4d27335",
+      "amount": "3",
+      "name": "Blueberries",
+      "loc_key": "Item.Blueberries"
+    },
+    {
+      "guid": "b95cedd2b9b09f440ba7f22dde65eb17",
+      "amount": "3",
+      "name": "Redbilberry",
+      "loc_key": "Item.Redbilberry"
+    },
+    {
+      "guid": "99d35305bbc7a484b807d7a67c0ea229",
+      "amount": "3",
+      "name": "SpiceSugar",
+      "loc_key": "Item.SpiceSugar"
+    }
+  ],
+  "products": [
+    {
+      "guid": "e80fa55cc87f7744a9a20593bd8817c4",
+      "amount": "1",
+      "name": "BerryTincture",
+      "loc_key": "Item.BerryTincture"
+    }
+  ],
+  "id": "BerryTinctureFermentation"
+}

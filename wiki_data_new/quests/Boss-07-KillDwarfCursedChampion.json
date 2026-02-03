@@ -1,0 +1,20 @@
+{
+  "m_Name": "Boss-07-KillDwarfCursedChampion",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "e5ba14d4b44a1d14e9671ecf011a5bc6",
+  "npcTaker": "e5ba14d4b44a1d14e9671ecf011a5bc6",
+  "reward": {
+    "money": "25000",
+    "guildXp": "0",
+    "amount": "1",
+    "rewardItem": "a876420015f2cb040a8a7f9fcb16372b",
+    "rewardItemName": "ChampionCloak"
+  },
+  "id": "Boss-07-KillDwarfCursedChampion",
+  "npcGiverName": "MainIslandTownDailyHardcoreQuests",
+  "npcTakerName": "MainIslandTownDailyHardcoreQuests",
+  "group": "General"
+}

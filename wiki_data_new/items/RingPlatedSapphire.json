@@ -1,0 +1,11 @@
+{
+  "m_Name": "RingPlatedSapphire",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "f180d4ce64f1f614b8dc46e17e7303c8",
+  "image_fid": "21300000",
+  "sellPrice": "100",
+  "buyUpPrice": "100",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "RingPlatedSapphire",
+  "loc_key": "Item.RingPlatedSapphire"
+}

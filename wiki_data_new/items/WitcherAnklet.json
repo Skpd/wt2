@@ -1,0 +1,11 @@
+{
+  "m_Name": "WitcherAnklet",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "1618dccd0c9fb9b498cfaddd9f8b08b2",
+  "image_fid": "21300000",
+  "sellPrice": "7500",
+  "buyUpPrice": "750",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "WitcherAnklet",
+  "loc_key": "Item.WitcherAnklet"
+}

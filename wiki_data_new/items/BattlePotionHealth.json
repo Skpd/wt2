@@ -1,0 +1,11 @@
+{
+  "m_Name": "BattlePotionHealth",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "cef31e19a09665548ba8409d03683104",
+  "image_fid": "21300000",
+  "sellPrice": "2500",
+  "buyUpPrice": "50",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BattlePotionHealth",
+  "loc_key": "Item.BattlePotionHealth"
+}

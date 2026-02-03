@@ -1,0 +1,184 @@
+{
+  "m_Name": "DementedElf",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "150",
+  "stamina": "100",
+  "level": "30",
+  "walkSpeed": "1.6",
+  "runSpeed": "3.5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "0",
+  "mobBehaviour": "13ac5cb899340154688b8eb8878fbc29",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "32cb97b8aede58e40b955681f832d42e",
+  "entityPrefab_fid": "1798066659418654",
+  "entityBonuses": {
+    "Dodge": "0.3",
+    "Block": "0.2",
+    "BlockProjectile": "0.3",
+    "Defense": "0.3"
+  },
+  "skills": [
+    {
+      "id": "26caaf2f7acc2ef489c8c23012c8b62a",
+      "name": "DementedElfAttack",
+      "minDamage": "25",
+      "maxDamage": "35",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.3",
+      "ignoreDefense": "0.2",
+      "criticalChance": "0",
+      "criticalValue": "0"
+    }
+  ],
+  "id": "DementedElf",
+  "loc_key": "Entity.DementedElf",
+  "drops": [
+    {
+      "itemId": "Money",
+      "chance": 1,
+      "min": 100,
+      "max": 500
+    },
+    {
+      "itemId": "YellowChristmasBall",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "FrozenArrow",
+      "chance": 0.05,
+      "min": 3,
+      "max": 5
+    },
+    {
+      "itemId": "CandyRed",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "CandyPurple",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SmallBoostPotion",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Champagne",
+      "chance": 0.075,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "GiftGreen",
+      "chance": 0.075,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "GiftPink",
+      "chance": 0.075,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SmallBoostPotion",
+      "chance": 0.075,
+      "min": 2,
+      "max": 3
+    },
+    {
+      "itemId": "ElvenThread",
+      "chance": 0.075,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "ElvenThread",
+      "chance": 0.075,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "ElvenThread",
+      "chance": 0.075,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "ElvenHat",
+      "chance": 0.075,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SkillBookLevel10",
+      "chance": 0.2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "ChristmasTree",
+      "chance": 0.1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "GiftGreen",
+      "chance": 0.11666666666666665,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "GiftPink",
+      "chance": 0.11666666666666665,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SmallBoostPotion",
+      "chance": 0.11666666666666665,
+      "min": 2,
+      "max": 3
+    },
+    {
+      "itemId": "SmallBoostPotion",
+      "chance": 0.01,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "SmallBoostPotion",
+      "chance": 0.01,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "SmallBoostPotion",
+      "chance": 0.01,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "SmallBoostPotion",
+      "chance": 0.01,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "LargeBoostPotion",
+      "chance": 0.01,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

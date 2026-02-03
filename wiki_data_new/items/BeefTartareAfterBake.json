@@ -1,0 +1,11 @@
+{
+  "m_Name": "BeefTartareAfterBake",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "e094854d20b58754db38d93509dbbf1e",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "20",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BeefTartareAfterBake",
+  "loc_key": "Item.BeefTartareAfterBake"
+}

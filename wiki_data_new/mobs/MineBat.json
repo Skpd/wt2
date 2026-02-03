@@ -1,0 +1,70 @@
+{
+  "m_Name": "MineBat",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "250",
+  "stamina": "100",
+  "level": "25",
+  "walkSpeed": "1.6",
+  "runSpeed": "4",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "1",
+  "mobBehaviour": "9a91df156d5ca1a48be0638cc52fc6f3",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "260b616415eb97f449d6e0328b226990",
+  "entityPrefab_fid": "1230606077002424",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "38a01c09b07c8584693ca598b73c62d2",
+      "name": "MineBatAttack",
+      "minDamage": "20",
+      "maxDamage": "30",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "732120eccbe5cc04c9ab7b7d228a20f5",
+      "name": "MineBatBite",
+      "minDamage": "20",
+      "maxDamage": "30",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.1",
+      "ignoreDefense": "0",
+      "criticalChance": "0.25",
+      "criticalValue": "1.5"
+    }
+  ],
+  "id": "MineBat",
+  "loc_key": "Entity.MineBat",
+  "skinning_drops": [
+    {
+      "itemId": "InfectedRawHide",
+      "chance": "0.15",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "SmallRawHide",
+      "chance": "1",
+      "min": "2",
+      "max": "4"
+    },
+    {
+      "itemId": "MineBatWing",
+      "chance": "0.003",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "OrganicsClot",
+      "chance": "1",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "PiecesDeadFlesh",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "d252838cf4061f64d9c30d5560245da5",
+  "image_fid": "21300000",
+  "sellPrice": "50",
+  "buyUpPrice": "5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "PiecesDeadFlesh",
+  "loc_key": "Item.PiecesDeadFlesh"
+}

@@ -1,0 +1,21 @@
+{
+  "m_Name": "Witchcrafter-Daily-KillHugeBoars",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "0",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "cf906b95c7aa0a14685e5751ba7fc1ad",
+  "predecessors": [
+    "Hunter-Two-04-KillBear"
+  ],
+  "npcTaker": "11e1970d86e6e6440b43cdad3cffb63a",
+  "reward": {
+    "money": "5000",
+    "guildXp": "0",
+    "amount": "0"
+  },
+  "id": "Witchcrafter-Daily-KillHugeBoars",
+  "npcGiverName": "CityWitchcrafterOrvin",
+  "npcTakerName": "CityMasonPetrum",
+  "group": "Daily"
+}

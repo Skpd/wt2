@@ -1,0 +1,25 @@
+{
+  "m_Name": "PumpkinBeer",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "8e7e3f1e16f594345893165c79570850",
+  "image_fid": "21300000",
+  "sellPrice": "350",
+  "buyUpPrice": "5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "PumpkinBeer",
+  "loc_key": "Item.PumpkinBeer",
+  "dropped_by": [
+    {
+      "sourceId": "UndeadSwordHalloween",
+      "chance": 0.08333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "Witch",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 2
+    }
+  ]
+}

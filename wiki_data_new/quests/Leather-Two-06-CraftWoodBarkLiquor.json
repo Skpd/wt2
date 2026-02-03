@@ -1,0 +1,16 @@
+{
+  "m_Name": "Leather-Two-06-CraftWoodBarkLiquor",
+  "m_Script": "8bae99285fb9248eeae7964c5eaf8a95",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "5",
+    "rewardItem": "6bb16b153b464774b8a569914ca99aa5",
+    "rewardItemName": "WoodBarkLiquor"
+  },
+  "id": "Leather-Two-06-CraftWoodBarkLiquor",
+  "group": "General"
+}

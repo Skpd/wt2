@@ -1,0 +1,21 @@
+{
+  "m_Name": "CarpentryCamp-06-CraftWoodHardPlanks",
+  "m_Script": "8bae99285fb9248eeae7964c5eaf8a95",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "860dcc9b67deabf47b8c22508ece8568",
+  "predecessors": [
+    "CarpentryCamp-05-SearchSpruceTree"
+  ],
+  "npcTaker": "860dcc9b67deabf47b8c22508ece8568",
+  "reward": {
+    "money": "750",
+    "guildXp": "0",
+    "amount": "0"
+  },
+  "id": "CarpentryCamp-06-CraftWoodHardPlanks",
+  "npcGiverName": "CarpentryCampBonan",
+  "npcTakerName": "CarpentryCampBonan",
+  "group": "General"
+}

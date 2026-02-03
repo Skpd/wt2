@@ -1,0 +1,11 @@
+{
+  "m_Name": "LimeLiquor",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "ccb1cb2954d426f48b5083feafd748ac",
+  "image_fid": "21300000",
+  "sellPrice": "30",
+  "buyUpPrice": "0.2",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "LimeLiquor",
+  "loc_key": "Item.LimeLiquor"
+}

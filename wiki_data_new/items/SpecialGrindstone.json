@@ -1,0 +1,11 @@
+{
+  "m_Name": "SpecialGrindstone",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "642ceb8ff4a40614c8f34c357dbc1450",
+  "image_fid": "21300000",
+  "sellPrice": "2000",
+  "buyUpPrice": "100",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SpecialGrindstone",
+  "loc_key": "Item.SpecialGrindstone"
+}

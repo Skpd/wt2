@@ -1,0 +1,11 @@
+{
+  "m_Name": "BattlePotionBoss",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "0eaa7d67d784a6d409b793442f0ca88f",
+  "image_fid": "21300000",
+  "sellPrice": "2500",
+  "buyUpPrice": "50",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BattlePotionBoss",
+  "loc_key": "Item.BattlePotionBoss"
+}

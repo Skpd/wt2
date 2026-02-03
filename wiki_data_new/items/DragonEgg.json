@@ -1,0 +1,20 @@
+{
+  "m_Name": "DragonEgg",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "0ae62c5582082984996d233c6b84a9cd",
+  "image_fid": "21300000",
+  "sellPrice": "0",
+  "buyUpPrice": "10000",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "DragonEgg",
+  "loc_key": "Item.DragonEgg",
+  "icon_path": "textures/DragonEgg.png",
+  "dropped_by": [
+    {
+      "sourceId": "DragonRex",
+      "chance": 0.05,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "CarrotSeeds",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "1b143922a418c68479ec525bcd490607",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.05",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "CarrotSeeds",
+  "loc_key": "Item.CarrotSeeds"
+}

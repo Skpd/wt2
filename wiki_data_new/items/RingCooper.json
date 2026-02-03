@@ -1,0 +1,11 @@
+{
+  "m_Name": "RingCooper",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "9c8e3c7f9a6191f4fb1db405336f4cab",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "1.3",
+  "id": "RingCooper",
+  "loc_key": "Item.RingCooper"
+}

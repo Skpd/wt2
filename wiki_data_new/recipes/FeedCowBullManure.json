@@ -1,0 +1,21 @@
+{
+  "m_Name": "FeedCowBullManure",
+  "m_Script": "37d6a230f8991a4267be4fd19e466e02",
+  "resources": [
+    {
+      "guid": "837d42c4a45fc364bb9199386b6c1c0a",
+      "amount": "10",
+      "name": "Hay",
+      "loc_key": "Item.Hay"
+    }
+  ],
+  "products": [
+    {
+      "guid": "9cb3408429bee7945b0fe485e0125656",
+      "amount": "2",
+      "name": "Manure",
+      "loc_key": "Item.Manure"
+    }
+  ],
+  "id": "FeedCowBullManure"
+}

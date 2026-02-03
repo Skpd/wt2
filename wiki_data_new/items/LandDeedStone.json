@@ -1,0 +1,11 @@
+{
+  "m_Name": "LandDeedStone",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "c7cc8d2cfe69c2948a5ea7f1df5b8a3f",
+  "image_fid": "21300000",
+  "sellPrice": "50000",
+  "buyUpPrice": "8000",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "LandDeedStone",
+  "loc_key": "Item.LandDeedStone"
+}

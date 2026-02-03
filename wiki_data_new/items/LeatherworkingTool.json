@@ -1,0 +1,11 @@
+{
+  "m_Name": "LeatherworkingTool",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "8cf4c6637b2780f468e8f9e03b2aec1b",
+  "image_fid": "21300000",
+  "sellPrice": "6000",
+  "buyUpPrice": "105.2",
+  "craftMaterialsBuyUpPricePercent": "1",
+  "id": "LeatherworkingTool",
+  "loc_key": "Item.LeatherworkingTool"
+}

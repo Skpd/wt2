@@ -1,0 +1,31 @@
+{
+  "m_Name": "HalloweenWitchThread",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "7a6d90ee3f9d14b41bd1b68eeb489f0f",
+  "image_fid": "21300000",
+  "sellPrice": "50",
+  "buyUpPrice": "4",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "HalloweenWitchThread",
+  "loc_key": "Item.HalloweenWitchThread",
+  "dropped_by": [
+    {
+      "sourceId": "HalloweenGodsend",
+      "chance": 0.07142857142857142,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HalloweenGodsend",
+      "chance": 0.07142857142857142,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "Witch",
+      "chance": 0.26666666666666666,
+      "min": 1,
+      "max": 2
+    }
+  ]
+}

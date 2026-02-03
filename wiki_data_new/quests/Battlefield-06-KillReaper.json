@@ -1,0 +1,23 @@
+{
+  "m_Name": "Battlefield-06-KillReaper",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "c33919de331a8e64d8dfc5aaa353923e",
+  "predecessors": [
+    "Battlefield-04-KillCultistRisenSwordsman"
+  ],
+  "npcTaker": "c33919de331a8e64d8dfc5aaa353923e",
+  "reward": {
+    "money": "10000",
+    "guildXp": "0",
+    "amount": "1",
+    "rewardItem": "918157e118024c34688b371ad030404c",
+    "rewardItemName": "CultistCup"
+  },
+  "id": "Battlefield-06-KillReaper",
+  "npcGiverName": "AbandonedBattlefieldFisherElmar",
+  "npcTakerName": "AbandonedBattlefieldFisherElmar",
+  "group": "General"
+}

@@ -1,0 +1,62 @@
+{
+  "m_Name": "WolfLarge",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "680",
+  "stamina": "100",
+  "level": "37",
+  "walkSpeed": "2.5",
+  "runSpeed": "6",
+  "image": "a579f096055459844890d468bf3e7383",
+  "image_fid": "21300000",
+  "entityClass": "1",
+  "mobBehaviour": "39dd1c703ba236f4098db705bda0cda1",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "29785a3351c19f94090f40f8e91dddf6",
+  "entityPrefab_fid": "1905756466877586",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "5b026f4eba7f56e4bbd5a441cbb719d6",
+      "name": "WolfAttackLarge",
+      "minDamage": "51",
+      "maxDamage": "68",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.15",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "4460560b946d0b94dbf636d6558f279c",
+      "name": "WolfHardSkinLarge"
+    }
+  ],
+  "id": "WolfLarge",
+  "loc_key": "Entity.WolfLarge",
+  "skinning_drops": [
+    {
+      "itemId": "MediumRawHide",
+      "chance": "1",
+      "min": "3",
+      "max": "8"
+    },
+    {
+      "itemId": "RawCarnivoreMeat",
+      "chance": "1",
+      "min": "9",
+      "max": "12"
+    },
+    {
+      "itemId": "WolfClaws",
+      "chance": "0.015",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "OrganicsClot",
+      "chance": "1",
+      "min": "3",
+      "max": "6"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "m_Name": "LootPlague\u0421itizenPants",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "550557e2f0ac29343b2c394132209f29",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "28",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "LootPlague\u0421itizenPants",
+  "loc_key": "Item.LootPlague\u0421itizenPants",
+  "dropped_by": [
+    {
+      "sourceId": "PlagueCityCorpses",
+      "chance": 0.1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "PlagueSkeletonsCorpses",
+      "chance": 0.1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "PlagueSkeletonsCorpses",
+      "chance": 0.1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "PlagueSpidersWeb",
+      "chance": 0.02,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "m_Name": "BakeRawCharlotte",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "54233576ca5fb0241bcef46c7f22d4bc",
+      "amount": "1",
+      "name": "RawCharlotte",
+      "loc_key": "Item.RawCharlotte"
+    }
+  ],
+  "products": [
+    {
+      "guid": "6636520db52def0428571ce6a81fd6a5",
+      "amount": "1",
+      "name": "Charlotte",
+      "loc_key": "Item.Charlotte"
+    }
+  ],
+  "id": "BakeRawCharlotte"
+}

@@ -1,0 +1,23 @@
+{
+  "m_Name": "KillMobsScorpionLarge",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "0",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "a2b2d861524c72142a3366233cccc744",
+  "predecessors": [
+    "Hunter-Three-04-KillScorpionLarge"
+  ],
+  "npcTaker": "dbbd65a03bea5164784da9022840adf8",
+  "reward": {
+    "money": "3500",
+    "guildXp": "0",
+    "amount": "30",
+    "rewardItem": "afc661c81e685e94ca4d121fcd618aa0",
+    "rewardItemName": "WeakAntidote"
+  },
+  "id": "KillMobsScorpionLarge",
+  "npcGiverName": "MainIslandTownDailyQuests",
+  "npcTakerName": "CityBreederErmak",
+  "group": "Daily"
+}

@@ -1,0 +1,12 @@
+{
+  "m_Name": "ForestCloak",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "b8ce08167143c194d95641e5f3d9b67f",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "ForestCloak",
+  "loc_key": "Item.ForestCloak",
+  "icon_path": "textures/forest-cloak.png"
+}

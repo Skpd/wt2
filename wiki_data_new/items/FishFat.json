@@ -1,0 +1,25 @@
+{
+  "m_Name": "FishFat",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "a443a4583f8c11741964582458137cc5",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "7",
+  "craftMaterialsBuyUpPricePercent": "1.1",
+  "id": "FishFat",
+  "loc_key": "Item.FishFat",
+  "dropped_by": [
+    {
+      "sourceId": "SewersFinalChest",
+      "chance": 0.1,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "FatOgre",
+      "chance": 0.1,
+      "min": 1,
+      "max": 5
+    }
+  ]
+}

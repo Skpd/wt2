@@ -1,0 +1,18 @@
+{
+  "m_Name": "Guild-Daily-RareShardOfLonging",
+  "m_Script": "a33fbc2ed7ad8fe58f2dcfb6e1a39cab",
+  "line": "9",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "7c9d9300dbb72b34f897f159a101c212",
+  "npcTaker": "7c9d9300dbb72b34f897f159a101c212",
+  "reward": {
+    "money": "0",
+    "guildXp": "150",
+    "amount": "0"
+  },
+  "id": "Guild-Daily-RareShardOfLonging",
+  "npcGiverName": "CityGuildQuest",
+  "npcTakerName": "CityGuildQuest",
+  "group": "Daily"
+}

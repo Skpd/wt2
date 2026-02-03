@@ -1,0 +1,19 @@
+{
+  "m_Name": "SkeletonKeyPart1",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "d5ebb0497a225d5409fc4a75bf58ac21",
+  "image_fid": "21300000",
+  "sellPrice": "10",
+  "buyUpPrice": "0.05",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SkeletonKeyPart1",
+  "loc_key": "Item.SkeletonKeyPart1",
+  "dropped_by": [
+    {
+      "sourceId": "SkeletonKnightEvent",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

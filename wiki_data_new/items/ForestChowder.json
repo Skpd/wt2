@@ -1,0 +1,11 @@
+{
+  "m_Name": "ForestChowder",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "979f7656ddeb5fe46a0f8e838aa7809d",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "ForestChowder",
+  "loc_key": "Item.ForestChowder"
+}

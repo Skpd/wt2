@@ -1,0 +1,16 @@
+{
+  "m_Name": "FisheryWay-00-CraftCrudeFishingPole",
+  "m_Script": "8bae99285fb9248eeae7964c5eaf8a95",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "ea6c0480facd1544f88dfc66a449df99",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "0"
+  },
+  "id": "FisheryWay-00-CraftCrudeFishingPole",
+  "npcGiverName": "CityFisherPaul",
+  "group": "General"
+}

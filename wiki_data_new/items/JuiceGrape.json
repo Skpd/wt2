@@ -1,0 +1,11 @@
+{
+  "m_Name": "JuiceGrape",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "fa232c65ff3fe56478f48e3ec4b45ce5",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "2",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "JuiceGrape",
+  "loc_key": "Item.JuiceGrape"
+}

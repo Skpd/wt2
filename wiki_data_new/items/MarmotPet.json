@@ -1,0 +1,11 @@
+{
+  "m_Name": "MarmotPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "bfc5403684623d248a3c4cd9f607748d",
+  "image_fid": "21300000",
+  "sellPrice": "20",
+  "buyUpPrice": "20",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "MarmotPet",
+  "loc_key": "Item.MarmotPet"
+}

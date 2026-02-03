@@ -1,0 +1,11 @@
+{
+  "m_Name": "BearMountSkin",
+  "m_Script": "f5673bd2393c13a27685bda14e28f91a",
+  "image": "81cc31e981fe30946a06259d0bcc7e65",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BearMountSkin",
+  "loc_key": "Item.BearMountSkin"
+}

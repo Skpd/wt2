@@ -1,0 +1,21 @@
+{
+  "m_Name": "UnfiredClayPot",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "dad8e2cac045d004090ff9016eb55a29",
+      "amount": "1",
+      "name": "UnfiredClayPot",
+      "loc_key": "Item.UnfiredClayPot"
+    }
+  ],
+  "products": [
+    {
+      "guid": "7732f85b90d91df488170c45b72917c4",
+      "amount": "1",
+      "name": "ClayPot",
+      "loc_key": "Item.ClayPot"
+    }
+  ],
+  "id": "UnfiredClayPot"
+}

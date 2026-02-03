@@ -1,0 +1,11 @@
+{
+  "m_Name": "Alburnus",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "1012286004f77ad46b81b44b00a12e50",
+  "image_fid": "21300000",
+  "sellPrice": "70",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Alburnus",
+  "loc_key": "Item.Alburnus"
+}

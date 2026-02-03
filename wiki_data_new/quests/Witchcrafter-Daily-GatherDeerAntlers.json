@@ -1,0 +1,23 @@
+{
+  "m_Name": "Witchcrafter-Daily-GatherDeerAntlers",
+  "m_Script": "bbef8bd82ea7ec3f83b28462fb539071",
+  "line": "0",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "cf906b95c7aa0a14685e5751ba7fc1ad",
+  "predecessors": [
+    "Witchcrafter-00-GatherOrgan"
+  ],
+  "npcTaker": "cf906b95c7aa0a14685e5751ba7fc1ad",
+  "reward": {
+    "money": "2500",
+    "guildXp": "0",
+    "amount": "3",
+    "rewardItem": "72fd143b163415e4d8daecf9884ee452",
+    "rewardItemName": "EmptyFlask"
+  },
+  "id": "Witchcrafter-Daily-GatherDeerAntlers",
+  "npcGiverName": "CityWitchcrafterOrvin",
+  "npcTakerName": "CityWitchcrafterOrvin",
+  "group": "Daily"
+}

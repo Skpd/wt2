@@ -1,0 +1,51 @@
+{
+  "m_Name": "CauldronForestChowder",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "64d28e46628fc7c4d9269940075fc5c9",
+      "amount": "1",
+      "name": "RawHareMeat",
+      "loc_key": "Item.RawHareMeat"
+    },
+    {
+      "guid": "930bddb0d0a377c448cecd4313de13f5",
+      "amount": "1",
+      "name": "RootCrop",
+      "loc_key": "Item.RootCrop"
+    },
+    {
+      "guid": "78bf0fe1b0cd94a43bff1090c7dc7ebc",
+      "amount": "2",
+      "name": "RawMushroomBoletus",
+      "loc_key": "Item.RawMushroomBoletus"
+    },
+    {
+      "guid": "a0c4dd9497be7974bb36fdb8f1c86ca6",
+      "amount": "1",
+      "name": "Greenery",
+      "loc_key": "Item.Greenery"
+    },
+    {
+      "guid": "73dedc9b9aa11e1479e25907edaf49db",
+      "amount": "1",
+      "name": "SpiceSalt",
+      "loc_key": "Item.SpiceSalt"
+    },
+    {
+      "guid": "27d507923a0f91a489ebecc6d7e70fd4",
+      "amount": "1",
+      "name": "Water",
+      "loc_key": "Item.Water"
+    }
+  ],
+  "products": [
+    {
+      "guid": "2ba1cea9b4f73f64c8c01e9abed7d92e",
+      "amount": "1",
+      "name": "ForestChowder",
+      "loc_key": "Item.ForestChowder"
+    }
+  ],
+  "id": "CauldronForestChowder"
+}

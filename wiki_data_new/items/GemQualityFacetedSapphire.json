@@ -1,0 +1,19 @@
+{
+  "m_Name": "GemQualityFacetedSapphire",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "711d8f8040ff23545906f7d226245110",
+  "image_fid": "21300000",
+  "sellPrice": "10",
+  "buyUpPrice": "2",
+  "craftMaterialsBuyUpPricePercent": "1.5",
+  "id": "GemQualityFacetedSapphire",
+  "loc_key": "Item.GemQualityFacetedSapphire",
+  "dropped_by": [
+    {
+      "sourceId": "Witch",
+      "chance": 0.2,
+      "min": 1,
+      "max": 2
+    }
+  ]
+}

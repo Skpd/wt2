@@ -1,0 +1,16 @@
+{
+  "m_Name": "Fishery-04-EatRoastedFishMeat",
+  "m_Script": "89aba7364ee1a5f43756e7fab3dfb3b6",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "100",
+    "guildXp": "0",
+    "amount": "5",
+    "rewardItem": "005b6a0c4620d4140a4d7e6095ef8d2f",
+    "rewardItemName": "RoastedFishMeat"
+  },
+  "id": "Fishery-04-EatRoastedFishMeat",
+  "group": "General"
+}

@@ -1,0 +1,21 @@
+{
+  "m_Name": "BakeRawSalmonSoup",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "4e54f19d486948a4f869cbb1ae638500",
+      "amount": "1",
+      "name": "RawSalmonSoup",
+      "loc_key": "Item.RawSalmonSoup"
+    }
+  ],
+  "products": [
+    {
+      "guid": "8a60520ca20a77a49811d8b2c3bc0473",
+      "amount": "1",
+      "name": "SalmonSoupAfterBake",
+      "loc_key": "Item.SalmonSoupAfterBake"
+    }
+  ],
+  "id": "BakeRawSalmonSoup"
+}

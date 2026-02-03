@@ -1,0 +1,20 @@
+{
+  "m_Name": "CursedBloodFromChurch",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "99290b714e99e154996a6d5dec83565f",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "20",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "CursedBloodFromChurch",
+  "loc_key": "Item.CursedBloodFromChurch",
+  "icon_path": "textures/CursedBloodFromChurch.png",
+  "dropped_by": [
+    {
+      "sourceId": "ChurchFinalChest",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

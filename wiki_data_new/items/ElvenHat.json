@@ -1,0 +1,19 @@
+{
+  "m_Name": "ElvenHat",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "c1bff02e6ab951f4bae248861d76bf10",
+  "image_fid": "21300000",
+  "sellPrice": "0",
+  "buyUpPrice": "0",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "ElvenHat",
+  "loc_key": "Item.ElvenHat",
+  "dropped_by": [
+    {
+      "sourceId": "DementedElf",
+      "chance": 0.075,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

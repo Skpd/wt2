@@ -1,0 +1,439 @@
+{
+  "m_Name": "UndeadMace",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "250",
+  "stamina": "100",
+  "level": "50",
+  "walkSpeed": "1",
+  "runSpeed": "3",
+  "image": "f2ab3ee1500047f4db63c7d6a7a0fde9",
+  "image_fid": "21300000",
+  "entityClass": "3",
+  "mobBehaviour": "1ffb7607b4dfea441a4aafc9f96b3976",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "955916d4d4b719a40afb088e4271ea1b",
+  "entityPrefab_fid": "1418069549707139",
+  "entityBonuses": {
+    "IgnoreNormalDamage": "1",
+    "PlagueInfectionChance": "0.05",
+    "Absorption": "10",
+    "Block": "0.25",
+    "BlockProjectile": "0.2",
+    "IgnoreNormalDamageDots": "1"
+  },
+  "skills": [
+    {
+      "id": "000ae558843d53c45a2f6607d80c71c6",
+      "name": "UndeadMaceAttack",
+      "minDamage": "35",
+      "maxDamage": "45",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.5",
+      "ignoreDefense": "0.3",
+      "criticalChance": "0.1",
+      "criticalValue": "1.2"
+    }
+  ],
+  "id": "UndeadMace",
+  "loc_key": "Entity.UndeadMace",
+  "drops": [
+    {
+      "itemId": "Money",
+      "chance": 0.8,
+      "min": 100,
+      "max": 300
+    },
+    {
+      "itemId": "Worm",
+      "chance": 0.4,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "Intestines",
+      "chance": 0.4,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "RoughBandages",
+      "chance": 0.047619047619047616,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "WeakAntidote",
+      "chance": 0.047619047619047616,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "SimpleMedicine",
+      "chance": 0.047619047619047616,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "WideBandages",
+      "chance": 0.047619047619047616,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "IronOre",
+      "chance": 0.047619047619047616,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "itemId": "IronIngot",
+      "chance": 0.047619047619047616,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "IronBloom",
+      "chance": 0.047619047619047616,
+      "min": 2,
+      "max": 3
+    },
+    {
+      "itemId": "TinIngot",
+      "chance": 0.047619047619047616,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "itemId": "CopperIngot",
+      "chance": 0.047619047619047616,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "itemId": "BronzeIngot",
+      "chance": 0.047619047619047616,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "itemId": "BronzeSpear",
+      "chance": 0.047619047619047616,
+      "min": 2,
+      "max": 6
+    },
+    {
+      "itemId": "MediumLeather",
+      "chance": 0.047619047619047616,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "itemId": "MediumHide",
+      "chance": 0.047619047619047616,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "CopperNail",
+      "chance": 0.047619047619047616,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "BronzeNail",
+      "chance": 0.047619047619047616,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "IronLines",
+      "chance": 0.047619047619047616,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "IronPlates",
+      "chance": 0.047619047619047616,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "IronNail",
+      "chance": 0.047619047619047616,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SpiceBlackPepper",
+      "chance": 0.047619047619047616,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "itemId": "SpiceCinnamon",
+      "chance": 0.047619047619047616,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "itemId": "SpiceSalt",
+      "chance": 0.047619047619047616,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "itemId": "Salt",
+      "chance": 0.0625,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "CopperRawOre",
+      "chance": 0.0625,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "itemId": "CopperOre",
+      "chance": 0.0625,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "TinOre",
+      "chance": 0.0625,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "TinRawOre",
+      "chance": 0.0625,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "itemId": "IronRawOre",
+      "chance": 0.0625,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "itemId": "IronOre",
+      "chance": 0.0625,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "IronBloom",
+      "chance": 0.0625,
+      "min": 2,
+      "max": 4
+    },
+    {
+      "itemId": "Sulfur",
+      "chance": 0.07142857142857142,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "CopperRawOre",
+      "chance": 0.07142857142857142,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "itemId": "CopperOre",
+      "chance": 0.07142857142857142,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "TinOre",
+      "chance": 0.07142857142857142,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "TinRawOre",
+      "chance": 0.07142857142857142,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "itemId": "IronRawOre",
+      "chance": 0.07142857142857142,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "itemId": "IronOre",
+      "chance": 0.07142857142857142,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "GemUncutAmethyst",
+      "chance": 0.016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "GemUncutEmerald",
+      "chance": 0.016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "GemUncutRuby",
+      "chance": 0.016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "GemUncutSapphire",
+      "chance": 0.016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "GemUncutTopaz",
+      "chance": 0.016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SteelIngot",
+      "chance": 0.016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "GrimWoodBow",
+      "chance": 0.00016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "MorbiumAxe",
+      "chance": 0.00016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "MorbiumHammer",
+      "chance": 0.00016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "MorbiumKnife",
+      "chance": 0.00016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "MorbiumSword",
+      "chance": 0.00016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "LeprousSling",
+      "chance": 0.00016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "LootKnife",
+      "chance": 0.0007142857142857143,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "MimicQuestItem",
+      "chance": 0.0007142857142857143,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "DwarfQuestItem",
+      "chance": 0.0007142857142857143,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "FishingQuestItem",
+      "chance": 0.0007142857142857143,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SpiderQuestItem",
+      "chance": 0.0007142857142857143,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "PetEssenceUnstable",
+      "chance": 0.0007142857142857143,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "LoveLetterQuestItem",
+      "chance": 0.0007142857142857143,
+      "min": 1,
+      "max": 1
+    }
+  ],
+  "skinning_drops": [
+    {
+      "itemId": "Worm",
+      "chance": "1",
+      "min": "2",
+      "max": "4"
+    },
+    {
+      "itemId": "LeprousVeins",
+      "chance": "0.7",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "LeprousVeins",
+      "chance": "0.3",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "LeprousOrgans",
+      "chance": "0.3",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "RawDeadFlesh",
+      "chance": "0.3",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "LeprousBlood",
+      "chance": "0.1",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "LeprousBone",
+      "chance": "0.1",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "UndeadHand",
+      "chance": "0.005",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

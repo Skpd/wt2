@@ -1,0 +1,21 @@
+{
+  "m_Name": "MinersCamp-01-ObtainMineBoulder",
+  "m_Script": "bbef8bd82ea7ec3f83b28462fb539071",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "cc538b1fb3a4b9544aedd1b82b22aa43",
+  "predecessors": [
+    "MinersCamp-00-CitySmithHank"
+  ],
+  "npcTaker": "cc538b1fb3a4b9544aedd1b82b22aa43",
+  "reward": {
+    "money": "500",
+    "guildXp": "0",
+    "amount": "0"
+  },
+  "id": "MinersCamp-01-ObtainMineBoulder",
+  "npcGiverName": "MinersCampRonold",
+  "npcTakerName": "MinersCampRonold",
+  "group": "General"
+}

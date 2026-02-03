@@ -1,0 +1,11 @@
+{
+  "m_Name": "Anglerfish",
+  "m_Script": "53d85703288a41ce0e87dcdb381b2599",
+  "image": "215d0392dc80bcc449cdd6d00742a1e1",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "300",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Anglerfish",
+  "loc_key": "Item.Anglerfish"
+}

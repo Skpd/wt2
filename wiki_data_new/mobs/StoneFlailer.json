@@ -1,0 +1,60 @@
+{
+  "m_Name": "StoneFlailer",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "3000",
+  "stamina": "100",
+  "level": "50",
+  "walkSpeed": "2",
+  "runSpeed": "4",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "6",
+  "mobBehaviour": "f91774b36f22cf74c89e3b71b74ecde9",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "4600214f1df9c594080065087d702f06",
+  "entityPrefab_fid": "1694216192155180",
+  "entityBonuses": {
+    "Absorption": "30",
+    "IgnoreEffects": "1"
+  },
+  "skills": [
+    {
+      "id": "89778eddcc2a5d54bbdabb6a879d4de0",
+      "name": "StoneWarriorBuff"
+    },
+    {
+      "id": "444e925dedfd8e54dbdec79a1bb16f34",
+      "name": "StoneFlailerAttack",
+      "minDamage": "40",
+      "maxDamage": "50",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0.6",
+      "ignoreDefense": "0.3",
+      "criticalChance": "0",
+      "criticalValue": "0"
+    }
+  ],
+  "id": "StoneFlailer",
+  "loc_key": "Entity.StoneFlailer",
+  "skinning_drops": [
+    {
+      "itemId": "HewnStone",
+      "chance": "1",
+      "min": "20",
+      "max": "40"
+    },
+    {
+      "itemId": "HewnBoulder",
+      "chance": "1",
+      "min": "10",
+      "max": "20"
+    },
+    {
+      "itemId": "Rock",
+      "chance": "1",
+      "min": "10",
+      "max": "20"
+    }
+  ]
+}

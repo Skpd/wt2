@@ -1,0 +1,11 @@
+{
+  "m_Name": "HelperChestPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "22bc338c935bb3549a2846d511fa32c1",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "HelperChestPet",
+  "loc_key": "Item.HelperChestPet"
+}

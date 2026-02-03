@@ -1,0 +1,21 @@
+{
+  "m_Name": "LimestoneSmelting",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "78477be0b8ef67b4182fd93ac1b1f12e",
+      "amount": "3",
+      "name": "Limestone",
+      "loc_key": "Item.Limestone"
+    }
+  ],
+  "products": [
+    {
+      "guid": "cab434caa5579504384cf5c2dcf6bd52",
+      "amount": "1",
+      "name": "Lime",
+      "loc_key": "Item.Lime"
+    }
+  ],
+  "id": "LimestoneSmelting"
+}

@@ -1,0 +1,20 @@
+{
+  "m_Name": "SantaHat",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "09a9022c2d6a5b243b10ce5e6af90958",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SantaHat",
+  "loc_key": "Item.SantaHat",
+  "icon_path": "textures/SantaHat.png",
+  "dropped_by": [
+    {
+      "sourceId": "Krampus",
+      "chance": 0.006666666666666667,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

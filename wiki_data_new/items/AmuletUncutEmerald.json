@@ -1,0 +1,11 @@
+{
+  "m_Name": "AmuletUncutEmerald",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "538035825cd455c468c4fa22c9a5373b",
+  "image_fid": "21300000",
+  "sellPrice": "100",
+  "buyUpPrice": "100",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "AmuletUncutEmerald",
+  "loc_key": "Item.AmuletUncutEmerald"
+}

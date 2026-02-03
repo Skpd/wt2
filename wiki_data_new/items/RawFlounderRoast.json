@@ -1,0 +1,11 @@
+{
+  "m_Name": "RawFlounderRoast",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "c5f1e0725ca8afb4f98081d6211f44c8",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "37",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "RawFlounderRoast",
+  "loc_key": "Item.RawFlounderRoast"
+}

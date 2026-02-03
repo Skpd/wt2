@@ -1,0 +1,11 @@
+{
+  "m_Name": "MerchantBeer",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "8f67b1dad417f8f4bb774f95f51fb9c0",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "MerchantBeer",
+  "loc_key": "Item.MerchantBeer"
+}

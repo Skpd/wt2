@@ -1,0 +1,12 @@
+{
+  "m_Name": "HiddenBagMedium",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "2766bfd8424f9754b8a5808d675608f0",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "7527.8335",
+  "craftMaterialsBuyUpPricePercent": "1.1",
+  "id": "HiddenBagMedium",
+  "loc_key": "Item.HiddenBagMedium",
+  "icon_path": "textures/HiddenBagMedium.png"
+}

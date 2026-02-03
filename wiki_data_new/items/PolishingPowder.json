@@ -1,0 +1,11 @@
+{
+  "m_Name": "PolishingPowder",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "e7109ffb8bb988441bd622bddabc724f",
+  "image_fid": "21300000",
+  "sellPrice": "500",
+  "buyUpPrice": "75",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "PolishingPowder",
+  "loc_key": "Item.PolishingPowder"
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "BakedRibs",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "8e6bdd7c410ca7042b9791c80aa867d9",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "25",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BakedRibs",
+  "loc_key": "Item.BakedRibs"
+}

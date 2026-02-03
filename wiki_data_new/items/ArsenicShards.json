@@ -1,0 +1,85 @@
+{
+  "m_Name": "ArsenicShards",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "fc70d31a3d895ed49828c7edd1782a32",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.02",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "ArsenicShards",
+  "loc_key": "Item.ArsenicShards",
+  "dropped_by": [
+    {
+      "sourceId": "PlagueAbandonedResources",
+      "chance": 0.16666666666666666,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "sourceId": "PlagueAbandonedResources",
+      "chance": 0.16666666666666666,
+      "min": 3,
+      "max": 6
+    },
+    {
+      "sourceId": "PlagueAbandonedResources",
+      "chance": 0.16666666666666666,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "sourceId": "PlagueAbandonedResources",
+      "chance": 0.16666666666666666,
+      "min": 3,
+      "max": 6
+    },
+    {
+      "sourceId": "PlagueAbandonedResources",
+      "chance": 0.049999999999999996,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "sourceId": "PlagueAbandonedResources",
+      "chance": 0.049999999999999996,
+      "min": 3,
+      "max": 6
+    },
+    {
+      "sourceId": "UndeadPickaxeDungeon",
+      "chance": 0.5,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "sourceId": "UndeadPickaxeDungeon",
+      "chance": 0.25,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "sourceId": "UndeadPickaxeDungeon",
+      "chance": 0.25,
+      "min": 2,
+      "max": 10
+    },
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.125,
+      "min": 10,
+      "max": 30
+    },
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.25,
+      "min": 10,
+      "max": 30
+    },
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.25,
+      "min": 10,
+      "max": 30
+    }
+  ]
+}

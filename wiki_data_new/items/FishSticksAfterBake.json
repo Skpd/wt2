@@ -1,0 +1,11 @@
+{
+  "m_Name": "FishSticksAfterBake",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "d73e32ab207ee2748989b2eb6dc8fd06",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "3",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "FishSticksAfterBake",
+  "loc_key": "Item.FishSticksAfterBake"
+}

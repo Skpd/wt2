@@ -1,0 +1,33 @@
+{
+  "m_Name": "CauldronNoodles",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "0d526fa9fde817c4bac22175759bbf4a",
+      "amount": "1",
+      "name": "RawNoodles",
+      "loc_key": "Item.RawNoodles"
+    },
+    {
+      "guid": "e96ecd4567662fb448b14ae0b770c085",
+      "amount": "1",
+      "name": "Carrot",
+      "loc_key": "Item.Carrot"
+    },
+    {
+      "guid": "27d507923a0f91a489ebecc6d7e70fd4",
+      "amount": "1",
+      "name": "Water",
+      "loc_key": "Item.Water"
+    }
+  ],
+  "products": [
+    {
+      "guid": "dbd410168d3a6e94ba1f3630c6dbee17",
+      "amount": "1",
+      "name": "Noodles",
+      "loc_key": "Item.Noodles"
+    }
+  ],
+  "id": "CauldronNoodles"
+}

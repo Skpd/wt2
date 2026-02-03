@@ -1,0 +1,11 @@
+{
+  "m_Name": "FireBolt",
+  "m_Script": "b2cd456c67ed7fbd493e563aaef7330a",
+  "image": "b54441ef03977ed44a4b94634f6f23ec",
+  "image_fid": "21300000",
+  "sellPrice": "10",
+  "buyUpPrice": "0.1243",
+  "craftMaterialsBuyUpPricePercent": "1.1",
+  "id": "FireBolt",
+  "loc_key": "Item.FireBolt"
+}

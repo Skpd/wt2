@@ -1,0 +1,11 @@
+{
+  "m_Name": "Flounder",
+  "m_Script": "53d85703288a41ce0e87dcdb381b2599",
+  "image": "f4073ee89b11de346ae2ddd64da47521",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "10",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Flounder",
+  "loc_key": "Item.Flounder"
+}

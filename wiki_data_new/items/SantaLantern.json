@@ -1,0 +1,12 @@
+{
+  "m_Name": "SantaLantern",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "98bec0e3bdbf69f4a9d672ddb86bc171",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SantaLantern",
+  "loc_key": "Item.SantaLantern",
+  "icon_path": "textures/santa-lantern.png"
+}

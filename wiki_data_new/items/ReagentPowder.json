@@ -1,0 +1,19 @@
+{
+  "m_Name": "ReagentPowder",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "8779fa9251275434bac1b4b565adb4c2",
+  "image_fid": "21300000",
+  "sellPrice": "500",
+  "buyUpPrice": "50",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "ReagentPowder",
+  "loc_key": "Item.ReagentPowder",
+  "dropped_by": [
+    {
+      "sourceId": "SewersFinalChest",
+      "chance": 0.04285714285714286,
+      "min": 10,
+      "max": 30
+    }
+  ]
+}

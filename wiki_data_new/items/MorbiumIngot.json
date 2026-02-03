@@ -1,0 +1,37 @@
+{
+  "m_Name": "MorbiumIngot",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "229631301e1ed5b469e032801b932a64",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.2",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "MorbiumIngot",
+  "loc_key": "Item.MorbiumIngot",
+  "dropped_by": [
+    {
+      "sourceId": "PlagueDragon",
+      "chance": 0.7,
+      "min": 10,
+      "max": 50
+    },
+    {
+      "sourceId": "FatOgre",
+      "chance": 0.5,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.15,
+      "min": 2,
+      "max": 3
+    },
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.5,
+      "min": 2,
+      "max": 5
+    }
+  ]
+}

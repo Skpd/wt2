@@ -1,0 +1,11 @@
+{
+  "m_Name": "PlagueBolt",
+  "m_Script": "b2cd456c67ed7fbd493e563aaef7330a",
+  "image": "56ef1b4ad4c1c0544b971ac3cf18fa6d",
+  "image_fid": "21300000",
+  "sellPrice": "10",
+  "buyUpPrice": "0.1243",
+  "craftMaterialsBuyUpPricePercent": "1.1",
+  "id": "PlagueBolt",
+  "loc_key": "Item.PlagueBolt"
+}

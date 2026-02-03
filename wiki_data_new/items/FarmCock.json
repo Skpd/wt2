@@ -1,0 +1,11 @@
+{
+  "m_Name": "FarmCock",
+  "m_Script": "19aae51a76263c851ea99fd1d6839342",
+  "image": "66f4836966dfe3440b405822a6a470d5",
+  "image_fid": "21300000",
+  "sellPrice": "5000",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "FarmCock",
+  "loc_key": "Item.FarmCock"
+}

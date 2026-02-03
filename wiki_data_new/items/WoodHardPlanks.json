@@ -1,0 +1,11 @@
+{
+  "m_Name": "WoodHardPlanks",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "9e8f3e8fa8cbe534d96dc77dc82bf761",
+  "image_fid": "21300000",
+  "sellPrice": "20",
+  "buyUpPrice": "0.2",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "WoodHardPlanks",
+  "loc_key": "Item.WoodHardPlanks"
+}

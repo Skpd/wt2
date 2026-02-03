@@ -1,0 +1,23 @@
+{
+  "m_Name": "Boss-03-KillGiantBeetle",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "876f3c2fb7d15044aa3b6d235cf3d3cf",
+  "predecessors": [
+    "Boss-02-KillCavecrawler"
+  ],
+  "npcTaker": "876f3c2fb7d15044aa3b6d235cf3d3cf",
+  "reward": {
+    "money": "3000",
+    "guildXp": "0",
+    "amount": "5",
+    "rewardItem": "634f0855c7eb22e4992c663708d2da41",
+    "rewardItemName": "ZuperitIngot"
+  },
+  "id": "Boss-03-KillGiantBeetle",
+  "npcGiverName": "CitySmithHank",
+  "npcTakerName": "CitySmithHank",
+  "group": "General"
+}

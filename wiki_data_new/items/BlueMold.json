@@ -1,0 +1,12 @@
+{
+  "m_Name": "BlueMold",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "b93f91dc0eb419d4b8443752dc87adfc",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BlueMold",
+  "loc_key": "Item.BlueMold",
+  "icon_path": "textures/BlueMold.png"
+}

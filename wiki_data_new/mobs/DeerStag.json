@@ -1,0 +1,64 @@
+{
+  "m_Name": "DeerStag",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "200",
+  "stamina": "100",
+  "level": "25",
+  "walkSpeed": "2",
+  "runSpeed": "6",
+  "image": "c1d1867616877c54abe41169704b921a",
+  "image_fid": "21300000",
+  "entityClass": "1",
+  "mobBehaviour": "f6660fb3d28a3074d8c49f9c4a7a0a3d",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "2471dad91d9652a438ae6bcb75b33204",
+  "entityPrefab_fid": "1785253960816041",
+  "entityBonuses": {},
+  "skills": [],
+  "id": "DeerStag",
+  "loc_key": "Entity.DeerStag",
+  "skinning_drops": [
+    {
+      "itemId": "MediumRawHide",
+      "chance": "1",
+      "min": "2",
+      "max": "4"
+    },
+    {
+      "itemId": "RawDeerMeat",
+      "chance": "1",
+      "min": "3",
+      "max": "6"
+    },
+    {
+      "itemId": "Intestines",
+      "chance": "0.6",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "AnimalStomach",
+      "chance": "0.01",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "AnimalHoof",
+      "chance": "0.005",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "DeerAntlers",
+      "chance": "0.02",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "OrganicsClot",
+      "chance": "1",
+      "min": "2",
+      "max": "3"
+    }
+  ]
+}

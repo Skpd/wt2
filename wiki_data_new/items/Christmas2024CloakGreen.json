@@ -1,0 +1,12 @@
+{
+  "m_Name": "Christmas2024CloakGreen",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "69fdae7d762d52f44888ed72bcc83a23",
+  "image_fid": "21300000",
+  "sellPrice": "50000",
+  "buyUpPrice": "5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Christmas2024CloakGreen",
+  "loc_key": "Item.Christmas2024CloakGreen",
+  "icon_path": "textures/Christmas2024CloakGreen.png"
+}

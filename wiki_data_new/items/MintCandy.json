@@ -1,0 +1,11 @@
+{
+  "m_Name": "MintCandy",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "cde5686e404d01f4698016f929f0eba5",
+  "image_fid": "21300000",
+  "sellPrice": "0",
+  "buyUpPrice": "0",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "MintCandy",
+  "loc_key": "Item.MintCandy"
+}

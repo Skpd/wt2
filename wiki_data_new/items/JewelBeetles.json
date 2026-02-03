@@ -1,0 +1,12 @@
+{
+  "m_Name": "JewelBeetles",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "15fcc7e96a48be447900d92fef91d1e2",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.01",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "JewelBeetles",
+  "loc_key": "Item.JewelBeetles",
+  "icon_path": "textures/JewelBeetles.png"
+}

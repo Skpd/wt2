@@ -1,0 +1,82 @@
+{
+  "m_Name": "MorbiumHammer",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "5f72743876fe356469a77ea04f70f714",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "925.6",
+  "craftMaterialsBuyUpPricePercent": "2",
+  "entityMaxLevel": "0",
+  "minDamage": "25",
+  "maxDamage": "39",
+  "minPlagueDamage": "2",
+  "maxPlagueDamage": "14",
+  "criticalChance": "0.05",
+  "criticalValue": "1.5",
+  "dismountChance": "0",
+  "splash": "0",
+  "isAOE": "0",
+  "projectileAOERange": "0",
+  "prefabAOEName": null,
+  "ignoreAvoidingDamage": "0",
+  "ignoreAbsorb": "0.3",
+  "ignoreDefense": "0.3",
+  "abilityName": null,
+  "effectLevelLimit": "0",
+  "effects": [
+    {
+      "effect": {
+        "fileID": "11400000",
+        "guid": "8a114ef22846c324cad8b6cd0cf4c9e7",
+        "type": "2"
+      },
+      "chance": "0.08",
+      "time": "3"
+    }
+  ],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "0"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  "id": "MorbiumHammer",
+  "loc_key": "Item.MorbiumHammer",
+  "dropped_by": [
+    {
+      "sourceId": "PlagueDragon",
+      "chance": 0.05714285714285715,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "FatOgre",
+      "chance": 0.014285714285714287,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "UndeadAxe",
+      "chance": 0.00016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "UndeadMace",
+      "chance": 0.00016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "UndeadSword",
+      "chance": 0.00016666666666666666,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

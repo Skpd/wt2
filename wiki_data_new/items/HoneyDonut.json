@@ -1,0 +1,19 @@
+{
+  "m_Name": "HoneyDonut",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "9786bbca305c9b0478664f4a4c5c12ee",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "35",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "HoneyDonut",
+  "loc_key": "Item.HoneyDonut",
+  "dropped_by": [
+    {
+      "sourceId": "ElderFinalChest",
+      "chance": 0.3333333333333333,
+      "min": 2,
+      "max": 2
+    }
+  ]
+}

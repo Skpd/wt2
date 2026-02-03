@@ -1,0 +1,56 @@
+{
+  "m_Name": "MimicMarmot",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "50",
+  "stamina": "100",
+  "level": "25",
+  "walkSpeed": "2",
+  "runSpeed": "4",
+  "image": "bfc5403684623d248a3c4cd9f607748d",
+  "image_fid": "21300000",
+  "entityClass": "1",
+  "mobBehaviour": "13ac5cb899340154688b8eb8878fbc29",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "3de9835f673e6bb4786d1f9ce894458c",
+  "entityPrefab_fid": "1912818106704439",
+  "entityBonuses": {
+    "Dodge": "0.2",
+    "Parry": "0.1",
+    "IgnorePetAttacks": "1"
+  },
+  "skills": [
+    {
+      "id": "fc1141e1c1dbb584189a30b1b6147813",
+      "name": "MimicMarmotAttack",
+      "minDamage": "2",
+      "maxDamage": "6",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "1",
+      "ignoreDefense": "1",
+      "criticalChance": "0.1",
+      "criticalValue": "1.2"
+    }
+  ],
+  "id": "MimicMarmot",
+  "loc_key": "Entity.MimicMarmot",
+  "skinning_drops": [
+    {
+      "itemId": "SmallRawHide",
+      "chance": "1",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "Peas",
+      "chance": "0.5",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "OrganicsClot",
+      "chance": "1",
+      "min": "2",
+      "max": "4"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "m_Name": "MushroomRussulaBake",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "90f46e4c897e8134c962dfc55d3f4ee3",
+      "amount": "1",
+      "name": "RawMushroomRussulas",
+      "loc_key": "Item.RawMushroomRussulas"
+    }
+  ],
+  "products": [
+    {
+      "guid": "88a419031a203304db1ab26f5336d6d4",
+      "amount": "1",
+      "name": "BakedMushroom",
+      "loc_key": "Item.BakedMushroom"
+    }
+  ],
+  "id": "MushroomRussulaBake"
+}

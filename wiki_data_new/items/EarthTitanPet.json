@@ -1,0 +1,11 @@
+{
+  "m_Name": "EarthTitanPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "4e3c4a3a012e5aa4ca5b4b57b388cfe8",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "EarthTitanPet",
+  "loc_key": "Item.EarthTitanPet"
+}

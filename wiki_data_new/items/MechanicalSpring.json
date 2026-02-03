@@ -1,0 +1,11 @@
+{
+  "m_Name": "MechanicalSpring",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "64b9fbe2a6bc13f46b4fe569fd9b1227",
+  "image_fid": "21300000",
+  "sellPrice": "25",
+  "buyUpPrice": "5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "MechanicalSpring",
+  "loc_key": "Item.MechanicalSpring"
+}

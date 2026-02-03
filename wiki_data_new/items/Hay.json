@@ -1,0 +1,11 @@
+{
+  "m_Name": "Hay",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "688851c4ed79c1b4b8bc6e3d714de89a",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.3",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Hay",
+  "loc_key": "Item.Hay"
+}

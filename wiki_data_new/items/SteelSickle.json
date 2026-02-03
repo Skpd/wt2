@@ -1,0 +1,19 @@
+{
+  "m_Name": "SteelSickle",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "093ce97ed8a9ef340a00ce12ac13c97a",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "872.44006",
+  "craftMaterialsBuyUpPricePercent": "1.7",
+  "id": "SteelSickle",
+  "loc_key": "Item.SteelSickle",
+  "dropped_by": [
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

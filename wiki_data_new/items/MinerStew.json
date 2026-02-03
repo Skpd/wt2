@@ -1,0 +1,11 @@
+{
+  "m_Name": "MinerStew",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "104280ca43f6fd449b0f024aa2bfcc8e",
+  "image_fid": "21300000",
+  "sellPrice": "500",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "MinerStew",
+  "loc_key": "Item.MinerStew"
+}

@@ -1,0 +1,45 @@
+{
+  "m_Name": "DragonRexGreenPet",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "1",
+  "stamina": "100",
+  "level": "1",
+  "walkSpeed": "1.6",
+  "runSpeed": "3.5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "9",
+  "mobBehaviour": {
+    "fileID": "0"
+  },
+  "entityPrefab": "4134612646ff3a1439ab70cbc432b3e0",
+  "entityPrefab_fid": "1557241418251979",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "28c8550922ae2914d97b4e4c57040c6b",
+      "name": "DragonRexPetFireBall",
+      "minDamage": "10",
+      "maxDamage": "15",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.15",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "cbde4d948904a6e41a11359457fd7830",
+      "name": "DragonRexPetChillingBall",
+      "minDamage": "10",
+      "maxDamage": "15",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.5",
+      "ignoreDefense": "0.1",
+      "criticalChance": "0",
+      "criticalValue": "1"
+    }
+  ],
+  "id": "DragonRexGreenPet",
+  "loc_key": "Entity.DragonRexGreenPet"
+}

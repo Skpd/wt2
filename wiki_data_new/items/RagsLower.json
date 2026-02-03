@@ -1,0 +1,12 @@
+{
+  "m_Name": "RagsLower",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "652cee6d60abf924a8afb442dd3a4584",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "RagsLower",
+  "loc_key": "Item.RagsLower",
+  "icon_path": "textures/RagsLower.png"
+}

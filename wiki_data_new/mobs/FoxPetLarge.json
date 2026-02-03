@@ -1,0 +1,54 @@
+{
+  "m_Name": "FoxPetLarge",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "1",
+  "stamina": "100",
+  "level": "1",
+  "walkSpeed": "1.6",
+  "runSpeed": "3.5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "1",
+  "mobBehaviour": {
+    "fileID": "0"
+  },
+  "entityPrefab": "9bf49a9a0254d12419e2aa7f7556caf1",
+  "entityPrefab_fid": "1515375057595964",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "ddf00364c54ac1b43a7c1839dc02ab4f",
+      "name": "FoxPetAttackLarge",
+      "minDamage": "5",
+      "maxDamage": "10",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.1",
+      "criticalValue": "1.5"
+    }
+  ],
+  "id": "FoxPetLarge",
+  "loc_key": "Entity.FoxPetLarge",
+  "skinning_drops": [
+    {
+      "itemId": "SmallRawHide",
+      "chance": "1",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "RawCarnivoreMeat",
+      "chance": "1",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "OrganicsClot",
+      "chance": "1",
+      "min": "1",
+      "max": "2"
+    }
+  ]
+}

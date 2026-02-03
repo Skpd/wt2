@@ -1,0 +1,11 @@
+{
+  "m_Name": "RuneCloak",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "892727d3685972741965225bf9032fe6",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "RuneCloak",
+  "loc_key": "Item.RuneCloak"
+}

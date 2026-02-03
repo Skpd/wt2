@@ -1,0 +1,136 @@
+{
+  "m_Name": "GrimSpiderWeb",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "3721d042bf7cd8b4fa5a4d437cf04dae",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.2",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "GrimSpiderWeb",
+  "loc_key": "Item.GrimSpiderWeb",
+  "dropped_by": [
+    {
+      "sourceId": "PlagueSpidersWeb",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "PlagueSpidersWeb",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "PlagueSpidersWeb",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "PlagueSpidersWeb",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "PlagueSpidersWeb",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "PlagueSpidersWeb",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "AbandonedBattlefieldSpidersWeb",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "AbandonedBattlefieldSpidersWeb",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "AbandonedBattlefieldSpidersWeb",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.2,
+      "min": 2,
+      "max": 4
+    },
+    {
+      "sourceId": "PlagueAcidSpiderPet",
+      "chance": "0.3",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "PlagueInfectedSpiderPet",
+      "chance": "0.3",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "PlagueBloodySpiderPet",
+      "chance": "0.3",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "PlagueAcidSpiderLarge",
+      "chance": "0.6",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "PlagueBloodySpider",
+      "chance": "0.3",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "PlagueInfectedSpider",
+      "chance": "0.3",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "PlagueBloodySpiderLarge",
+      "chance": "0.6",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "PlagueAcidSpider",
+      "chance": "0.3",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "PlagueInfectedSpiderLarge",
+      "chance": "0.6",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    }
+  ]
+}

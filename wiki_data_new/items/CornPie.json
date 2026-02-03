@@ -1,0 +1,11 @@
+{
+  "m_Name": "CornPie",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "9870895f33543bc4da2be8f355abdeb2",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "20",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "CornPie",
+  "loc_key": "Item.CornPie"
+}

@@ -1,0 +1,64 @@
+{
+  "m_Name": "HelperDragonPet",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "1",
+  "stamina": "100",
+  "level": "1",
+  "walkSpeed": "1.6",
+  "runSpeed": "3.5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "0",
+  "mobBehaviour": {
+    "fileID": "0"
+  },
+  "entityPrefab": "70cf4241f7e59534b951d5c3da60c10b",
+  "entityPrefab_fid": "1952989358003003",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "dbd7245fee8ddcb4d84713029b396f37",
+      "name": "HelperDragonAttack",
+      "minDamage": "10",
+      "maxDamage": "15",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.1",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "b187194946dda3f4c99d32bbebc6d771",
+      "name": "BearPetFortitude"
+    }
+  ],
+  "id": "HelperDragonPet",
+  "loc_key": "Entity.HelperDragonPet",
+  "skinning_drops": [
+    {
+      "itemId": "MediumRawHide",
+      "chance": "1",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "RawCarnivoreMeat",
+      "chance": "1",
+      "min": "3",
+      "max": "4"
+    },
+    {
+      "itemId": "WolfClaws",
+      "chance": "0.01",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "OrganicsClot",
+      "chance": "1",
+      "min": "2",
+      "max": "4"
+    }
+  ]
+}

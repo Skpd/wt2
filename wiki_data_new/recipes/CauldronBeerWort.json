@@ -1,0 +1,27 @@
+{
+  "m_Name": "CauldronBeerWort",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "6e7f40fb4ae743f4081dfbab843ee104",
+      "amount": "1",
+      "name": "BeerMalt",
+      "loc_key": "Item.BeerMalt"
+    },
+    {
+      "guid": "27d507923a0f91a489ebecc6d7e70fd4",
+      "amount": "1",
+      "name": "Water",
+      "loc_key": "Item.Water"
+    }
+  ],
+  "products": [
+    {
+      "guid": "66c539d92e6f1434c82839e7fa29acb9",
+      "amount": "1",
+      "name": "BeerWort",
+      "loc_key": "Item.BeerWort"
+    }
+  ],
+  "id": "CauldronBeerWort"
+}

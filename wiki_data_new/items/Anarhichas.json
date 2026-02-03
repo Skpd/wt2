@@ -1,0 +1,11 @@
+{
+  "m_Name": "Anarhichas",
+  "m_Script": "53d85703288a41ce0e87dcdb381b2599",
+  "image": "a413383a12c8d224a941d25d829bb4af",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "100",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Anarhichas",
+  "loc_key": "Item.Anarhichas"
+}

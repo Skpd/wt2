@@ -1,0 +1,23 @@
+{
+  "m_Name": "Battlefield-Daily-KillSkeletonKnight",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "0",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "c33919de331a8e64d8dfc5aaa353923e",
+  "predecessors": [
+    "Battlefield-01-KillSkeletonKnight"
+  ],
+  "npcTaker": "c33919de331a8e64d8dfc5aaa353923e",
+  "reward": {
+    "money": "5000",
+    "guildXp": "0",
+    "amount": "20",
+    "rewardItem": "f2c983d63bb81f049beecd721c0b3d3b",
+    "rewardItemName": "GraveBeetle"
+  },
+  "id": "Battlefield-Daily-KillSkeletonKnight",
+  "npcGiverName": "AbandonedBattlefieldFisherElmar",
+  "npcTakerName": "AbandonedBattlefieldFisherElmar",
+  "group": "Daily"
+}

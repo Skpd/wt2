@@ -1,0 +1,75 @@
+{
+  "m_Name": "BarghestPet",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "1",
+  "stamina": "100",
+  "level": "1",
+  "walkSpeed": "3.6",
+  "runSpeed": "5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "10",
+  "mobBehaviour": {
+    "fileID": "0"
+  },
+  "entityPrefab": "70cf4241f7e59534b951d5c3da60c10b",
+  "entityPrefab_fid": "1952989358003003",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "605ee80633d9acf4089ea31a6103f7a5",
+      "name": "BarghestPetFerociousBite",
+      "minDamage": "25",
+      "maxDamage": "40",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "1",
+      "criticalValue": "1"
+    },
+    {
+      "id": "d30976d2b12ab6b4c80d3e6b7aa2fe12",
+      "name": "BarghestPetAttack",
+      "minDamage": "20",
+      "maxDamage": "40",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.1",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "b4902d0ec25039a44b4527cf82e65058",
+      "name": "BarghestPetRage"
+    }
+  ],
+  "id": "BarghestPet",
+  "loc_key": "Entity.BarghestPet",
+  "skinning_drops": [
+    {
+      "itemId": "MediumRawHide",
+      "chance": "1",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "RawCarnivoreMeat",
+      "chance": "1",
+      "min": "3",
+      "max": "4"
+    },
+    {
+      "itemId": "WolfClaws",
+      "chance": "0.01",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "OrganicsClot",
+      "chance": "1",
+      "min": "2",
+      "max": "4"
+    }
+  ]
+}

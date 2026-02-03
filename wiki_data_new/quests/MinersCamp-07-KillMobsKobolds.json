@@ -1,0 +1,23 @@
+{
+  "m_Name": "MinersCamp-07-KillMobsKobolds",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "f8f4c929d58653b40baffb2e37d82e05",
+  "predecessors": [
+    "MinersCamp-06-KillMobsMineSpider"
+  ],
+  "npcTaker": "f8f4c929d58653b40baffb2e37d82e05",
+  "reward": {
+    "money": "1000",
+    "guildXp": "0",
+    "amount": "2",
+    "rewardItem": "3bf1c0d488506f94282541ea993a1567",
+    "rewardItemName": "MinerStew"
+  },
+  "id": "MinersCamp-07-KillMobsKobolds",
+  "npcGiverName": "MinersCampFaudel",
+  "npcTakerName": "MinersCampFaudel",
+  "group": "General"
+}

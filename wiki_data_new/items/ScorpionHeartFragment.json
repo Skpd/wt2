@@ -1,0 +1,20 @@
+{
+  "m_Name": "ScorpionHeartFragment",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "07c4c521901cf1244847f4b2901b1e63",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "2500",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "ScorpionHeartFragment",
+  "loc_key": "Item.ScorpionHeartFragment",
+  "dropped_by": [
+    {
+      "sourceId": "ScorpionBoss",
+      "chance": "0.02",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    }
+  ]
+}

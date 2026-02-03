@@ -1,0 +1,11 @@
+{
+  "m_Name": "EngineeringPipes",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "5d398b9a64fef824689c1ab75945c6bc",
+  "image_fid": "21300000",
+  "sellPrice": "25",
+  "buyUpPrice": "5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "EngineeringPipes",
+  "loc_key": "Item.EngineeringPipes"
+}

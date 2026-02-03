@@ -1,0 +1,11 @@
+{
+  "m_Name": "WolfMountSkin",
+  "m_Script": "f5673bd2393c13a27685bda14e28f91a",
+  "image": "215fd1c5ce4e4f847a0c9013f4f980ca",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "WolfMountSkin",
+  "loc_key": "Item.WolfMountSkin"
+}

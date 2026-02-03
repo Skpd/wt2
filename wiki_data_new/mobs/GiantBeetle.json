@@ -1,0 +1,765 @@
+{
+  "m_Name": "GiantBeetle",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "17500",
+  "stamina": "100",
+  "level": "70",
+  "walkSpeed": "2",
+  "runSpeed": "5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "2",
+  "mobBehaviour": "a9cb41b6ef13dc24d92c54e7829328a3",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "5767435735c337e49b27d37a776f0add",
+  "entityPrefab_fid": "1815544216231920",
+  "entityBonuses": {
+    "Absorption": "30",
+    "IgnoreStun": "1"
+  },
+  "skills": [
+    {
+      "id": "ef823df13c9abb0478e5bae3b061385e",
+      "name": "GiantBeetleAttack",
+      "minDamage": "70",
+      "maxDamage": "80",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "233fabe0caf51b14b86a3038473ddcf7",
+      "name": "GiantBeetleStunAOE",
+      "minDamage": "10",
+      "maxDamage": "10",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "1",
+      "ignoreDefense": "1",
+      "criticalChance": "0",
+      "criticalValue": "0"
+    },
+    {
+      "id": "1ee8e62661871bd46b89ebd079f74d43",
+      "name": "GiantBeetleFortitude"
+    },
+    {
+      "id": "3e6e965960b4d41488dbdabdd0b99b76",
+      "name": "GiantBeetleSlice",
+      "minDamage": "60",
+      "maxDamage": "80",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "1",
+      "ignoreDefense": "1",
+      "criticalChance": "0",
+      "criticalValue": "0"
+    },
+    {
+      "id": "753d435f443ef2c4dba8d91d6ccff063",
+      "name": "GiantBeetleHalfDefence",
+      "minDamage": "40",
+      "maxDamage": "60",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "1",
+      "ignoreDefense": "1",
+      "criticalChance": "0",
+      "criticalValue": "0"
+    }
+  ],
+  "id": "GiantBeetle",
+  "loc_key": "Entity.GiantBeetle",
+  "drops": [
+    {
+      "itemId": "GiantBeetleMountSkin",
+      "chance": 0.03,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "DungeonDwarfBossKey",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "MoldySilk",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "DarkWood",
+      "chance": 0.004545454545454546,
+      "min": 2,
+      "max": 3
+    },
+    {
+      "itemId": "NecromancerTibia",
+      "chance": 0.004545454545454546,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "InfectedBearHead",
+      "chance": 0.004545454545454546,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "AxeCastingMold",
+      "chance": 0.004545454545454546,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "MagmaMetal",
+      "chance": 0.004545454545454546,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "HeatproofHandle",
+      "chance": 0.004545454545454546,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "EtchedSteel",
+      "chance": 0.004545454545454546,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "FurHandleBraid",
+      "chance": 0.004545454545454546,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "HeatproofWood",
+      "chance": 0.004545454545454546,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "BearHideFragment",
+      "chance": 0.004545454545454546,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SturdySilk",
+      "chance": 0.004545454545454546,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "LootCavecrawlerBrain",
+      "chance": 1,
+      "min": 2,
+      "max": 3
+    },
+    {
+      "itemId": "LootCavecrawlerShell",
+      "chance": 1,
+      "min": 5,
+      "max": 5
+    },
+    {
+      "itemId": "Sulfur",
+      "chance": 1,
+      "min": 3,
+      "max": 5
+    },
+    {
+      "itemId": "Sulfur",
+      "chance": 0.3333333333333333,
+      "min": 5,
+      "max": 20
+    },
+    {
+      "itemId": "AlchemicalReagents",
+      "chance": 0.3333333333333333,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "itemId": "GildingSteelThread",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "SpiceBlackPepper",
+      "chance": 0.25,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "itemId": "SpiceCinnamon",
+      "chance": 0.25,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "itemId": "SpiceSalt",
+      "chance": 0.25,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "itemId": "SpiceSugar",
+      "chance": 0.25,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "itemId": "CopperNail",
+      "chance": 0.03333333333333333,
+      "min": 2,
+      "max": 6
+    },
+    {
+      "itemId": "BronzeNail",
+      "chance": 0.03333333333333333,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "itemId": "IronNail",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "itemId": "IronLines",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "IronPlates",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "SteelRivets",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SteelLines",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SteelPlates",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "IronWithCoal",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 12
+    },
+    {
+      "itemId": "IronIngot",
+      "chance": 0.03333333333333333,
+      "min": 5,
+      "max": 20
+    },
+    {
+      "itemId": "SteelIngot",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "itemId": "HealingBandages",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "CopperSpear",
+      "chance": 0.03333333333333333,
+      "min": 10,
+      "max": 30
+    },
+    {
+      "itemId": "BronzeSpear",
+      "chance": 0.03333333333333333,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "itemId": "SpiceBlackPepper",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "itemId": "SpiceCinnamon",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "itemId": "SpiceSalt",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "itemId": "SpiceSugar",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "itemId": "PoisonArrow",
+      "chance": 0.03333333333333333,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "itemId": "FireArrow",
+      "chance": 0.03333333333333333,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "itemId": "CopperArrow",
+      "chance": 0.03333333333333333,
+      "min": 30,
+      "max": 50
+    },
+    {
+      "itemId": "BronzeArrow",
+      "chance": 0.03333333333333333,
+      "min": 35,
+      "max": 50
+    },
+    {
+      "itemId": "RoughBandages",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "itemId": "WeakAntidote",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "itemId": "SimpleMedicine",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "itemId": "WideBandages",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "itemId": "IronOre",
+      "chance": 0.03333333333333333,
+      "min": 50,
+      "max": 50
+    },
+    {
+      "itemId": "AlchemicalReagents",
+      "chance": 0.03333333333333333,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "itemId": "GildingSteelThread",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "itemId": "BronzeIngot",
+      "chance": 0.03333333333333333,
+      "min": 50,
+      "max": 50
+    },
+    {
+      "itemId": "CopperNail",
+      "chance": 0.03333333333333333,
+      "min": 2,
+      "max": 6
+    },
+    {
+      "itemId": "BronzeNail",
+      "chance": 0.03333333333333333,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "itemId": "IronNail",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "itemId": "IronLines",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "IronPlates",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "SteelRivets",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SteelLines",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SteelPlates",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "IronWithCoal",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 12
+    },
+    {
+      "itemId": "IronIngot",
+      "chance": 0.03333333333333333,
+      "min": 5,
+      "max": 20
+    },
+    {
+      "itemId": "SteelIngot",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "itemId": "HealingBandages",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "CopperSpear",
+      "chance": 0.03333333333333333,
+      "min": 10,
+      "max": 30
+    },
+    {
+      "itemId": "BronzeSpear",
+      "chance": 0.03333333333333333,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "itemId": "SpiceBlackPepper",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "itemId": "SpiceCinnamon",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "itemId": "SpiceSalt",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "itemId": "SpiceSugar",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "itemId": "PoisonArrow",
+      "chance": 0.03333333333333333,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "itemId": "FireArrow",
+      "chance": 0.03333333333333333,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "itemId": "CopperArrow",
+      "chance": 0.03333333333333333,
+      "min": 30,
+      "max": 50
+    },
+    {
+      "itemId": "BronzeArrow",
+      "chance": 0.03333333333333333,
+      "min": 35,
+      "max": 50
+    },
+    {
+      "itemId": "RoughBandages",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "itemId": "WeakAntidote",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "itemId": "SimpleMedicine",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "itemId": "WideBandages",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "itemId": "IronOre",
+      "chance": 0.03333333333333333,
+      "min": 50,
+      "max": 50
+    },
+    {
+      "itemId": "AlchemicalReagents",
+      "chance": 0.03333333333333333,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "itemId": "GildingSteelThread",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "itemId": "BronzeIngot",
+      "chance": 0.03333333333333333,
+      "min": 50,
+      "max": 50
+    },
+    {
+      "itemId": "CopperNail",
+      "chance": 0.03333333333333333,
+      "min": 2,
+      "max": 6
+    },
+    {
+      "itemId": "BronzeNail",
+      "chance": 0.03333333333333333,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "itemId": "IronNail",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "itemId": "IronLines",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "IronPlates",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "SteelRivets",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SteelLines",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SteelPlates",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "IronWithCoal",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 12
+    },
+    {
+      "itemId": "IronIngot",
+      "chance": 0.03333333333333333,
+      "min": 5,
+      "max": 20
+    },
+    {
+      "itemId": "SteelIngot",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "itemId": "HealingBandages",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "CopperSpear",
+      "chance": 0.03333333333333333,
+      "min": 10,
+      "max": 30
+    },
+    {
+      "itemId": "BronzeSpear",
+      "chance": 0.03333333333333333,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "itemId": "SpiceBlackPepper",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "itemId": "SpiceCinnamon",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "itemId": "SpiceSalt",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "itemId": "SpiceSugar",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "itemId": "PoisonArrow",
+      "chance": 0.03333333333333333,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "itemId": "FireArrow",
+      "chance": 0.03333333333333333,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "itemId": "CopperArrow",
+      "chance": 0.03333333333333333,
+      "min": 30,
+      "max": 50
+    },
+    {
+      "itemId": "BronzeArrow",
+      "chance": 0.03333333333333333,
+      "min": 35,
+      "max": 50
+    },
+    {
+      "itemId": "RoughBandages",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "itemId": "WeakAntidote",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "itemId": "SimpleMedicine",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "itemId": "WideBandages",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "itemId": "IronOre",
+      "chance": 0.03333333333333333,
+      "min": 50,
+      "max": 50
+    },
+    {
+      "itemId": "AlchemicalReagents",
+      "chance": 0.03333333333333333,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "itemId": "GildingSteelThread",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "itemId": "BronzeIngot",
+      "chance": 0.03333333333333333,
+      "min": 50,
+      "max": 50
+    },
+    {
+      "itemId": "SkillBookLevel20",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

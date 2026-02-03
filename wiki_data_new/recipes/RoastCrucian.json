@@ -1,0 +1,21 @@
+{
+  "m_Name": "RoastCrucian",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "cb169e5961d89c64caa303319d2d569b",
+      "amount": "1",
+      "name": "Crucian",
+      "loc_key": "Item.Crucian"
+    }
+  ],
+  "products": [
+    {
+      "guid": "005b6a0c4620d4140a4d7e6095ef8d2f",
+      "amount": "1",
+      "name": "RoastedFishMeat",
+      "loc_key": "Item.RoastedFishMeat"
+    }
+  ],
+  "id": "RoastCrucian"
+}

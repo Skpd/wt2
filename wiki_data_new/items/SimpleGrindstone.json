@@ -1,0 +1,11 @@
+{
+  "m_Name": "SimpleGrindstone",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "26ae7966545dad349992651644281c5d",
+  "image_fid": "21300000",
+  "sellPrice": "20",
+  "buyUpPrice": "0.2",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SimpleGrindstone",
+  "loc_key": "Item.SimpleGrindstone"
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "MerchantSandwichEggs",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "d9e717f9fa7b6994fac7ec7d8282f54e",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "MerchantSandwichEggs",
+  "loc_key": "Item.MerchantSandwichEggs"
+}

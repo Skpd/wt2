@@ -1,0 +1,11 @@
+{
+  "m_Name": "WeaponPoisonBurningSkeleton",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "f780238c97f358f4d991e5a852259567",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "300",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "WeaponPoisonBurningSkeleton",
+  "loc_key": "Item.WeaponPoisonBurningSkeleton"
+}

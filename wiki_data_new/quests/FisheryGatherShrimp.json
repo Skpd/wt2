@@ -1,0 +1,23 @@
+{
+  "m_Name": "FisheryGatherShrimp",
+  "m_Script": "bbef8bd82ea7ec3f83b28462fb539071",
+  "line": "0",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "ea6c0480facd1544f88dfc66a449df99",
+  "predecessors": [
+    "FisheryWay-04-GatherSprat"
+  ],
+  "npcTaker": "876f3c2fb7d15044aa3b6d235cf3d3cf",
+  "reward": {
+    "money": "1000",
+    "guildXp": "0",
+    "amount": "50",
+    "rewardItem": "1086820f809fc164fa661770a8aaab09",
+    "rewardItemName": "IronIngot"
+  },
+  "id": "FisheryGatherShrimp",
+  "npcGiverName": "CityFisherPaul",
+  "npcTakerName": "CitySmithHank",
+  "group": "Daily"
+}

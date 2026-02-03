@@ -1,0 +1,16 @@
+{
+  "m_Name": "Fishery-03-GatherRoach",
+  "m_Script": "bbef8bd82ea7ec3f83b28462fb539071",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "100",
+    "guildXp": "0",
+    "amount": "5",
+    "rewardItem": "59cf46c8fa83fec4f855a8ff9bdfde47",
+    "rewardItemName": "Roach"
+  },
+  "id": "Fishery-03-GatherRoach",
+  "group": "General"
+}

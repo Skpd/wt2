@@ -1,0 +1,11 @@
+{
+  "m_Name": "ReaperPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "d6a0c104964dfd24eb453ec0afecbbcb",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "ReaperPet",
+  "loc_key": "Item.ReaperPet"
+}

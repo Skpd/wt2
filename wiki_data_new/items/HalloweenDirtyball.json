@@ -1,0 +1,42 @@
+{
+  "m_Name": "HalloweenDirtyball",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "c23a7dd5daa5361449b99f91799bc74d",
+  "image_fid": "21300000",
+  "sellPrice": "250",
+  "buyUpPrice": "5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "entityMaxLevel": "0",
+  "minDamage": "2",
+  "maxDamage": "3",
+  "minPlagueDamage": "0",
+  "maxPlagueDamage": "0",
+  "criticalChance": "0",
+  "criticalValue": "0",
+  "dismountChance": "0",
+  "splash": "0",
+  "isAOE": "0",
+  "projectileAOERange": "0",
+  "prefabAOEName": null,
+  "ignoreAvoidingDamage": "0",
+  "ignoreAbsorb": "0",
+  "ignoreDefense": "0",
+  "abilityName": null,
+  "effectLevelLimit": "0",
+  "effects": [],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "114701330928502703",
+      "guid": "b60248d34a8792c4dab613433aeadf59",
+      "type": "2"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  "id": "HalloweenDirtyball",
+  "loc_key": "Item.HalloweenDirtyball"
+}

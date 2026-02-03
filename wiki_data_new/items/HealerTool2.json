@@ -1,0 +1,60 @@
+{
+  "m_Name": "HealerTool2",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "47a4176b765f1de408ab8f8d3a5bb20f",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "273.864",
+  "craftMaterialsBuyUpPricePercent": "1",
+  "entityMaxLevel": "0",
+  "minDamage": "12",
+  "maxDamage": "24",
+  "minPlagueDamage": "0",
+  "maxPlagueDamage": "0",
+  "criticalChance": "0.05",
+  "criticalValue": "1.5",
+  "dismountChance": "0",
+  "splash": "0",
+  "isAOE": "0",
+  "projectileAOERange": "0",
+  "prefabAOEName": null,
+  "ignoreAvoidingDamage": "0",
+  "ignoreAbsorb": "0.15",
+  "ignoreDefense": "0.15",
+  "abilityName": null,
+  "effectLevelLimit": "0",
+  "effects": [],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "0"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  "id": "HealerTool2",
+  "loc_key": "Item.HealerTool2",
+  "dropped_by": [
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

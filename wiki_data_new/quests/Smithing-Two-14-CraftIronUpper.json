@@ -1,0 +1,14 @@
+{
+  "m_Name": "Smithing-Two-14-CraftIronUpper",
+  "m_Script": "8bae99285fb9248eeae7964c5eaf8a95",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "1000",
+    "guildXp": "0",
+    "amount": "0"
+  },
+  "id": "Smithing-Two-14-CraftIronUpper",
+  "group": "General"
+}

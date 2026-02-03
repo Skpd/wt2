@@ -1,0 +1,45 @@
+{
+  "m_Name": "CauldronBarghestMountSkinProduce",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "cf4f805c412de254fad6d6809fd49b23",
+      "amount": "5",
+      "name": "TransmorphPotionEpic",
+      "loc_key": "Item.TransmorphPotionEpic"
+    },
+    {
+      "guid": "c51b0c36509dd9b46a726584292e0fc5",
+      "amount": "3",
+      "name": "BarghestPet",
+      "loc_key": "Item.BarghestPet"
+    },
+    {
+      "guid": "ed387302f331ee747acf194bf9720c33",
+      "amount": "50",
+      "name": "LeprousBlood",
+      "loc_key": "Item.LeprousBlood"
+    },
+    {
+      "guid": "e0b0d83c4b91ed541b33a9c10eaa54af",
+      "amount": "50",
+      "name": "LeprousOrgans",
+      "loc_key": "Item.LeprousOrgans"
+    },
+    {
+      "guid": "6c64eb8d46584ec418fe49f70ffcffaa",
+      "amount": "50",
+      "name": "LeprousBone",
+      "loc_key": "Item.LeprousBone"
+    }
+  ],
+  "products": [
+    {
+      "guid": "218a4c02e273b004fa417e4daf2a7743",
+      "amount": "1",
+      "name": "BarghestMountSkin",
+      "loc_key": "Item.BarghestMountSkin"
+    }
+  ],
+  "id": "CauldronBarghestMountSkinProduce"
+}

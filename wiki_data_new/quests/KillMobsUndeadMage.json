@@ -1,0 +1,23 @@
+{
+  "m_Name": "KillMobsUndeadMage",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "0",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "204b498d36241ba4bb1e2ad92ef74a22",
+  "predecessors": [
+    "Mobs-06-KillUndeadGroup"
+  ],
+  "npcTaker": "f25f74f380d9f0041af14bd2e376816f",
+  "reward": {
+    "money": "5000",
+    "guildXp": "0",
+    "amount": "5",
+    "rewardItem": "1316adfd4cca50841ab07991c0040210",
+    "rewardItemName": "MorbiumIngot"
+  },
+  "id": "KillMobsUndeadMage",
+  "npcGiverName": "PlagueDailyQuests",
+  "npcTakerName": "PlagueGoPoints",
+  "group": "Daily"
+}

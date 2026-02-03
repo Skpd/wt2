@@ -1,0 +1,38 @@
+{
+  "m_Name": "NecromancerTibia",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "f0b9f03124044694dab56d75f882f3b2",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "20",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "NecromancerTibia",
+  "loc_key": "Item.NecromancerTibia",
+  "icon_path": "textures/NecromancerTibia.png",
+  "dropped_by": [
+    {
+      "sourceId": "OrcShaman",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "CaveFinalChest",
+      "chance": 0.004545454545454546,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "GiantBeetle",
+      "chance": 0.004545454545454546,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfFortFinalChest",
+      "chance": 0.004545454545454546,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

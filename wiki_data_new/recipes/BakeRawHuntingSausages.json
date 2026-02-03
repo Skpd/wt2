@@ -1,0 +1,21 @@
+{
+  "m_Name": "BakeRawHuntingSausages",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "1e9839ee8fce3cc4b82b4da8c315798b",
+      "amount": "1",
+      "name": "RawHuntingSausages",
+      "loc_key": "Item.RawHuntingSausages"
+    }
+  ],
+  "products": [
+    {
+      "guid": "3edb7d1e44a96e847a0096a907c90963",
+      "amount": "1",
+      "name": "HuntingSausagesAfterBake",
+      "loc_key": "Item.HuntingSausagesAfterBake"
+    }
+  ],
+  "id": "BakeRawHuntingSausages"
+}

@@ -1,0 +1,33 @@
+{
+  "m_Name": "SoakedLeprousHideTanning",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "ecd5088808a740a45af38301358faed8",
+      "amount": "1",
+      "name": "DriedLeprousHide",
+      "loc_key": "Item.DriedLeprousHide"
+    },
+    {
+      "guid": "27d507923a0f91a489ebecc6d7e70fd4",
+      "amount": "1",
+      "name": "Water",
+      "loc_key": "Item.Water"
+    },
+    {
+      "guid": "2de0fc7586f71d4488a4b66965e18b29",
+      "amount": "1",
+      "name": "DisinfectionArsenicLiquor",
+      "loc_key": "Item.DisinfectionArsenicLiquor"
+    }
+  ],
+  "products": [
+    {
+      "guid": "d8f194419c7122b4ca94234ce3d8538c",
+      "amount": "1",
+      "name": "SoakedLeprousHide",
+      "loc_key": "Item.SoakedLeprousHide"
+    }
+  ],
+  "id": "SoakedLeprousHideTanning"
+}

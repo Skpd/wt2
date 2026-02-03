@@ -1,0 +1,11 @@
+{
+  "m_Name": "MorbiumSmeltingMix",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "e47d57a38b8a10e49aa362c2ddb36519",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.2",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "MorbiumSmeltingMix",
+  "loc_key": "Item.MorbiumSmeltingMix"
+}

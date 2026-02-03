@@ -1,0 +1,21 @@
+{
+  "m_Name": "FlourFromBarleyMill",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "ca46bfdf00f8a714abbb6908fd7384f5",
+      "amount": "5",
+      "name": "Barley",
+      "loc_key": "Item.Barley"
+    }
+  ],
+  "products": [
+    {
+      "guid": "013eb2699025dea4fbc6416d3c9e3f14",
+      "amount": "1",
+      "name": "Flour",
+      "loc_key": "Item.Flour"
+    }
+  ],
+  "id": "FlourFromBarleyMill"
+}

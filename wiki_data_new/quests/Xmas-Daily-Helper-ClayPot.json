@@ -1,0 +1,20 @@
+{
+  "m_Name": "Xmas-Daily-Helper-ClayPot",
+  "m_Script": "a33fbc2ed7ad8fe58f2dcfb6e1a39cab",
+  "line": "3",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "4833f13cdd1cbe74bae11ec17e901bba",
+  "npcTaker": "4833f13cdd1cbe74bae11ec17e901bba",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "1",
+    "rewardItem": "7e3dd8653f946a046994706f9d401065",
+    "rewardItemName": "ChristmasGift"
+  },
+  "id": "Xmas-Daily-Helper-ClayPot",
+  "npcGiverName": "ChristmasHelperNisse",
+  "npcTakerName": "ChristmasHelperNisse",
+  "group": "Daily"
+}

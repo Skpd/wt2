@@ -1,0 +1,76 @@
+{
+  "m_Name": "ChurchRat",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "300",
+  "stamina": "100",
+  "level": "15",
+  "walkSpeed": "1.6",
+  "runSpeed": "3.5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "1",
+  "mobBehaviour": "a089e3814136a724aa652e787c6ebc2f",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "0f6d5f691599daa4fa5ffef8d7340727",
+  "entityPrefab_fid": "1825701721397589",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "d2ebc2d12863c6546bea335d5ffbbadd",
+      "name": "RatAttack",
+      "minDamage": "20",
+      "maxDamage": "30",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "a5a082c7886f43e43a02ee8cb6d9f4d4",
+      "name": "RatInfectedBite",
+      "minDamage": "20",
+      "maxDamage": "30",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.25",
+      "criticalValue": "1.5"
+    }
+  ],
+  "id": "ChurchRat",
+  "loc_key": "Entity.ChurchRat",
+  "skinning_drops": [
+    {
+      "itemId": "InfectedRawHide",
+      "chance": "0.1",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "InflamedGallbladder",
+      "chance": "0.1",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "Maggot",
+      "chance": "0.6",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "LootChurchRatNail",
+      "chance": "0.8",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "RatTailOrgan",
+      "chance": "0.002",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "m_Name": "GrimWoodLog",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "830b33ef401cb6a449eab8d14f805121",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.2",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "GrimWoodLog",
+  "loc_key": "Item.GrimWoodLog",
+  "dropped_by": [
+    {
+      "sourceId": "PlagueDragon",
+      "chance": 0.7,
+      "min": 10,
+      "max": 20
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "m_Name": "Stone_HewnStone",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "b5caca2eefab25b419775f93b867cc5e",
+      "amount": "8",
+      "name": "Stone",
+      "loc_key": "Item.Stone"
+    },
+    {
+      "guid": "27d507923a0f91a489ebecc6d7e70fd4",
+      "amount": "8",
+      "name": "Water",
+      "loc_key": "Item.Water"
+    }
+  ],
+  "products": [
+    {
+      "guid": "386f5ec3f42558645a5306b081b016ec",
+      "amount": "5",
+      "name": "HewnStone",
+      "loc_key": "Item.HewnStone"
+    }
+  ],
+  "id": "Stone_HewnStone"
+}

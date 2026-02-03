@@ -1,0 +1,21 @@
+{
+  "m_Name": "BakeRawPorkTenderloin",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "88ba2083139edcb4983332d9d4881dba",
+      "amount": "1",
+      "name": "RawPorkTenderloin",
+      "loc_key": "Item.RawPorkTenderloin"
+    }
+  ],
+  "products": [
+    {
+      "guid": "9b378189524da2540a97b9067a7525d1",
+      "amount": "1",
+      "name": "PorkTenderloin",
+      "loc_key": "Item.PorkTenderloin"
+    }
+  ],
+  "id": "BakeRawPorkTenderloin"
+}

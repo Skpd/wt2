@@ -1,0 +1,16 @@
+{
+  "m_Name": "StartingIsland-09-BuildCampfire",
+  "m_Script": "6faa3f7e779ddd3382481629137a82cd",
+  "line": "1",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "1",
+    "rewardItem": "6e3c19e53bc021644b4ad6672f8f6320",
+    "rewardItemName": "Torch"
+  },
+  "id": "StartingIsland-09-BuildCampfire",
+  "group": "General"
+}

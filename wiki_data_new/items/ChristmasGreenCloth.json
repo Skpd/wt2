@@ -1,0 +1,19 @@
+{
+  "m_Name": "ChristmasGreenCloth",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "c2f6ff4dd5cc1c545b108cddae7faff8",
+  "image_fid": "21300000",
+  "sellPrice": "500",
+  "buyUpPrice": "0.5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "ChristmasGreenCloth",
+  "loc_key": "Item.ChristmasGreenCloth",
+  "dropped_by": [
+    {
+      "sourceId": "Krampus",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 2
+    }
+  ]
+}

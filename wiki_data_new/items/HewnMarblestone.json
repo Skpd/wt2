@@ -1,0 +1,25 @@
+{
+  "m_Name": "HewnMarblestone",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "00c9d286dab2b3040beb2010839fa1db",
+  "image_fid": "21300000",
+  "sellPrice": "350",
+  "buyUpPrice": "0.2",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "HewnMarblestone",
+  "loc_key": "Item.HewnMarblestone",
+  "dropped_by": [
+    {
+      "sourceId": "DwarfEngineer",
+      "chance": 0.09090909090909091,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "DwarfFortGodsendMaterial",
+      "chance": 0.25,
+      "min": 2,
+      "max": 3
+    }
+  ]
+}

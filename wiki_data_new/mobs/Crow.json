@@ -1,0 +1,34 @@
+{
+  "m_Name": "Crow",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "20",
+  "stamina": "100",
+  "level": "4",
+  "walkSpeed": "2",
+  "runSpeed": "4",
+  "image": "dad7ce148b818964cab385de23365078",
+  "image_fid": "21300000",
+  "entityClass": "8",
+  "mobBehaviour": "104ad351df3bc714e868744b5b1384ea",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "30f199cb8c18cfc4aa37f13969bded6b",
+  "entityPrefab_fid": "1620608276869640",
+  "entityBonuses": {},
+  "skills": [],
+  "id": "Crow",
+  "loc_key": "Entity.Crow",
+  "skinning_drops": [
+    {
+      "itemId": "Feather",
+      "chance": "1",
+      "min": "2",
+      "max": "5"
+    },
+    {
+      "itemId": "BirdsEye",
+      "chance": "0.04",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

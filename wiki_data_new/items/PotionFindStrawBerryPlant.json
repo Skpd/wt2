@@ -1,0 +1,11 @@
+{
+  "m_Name": "PotionFindStrawBerryPlant",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "4494b7ea71443d744ba86ba4688f2fb7",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "40",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "PotionFindStrawBerryPlant",
+  "loc_key": "Item.PotionFindStrawBerryPlant"
+}

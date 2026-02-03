@@ -1,0 +1,11 @@
+{
+  "m_Name": "SturdyArmorBelt",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "2c05fa9d9abd26d45b14246bd425528b",
+  "image_fid": "21300000",
+  "sellPrice": "200",
+  "buyUpPrice": "40",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SturdyArmorBelt",
+  "loc_key": "Item.SturdyArmorBelt"
+}

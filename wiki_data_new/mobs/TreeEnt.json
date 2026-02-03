@@ -1,0 +1,86 @@
+{
+  "m_Name": "TreeEnt",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "5000",
+  "stamina": "100",
+  "level": "55",
+  "walkSpeed": "2.5",
+  "runSpeed": "4",
+  "image": "28adfe261d6d3304a930b8dbac362aa6",
+  "image_fid": "21300000",
+  "entityClass": "10",
+  "mobBehaviour": "8c89c54a22e8b48468b1eeb15b0ebd56",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "1abebf39cec8e6a43897799e393fc58d",
+  "entityPrefab_fid": "1049881487406163",
+  "entityBonuses": {
+    "Absorption": "20",
+    "Defense": "0.5",
+    "IgnoreStun": "1",
+    "IgnoreNextSlowdown": "1"
+  },
+  "skills": [
+    {
+      "id": "ca4b206f8ac49294ea698bffe3fb00b9",
+      "name": "TreeEntAttack",
+      "minDamage": "55",
+      "maxDamage": "60",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "1",
+      "ignoreDefense": "0",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "f9af6b77d17c9104aa835c52addb02d2",
+      "name": "TreeEntStunAttack",
+      "minDamage": "40",
+      "maxDamage": "50",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "1",
+      "ignoreDefense": "0",
+      "criticalChance": "0",
+      "criticalValue": "0"
+    }
+  ],
+  "id": "TreeEnt",
+  "loc_key": "Entity.TreeEnt",
+  "skinning_drops": [
+    {
+      "itemId": "DarkWood",
+      "chance": "1",
+      "min": "3",
+      "max": "6"
+    },
+    {
+      "itemId": "WoodBark",
+      "chance": "1",
+      "min": "20",
+      "max": "30"
+    },
+    {
+      "itemId": "WoodHardLogs",
+      "chance": "1",
+      "min": "20",
+      "max": "30"
+    },
+    {
+      "itemId": "HeatproofWood",
+      "chance": "1",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "ColdTearsEnt",
+      "chance": "1",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "LiveAcorn",
+      "chance": "0.02",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

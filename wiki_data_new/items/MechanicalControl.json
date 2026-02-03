@@ -1,0 +1,11 @@
+{
+  "m_Name": "MechanicalControl",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "69cc8cca71a2e1749b2b45cf24f3a31f",
+  "image_fid": "21300000",
+  "sellPrice": "25",
+  "buyUpPrice": "5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "MechanicalControl",
+  "loc_key": "Item.MechanicalControl"
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "FishBone",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "572227e5baa11524fbfa2763c1ba9a12",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "FishBone",
+  "loc_key": "Item.FishBone"
+}

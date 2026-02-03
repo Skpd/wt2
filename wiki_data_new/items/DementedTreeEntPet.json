@@ -1,0 +1,11 @@
+{
+  "m_Name": "DementedTreeEntPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "f3622accca80f5c48b68131b9c60918f",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "DementedTreeEntPet",
+  "loc_key": "Item.DementedTreeEntPet"
+}

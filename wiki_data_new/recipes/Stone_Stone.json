@@ -1,0 +1,21 @@
+{
+  "m_Name": "Stone_Stone",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "3ad62d6d17567e84f9700e7cc383499c",
+      "amount": "5",
+      "name": "Boulder",
+      "loc_key": "Item.Boulder"
+    }
+  ],
+  "products": [
+    {
+      "guid": "b5caca2eefab25b419775f93b867cc5e",
+      "amount": "25",
+      "name": "Stone",
+      "loc_key": "Item.Stone"
+    }
+  ],
+  "id": "Stone_Stone"
+}

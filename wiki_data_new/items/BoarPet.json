@@ -1,0 +1,11 @@
+{
+  "m_Name": "BoarPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "753aa964699a1ea4c9fd79b313e86c43",
+  "image_fid": "21300000",
+  "sellPrice": "50",
+  "buyUpPrice": "50",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BoarPet",
+  "loc_key": "Item.BoarPet"
+}

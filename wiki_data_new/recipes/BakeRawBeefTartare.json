@@ -1,0 +1,21 @@
+{
+  "m_Name": "BakeRawBeefTartare",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "1f7fc2526bd8c294fa879b34dad8114e",
+      "amount": "1",
+      "name": "RawBeefTartare",
+      "loc_key": "Item.RawBeefTartare"
+    }
+  ],
+  "products": [
+    {
+      "guid": "daceb4a55e74ca84385a0f339de8028e",
+      "amount": "1",
+      "name": "BeefTartareAfterBake",
+      "loc_key": "Item.BeefTartareAfterBake"
+    }
+  ],
+  "id": "BakeRawBeefTartare"
+}

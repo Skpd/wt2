@@ -1,0 +1,50 @@
+{
+  "m_Name": "UndeadCrossbow",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "67b97b4103b40d845bfb3dc67468b0c4",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "22554",
+  "craftMaterialsBuyUpPricePercent": "1",
+  "entityMaxLevel": "0",
+  "minDamage": "50",
+  "maxDamage": "60",
+  "minPlagueDamage": "10",
+  "maxPlagueDamage": "15",
+  "criticalChance": "0.1",
+  "criticalValue": "1.5",
+  "dismountChance": "0",
+  "splash": "0",
+  "isAOE": "0",
+  "projectileAOERange": "0",
+  "prefabAOEName": null,
+  "ignoreAvoidingDamage": "1",
+  "ignoreAbsorb": "0",
+  "ignoreDefense": "0",
+  "abilityName": null,
+  "effectLevelLimit": "0",
+  "effects": [
+    {
+      "effect": {
+        "fileID": "11400000",
+        "guid": "a26f8b57a56ecc54c8454b0f06d6be26",
+        "type": "2"
+      },
+      "chance": "0.2",
+      "time": "3"
+    }
+  ],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "0"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  "id": "UndeadCrossbow",
+  "loc_key": "Item.UndeadCrossbow"
+}

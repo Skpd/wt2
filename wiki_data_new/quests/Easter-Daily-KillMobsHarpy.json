@@ -1,0 +1,23 @@
+{
+  "m_Name": "Easter-Daily-KillMobsHarpy",
+  "m_Script": "c1970cf3678c9b688fd0652b2161d53d",
+  "line": "8",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "23b5f2c62fb06a147afb6b6229f6313d",
+  "predecessors": [
+    "Easter-10-ObtainEasterBasketSweets"
+  ],
+  "npcTaker": "23b5f2c62fb06a147afb6b6229f6313d",
+  "reward": {
+    "money": "500",
+    "guildXp": "0",
+    "amount": "3",
+    "rewardItem": "d7f96e19a9373f3459513248757a77bc",
+    "rewardItemName": "EasterEggPetEssence"
+  },
+  "id": "Easter-Daily-KillMobsHarpy",
+  "npcGiverName": "EasterMrBunny",
+  "npcTakerName": "EasterMrBunny",
+  "group": "Daily"
+}

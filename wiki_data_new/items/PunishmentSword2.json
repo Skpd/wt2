@@ -1,0 +1,50 @@
+{
+  "m_Name": "PunishmentSword2",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "439064fc7b535eb44829fe242a0cc8a9",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "3054.1223",
+  "craftMaterialsBuyUpPricePercent": "0.65",
+  "entityMaxLevel": "0",
+  "minDamage": "39",
+  "maxDamage": "52",
+  "minPlagueDamage": "0",
+  "maxPlagueDamage": "0",
+  "criticalChance": "0.15",
+  "criticalValue": "2",
+  "dismountChance": "0",
+  "splash": "1",
+  "isAOE": "0",
+  "projectileAOERange": "0",
+  "prefabAOEName": null,
+  "ignoreAvoidingDamage": "0",
+  "ignoreAbsorb": "0",
+  "ignoreDefense": "0",
+  "abilityName": null,
+  "effectLevelLimit": "0",
+  "effects": [
+    {
+      "effect": {
+        "fileID": "11400000",
+        "guid": "77a6543df4767e44eaf8e0097eef5d80",
+        "type": "2"
+      },
+      "chance": "0.09",
+      "time": "3"
+    }
+  ],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "0"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  "id": "PunishmentSword2",
+  "loc_key": "Item.PunishmentSword2"
+}

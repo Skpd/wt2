@@ -1,0 +1,21 @@
+{
+  "m_Name": "SangitIngotSmelting",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "d4b7961244dc7d54cae2a90a575a192d",
+      "amount": "1",
+      "name": "SangitOreWithCoal",
+      "loc_key": "Item.SangitOreWithCoal"
+    }
+  ],
+  "products": [
+    {
+      "guid": "5e5e29710babadd46a3414a57bd2990d",
+      "amount": "1",
+      "name": "SangitIngot",
+      "loc_key": "Item.SangitIngot"
+    }
+  ],
+  "id": "SangitIngotSmelting"
+}

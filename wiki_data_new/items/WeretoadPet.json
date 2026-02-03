@@ -1,0 +1,11 @@
+{
+  "m_Name": "WeretoadPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "e39848b5a2d14bd4499d54a405d1f1ca",
+  "image_fid": "21300000",
+  "sellPrice": "2000",
+  "buyUpPrice": "2000",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "WeretoadPet",
+  "loc_key": "Item.WeretoadPet"
+}

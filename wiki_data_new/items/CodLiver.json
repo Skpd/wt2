@@ -1,0 +1,11 @@
+{
+  "m_Name": "CodLiver",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "b0b6e55da54551f45a4162232f6f0a3d",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "10",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "CodLiver",
+  "loc_key": "Item.CodLiver"
+}

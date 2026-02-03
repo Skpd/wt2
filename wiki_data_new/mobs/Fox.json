@@ -1,0 +1,52 @@
+{
+  "m_Name": "Fox",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "70",
+  "stamina": "100",
+  "level": "7",
+  "walkSpeed": "2",
+  "runSpeed": "4",
+  "image": "2d005049a1c734340b03c4e77bc67cbd",
+  "image_fid": "21300000",
+  "entityClass": "1",
+  "mobBehaviour": "f90bc194cea48f34eac99b3486c6888c",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "9bf49a9a0254d12419e2aa7f7556caf1",
+  "entityPrefab_fid": "1515375057595964",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "f8bcd4cbc51f9d944ae963af08fc4477",
+      "name": "FoxAttack",
+      "minDamage": "5",
+      "maxDamage": "10",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.1",
+      "criticalValue": "1.5"
+    }
+  ],
+  "id": "Fox",
+  "loc_key": "Entity.Fox",
+  "skinning_drops": [
+    {
+      "itemId": "SmallRawHide",
+      "chance": "1",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "RawCarnivoreMeat",
+      "chance": "1",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "OrganicsClot",
+      "chance": "1",
+      "min": "1",
+      "max": "2"
+    }
+  ]
+}

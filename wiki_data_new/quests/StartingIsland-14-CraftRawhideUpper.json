@@ -1,0 +1,16 @@
+{
+  "m_Name": "StartingIsland-14-CraftRawhideUpper",
+  "m_Script": "8bae99285fb9248eeae7964c5eaf8a95",
+  "line": "1",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "1",
+    "rewardItem": "2bf4e33b274f84844a760f1c7c3c1fde",
+    "rewardItemName": "RawhideLower"
+  },
+  "id": "StartingIsland-14-CraftRawhideUpper",
+  "group": "General"
+}

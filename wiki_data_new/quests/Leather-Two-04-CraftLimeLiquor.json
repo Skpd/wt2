@@ -1,0 +1,16 @@
+{
+  "m_Name": "Leather-Two-04-CraftLimeLiquor",
+  "m_Script": "8bae99285fb9248eeae7964c5eaf8a95",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "5",
+    "rewardItem": "cdc551fca64b1f340af42f54deeb4202",
+    "rewardItemName": "LimeLiquor"
+  },
+  "id": "Leather-Two-04-CraftLimeLiquor",
+  "group": "General"
+}

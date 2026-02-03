@@ -1,0 +1,11 @@
+{
+  "m_Name": "SaltpeterLimestone",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "f156a82364b147e479ff16a1296a6a48",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.05",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SaltpeterLimestone",
+  "loc_key": "Item.SaltpeterLimestone"
+}

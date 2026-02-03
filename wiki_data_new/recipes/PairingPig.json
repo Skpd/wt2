@@ -1,0 +1,14 @@
+{
+  "m_Name": "PairingPig",
+  "m_Script": "b1883acace5efde8b0f3bf8cd2885231",
+  "resources": [
+    {
+      "guid": "cd2dea20170eab24581557835403ccf6",
+      "amount": "10",
+      "name": "Pear",
+      "loc_key": "Item.Pear"
+    }
+  ],
+  "products": [],
+  "id": "PairingPig"
+}

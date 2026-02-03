@@ -1,0 +1,20 @@
+{
+  "m_Name": "Tamer-01-TameGoat",
+  "m_Script": "a33fbc2ed7ad8fe58f2dcfb6e1a39cab",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "dbbd65a03bea5164784da9022840adf8",
+  "npcTaker": "dbbd65a03bea5164784da9022840adf8",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "1",
+    "rewardItem": "2d88436195c76b148a3e199302a14058",
+    "rewardItemName": "Milk"
+  },
+  "id": "Tamer-01-TameGoat",
+  "npcGiverName": "CityBreederErmak",
+  "npcTakerName": "CityBreederErmak",
+  "group": "General"
+}

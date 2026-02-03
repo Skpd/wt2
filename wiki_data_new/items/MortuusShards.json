@@ -1,0 +1,85 @@
+{
+  "m_Name": "MortuusShards",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "2b1986d9b0050ac4793cb13f70352263",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.03",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "MortuusShards",
+  "loc_key": "Item.MortuusShards",
+  "dropped_by": [
+    {
+      "sourceId": "PlagueAbandonedResources",
+      "chance": 0.16666666666666666,
+      "min": 2,
+      "max": 6
+    },
+    {
+      "sourceId": "PlagueAbandonedResources",
+      "chance": 0.16666666666666666,
+      "min": 4,
+      "max": 5
+    },
+    {
+      "sourceId": "PlagueAbandonedResources",
+      "chance": 0.16666666666666666,
+      "min": 2,
+      "max": 6
+    },
+    {
+      "sourceId": "PlagueAbandonedResources",
+      "chance": 0.16666666666666666,
+      "min": 4,
+      "max": 5
+    },
+    {
+      "sourceId": "PlagueAbandonedResources",
+      "chance": 0.049999999999999996,
+      "min": 2,
+      "max": 6
+    },
+    {
+      "sourceId": "PlagueAbandonedResources",
+      "chance": 0.049999999999999996,
+      "min": 4,
+      "max": 5
+    },
+    {
+      "sourceId": "UndeadPickaxeDungeon",
+      "chance": 0.5,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "UndeadPickaxeDungeon",
+      "chance": 0.25,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "UndeadPickaxeDungeon",
+      "chance": 0.25,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.125,
+      "min": 10,
+      "max": 30
+    },
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.25,
+      "min": 10,
+      "max": 30
+    },
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.25,
+      "min": 10,
+      "max": 30
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "m_Name": "KillBossWerewolfDungeon",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "0",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "204b498d36241ba4bb1e2ad92ef74a22",
+  "predecessors": [
+    "Mobs-04-AreaDarkForestDungeon"
+  ],
+  "npcTaker": "f25f74f380d9f0041af14bd2e376816f",
+  "reward": {
+    "money": "2500",
+    "guildXp": "0",
+    "amount": "5",
+    "rewardItem": "f8091ab887ebc844eb423681c7ce8309",
+    "rewardItemName": "SteelIngot"
+  },
+  "id": "KillBossWerewolfDungeon",
+  "npcGiverName": "PlagueDailyQuests",
+  "npcTakerName": "PlagueGoPoints",
+  "group": "Daily"
+}

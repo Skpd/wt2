@@ -1,0 +1,40 @@
+{
+  "m_Name": "SangiumSword",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "0bda171963975604f8ba5c047dff58c2",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "2573.2",
+  "craftMaterialsBuyUpPricePercent": "2",
+  "entityMaxLevel": "0",
+  "minDamage": "24",
+  "maxDamage": "32",
+  "minPlagueDamage": "0",
+  "maxPlagueDamage": "0",
+  "criticalChance": "0.2",
+  "criticalValue": "1.5",
+  "dismountChance": "0",
+  "splash": "1",
+  "isAOE": "0",
+  "projectileAOERange": "0",
+  "prefabAOEName": null,
+  "ignoreAvoidingDamage": "0",
+  "ignoreAbsorb": "0",
+  "ignoreDefense": "0",
+  "abilityName": null,
+  "effectLevelLimit": "0",
+  "effects": [],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "0"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  "id": "SangiumSword",
+  "loc_key": "Item.SangiumSword"
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "FoxPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "2d005049a1c734340b03c4e77bc67cbd",
+  "image_fid": "21300000",
+  "sellPrice": "10",
+  "buyUpPrice": "10",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "FoxPet",
+  "loc_key": "Item.FoxPet"
+}

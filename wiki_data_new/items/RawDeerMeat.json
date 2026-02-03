@@ -1,0 +1,34 @@
+{
+  "m_Name": "RawDeerMeat",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "31c810d6783de27499a956b1b52139d8",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.03",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "RawDeerMeat",
+  "loc_key": "Item.RawDeerMeat",
+  "dropped_by": [
+    {
+      "sourceId": "DeerPet",
+      "chance": "1",
+      "min": "3",
+      "max": "5",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "DeerStag",
+      "chance": "1",
+      "min": "3",
+      "max": "6",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "DeerDoe",
+      "chance": "1",
+      "min": "3",
+      "max": "5",
+      "type": "Skinning"
+    }
+  ]
+}

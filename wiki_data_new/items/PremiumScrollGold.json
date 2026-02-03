@@ -1,0 +1,11 @@
+{
+  "m_Name": "PremiumScrollGold",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "5dc41bfbe726cfd4592b7e8645f00b06",
+  "image_fid": "21300000",
+  "sellPrice": "900000",
+  "buyUpPrice": "10000",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "PremiumScrollGold",
+  "loc_key": "Item.PremiumScrollGold"
+}

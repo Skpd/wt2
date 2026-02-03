@@ -1,0 +1,31 @@
+{
+  "m_Name": "IronBoots",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "af48fae21e8a8b848b4ffe3a08370249",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "225",
+  "craftMaterialsBuyUpPricePercent": "1.5",
+  "id": "IronBoots",
+  "loc_key": "Item.IronBoots",
+  "dropped_by": [
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

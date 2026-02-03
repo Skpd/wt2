@@ -1,0 +1,27 @@
+{
+  "m_Name": "PotRatStew",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "d25bf9a84eedf2f479e6e1cc8776ab7e",
+      "amount": "3",
+      "name": "RatTail",
+      "loc_key": "Item.RatTail"
+    },
+    {
+      "guid": "ad8574214168ea546b3009f7049885fd",
+      "amount": "5",
+      "name": "WitheredPlants",
+      "loc_key": "Item.WitheredPlants"
+    }
+  ],
+  "products": [
+    {
+      "guid": "332057c376da9b64f93834c04234c21a",
+      "amount": "1",
+      "name": "RatStew",
+      "loc_key": "Item.RatStew"
+    }
+  ],
+  "id": "PotRatStew"
+}

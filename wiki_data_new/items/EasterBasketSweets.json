@@ -1,0 +1,11 @@
+{
+  "m_Name": "EasterBasketSweets",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "b5a64af02484b0c4097d60c5b6e83127",
+  "image_fid": "21300000",
+  "sellPrice": "500",
+  "buyUpPrice": "10",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "EasterBasketSweets",
+  "loc_key": "Item.EasterBasketSweets"
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "RawRoyalChowder",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "8eee06a4244dcbd4b95a28f5bbf42de3",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "100",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "RawRoyalChowder",
+  "loc_key": "Item.RawRoyalChowder"
+}

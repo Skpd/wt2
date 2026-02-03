@@ -1,0 +1,91 @@
+{
+  "m_Name": "GraveBeetle",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "21a3022bfc3912040ae714abdabea003",
+  "image_fid": "21300000",
+  "sellPrice": "400",
+  "buyUpPrice": "60",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "GraveBeetle",
+  "loc_key": "Item.GraveBeetle",
+  "dropped_by": [
+    {
+      "sourceId": "SewersFinalChest",
+      "chance": 0.04285714285714286,
+      "min": 20,
+      "max": 30
+    },
+    {
+      "sourceId": "AbandonedBattlefieldSpidersWeb",
+      "chance": 0.1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "AbandonedBattlefieldSpidersWeb",
+      "chance": 0.1,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "SkeletonKnight",
+      "chance": 1,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "sourceId": "SkeletonGuard",
+      "chance": 1,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "sourceId": "Reaper",
+      "chance": 1,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "sourceId": "Reaper",
+      "chance": 0.125,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "sourceId": "CultistRisenSwordsman",
+      "chance": 0.125,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "sourceId": "CultistCursedSwordsman",
+      "chance": 0.125,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "sourceId": "DemonWeak",
+      "chance": 0.1,
+      "min": 10,
+      "max": 30
+    },
+    {
+      "sourceId": "DemonWeak",
+      "chance": 0.05,
+      "min": 10,
+      "max": 30
+    },
+    {
+      "sourceId": "DemonBrute",
+      "chance": 0.1,
+      "min": 10,
+      "max": 30
+    },
+    {
+      "sourceId": "DemonBrute",
+      "chance": 0.05,
+      "min": 10,
+      "max": 30
+    }
+  ]
+}

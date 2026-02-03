@@ -1,0 +1,236 @@
+{
+  "m_Name": "SkeletonKnight",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "450",
+  "stamina": "100",
+  "level": "65",
+  "walkSpeed": "1.2",
+  "runSpeed": "4",
+  "image": "92c111212f0de5b438d39c189d566b28",
+  "image_fid": "21300000",
+  "entityClass": "4",
+  "mobBehaviour": "1ffb7607b4dfea441a4aafc9f96b3976",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "77343290c64453942a873d9aca1c222c",
+  "entityPrefab_fid": "1605329427209433",
+  "entityBonuses": {
+    "Parry": "0.2",
+    "IgnoreBloodDots": "1",
+    "Defense": "0.7",
+    "IgnoreNextSlowdown": "1",
+    "IgnoreNextStun": "1",
+    "Absorption": "15",
+    "PlagueDefense": "0.7"
+  },
+  "skills": [
+    {
+      "id": "313e251a8bfb1f548a1504099455806d",
+      "name": "SkeletonKnightAttack",
+      "minDamage": "40",
+      "maxDamage": "60",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.2",
+      "ignoreDefense": "0.2",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "723c87b922575614eac51147ed8548b5",
+      "name": "SkeletonKnightAttack2",
+      "minDamage": "40",
+      "maxDamage": "60",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0.2",
+      "ignoreDefense": "0.2",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "e35860282ba003540ac155c5581b6657",
+      "name": "SkeletonKnightAttack3",
+      "minDamage": "30",
+      "maxDamage": "50",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.5",
+      "ignoreDefense": "0.2",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "262483d734285d142aa8189c40b08d84",
+      "name": "SkeletonKnightBuff"
+    }
+  ],
+  "id": "SkeletonKnight",
+  "loc_key": "Entity.SkeletonKnight",
+  "drops": [
+    {
+      "itemId": "GraveBeetle",
+      "chance": 1,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "itemId": "Bone",
+      "chance": 1,
+      "min": 3,
+      "max": 7
+    },
+    {
+      "itemId": "BoneFlour",
+      "chance": 0.5,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "SkeletonSkull",
+      "chance": 0.04,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SnareSteel",
+      "chance": 0.0125,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "FishingSpoon",
+      "chance": 0.0125,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "SteelRivets",
+      "chance": 0.0125,
+      "min": 2,
+      "max": 2
+    },
+    {
+      "itemId": "SteelLines",
+      "chance": 0.0125,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SteelPlates",
+      "chance": 0.0125,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "MoldySilk",
+      "chance": 0.0125,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "AlchemicalReagents",
+      "chance": 0.0125,
+      "min": 3,
+      "max": 6
+    },
+    {
+      "itemId": "SteelIngot",
+      "chance": 0.0125,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "SnareSteel",
+      "chance": 0.00625,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "FishingSpoon",
+      "chance": 0.00625,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "SteelRivets",
+      "chance": 0.00625,
+      "min": 2,
+      "max": 2
+    },
+    {
+      "itemId": "SteelLines",
+      "chance": 0.00625,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SteelPlates",
+      "chance": 0.00625,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "MoldySilk",
+      "chance": 0.00625,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "AlchemicalReagents",
+      "chance": 0.00625,
+      "min": 3,
+      "max": 6
+    },
+    {
+      "itemId": "SteelIngot",
+      "chance": 0.00625,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "GemUncutAmethyst",
+      "chance": 0.02,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "GemUncutEmerald",
+      "chance": 0.02,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "GemUncutRuby",
+      "chance": 0.02,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "GemUncutSapphire",
+      "chance": 0.02,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "GemUncutTopaz",
+      "chance": 0.02,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SkillBookLevel20",
+      "chance": 0.05,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Money",
+      "chance": 1,
+      "min": 200,
+      "max": 500
+    },
+    {
+      "itemId": "KnightMedal",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

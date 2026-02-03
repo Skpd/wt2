@@ -1,0 +1,11 @@
+{
+  "m_Name": "WoodForCook",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "1d25059da110aeb4daeb7b8544c82c0c",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "WoodForCook",
+  "loc_key": "Item.WoodForCook"
+}

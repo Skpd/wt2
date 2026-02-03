@@ -1,0 +1,11 @@
+{
+  "m_Name": "ZebraMount",
+  "m_Script": "f5673bd2393c13a27685bda14e28f91a",
+  "image": "74421936831237840a12c3bfe58e1060",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "ZebraMount",
+  "loc_key": "Item.ZebraMount"
+}

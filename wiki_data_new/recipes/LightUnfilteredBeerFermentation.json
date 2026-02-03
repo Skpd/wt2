@@ -1,0 +1,33 @@
+{
+  "m_Name": "LightUnfilteredBeerFermentation",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "66c539d92e6f1434c82839e7fa29acb9",
+      "amount": "1",
+      "name": "BeerWort",
+      "loc_key": "Item.BeerWort"
+    },
+    {
+      "guid": "3898d0e4a12051f4a8b3f96f7cbb5509",
+      "amount": "1",
+      "name": "WaterJug",
+      "loc_key": "Item.WaterJug"
+    },
+    {
+      "guid": "99d35305bbc7a484b807d7a67c0ea229",
+      "amount": "1",
+      "name": "SpiceSugar",
+      "loc_key": "Item.SpiceSugar"
+    }
+  ],
+  "products": [
+    {
+      "guid": "7f55092fe5df12b4da81c1448d0e7a6d",
+      "amount": "1",
+      "name": "LightUnfilteredBeer",
+      "loc_key": "Item.LightUnfilteredBeer"
+    }
+  ],
+  "id": "LightUnfilteredBeerFermentation"
+}

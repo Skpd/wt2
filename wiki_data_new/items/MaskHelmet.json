@@ -1,0 +1,12 @@
+{
+  "m_Name": "MaskHelmet",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "74e2595f9fb3368469bfa53ee4dde5f5",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "10",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "MaskHelmet",
+  "loc_key": "Item.MaskHelmet",
+  "icon_path": "textures/MaskHelmet.png"
+}

@@ -1,0 +1,21 @@
+{
+  "m_Name": "FeedCockBarley",
+  "m_Script": "37d6a230f8991a4267be4fd19e466e02",
+  "resources": [
+    {
+      "guid": "ca46bfdf00f8a714abbb6908fd7384f5",
+      "amount": "5",
+      "name": "Barley",
+      "loc_key": "Item.Barley"
+    }
+  ],
+  "products": [
+    {
+      "guid": "3f4a5da5efd8d65408890d34180dde7f",
+      "amount": "5",
+      "name": "Feather",
+      "loc_key": "Item.Feather"
+    }
+  ],
+  "id": "FeedCockBarley"
+}

@@ -1,0 +1,597 @@
+{
+  "m_Name": "Player",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "100",
+  "stamina": "100",
+  "level": "1",
+  "walkSpeed": "1.6",
+  "runSpeed": "3.5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "11",
+  "mobBehaviour": {
+    "fileID": "0"
+  },
+  "entityPrefab": {
+    "fileID": "0"
+  },
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "74d42cade9339e44286fda53ac472884",
+      "name": "HandAttack",
+      "minDamage": "2",
+      "maxDamage": "5",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0",
+      "criticalValue": "0"
+    },
+    {
+      "id": "89ce6a1fd2f0da04b888e6d12c1f4130",
+      "name": "SwordAttack"
+    },
+    {
+      "id": "318537bf88d2d824c96c7255f72d1a99",
+      "name": "TwoHandSwordAttack"
+    },
+    {
+      "id": "5f3c78c74c4347b419371bdc06e30919",
+      "name": "MaceAttack"
+    },
+    {
+      "id": "5bc7f882c344e5d4186608dea8e803b7",
+      "name": "AxeAttack"
+    },
+    {
+      "id": "01c459d60910f1647972613da0dae785",
+      "name": "KnifeAttack"
+    },
+    {
+      "id": "8c5b8015ff9ca754e837bb1613f95263",
+      "name": "BowAttack"
+    },
+    {
+      "id": "eaead93bc7f32f24495647517af3a8d8",
+      "name": "CrossbowAttack"
+    },
+    {
+      "id": "cd334229379342f4f8bf1408a6c96b9e",
+      "name": "ThrowSpearAttack"
+    },
+    {
+      "id": "014247e2a696e47449495bd091d93b3e",
+      "name": "ThrowBombAttack"
+    },
+    {
+      "id": "544939a2f9b38dc45bfb2d6fdde7eefc",
+      "name": "ThrowBallAttack"
+    },
+    {
+      "id": "4a03d5ea4921fbb498bb2ee3dadb873d",
+      "name": "SlingAttack"
+    },
+    {
+      "id": "82b8a20be1f012f4e8614774636d91ff",
+      "name": "SnareAttack"
+    },
+    {
+      "id": "36024acfbeda72b4ab90542e39e2664b",
+      "name": "BolasAttack"
+    },
+    {
+      "id": "fd752df8043ece74ea18e4ac4c4e0557",
+      "name": "PickUp"
+    },
+    {
+      "id": "c9571cad224ad5a44973a41010912941",
+      "name": "NpcAction"
+    },
+    {
+      "id": "3c81085071e73f144892c57818505596",
+      "name": "ChangeState"
+    },
+    {
+      "id": "dd1e5e04b6d308c4ab23ca8d26c88233",
+      "name": "OpenContainer"
+    },
+    {
+      "id": "d2eff664ab2ddd44cb24f451ededd7b9",
+      "name": "EditStructures"
+    },
+    {
+      "id": "297aa4926dd9cd347a42f291fb57ef93",
+      "name": "Suicide"
+    },
+    {
+      "id": "4bc62ccd69cbf334a8595366ded8c94f",
+      "name": "ReportPlayer"
+    },
+    {
+      "id": "c34b2a5de97876542a3a62b9551a1fc1",
+      "name": "Fishing"
+    },
+    {
+      "id": "36a40651b8d112b4a89219ef38b56b73",
+      "name": "Catching"
+    },
+    {
+      "id": "dc80f2a9bc79f654c931ce9c6798f978",
+      "name": "LeaveDwelling"
+    },
+    {
+      "id": "0ccf1ece7cd91ab45ae9fe3d8c5b90e2",
+      "name": "LeaveDominiumArea"
+    },
+    {
+      "id": "a0f9e6e3eb731684ebc78cf0b85f3054",
+      "name": "Gathering"
+    },
+    {
+      "id": "5094e7d1a47fe0745a7272a5b58e4204",
+      "name": "WaterGathering"
+    },
+    {
+      "id": "1595bf10610ecff4b9d15edd450ebaed",
+      "name": "Planting"
+    },
+    {
+      "id": "760c33e722145ef4cba4fd4d03c33521",
+      "name": "Shoveling"
+    },
+    {
+      "id": "9d0515d779f015245b62ca25cd2f87fb",
+      "name": "Watering"
+    },
+    {
+      "id": "2077232ddf0de3a43af457375f4a8706",
+      "name": "ItemUsing"
+    },
+    {
+      "id": "7389bc9b36725f142af0621914537971",
+      "name": "Lumbering"
+    },
+    {
+      "id": "f58d2b265f3302642a467a2d7ba818f8",
+      "name": "Mining"
+    },
+    {
+      "id": "541d3d23a3a11db4cb569a11f83a4049",
+      "name": "Skinning"
+    },
+    {
+      "id": "a0d328e67a461c14392cc97c0d91da6f",
+      "name": "RevivePointSave"
+    },
+    {
+      "id": "dcf9917858adad04a9699ffc0a90eb4e",
+      "name": "Sprint",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "74e5219ed03951244a17c3fdc7d77f33",
+      "name": "WontRun",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "de0fede0ae7f08d478000185ec266c91",
+      "name": "HeadShot",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "c29974a91644fbc49930e3046a0486c5",
+      "name": "Tenacity",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "bd79a8470839c734f8604d6672c4680a",
+      "name": "HoldLine",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "b3c34976f5acb634f8c7e9292870fbd4",
+      "name": "ShieldStrike",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "d7da40fa9da715744b9b068c759220ea",
+      "name": "ArrowsBlock",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "2ba136532504d4d499d4b2b122786803",
+      "name": "HeavyShieldStrike",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "50e776e488fda7e4d9e91abaf7c27765",
+      "name": "ShieldPutUp",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "6ff5b94e128255b4c8ec799c9e42e9b9",
+      "name": "ShieldBehind",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "26ee6b0d69ac9b247a2203ac934fad58",
+      "name": "AbsoluteProtection",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "8c1c7da6febe7a246b2187960c226a7e",
+      "name": "Provocation",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "2faa9239c0468854a886acb129e25063",
+      "name": "LetsBleed",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "7ac7459db6947b04ab46b4786bd6bad7",
+      "name": "Smithereens",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "1",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "33fd123fce6a7ca4d910c688b938a6fa",
+      "name": "Backstab",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.85",
+      "ignoreDefense": "0.15"
+    },
+    {
+      "id": "a98908a4c021c0e4796ba9aab68b3d9f",
+      "name": "DeathBlow",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "f294fe0399b6a4c43919a825e1b02270",
+      "name": "RotatingStun",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "e1391a9290dbbc947b5db89b4ea35564",
+      "name": "WeekSpotBlow",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.7",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "560ea4211466e0040a1d838e08a5662f",
+      "name": "InTwain",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "fa29f0cb6189d834b945ca3bddaf1582",
+      "name": "IdealStance",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "9a49b9ec758dc64409ed4501b4d6afee",
+      "name": "IntoTheEye",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "1",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "64243688cf4b59b4eb254cc9b9156f71",
+      "name": "BowPenetration",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "1",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "df3878ff1baa07140ad57de81b23fc7e",
+      "name": "PetHeal",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "ca5601f323938c2479933513eddf8dcc",
+      "name": "PetMasterBuff",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "3fbb7fdd521049f4abf9be413520a079",
+      "name": "StunWakeUp",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "661083422ddca214c983d0120827241d",
+      "name": "SacrificeHealth",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "0bd4fb266f58edc418d4f36eb12a485d",
+      "name": "Purification",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "445b300fd69ca4943bc33990556e2d74",
+      "name": "Identify"
+    },
+    {
+      "id": "013e649c050d1ce4283e9da729ffb84f",
+      "name": "GatheringExperience",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "4632cd892bc350746b6e50d444b15a79",
+      "name": "LumberjackFuel",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "08c6bae7a14c0b644b733fc7c9e698bc",
+      "name": "FisheryArt",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "7cfd157b1813c0b438a26ab1d224e14c",
+      "name": "PetLoyalty",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "a07e8eb1810d4ae42b8e6750da9b08fe",
+      "name": "IronEconomy",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "5e3487618409b5c4884c109da50ac542",
+      "name": "SteelEconomy",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "885f77688cbb96046b555de024980b73",
+      "name": "CarpentryInspiration",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "9f49e629d6222124d963f6415cc46c03",
+      "name": "MaterialEconomy",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "6d72cc466aaeb0741a5f3a0123e2884e",
+      "name": "Plowman",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "8184928374a4e4543a8d11084d0a348b",
+      "name": "Feint",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "0e52248af43e54f4fb7ce705540debf0",
+      "name": "Puncture",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "1",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "cf9b74e830ad20649bdb798618a648aa",
+      "name": "SpinAttack",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "5bc7f51eb6ac9f649975f9675fdcfd9b",
+      "name": "CrushingBlow",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "1",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "f509ae7095f8f444bb59645a153af79e",
+      "name": "HealerToolAttack"
+    },
+    {
+      "id": "b7d61407015160543bd0297fd5cd548a",
+      "name": "ThrowAxe",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "0ef86f22032f2e742911465a788dcb93",
+      "name": "Blessing",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "413ca56eaf4aa694a9390838fd850e92",
+      "name": "Eating"
+    },
+    {
+      "id": "f3657a39542b38742ab9050e0bfed1c0",
+      "name": "MiningEconomy",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "0ff185bad327ed14aa528042e8a41bc9",
+      "name": "MiningTricks",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "095de01c7e029354683b633d4b7e4387",
+      "name": "SkinningExperience",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "03c55429f9ead2944b986be736923225",
+      "name": "SkinningRareChance",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "1627fc149a4494747a6c235389cbad06",
+      "name": "LumberingRareChance",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "22045fd9170682b4caad1e33ba4c038b",
+      "name": "TamingExperiencedTamer",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "0791a27609c26dc408a2f3faf46a2e58",
+      "name": "EssenceExtraction"
+    },
+    {
+      "id": "36d686516d399504491e021c6e5db10b",
+      "name": "PetSkinning"
+    },
+    {
+      "id": "ada8205fad4ff984d8cd0f1fa4dcaa99",
+      "name": "WitchcraftBattleHunger",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "f9d7357b1db63894d9fcfd00a2ee6aac",
+      "name": "WitchcraftProtection",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "a945b978487df7d4e88f8945b3e412ca",
+      "name": "WitchcraftBurningRing",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "d1afd563f14ee6e4883212283a303ad4",
+      "name": "WitchcraftPoisonProjectile",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "da97581618bbe3743b4f4176125346f2",
+      "name": "WitchcraftWeakness",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "e4468abd27acc144896d4c4b59872956",
+      "name": "OnTheRun",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "2fd52ad1b51568d4d95f657f5d18d41c",
+      "name": "CripplingShot",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "d0cfda07cb260fa4193bead80d394532",
+      "name": "BoltBooster",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "d90c689565215644daf6aae256da255a",
+      "name": "LeatherworkingInspiration",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    },
+    {
+      "id": "afc6f78beec575f4f8c5e8a3d40e6dd9",
+      "name": "JewelcraftingInspiration",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0"
+    }
+  ],
+  "id": "Player",
+  "loc_key": "Entity.Player"
+}

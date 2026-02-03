@@ -1,0 +1,11 @@
+{
+  "m_Name": "HalibutFillet",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "0c41c4406de803c42b039cf2feaf75f9",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "30",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "HalibutFillet",
+  "loc_key": "Item.HalibutFillet"
+}

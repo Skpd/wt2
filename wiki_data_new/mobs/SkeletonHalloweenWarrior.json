@@ -1,0 +1,96 @@
+{
+  "m_Name": "SkeletonHalloweenWarrior",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "500",
+  "stamina": "100",
+  "level": "25",
+  "walkSpeed": "2",
+  "runSpeed": "4",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "4",
+  "mobBehaviour": "1ffb7607b4dfea441a4aafc9f96b3976",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "460e2843cf271b443a7e106ca8057e6a",
+  "entityPrefab_fid": "1501676639445809",
+  "entityBonuses": {
+    "Parry": "0.1",
+    "Block": "0.1",
+    "BlockProjectile": "0.1",
+    "IgnoreBloodDots": "1",
+    "Defense": "0.7",
+    "Absorption": "5"
+  },
+  "skills": [
+    {
+      "id": "1a9effbc31bea3440847ac58304563fc",
+      "name": "SkeletonHalloweenWarriorAttack",
+      "minDamage": "25",
+      "maxDamage": "30",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0.2",
+      "ignoreDefense": "0.2",
+      "criticalChance": "0.1",
+      "criticalValue": "1.5"
+    }
+  ],
+  "id": "SkeletonHalloweenWarrior",
+  "loc_key": "Entity.SkeletonHalloweenWarrior",
+  "drops": [
+    {
+      "itemId": "Money",
+      "chance": 1,
+      "min": 100,
+      "max": 500
+    },
+    {
+      "itemId": "BlueDust",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Bone",
+      "chance": 1,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "itemId": "Maggot",
+      "chance": 0.5,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "Worm",
+      "chance": 0.5,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "SkillBookLevel10",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "PumpkinBannock",
+      "chance": 0.1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "WitchEye",
+      "chance": 0.2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "HalloweenGift",
+      "chance": 0.1,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

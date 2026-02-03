@@ -1,0 +1,11 @@
+{
+  "m_Name": "BufomorphPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "9c993f310aa02c74cb5e3f180ed0f028",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BufomorphPet",
+  "loc_key": "Item.BufomorphPet"
+}

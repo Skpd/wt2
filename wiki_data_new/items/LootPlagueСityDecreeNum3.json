@@ -1,0 +1,31 @@
+{
+  "m_Name": "LootPlague\u0421ityDecreeNum3",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "b59d5842cbc52314983fd5a21927f17f",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "60",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "LootPlague\u0421ityDecreeNum3",
+  "loc_key": "Item.LootPlague\u0421ityDecreeNum3",
+  "dropped_by": [
+    {
+      "sourceId": "PlagueCityBrokenFurniture",
+      "chance": 0.01,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "PlagueCityCorpses",
+      "chance": 0.01,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "PlagueSkeletonsCorpses",
+      "chance": 0.01,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

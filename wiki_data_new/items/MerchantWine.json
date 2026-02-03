@@ -1,0 +1,11 @@
+{
+  "m_Name": "MerchantWine",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "3592f85215458cc49ba43ddb551d60d6",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "10",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "MerchantWine",
+  "loc_key": "Item.MerchantWine"
+}

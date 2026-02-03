@@ -1,0 +1,24 @@
+{
+  "m_Name": "BattlefieldFishing-03-KillBlackGiantCrab",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "c33919de331a8e64d8dfc5aaa353923e",
+  "predecessors": [
+    "BattlefieldFishing-02-CatchPufferfish"
+  ],
+  "npcTaker": "c33919de331a8e64d8dfc5aaa353923e",
+  "reward": {
+    "money": "10000",
+    "guildXp": "0",
+    "amount": "1",
+    "rewardItem": "16907fc49d25fbf47bedd9ef53d35296",
+    "bookSkill": "Fishery",
+    "rewardItemName": "SkillBookLevel20"
+  },
+  "id": "BattlefieldFishing-03-KillBlackGiantCrab",
+  "npcGiverName": "AbandonedBattlefieldFisherElmar",
+  "npcTakerName": "AbandonedBattlefieldFisherElmar",
+  "group": "General"
+}

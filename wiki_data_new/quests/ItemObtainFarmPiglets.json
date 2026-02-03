@@ -1,0 +1,20 @@
+{
+  "m_Name": "ItemObtainFarmPiglets",
+  "m_Script": "a33fbc2ed7ad8fe58f2dcfb6e1a39cab",
+  "line": "0",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "a2b2d861524c72142a3366233cccc744",
+  "npcTaker": "dbbd65a03bea5164784da9022840adf8",
+  "reward": {
+    "money": "1500",
+    "guildXp": "0",
+    "amount": "50",
+    "rewardItem": "7b4badd85a98ba4499ac0306a2406a10",
+    "rewardItemName": "FodderPiggy"
+  },
+  "id": "ItemObtainFarmPiglets",
+  "npcGiverName": "MainIslandTownDailyQuests",
+  "npcTakerName": "CityBreederErmak",
+  "group": "Daily"
+}

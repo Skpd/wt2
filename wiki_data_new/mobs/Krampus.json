@@ -1,0 +1,227 @@
+{
+  "m_Name": "Krampus",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "900",
+  "stamina": "100",
+  "level": "27",
+  "walkSpeed": "1.8",
+  "runSpeed": "3.5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "0",
+  "mobBehaviour": "1ffb7607b4dfea441a4aafc9f96b3976",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "7b2acf52b00438e43bb8a66924a85cc3",
+  "entityPrefab_fid": "1098930888530137",
+  "entityBonuses": {
+    "BlockProjectile": "0.4"
+  },
+  "skills": [
+    {
+      "id": "96c61fa890939e147aa6ddd8883ff691",
+      "name": "KrampusBall",
+      "minDamage": "35",
+      "maxDamage": "45",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.1",
+      "ignoreDefense": "0.15",
+      "criticalChance": "1",
+      "criticalValue": "1"
+    },
+    {
+      "id": "e933ca93cd12e0b4d87ad0dca31c36c7",
+      "name": "KrampusAttack",
+      "minDamage": "25",
+      "maxDamage": "35",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "c3827f276cdc95640ac778140dc7a19e",
+      "name": "KrampusAOE",
+      "minDamage": "55",
+      "maxDamage": "95",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.1",
+      "ignoreDefense": "0.4",
+      "criticalChance": "1",
+      "criticalValue": "1"
+    }
+  ],
+  "id": "Krampus",
+  "loc_key": "Entity.Krampus",
+  "drops": [
+    {
+      "itemId": "Money",
+      "chance": 0.5,
+      "min": 100,
+      "max": 200
+    },
+    {
+      "itemId": "SantaStaff",
+      "chance": 0.07,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SantaHat",
+      "chance": 0.006666666666666667,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Christmas2024CloakBlue",
+      "chance": 0.006666666666666667,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "ArcticBearMountSkin",
+      "chance": 0.006666666666666667,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Champagne",
+      "chance": 0.15,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SmallBoostPotion",
+      "chance": 0.15,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SmallBoostPotion",
+      "chance": 0.4,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "ChristmasGreenCloth",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "ChristmasPaperLine",
+      "chance": 0.16666666666666666,
+      "min": 2,
+      "max": 3
+    },
+    {
+      "itemId": "Firework",
+      "chance": 0.16666666666666666,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "FireworkStickBlue",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "FireworkStickGreen",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "FireworkStickRed",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "CandyRed",
+      "chance": 0.5,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "CandyPurple",
+      "chance": 0.5,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "Champagne",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "GiftGreen",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "GiftPink",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Snowballs",
+      "chance": 0.3333333333333333,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "itemId": "Snowballs",
+      "chance": 0.3333333333333333,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "itemId": "FrozenArrow",
+      "chance": 0.3333333333333333,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "itemId": "CandyViolet",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "CandyRed",
+      "chance": 0.3333333333333333,
+      "min": 2,
+      "max": 3
+    },
+    {
+      "itemId": "CandyPurple",
+      "chance": 0.3333333333333333,
+      "min": 2,
+      "max": 3
+    },
+    {
+      "itemId": "CandyViolet",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "CandyRed",
+      "chance": 0.3333333333333333,
+      "min": 2,
+      "max": 3
+    },
+    {
+      "itemId": "CandyPurple",
+      "chance": 0.3333333333333333,
+      "min": 2,
+      "max": 3
+    }
+  ]
+}

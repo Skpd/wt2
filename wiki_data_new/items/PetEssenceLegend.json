@@ -1,0 +1,11 @@
+{
+  "m_Name": "PetEssenceLegend",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "84e02b38e6ff2314e929d19e7928b051",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "PetEssenceLegend",
+  "loc_key": "Item.PetEssenceLegend"
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "BigClamBlack",
+  "m_Script": "53d85703288a41ce0e87dcdb381b2599",
+  "image": "dffccd50289be6c41ac541030ceae47f",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "50",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BigClamBlack",
+  "loc_key": "Item.BigClamBlack"
+}

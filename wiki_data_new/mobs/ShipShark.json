@@ -1,0 +1,41 @@
+{
+  "m_Name": "ShipShark",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "35",
+  "stamina": "100",
+  "level": "10",
+  "walkSpeed": "0",
+  "runSpeed": "0",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "0",
+  "mobBehaviour": "5dd3ba97d34527f4895c1a814d78a473",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "8c3efe175a1e9264dba2cc33069721ab",
+  "entityPrefab_fid": "1761726833907023",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "9e707408c98985b48b9d4200e6d58377",
+      "name": "ShipRatAttack",
+      "minDamage": "2",
+      "maxDamage": "3",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0",
+      "criticalValue": "0"
+    }
+  ],
+  "id": "ShipShark",
+  "loc_key": "Entity.ShipShark",
+  "skinning_drops": [
+    {
+      "itemId": "RatDroppings",
+      "chance": "1",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

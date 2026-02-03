@@ -1,0 +1,23 @@
+{
+  "m_Name": "Food-02-ObtainFrogLegs",
+  "m_Script": "a33fbc2ed7ad8fe58f2dcfb6e1a39cab",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "38c34ff7357990346a5b089d97978c45",
+  "predecessors": [
+    "Food-01-ObtainChelidonium"
+  ],
+  "npcTaker": "38c34ff7357990346a5b089d97978c45",
+  "reward": {
+    "money": "1000",
+    "guildXp": "0",
+    "amount": "5",
+    "rewardItem": "58feacc420914a6408f1918ee9b6f64d",
+    "rewardItemName": "BakedFrogLegs"
+  },
+  "id": "Food-02-ObtainFrogLegs",
+  "npcGiverName": "PlagueFreeSave",
+  "npcTakerName": "PlagueFreeSave",
+  "group": "General"
+}

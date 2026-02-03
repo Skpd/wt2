@@ -1,0 +1,21 @@
+{
+  "m_Name": "FeedPigManure",
+  "m_Script": "37d6a230f8991a4267be4fd19e466e02",
+  "resources": [
+    {
+      "guid": "a975e5c0fa2ec24498ed904251911453",
+      "amount": "5",
+      "name": "Beetroot",
+      "loc_key": "Item.Beetroot"
+    }
+  ],
+  "products": [
+    {
+      "guid": "9cb3408429bee7945b0fe485e0125656",
+      "amount": "1",
+      "name": "Manure",
+      "loc_key": "Item.Manure"
+    }
+  ],
+  "id": "FeedPigManure"
+}

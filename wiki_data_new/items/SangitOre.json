@@ -1,0 +1,32 @@
+{
+  "m_Name": "SangitOre",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "013c9ab5bd4b1e54f9b377683730d00a",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.2",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SangitOre",
+  "loc_key": "Item.SangitOre",
+  "dropped_by": [
+    {
+      "sourceId": "DwarfFortGodsendMaterial",
+      "chance": 0.14285714285714285,
+      "min": 2,
+      "max": 3
+    },
+    {
+      "sourceId": "DwarfFortGodsendMaterial",
+      "chance": 0.045454545454545456,
+      "min": 2,
+      "max": 3
+    },
+    {
+      "sourceId": "EarthTitan",
+      "chance": "1",
+      "min": "6",
+      "max": "10",
+      "type": "Skinning"
+    }
+  ]
+}

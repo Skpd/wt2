@@ -1,0 +1,14 @@
+{
+  "m_Name": "MainLand-01-SailAway",
+  "m_Script": "7ba363098419be20ea85b82919f52c19",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "0"
+  },
+  "id": "MainLand-01-SailAway",
+  "group": "General"
+}

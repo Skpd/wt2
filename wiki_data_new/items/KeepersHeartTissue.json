@@ -1,0 +1,12 @@
+{
+  "m_Name": "KeepersHeartTissue",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "3666f48e45fd774449f0be81372259d0",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "20",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "KeepersHeartTissue",
+  "loc_key": "Item.KeepersHeartTissue",
+  "icon_path": "textures/KeepersHeartTissue.png"
+}

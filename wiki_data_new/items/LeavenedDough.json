@@ -1,0 +1,11 @@
+{
+  "m_Name": "LeavenedDough",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "05b570f86e2db3a45b31987b0caa703c",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "1.1",
+  "id": "LeavenedDough",
+  "loc_key": "Item.LeavenedDough"
+}

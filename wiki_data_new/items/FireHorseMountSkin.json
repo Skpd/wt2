@@ -1,0 +1,11 @@
+{
+  "m_Name": "FireHorseMountSkin",
+  "m_Script": "f5673bd2393c13a27685bda14e28f91a",
+  "image": "fd6999c11e0a14f4da2f9a3ed31f6836",
+  "image_fid": "21300000",
+  "sellPrice": "100",
+  "buyUpPrice": "100",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "FireHorseMountSkin",
+  "loc_key": "Item.FireHorseMountSkin"
+}

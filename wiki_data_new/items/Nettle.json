@@ -1,0 +1,20 @@
+{
+  "m_Name": "Nettle",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "8602c2fa26483fc4f85c4ca328b7b00f",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.05",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Nettle",
+  "loc_key": "Item.Nettle",
+  "icon_path": "textures/nettle.png",
+  "dropped_by": [
+    {
+      "sourceId": "SewersGodsendMaterial",
+      "chance": 0.11666666666666665,
+      "min": 6,
+      "max": 16
+    }
+  ]
+}

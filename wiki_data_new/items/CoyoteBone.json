@@ -1,0 +1,20 @@
+{
+  "m_Name": "CoyoteBone",
+  "m_Script": "420e0e364fdb917921d229f1b4a22ed9",
+  "image": "88dcb6f7ab3217c4b815c617c3632e84",
+  "image_fid": "21300000",
+  "sellPrice": "2500",
+  "buyUpPrice": "250",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "CoyoteBone",
+  "loc_key": "Item.CoyoteBone",
+  "dropped_by": [
+    {
+      "sourceId": "Coyote",
+      "chance": "0.01",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    }
+  ]
+}

@@ -1,0 +1,564 @@
+{
+  "m_Name": "DwarfEngineer",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "400",
+  "stamina": "100",
+  "level": "50",
+  "walkSpeed": "1.6",
+  "runSpeed": "3.5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "5",
+  "mobBehaviour": "d77c4e994d7d039458fd70b1feed15ee",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "2ca13e8908c473a4b94e83b00e9d01cc",
+  "entityPrefab_fid": "1622845403231238",
+  "entityBonuses": {
+    "Defense": "0.3"
+  },
+  "skills": [
+    {
+      "id": "32d97521db53eef42882b9389c563ace",
+      "name": "DwarfEngineerThrow",
+      "minDamage": "40",
+      "maxDamage": "50",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0.3",
+      "ignoreDefense": "0.3",
+      "criticalChance": "0",
+      "criticalValue": "0"
+    },
+    {
+      "id": "3aa8c4bd264cdcc4b8f0b7a97ca72d72",
+      "name": "DwarfEngineerMeleeAttack",
+      "minDamage": "35",
+      "maxDamage": "45",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.1",
+      "criticalValue": "1.5"
+    }
+  ],
+  "id": "DwarfEngineer",
+  "loc_key": "Entity.DwarfEngineer",
+  "drops": [
+    {
+      "itemId": "Money",
+      "chance": 0.1,
+      "min": 20,
+      "max": 120
+    },
+    {
+      "itemId": "Bread",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Apple",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "Pear",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "Bannock",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "\u0421heesePiece",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "Jerky",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "SpiceBlackPepper",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SpiceCinnamon",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SpiceSalt",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SpiceSugar",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Cherries",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Strawberry",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Grape",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Carrot",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Beetroot",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Onion",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Garlic",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Peas",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Salt",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "Sulfur",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Coal",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "itemId": "CopperRawOre",
+      "chance": 0.03333333333333333,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "itemId": "CopperOre",
+      "chance": 0.03333333333333333,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "TinOre",
+      "chance": 0.03333333333333333,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "TinRawOre",
+      "chance": 0.03333333333333333,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "itemId": "IronRawOre",
+      "chance": 0.03333333333333333,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "itemId": "IronOre",
+      "chance": 0.03333333333333333,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "CopperIngot",
+      "chance": 0.03333333333333333,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "itemId": "TinIngot",
+      "chance": 0.03333333333333333,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "itemId": "BronzeIngot",
+      "chance": 0.03333333333333333,
+      "min": 2,
+      "max": 4
+    },
+    {
+      "itemId": "IronBloom",
+      "chance": 0.03333333333333333,
+      "min": 2,
+      "max": 4
+    },
+    {
+      "itemId": "IronIngot",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "itemId": "IronWithCoal",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "Salt",
+      "chance": 0.0375,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "CopperRawOre",
+      "chance": 0.0375,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "itemId": "CopperOre",
+      "chance": 0.0375,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "TinOre",
+      "chance": 0.0375,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "TinRawOre",
+      "chance": 0.0375,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "itemId": "IronRawOre",
+      "chance": 0.0375,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "itemId": "IronOre",
+      "chance": 0.0375,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "IronBloom",
+      "chance": 0.0375,
+      "min": 2,
+      "max": 4
+    },
+    {
+      "itemId": "GemUncutAmethyst",
+      "chance": 0.016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "GemUncutEmerald",
+      "chance": 0.016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "GemUncutRuby",
+      "chance": 0.016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "GemUncutSapphire",
+      "chance": 0.016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "GemUncutTopaz",
+      "chance": 0.016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SteelIngot",
+      "chance": 0.016666666666666666,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "LootKnife",
+      "chance": 0.0004285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "MimicQuestItem",
+      "chance": 0.0004285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "DwarfQuestItem",
+      "chance": 0.0004285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "FishingQuestItem",
+      "chance": 0.0004285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SpiderQuestItem",
+      "chance": 0.0004285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "PetEssenceUnstable",
+      "chance": 0.0004285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "LoveLetterQuestItem",
+      "chance": 0.0004285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Glue",
+      "chance": 0.09090909090909091,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "HewnRock",
+      "chance": 0.09090909090909091,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "WoodBalks",
+      "chance": 0.09090909090909091,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "WoodPlanks",
+      "chance": 0.09090909090909091,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "BronzeNail",
+      "chance": 0.09090909090909091,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "IronNail",
+      "chance": 0.09090909090909091,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "LootBlacksmithNippers",
+      "chance": 0.09090909090909091,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "LootBlacksmithPliers",
+      "chance": 0.09090909090909091,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "HewnMarblestone",
+      "chance": 0.09090909090909091,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "HewnMarblestoneBoulder",
+      "chance": 0.09090909090909091,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "ZuperitIngot",
+      "chance": 0.09090909090909091,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "DwarvenEngineerBox",
+      "chance": 0.4,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "DwarvenWeirdMechanism",
+      "chance": 0.35,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "DwarvenFuel",
+      "chance": 0.06,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "itemId": "DwarvenAncientGear",
+      "chance": 0.06,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "DwarvenWeirdMechanism",
+      "chance": 0.06,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "DwarvenAncientMechanisms",
+      "chance": 0.06,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "DwarvenEngineerBox",
+      "chance": 0.06,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SimpleBomb",
+      "chance": 0.0062499999999999995,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "StunBomb",
+      "chance": 0.0062499999999999995,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "StickyBomb",
+      "chance": 0.0062499999999999995,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "BleedingBomb",
+      "chance": 0.0062499999999999995,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "BurningBomb",
+      "chance": 0.0062499999999999995,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SimpleBomb",
+      "chance": 0.0062499999999999995,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SimpleBomb",
+      "chance": 0.0062499999999999995,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "StunBomb",
+      "chance": 0.0062499999999999995,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "StickyBomb",
+      "chance": 0.0062499999999999995,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "BleedingBomb",
+      "chance": 0.0062499999999999995,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SimpleBomb",
+      "chance": 0.0062499999999999995,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SimpleBomb",
+      "chance": 0.0062499999999999995,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "DwarfEngineerBrain",
+      "chance": 0.01,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

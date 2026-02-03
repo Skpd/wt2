@@ -1,0 +1,21 @@
+{
+  "m_Name": "BakeRawLoafBread",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "7838c354eff1f094b941a9a05a009a9e",
+      "amount": "1",
+      "name": "RawLoafBread",
+      "loc_key": "Item.RawLoafBread"
+    }
+  ],
+  "products": [
+    {
+      "guid": "de5c1d4e37397b44d97ca72dac02d52c",
+      "amount": "1",
+      "name": "LoafBread",
+      "loc_key": "Item.LoafBread"
+    }
+  ],
+  "id": "BakeRawLoafBread"
+}

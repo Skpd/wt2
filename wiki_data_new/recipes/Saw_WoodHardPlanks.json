@@ -1,0 +1,21 @@
+{
+  "m_Name": "Saw_WoodHardPlanks",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "9d69fdca91f9db1469c92c9cbf9a6963",
+      "amount": "4",
+      "name": "WoodHardLogs",
+      "loc_key": "Item.WoodHardLogs"
+    }
+  ],
+  "products": [
+    {
+      "guid": "eb1f2683fb1b2aa46a058121e9ef845c",
+      "amount": "5",
+      "name": "WoodHardPlanks",
+      "loc_key": "Item.WoodHardPlanks"
+    }
+  ],
+  "id": "Saw_WoodHardPlanks"
+}

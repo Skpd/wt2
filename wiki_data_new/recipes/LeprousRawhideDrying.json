@@ -1,0 +1,21 @@
+{
+  "m_Name": "LeprousRawhideDrying",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "ac816532bb9247345a842c61464835af",
+      "amount": "1",
+      "name": "LeprousRawhide",
+      "loc_key": "Item.LeprousRawhide"
+    }
+  ],
+  "products": [
+    {
+      "guid": "ecd5088808a740a45af38301358faed8",
+      "amount": "1",
+      "name": "DriedLeprousHide",
+      "loc_key": "Item.DriedLeprousHide"
+    }
+  ],
+  "id": "LeprousRawhideDrying"
+}

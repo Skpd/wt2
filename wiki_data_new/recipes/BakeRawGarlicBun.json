@@ -1,0 +1,21 @@
+{
+  "m_Name": "BakeRawGarlicBun",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "d883699b6c9de1741ba4b57b9e16ee5e",
+      "amount": "1",
+      "name": "RawGarlicBun",
+      "loc_key": "Item.RawGarlicBun"
+    }
+  ],
+  "products": [
+    {
+      "guid": "49b66ae8ca428df4d8020b3d979d3ab4",
+      "amount": "1",
+      "name": "GarlicBunAfterBake",
+      "loc_key": "Item.GarlicBunAfterBake"
+    }
+  ],
+  "id": "BakeRawGarlicBun"
+}

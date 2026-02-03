@@ -1,0 +1,14 @@
+{
+  "m_Name": "PairingCow",
+  "m_Script": "b1883acace5efde8b0f3bf8cd2885231",
+  "resources": [
+    {
+      "guid": "a0c4dd9497be7974bb36fdb8f1c86ca6",
+      "amount": "10",
+      "name": "Greenery",
+      "loc_key": "Item.Greenery"
+    }
+  ],
+  "products": [],
+  "id": "PairingCow"
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "PumpkinJuice",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "f84dec042d5fbee4c9dcb91e6b66a4d4",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "2",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "PumpkinJuice",
+  "loc_key": "Item.PumpkinJuice"
+}

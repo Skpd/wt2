@@ -1,0 +1,11 @@
+{
+  "m_Name": "HeroCloak",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "df02eea1a650ace4297071b8a99f47c4",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "HeroCloak",
+  "loc_key": "Item.HeroCloak"
+}

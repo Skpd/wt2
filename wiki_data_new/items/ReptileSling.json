@@ -1,0 +1,50 @@
+{
+  "m_Name": "ReptileSling",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "1a61fcd9a77f5354ba10b12884c0d449",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "18081.646",
+  "craftMaterialsBuyUpPricePercent": "0.45",
+  "entityMaxLevel": "0",
+  "minDamage": "32",
+  "maxDamage": "58",
+  "minPlagueDamage": "3",
+  "maxPlagueDamage": "10",
+  "criticalChance": "0.1",
+  "criticalValue": "1.5",
+  "dismountChance": "0",
+  "splash": "0",
+  "isAOE": "0",
+  "projectileAOERange": "0",
+  "prefabAOEName": null,
+  "ignoreAvoidingDamage": "0",
+  "ignoreAbsorb": "0",
+  "ignoreDefense": "0",
+  "abilityName": null,
+  "effectLevelLimit": "0",
+  "effects": [
+    {
+      "effect": {
+        "fileID": "11400000",
+        "guid": "abfc567efe627b64abf8d62a708a4887",
+        "type": "2"
+      },
+      "chance": "0.1",
+      "time": "5"
+    }
+  ],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "0"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  "id": "ReptileSling",
+  "loc_key": "Item.ReptileSling"
+}

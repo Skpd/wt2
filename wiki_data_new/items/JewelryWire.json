@@ -1,0 +1,11 @@
+{
+  "m_Name": "JewelryWire",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "8cf70f1f79b214249ae24e7694cfe21b",
+  "image_fid": "21300000",
+  "sellPrice": "45",
+  "buyUpPrice": "0.605",
+  "craftMaterialsBuyUpPricePercent": "1.1",
+  "id": "JewelryWire",
+  "loc_key": "Item.JewelryWire"
+}

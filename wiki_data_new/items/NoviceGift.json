@@ -1,0 +1,12 @@
+{
+  "m_Name": "NoviceGift",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "295bc3cc12cc01b4d94f988106053918",
+  "image_fid": "21300000",
+  "sellPrice": "0",
+  "buyUpPrice": "0",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "NoviceGift",
+  "loc_key": "Item.NoviceGift",
+  "icon_path": "textures/NoviceGift.png"
+}

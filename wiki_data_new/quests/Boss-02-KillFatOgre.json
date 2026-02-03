@@ -1,0 +1,23 @@
+{
+  "m_Name": "Boss-02-KillFatOgre",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "f25f74f380d9f0041af14bd2e376816f",
+  "predecessors": [
+    "Boss-01-KillCrocodile"
+  ],
+  "npcTaker": "f25f74f380d9f0041af14bd2e376816f",
+  "reward": {
+    "money": "5000",
+    "guildXp": "0",
+    "amount": "1",
+    "rewardItem": "97522e28274706d42bc6bc60c6162edd",
+    "rewardItemName": "CorpseSkinCloak"
+  },
+  "id": "Boss-02-KillFatOgre",
+  "npcGiverName": "PlagueGoPoints",
+  "npcTakerName": "PlagueGoPoints",
+  "group": "General"
+}

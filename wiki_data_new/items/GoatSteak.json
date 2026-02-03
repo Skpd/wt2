@@ -1,0 +1,11 @@
+{
+  "m_Name": "GoatSteak",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "78ac64013cf8f414d9ea7d41ce2d2ae0",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "10",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "GoatSteak",
+  "loc_key": "Item.GoatSteak"
+}

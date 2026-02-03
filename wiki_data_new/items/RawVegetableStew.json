@@ -1,0 +1,11 @@
+{
+  "m_Name": "RawVegetableStew",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "f778f150cd44a3d4ca06d743b15922b9",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "10",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "RawVegetableStew",
+  "loc_key": "Item.RawVegetableStew"
+}

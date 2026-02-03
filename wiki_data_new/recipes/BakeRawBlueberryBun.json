@@ -1,0 +1,21 @@
+{
+  "m_Name": "BakeRawBlueberryBun",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "3364730a4e2a95d4f9a91e9aae8a66be",
+      "amount": "1",
+      "name": "RawBlueberryBun",
+      "loc_key": "Item.RawBlueberryBun"
+    }
+  ],
+  "products": [
+    {
+      "guid": "0fa00812e9ae781419a2c67d1b9ad588",
+      "amount": "1",
+      "name": "BlueberryBunAfterBake",
+      "loc_key": "Item.BlueberryBunAfterBake"
+    }
+  ],
+  "id": "BakeRawBlueberryBun"
+}

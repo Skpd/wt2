@@ -1,0 +1,11 @@
+{
+  "m_Name": "FishFillet",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "b79d0c9167f69d541a4fd7a3033644d0",
+  "image_fid": "21300000",
+  "sellPrice": "10",
+  "buyUpPrice": "4",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "FishFillet",
+  "loc_key": "Item.FishFillet"
+}

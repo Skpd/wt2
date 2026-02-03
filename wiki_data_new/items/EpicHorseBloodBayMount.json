@@ -1,0 +1,11 @@
+{
+  "m_Name": "EpicHorseBloodBayMount",
+  "m_Script": "f5673bd2393c13a27685bda14e28f91a",
+  "image": "c2a041b8ef2a1d14eb9a9589ee055f2c",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "EpicHorseBloodBayMount",
+  "loc_key": "Item.EpicHorseBloodBayMount"
+}

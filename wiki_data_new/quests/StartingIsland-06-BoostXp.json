@@ -1,0 +1,16 @@
+{
+  "m_Name": "StartingIsland-06-BoostXp",
+  "m_Script": "7ba363098419be20ea85b82919f52c19",
+  "line": "1",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "10",
+    "rewardItem": "b5caca2eefab25b419775f93b867cc5e",
+    "rewardItemName": "Stone"
+  },
+  "id": "StartingIsland-06-BoostXp",
+  "group": "General"
+}

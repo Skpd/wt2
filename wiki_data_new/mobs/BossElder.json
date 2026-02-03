@@ -1,0 +1,33 @@
+{
+  "m_Name": "BossElder",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "500",
+  "stamina": "100",
+  "level": "20",
+  "walkSpeed": "1",
+  "runSpeed": "3.5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "0",
+  "mobBehaviour": "1ffb7607b4dfea441a4aafc9f96b3976",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "b00f2a3f5f9daff41a192ffa7b2f233b",
+  "entityPrefab_fid": "1319887252557726",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "88083c7f9d064314db0b9b4e533d1620",
+      "name": "BossElderAttack",
+      "minDamage": "10",
+      "maxDamage": "20",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.1",
+      "criticalValue": "1.25"
+    }
+  ],
+  "id": "BossElder",
+  "loc_key": "Entity.BossElder"
+}

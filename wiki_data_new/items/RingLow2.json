@@ -1,0 +1,79 @@
+{
+  "m_Name": "RingLow2",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "8aa67498b280ee546886301383923fe4",
+  "image_fid": "21300000",
+  "sellPrice": "3",
+  "buyUpPrice": "60",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "RingLow2",
+  "loc_key": "Item.RingLow2",
+  "dropped_by": [
+    {
+      "sourceId": "GodsendObstacle",
+      "chance": 0.07692307692307693,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "GodsendGraveyard",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "GodsendMainland",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "SkeletonUnarmed",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "SkeletonWithStone",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "MausoleumBossChest",
+      "chance": 0.0625,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "GraveyardMausoleumWarriorsChest",
+      "chance": 0.0625,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "MausoleumBossChest",
+      "chance": 0.0625,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "GraveyardMausoleumWarriorsChest",
+      "chance": 0.0625,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "MausoleumBossChest",
+      "chance": 0.0625,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "GraveyardMausoleumWarriorsChest",
+      "chance": 0.0625,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

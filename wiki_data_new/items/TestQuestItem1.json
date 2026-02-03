@@ -1,0 +1,11 @@
+{
+  "m_Name": "TestQuestItem1",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "d3b2faa2400d4f34aaca216603be346f",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "TestQuestItem1",
+  "loc_key": "Item.TestQuestItem1"
+}

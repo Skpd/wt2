@@ -1,0 +1,174 @@
+{
+  "m_Name": "Chitin",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "adf5e28e9fda6904fb88ec139f00f490",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.05",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Chitin",
+  "loc_key": "Item.Chitin",
+  "icon_path": "textures/Chitin.png",
+  "dropped_by": [
+    {
+      "sourceId": "PlagueDragon",
+      "chance": 1,
+      "min": 50,
+      "max": 100
+    },
+    {
+      "sourceId": "DragonSnake",
+      "chance": "1",
+      "min": "30",
+      "max": "50",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Werecrocodile",
+      "chance": "1",
+      "min": "6",
+      "max": "9",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "MineSpider",
+      "chance": "1",
+      "min": "2",
+      "max": "4",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "MineSpiderLarge",
+      "chance": "1",
+      "min": "3",
+      "max": "6",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "LizardSpear",
+      "chance": "1",
+      "min": "6",
+      "max": "9",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "ScorpionBoss",
+      "chance": "1",
+      "min": "16",
+      "max": "28",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Viper",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "SwampInsect",
+      "chance": "1",
+      "min": "2",
+      "max": "4",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Scorpion",
+      "chance": "1",
+      "min": "3",
+      "max": "6",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "SwampInsectLarge",
+      "chance": "1",
+      "min": "2",
+      "max": "4",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "ScorpionLarge",
+      "chance": "1",
+      "min": "3",
+      "max": "6",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "PlagueAcidSpiderPet",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "PlagueInfectedSpiderPet",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "PlagueBloodySpiderPet",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Crocodile",
+      "chance": "1",
+      "min": "4",
+      "max": "10",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "CrocodileDungeon",
+      "chance": "1",
+      "min": "3",
+      "max": "7",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "PlagueAcidSpiderLarge",
+      "chance": "1",
+      "min": "2",
+      "max": "4",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "PlagueBloodySpider",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "PlagueInfectedSpider",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "PlagueBloodySpiderLarge",
+      "chance": "1",
+      "min": "2",
+      "max": "4",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "PlagueAcidSpider",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "PlagueInfectedSpiderLarge",
+      "chance": "1",
+      "min": "2",
+      "max": "4",
+      "type": "Skinning"
+    }
+  ]
+}

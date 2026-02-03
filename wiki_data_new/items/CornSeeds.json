@@ -1,0 +1,55 @@
+{
+  "m_Name": "CornSeeds",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "59686814da11a9a4fad0dd77ede2089d",
+  "image_fid": "21300000",
+  "sellPrice": "1000",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "CornSeeds",
+  "loc_key": "Item.CornSeeds",
+  "dropped_by": [
+    {
+      "sourceId": "Reaper",
+      "chance": 0.1,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "sourceId": "CultistRisenSwordsman",
+      "chance": 0.1,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "CultistCursedSwordsman",
+      "chance": 0.1,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "sourceId": "DemonWeak",
+      "chance": 0.1,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "sourceId": "DemonWeak",
+      "chance": 0.05,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "sourceId": "DemonBrute",
+      "chance": 0.1,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "sourceId": "DemonBrute",
+      "chance": 0.05,
+      "min": 4,
+      "max": 12
+    }
+  ]
+}

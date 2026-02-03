@@ -1,0 +1,11 @@
+{
+  "m_Name": "Sprat",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "fdf891b392370ab468caf540b96305b7",
+  "image_fid": "21300000",
+  "sellPrice": "75",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Sprat",
+  "loc_key": "Item.Sprat"
+}

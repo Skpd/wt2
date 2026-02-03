@@ -1,0 +1,19 @@
+{
+  "m_Name": "GrimWoodLogInfected",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "e417753be6ddcdc4caf88076b05d9978",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.2",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "GrimWoodLogInfected",
+  "loc_key": "Item.GrimWoodLogInfected",
+  "dropped_by": [
+    {
+      "sourceId": "FatOgre",
+      "chance": 0.5,
+      "min": 4,
+      "max": 10
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "RareHorsePalominoPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "26a4dddb54ce9c0448445cb148af89cf",
+  "image_fid": "21300000",
+  "sellPrice": "20000",
+  "buyUpPrice": "200",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "RareHorsePalominoPet",
+  "loc_key": "Item.RareHorsePalominoPet"
+}

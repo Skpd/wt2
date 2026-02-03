@@ -1,0 +1,11 @@
+{
+  "m_Name": "HippogriffMount",
+  "m_Script": "f5673bd2393c13a27685bda14e28f91a",
+  "image": "0513c9c794aa0cd4cb1327ae1ea3ee69",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "HippogriffMount",
+  "loc_key": "Item.HippogriffMount"
+}

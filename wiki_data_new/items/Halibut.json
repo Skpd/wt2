@@ -1,0 +1,11 @@
+{
+  "m_Name": "Halibut",
+  "m_Script": "53d85703288a41ce0e87dcdb381b2599",
+  "image": "a0ba580cba6de764bbfca79936a96ae7",
+  "image_fid": "21300000",
+  "sellPrice": "500",
+  "buyUpPrice": "15",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Halibut",
+  "loc_key": "Item.Halibut"
+}

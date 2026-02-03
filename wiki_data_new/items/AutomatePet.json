@@ -1,0 +1,11 @@
+{
+  "m_Name": "AutomatePet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "2cd84cc9bdcb2354da47ac33105ee4d2",
+  "image_fid": "21300000",
+  "sellPrice": "10",
+  "buyUpPrice": "10",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "AutomatePet",
+  "loc_key": "Item.AutomatePet"
+}

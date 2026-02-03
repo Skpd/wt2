@@ -1,0 +1,14 @@
+{
+  "m_Name": "GrowChickenEgg",
+  "m_Script": "37d6a230f8991a4267be4fd19e466e02",
+  "resources": [
+    {
+      "guid": "cab434caa5579504384cf5c2dcf6bd52",
+      "amount": "1",
+      "name": "Lime",
+      "loc_key": "Item.Lime"
+    }
+  ],
+  "products": [],
+  "id": "GrowChickenEgg"
+}

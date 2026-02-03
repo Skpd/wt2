@@ -1,0 +1,11 @@
+{
+  "m_Name": "WoodHardSticks",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "82b71070efb41874cbc6c6c0df7bf36a",
+  "image_fid": "21300000",
+  "sellPrice": "2",
+  "buyUpPrice": "0.05",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "WoodHardSticks",
+  "loc_key": "Item.WoodHardSticks"
+}

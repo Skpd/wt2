@@ -1,0 +1,32 @@
+{
+  "m_Name": "SturdySilk",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "59c4a9b2c77f41442801665acb0d8f60",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "1.1",
+  "id": "SturdySilk",
+  "loc_key": "Item.SturdySilk",
+  "icon_path": "textures/SturdySilk.png",
+  "dropped_by": [
+    {
+      "sourceId": "CaveFinalChest",
+      "chance": 0.004545454545454546,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "GiantBeetle",
+      "chance": 0.004545454545454546,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfFortFinalChest",
+      "chance": 0.004545454545454546,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

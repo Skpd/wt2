@@ -1,0 +1,44 @@
+{
+  "m_Name": "TestMob",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "10000",
+  "stamina": "100",
+  "level": "10",
+  "walkSpeed": "0",
+  "runSpeed": "0",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "0",
+  "mobBehaviour": "ec547eda3808b95469cd412576a5214c",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "2de3e801061aeaf4f9663b35586cb752",
+  "entityPrefab_fid": "1568056902462448",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "bc3d9da4c5941d94197071c91009a287",
+      "name": "TestMobAttack",
+      "minDamage": "5",
+      "maxDamage": "5",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0",
+      "criticalValue": "0"
+    },
+    {
+      "id": "48026797c27c8f149b7280f7cf6e55a4",
+      "name": "TestMobAbility",
+      "minDamage": "5",
+      "maxDamage": "5",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0",
+      "criticalValue": "0"
+    }
+  ],
+  "id": "TestMob",
+  "loc_key": "Entity.TestMob"
+}

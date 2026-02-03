@@ -1,0 +1,50 @@
+{
+  "m_Name": "StunningSling2",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "c12487e0890bbdc45a64fdcb68241939",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1454.265",
+  "craftMaterialsBuyUpPricePercent": "0.45",
+  "entityMaxLevel": "0",
+  "minDamage": "27",
+  "maxDamage": "43",
+  "minPlagueDamage": "0",
+  "maxPlagueDamage": "0",
+  "criticalChance": "0.1",
+  "criticalValue": "1.75",
+  "dismountChance": "0",
+  "splash": "0",
+  "isAOE": "0",
+  "projectileAOERange": "0",
+  "prefabAOEName": null,
+  "ignoreAvoidingDamage": "0",
+  "ignoreAbsorb": "0",
+  "ignoreDefense": "0",
+  "abilityName": null,
+  "effectLevelLimit": "0",
+  "effects": [
+    {
+      "effect": {
+        "fileID": "11400000",
+        "guid": "8a114ef22846c324cad8b6cd0cf4c9e7",
+        "type": "2"
+      },
+      "chance": "0.09",
+      "time": "2"
+    }
+  ],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "0"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  "id": "StunningSling2",
+  "loc_key": "Item.StunningSling2"
+}

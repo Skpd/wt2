@@ -1,0 +1,11 @@
+{
+  "m_Name": "Ide",
+  "m_Script": "53d85703288a41ce0e87dcdb381b2599",
+  "image": "ed6b3fb8ae835b3448b3d8bf589fb965",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "15",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Ide",
+  "loc_key": "Item.Ide"
+}

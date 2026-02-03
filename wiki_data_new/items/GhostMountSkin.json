@@ -1,0 +1,11 @@
+{
+  "m_Name": "GhostMountSkin",
+  "m_Script": "f5673bd2393c13a27685bda14e28f91a",
+  "image": "39a04a1cd90eb444896005f2ae209f33",
+  "image_fid": "21300000",
+  "sellPrice": "100",
+  "buyUpPrice": "100",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "GhostMountSkin",
+  "loc_key": "Item.GhostMountSkin"
+}

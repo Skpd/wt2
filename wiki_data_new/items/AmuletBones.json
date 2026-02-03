@@ -1,0 +1,11 @@
+{
+  "m_Name": "AmuletBones",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "2c8405c74ffd77d45bce05144aebec05",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "3",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "AmuletBones",
+  "loc_key": "Item.AmuletBones"
+}

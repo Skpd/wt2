@@ -1,0 +1,11 @@
+{
+  "m_Name": "FishCutletsAfterBake",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "96da3b2366bd62a44944325d779e4d2e",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "3",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "FishCutletsAfterBake",
+  "loc_key": "Item.FishCutletsAfterBake"
+}

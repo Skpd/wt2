@@ -1,0 +1,20 @@
+{
+  "m_Name": "Christmas2024CloakBlue",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "c6b1bf160bb74d64eb2c4883e5b0988e",
+  "image_fid": "21300000",
+  "sellPrice": "50000",
+  "buyUpPrice": "5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Christmas2024CloakBlue",
+  "loc_key": "Item.Christmas2024CloakBlue",
+  "icon_path": "textures/Christmas2024CloakBlue.png",
+  "dropped_by": [
+    {
+      "sourceId": "Krampus",
+      "chance": 0.006666666666666667,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

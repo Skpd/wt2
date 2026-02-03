@@ -1,0 +1,21 @@
+{
+  "m_Name": "SteelIngotSmelting",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "a313ddca98d678342a69b4c8e4f6c688",
+      "amount": "3",
+      "name": "IronWithCoal",
+      "loc_key": "Item.IronWithCoal"
+    }
+  ],
+  "products": [
+    {
+      "guid": "f8091ab887ebc844eb423681c7ce8309",
+      "amount": "1",
+      "name": "SteelIngot",
+      "loc_key": "Item.SteelIngot"
+    }
+  ],
+  "id": "SteelIngotSmelting"
+}

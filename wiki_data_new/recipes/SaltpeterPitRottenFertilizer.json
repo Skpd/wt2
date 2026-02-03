@@ -1,0 +1,45 @@
+{
+  "m_Name": "SaltpeterPitRottenFertilizer",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "e0d8e2d344fa0b740ba6175ee1590812",
+      "amount": "8",
+      "name": "SporesSwampMushrooms",
+      "loc_key": "Item.SporesSwampMushrooms"
+    },
+    {
+      "guid": "ed387302f331ee747acf194bf9720c33",
+      "amount": "2",
+      "name": "LeprousBlood",
+      "loc_key": "Item.LeprousBlood"
+    },
+    {
+      "guid": "9cb3408429bee7945b0fe485e0125656",
+      "amount": "5",
+      "name": "Manure",
+      "loc_key": "Item.Manure"
+    },
+    {
+      "guid": "498eedca61de10c45aebdf3fa92c4945",
+      "amount": "3",
+      "name": "InflamedGallbladder",
+      "loc_key": "Item.InflamedGallbladder"
+    },
+    {
+      "guid": "ad8574214168ea546b3009f7049885fd",
+      "amount": "15",
+      "name": "WitheredPlants",
+      "loc_key": "Item.WitheredPlants"
+    }
+  ],
+  "products": [
+    {
+      "guid": "4fe5158731530ca44b4a66c773641cc5",
+      "amount": "2",
+      "name": "RottenFertilizer",
+      "loc_key": "Item.RottenFertilizer"
+    }
+  ],
+  "id": "SaltpeterPitRottenFertilizer"
+}

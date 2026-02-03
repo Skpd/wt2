@@ -1,0 +1,11 @@
+{
+  "m_Name": "CabbagePontCloak",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "cbc864ab5c4a6304da67334143a3aace",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "CabbagePontCloak",
+  "loc_key": "Item.CabbagePontCloak"
+}

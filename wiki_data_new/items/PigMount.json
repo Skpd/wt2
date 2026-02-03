@@ -1,0 +1,11 @@
+{
+  "m_Name": "PigMount",
+  "m_Script": "f5673bd2393c13a27685bda14e28f91a",
+  "image": "44abd442bb7b31948a7922270a0c0993",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "PigMount",
+  "loc_key": "Item.PigMount"
+}

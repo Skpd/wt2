@@ -1,0 +1,20 @@
+{
+  "m_Name": "TetrachnideMountSkin",
+  "m_Script": "f5673bd2393c13a27685bda14e28f91a",
+  "image": "c66865c88eae7d143abee48bf2b5b0eb",
+  "image_fid": "21300000",
+  "sellPrice": "500000",
+  "buyUpPrice": "100",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "TetrachnideMountSkin",
+  "loc_key": "Item.TetrachnideMountSkin",
+  "dropped_by": [
+    {
+      "sourceId": "Cavecrawler",
+      "chance": "0.015",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    }
+  ]
+}

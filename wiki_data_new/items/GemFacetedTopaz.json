@@ -1,0 +1,151 @@
+{
+  "m_Name": "GemFacetedTopaz",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "6e2ddae1e5632e34ca72cffec28d42dc",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "1.5",
+  "id": "GemFacetedTopaz",
+  "loc_key": "Item.GemFacetedTopaz",
+  "dropped_by": [
+    {
+      "sourceId": "SewersFinalChest",
+      "chance": 0.2,
+      "min": 5,
+      "max": 5
+    },
+    {
+      "sourceId": "SewersFinalChest",
+      "chance": 0.2,
+      "min": 3,
+      "max": 3
+    },
+    {
+      "sourceId": "SewersFinalChest",
+      "chance": 0.2,
+      "min": 3,
+      "max": 3
+    },
+    {
+      "sourceId": "AbandonedBattlefieldSpidersWeb",
+      "chance": 0.002727272727272727,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "Reaper",
+      "chance": 0.1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DemonWeak",
+      "chance": 0.2,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "DemonWeak",
+      "chance": 0.1,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "DemonBrute",
+      "chance": 0.2,
+      "min": 2,
+      "max": 3
+    },
+    {
+      "sourceId": "DemonBrute",
+      "chance": 0.1,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "sourceId": "DragonRex",
+      "chance": 0.2,
+      "min": 3,
+      "max": 5
+    },
+    {
+      "sourceId": "PlagueDragon",
+      "chance": 0.2,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "sourceId": "FatOgre",
+      "chance": 0.2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfAmbusher",
+      "chance": 0.01,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfSoldier",
+      "chance": 0.01,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfOfficer",
+      "chance": 0.01,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "Dwarf\u0421ommander",
+      "chance": 0.01,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfCursedChampion",
+      "chance": 0.2,
+      "min": 5,
+      "max": 5
+    },
+    {
+      "sourceId": "DwarfCursedChampion",
+      "chance": 0.2,
+      "min": 3,
+      "max": 3
+    },
+    {
+      "sourceId": "DwarfCursedChampion",
+      "chance": 0.2,
+      "min": 3,
+      "max": 3
+    },
+    {
+      "sourceId": "CaveFinalChest",
+      "chance": 0.1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfFortFinalChest",
+      "chance": 0.2,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "DwarfFortFinalChest",
+      "chance": 0.2,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "DwarfFortFinalChest",
+      "chance": 0.2,
+      "min": 1,
+      "max": 2
+    }
+  ]
+}

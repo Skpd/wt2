@@ -1,0 +1,21 @@
+{
+  "m_Name": "BakeRawShurpa\u0421atfish",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "c2dfb8ef9a1d4354080de2667e1f2782",
+      "amount": "1",
+      "name": "RawShurpa\u0421atfish",
+      "loc_key": "Item.RawShurpa\u0421atfish"
+    }
+  ],
+  "products": [
+    {
+      "guid": "bde72daa12f74d64686773d8dd501b06",
+      "amount": "1",
+      "name": "Shurpa\u0421atfishAfterBake",
+      "loc_key": "Item.Shurpa\u0421atfishAfterBake"
+    }
+  ],
+  "id": "BakeRawShurpa\u0421atfish"
+}

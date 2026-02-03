@@ -1,0 +1,11 @@
+{
+  "m_Name": "SeaSalad",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "a6b3c104a9b348341bb8923f9d2c241f",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "30",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SeaSalad",
+  "loc_key": "Item.SeaSalad"
+}

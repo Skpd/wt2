@@ -1,0 +1,23 @@
+{
+  "m_Name": "MinersCamp-Daily-KillMobsMineKoboldNightmare",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "0",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "d225f39b3523f7543baaf0f570a6acf2",
+  "predecessors": [
+    "MinersCamp-07-KillMobsKobolds"
+  ],
+  "npcTaker": "3e5a69fb62ba83e40826e902fc6fcec0",
+  "reward": {
+    "money": "2000",
+    "guildXp": "0",
+    "amount": "5",
+    "rewardItem": "3bf1c0d488506f94282541ea993a1567",
+    "rewardItemName": "MinerStew"
+  },
+  "id": "MinersCamp-Daily-KillMobsMineKoboldNightmare",
+  "npcGiverName": "MinersCampDailyQuests",
+  "npcTakerName": "MinersCampHarbeck",
+  "group": "Daily"
+}

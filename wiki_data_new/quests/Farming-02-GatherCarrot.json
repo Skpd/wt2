@@ -1,0 +1,24 @@
+{
+  "m_Name": "Farming-02-GatherCarrot",
+  "m_Script": "bbef8bd82ea7ec3f83b28462fb539071",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "e667ecf0f14c71d4baef02be358cd745",
+  "predecessors": [
+    "Farming-01-GatherCropRootCrop"
+  ],
+  "npcTaker": "dbbd65a03bea5164784da9022840adf8",
+  "reward": {
+    "money": "2500",
+    "guildXp": "0",
+    "amount": "1",
+    "rewardItem": "16907fc49d25fbf47bedd9ef53d35296",
+    "bookSkill": "Taming",
+    "rewardItemName": "SkillBookLevel20"
+  },
+  "id": "Farming-02-GatherCarrot",
+  "npcGiverName": "CityFarmerJack",
+  "npcTakerName": "CityBreederErmak",
+  "group": "General"
+}

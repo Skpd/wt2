@@ -1,0 +1,27 @@
+{
+  "m_Name": "WerewolfEye",
+  "m_Script": "420e0e364fdb917921d229f1b4a22ed9",
+  "image": "db8d94b5fff6d2c47836ec10caa84570",
+  "image_fid": "21300000",
+  "sellPrice": "5000",
+  "buyUpPrice": "500",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "WerewolfEye",
+  "loc_key": "Item.WerewolfEye",
+  "dropped_by": [
+    {
+      "sourceId": "Werewolf",
+      "chance": "0.02",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "WerewolfDungeon",
+      "chance": "0.02",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    }
+  ]
+}

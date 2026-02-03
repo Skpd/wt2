@@ -1,0 +1,89 @@
+{
+  "m_Name": "HugeBoar",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "1000",
+  "stamina": "100",
+  "level": "50",
+  "walkSpeed": "2",
+  "runSpeed": "5",
+  "image": "881eda6fc6811d74c9001a720a38d5df",
+  "image_fid": "21300000",
+  "entityClass": "1",
+  "mobBehaviour": "f291c29a11fd66f4285f6ed68ecff503",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "3cdf4e1b50fc64e4da892de3b867b1f5",
+  "entityPrefab_fid": "1027275940475622",
+  "entityBonuses": {
+    "Defense": "0.3",
+    "Dodge": "0.2"
+  },
+  "skills": [
+    {
+      "id": "bbdc92f142ba6694399a03d23711817b",
+      "name": "HugeBoarRage"
+    },
+    {
+      "id": "574fc37031a92544e99790954b6fb17f",
+      "name": "HugeBoarAttack",
+      "minDamage": "40",
+      "maxDamage": "50",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0.3",
+      "ignoreDefense": "0",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    }
+  ],
+  "id": "HugeBoar",
+  "loc_key": "Entity.HugeBoar",
+  "skinning_drops": [
+    {
+      "itemId": "MediumRawHide",
+      "chance": "1",
+      "min": "2",
+      "max": "4"
+    },
+    {
+      "itemId": "RawBoarMeat",
+      "chance": "1",
+      "min": "3",
+      "max": "5"
+    },
+    {
+      "itemId": "RawAnimalFat",
+      "chance": "1",
+      "min": "5",
+      "max": "10"
+    },
+    {
+      "itemId": "Intestines",
+      "chance": "0.5",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "Bone",
+      "chance": "0.5",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "AnimalStomach",
+      "chance": "0.02",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "BoarTusk",
+      "chance": "0.02",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "OrganicsClot",
+      "chance": "1",
+      "min": "3",
+      "max": "6"
+    }
+  ]
+}

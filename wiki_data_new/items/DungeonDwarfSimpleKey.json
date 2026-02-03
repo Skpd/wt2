@@ -1,0 +1,19 @@
+{
+  "m_Name": "DungeonDwarfSimpleKey",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "6a83c2a48f1ec4f42b99ae3e523ff86b",
+  "image_fid": "21300000",
+  "sellPrice": "0",
+  "buyUpPrice": "0",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "DungeonDwarfSimpleKey",
+  "loc_key": "Item.DungeonDwarfSimpleKey",
+  "dropped_by": [
+    {
+      "sourceId": "Dwarf\u0421ommander",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

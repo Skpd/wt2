@@ -1,0 +1,23 @@
+{
+  "m_Name": "Halloween-01-KillJackSkeleton",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "6",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "4a1e3234210c65c4ca409eefa714207e",
+  "predecessors": [
+    "Halloween-00-TalkToJunker"
+  ],
+  "npcTaker": "4a1e3234210c65c4ca409eefa714207e",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "1",
+    "rewardItem": "4dd460be7288d8a439ff802cb0120e8b",
+    "rewardItemName": "HalloweenCandyPurple"
+  },
+  "id": "Halloween-01-KillJackSkeleton",
+  "npcGiverName": "JunkerRagnara",
+  "npcTakerName": "JunkerRagnara",
+  "group": "General"
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "ViperPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "4a31568b66f8e854e9b35dae1d262ef2",
+  "image_fid": "21300000",
+  "sellPrice": "20",
+  "buyUpPrice": "20",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "ViperPet",
+  "loc_key": "Item.ViperPet"
+}

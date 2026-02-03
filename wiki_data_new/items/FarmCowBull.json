@@ -1,0 +1,11 @@
+{
+  "m_Name": "FarmCowBull",
+  "m_Script": "19aae51a76263c851ea99fd1d6839342",
+  "image": "c0af26aaf42c3a14f9dbf37a191c8a47",
+  "image_fid": "21300000",
+  "sellPrice": "27500",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "FarmCowBull",
+  "loc_key": "Item.FarmCowBull"
+}

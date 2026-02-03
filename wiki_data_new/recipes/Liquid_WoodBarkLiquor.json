@@ -1,0 +1,27 @@
+{
+  "m_Name": "Liquid_WoodBarkLiquor",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "17df68048e5d8944eb8f7e1d2e96e81a",
+      "amount": "4",
+      "name": "WoodBark",
+      "loc_key": "Item.WoodBark"
+    },
+    {
+      "guid": "27d507923a0f91a489ebecc6d7e70fd4",
+      "amount": "4",
+      "name": "Water",
+      "loc_key": "Item.Water"
+    }
+  ],
+  "products": [
+    {
+      "guid": "6bb16b153b464774b8a569914ca99aa5",
+      "amount": "5",
+      "name": "WoodBarkLiquor",
+      "loc_key": "Item.WoodBarkLiquor"
+    }
+  ],
+  "id": "Liquid_WoodBarkLiquor"
+}

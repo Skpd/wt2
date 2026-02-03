@@ -1,0 +1,21 @@
+{
+  "m_Name": "CrocodileEgg",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "7e19e90d3f5ef9a4cbfeb6e8812f5511",
+  "image_fid": "21300000",
+  "sellPrice": "0",
+  "buyUpPrice": "500",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "CrocodileEgg",
+  "loc_key": "Item.CrocodileEgg",
+  "icon_path": "textures/CrocodileEgg.png",
+  "dropped_by": [
+    {
+      "sourceId": "Crocodile",
+      "chance": "0.02",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    }
+  ]
+}

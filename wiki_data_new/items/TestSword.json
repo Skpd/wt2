@@ -1,0 +1,42 @@
+{
+  "m_Name": "TestSword",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "d38805f5aac8423439fe186be2880f47",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "entityMaxLevel": "0",
+  "minDamage": "18",
+  "maxDamage": "22",
+  "minPlagueDamage": "0",
+  "maxPlagueDamage": "0",
+  "criticalChance": "0.2",
+  "criticalValue": "1.5",
+  "dismountChance": "0",
+  "splash": "1",
+  "isAOE": "0",
+  "projectileAOERange": "0",
+  "prefabAOEName": null,
+  "ignoreAvoidingDamage": "0",
+  "ignoreAbsorb": "0",
+  "ignoreDefense": "0",
+  "abilityName": null,
+  "effectLevelLimit": "0",
+  "effects": [],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "114814471423721918",
+      "guid": "1f65fa20c12ea7647beeb674775fc28a",
+      "type": "2"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "5"
+    }
+  },
+  "id": "TestSword",
+  "loc_key": "Item.TestSword"
+}

@@ -1,0 +1,12 @@
+{
+  "m_Name": "BirchTar",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "a5b37fe387657df46ab6fedbf8964672",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.3",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BirchTar",
+  "loc_key": "Item.BirchTar",
+  "icon_path": "textures/BirchTar.png"
+}

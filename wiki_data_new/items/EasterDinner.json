@@ -1,0 +1,19 @@
+{
+  "m_Name": "EasterDinner",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "0d3556c25342a3c489c445002d887114",
+  "image_fid": "21300000",
+  "sellPrice": "50",
+  "buyUpPrice": "50",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "EasterDinner",
+  "loc_key": "Item.EasterDinner",
+  "dropped_by": [
+    {
+      "sourceId": "EasterObjectBasket",
+      "chance": 0.02,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

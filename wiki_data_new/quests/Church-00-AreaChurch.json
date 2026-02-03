@@ -1,0 +1,14 @@
+{
+  "m_Name": "Church-00-AreaChurch",
+  "m_Script": "7ea1a62e0b02710abdd0d1eea19cc51d",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "50",
+    "guildXp": "0",
+    "amount": "0"
+  },
+  "id": "Church-00-AreaChurch",
+  "group": "General"
+}

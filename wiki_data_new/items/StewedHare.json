@@ -1,0 +1,11 @@
+{
+  "m_Name": "StewedHare",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "d52ec7b2efe4cb24c900773055728670",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "25",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "StewedHare",
+  "loc_key": "Item.StewedHare"
+}

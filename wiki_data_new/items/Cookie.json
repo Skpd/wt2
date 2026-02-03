@@ -1,0 +1,19 @@
+{
+  "m_Name": "Cookie",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "b80336df72db6cb4a83b51ea8a9cb4c3",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Cookie",
+  "loc_key": "Item.Cookie",
+  "dropped_by": [
+    {
+      "sourceId": "AbandonedBattlefieldSpidersWeb",
+      "chance": 0.001,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

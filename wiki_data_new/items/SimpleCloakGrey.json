@@ -1,0 +1,12 @@
+{
+  "m_Name": "SimpleCloakGrey",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "331c8a6c6069bae44a8a21928a31b467",
+  "image_fid": "21300000",
+  "sellPrice": "7500",
+  "buyUpPrice": "5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SimpleCloakGrey",
+  "loc_key": "Item.SimpleCloakGrey",
+  "icon_path": "textures/SimpleCloakGrey.png"
+}

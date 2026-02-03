@@ -1,0 +1,16 @@
+{
+  "m_Name": "Leather-06-GatherMediumRawHide",
+  "m_Script": "bbef8bd82ea7ec3f83b28462fb539071",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "5",
+    "rewardItem": "c6a2122d0f51b3e49a1a800e7068a352",
+    "rewardItemName": "MediumRawHide"
+  },
+  "id": "Leather-06-GatherMediumRawHide",
+  "group": "General"
+}

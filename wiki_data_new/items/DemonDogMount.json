@@ -1,0 +1,11 @@
+{
+  "m_Name": "DemonDogMount",
+  "m_Script": "f5673bd2393c13a27685bda14e28f91a",
+  "image": "c0a2e9f7ed010bb428faacae84e0e347",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "DemonDogMount",
+  "loc_key": "Item.DemonDogMount"
+}

@@ -1,0 +1,23 @@
+{
+  "m_Name": "Easter-07-EatEasterWine",
+  "m_Script": "89aba7364ee1a5f43756e7fab3dfb3b6",
+  "line": "8",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "23b5f2c62fb06a147afb6b6229f6313d",
+  "predecessors": [
+    "Easter-06-EatEasterDinner"
+  ],
+  "npcTaker": "23b5f2c62fb06a147afb6b6229f6313d",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "2",
+    "rewardItem": "23db3cc1db1d72943987821b7525ade7",
+    "rewardItemName": "EasterEggBoost"
+  },
+  "id": "Easter-07-EatEasterWine",
+  "npcGiverName": "EasterMrBunny",
+  "npcTakerName": "EasterMrBunny",
+  "group": "General"
+}

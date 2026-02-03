@@ -1,0 +1,11 @@
+{
+  "m_Name": "WitchcraftCauldron",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "855a75dfc272f71448e9da7391ac6011",
+  "image_fid": "21300000",
+  "sellPrice": "10000",
+  "buyUpPrice": "3333",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "WitchcraftCauldron",
+  "loc_key": "Item.WitchcraftCauldron"
+}

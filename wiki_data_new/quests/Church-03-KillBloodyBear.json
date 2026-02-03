@@ -1,0 +1,14 @@
+{
+  "m_Name": "Church-03-KillBloodyBear",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "500",
+    "guildXp": "0",
+    "amount": "0"
+  },
+  "id": "Church-03-KillBloodyBear",
+  "group": "General"
+}

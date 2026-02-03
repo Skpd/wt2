@@ -1,0 +1,11 @@
+{
+  "m_Name": "HardenedLeatherStripOiled",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "b387b004b9be96f46bb585cfc91de655",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "2",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "HardenedLeatherStripOiled",
+  "loc_key": "Item.HardenedLeatherStripOiled"
+}

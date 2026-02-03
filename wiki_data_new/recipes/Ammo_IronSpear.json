@@ -1,0 +1,33 @@
+{
+  "m_Name": "Ammo_IronSpear",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "3e8991e0b4b092b4595244d4ffc2be0d",
+      "amount": "7",
+      "name": "IronLines",
+      "loc_key": "Item.IronLines"
+    },
+    {
+      "guid": "cc8406623e5f2ae4aba918d1c28129d3",
+      "amount": "35",
+      "name": "WoodHardStaves",
+      "loc_key": "Item.WoodHardStaves"
+    },
+    {
+      "guid": "2037eec4eb1c70441be0c5726db38b89",
+      "amount": "3",
+      "name": "MediumLeatherStrip",
+      "loc_key": "Item.MediumLeatherStrip"
+    }
+  ],
+  "products": [
+    {
+      "guid": "e1d7806b99e3f5d4bac051c3ee3acf2f",
+      "amount": "100",
+      "name": "IronSpear",
+      "loc_key": "Item.IronSpear"
+    }
+  ],
+  "id": "Ammo_IronSpear"
+}

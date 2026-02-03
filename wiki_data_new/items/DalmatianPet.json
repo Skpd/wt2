@@ -1,0 +1,11 @@
+{
+  "m_Name": "DalmatianPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "a0f9a5b88eb7d704dada7fd3dd290929",
+  "image_fid": "21300000",
+  "sellPrice": "10",
+  "buyUpPrice": "10",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "DalmatianPet",
+  "loc_key": "Item.DalmatianPet"
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "DwarvenAncientStoneTablet",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "00906ac5888cdee429f89232eea0f11d",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "100",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "DwarvenAncientStoneTablet",
+  "loc_key": "Item.DwarvenAncientStoneTablet"
+}

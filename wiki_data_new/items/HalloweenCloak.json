@@ -1,0 +1,12 @@
+{
+  "m_Name": "HalloweenCloak",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "98bfaf6c8c97a8e4a852c28a4cb80e1b",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "HalloweenCloak",
+  "loc_key": "Item.HalloweenCloak",
+  "icon_path": "textures/halloween-cloak.png"
+}

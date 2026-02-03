@@ -1,0 +1,19 @@
+{
+  "m_Name": "Chelidonium",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "2994dd94585c6c747a439a04c61b8a2e",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.2",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Chelidonium",
+  "loc_key": "Item.Chelidonium",
+  "dropped_by": [
+    {
+      "sourceId": "FatOgre",
+      "chance": 0.3333333333333333,
+      "min": 5,
+      "max": 15
+    }
+  ]
+}

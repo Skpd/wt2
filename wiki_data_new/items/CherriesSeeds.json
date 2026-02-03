@@ -1,0 +1,25 @@
+{
+  "m_Name": "CherriesSeeds",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "f3a79aeefe636ba489563e3e4e660fc2",
+  "image_fid": "21300000",
+  "sellPrice": "150",
+  "buyUpPrice": "0.05",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "CherriesSeeds",
+  "loc_key": "Item.CherriesSeeds",
+  "dropped_by": [
+    {
+      "sourceId": "MausoleumBossChest",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "GraveyardMausoleumWarriorsChest",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

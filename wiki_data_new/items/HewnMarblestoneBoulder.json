@@ -1,0 +1,19 @@
+{
+  "m_Name": "HewnMarblestoneBoulder",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "364f9311eb078a64192e44f7f4a51458",
+  "image_fid": "21300000",
+  "sellPrice": "850",
+  "buyUpPrice": "0.45",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "HewnMarblestoneBoulder",
+  "loc_key": "Item.HewnMarblestoneBoulder",
+  "dropped_by": [
+    {
+      "sourceId": "DwarfEngineer",
+      "chance": 0.09090909090909091,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

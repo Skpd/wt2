@@ -1,0 +1,23 @@
+{
+  "m_Name": "MinersCamp-Daily-ItemObtainSulfurOre",
+  "m_Script": "a33fbc2ed7ad8fe58f2dcfb6e1a39cab",
+  "line": "0",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "d225f39b3523f7543baaf0f570a6acf2",
+  "predecessors": [
+    "MinersCamp-07-KillMobsKobolds"
+  ],
+  "npcTaker": "cc538b1fb3a4b9544aedd1b82b22aa43",
+  "reward": {
+    "money": "2500",
+    "guildXp": "0",
+    "amount": "2",
+    "rewardItem": "3bf1c0d488506f94282541ea993a1567",
+    "rewardItemName": "MinerStew"
+  },
+  "id": "MinersCamp-Daily-ItemObtainSulfurOre",
+  "npcGiverName": "MinersCampDailyQuests",
+  "npcTakerName": "MinersCampRonold",
+  "group": "Daily"
+}

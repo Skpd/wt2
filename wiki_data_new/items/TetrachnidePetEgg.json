@@ -1,0 +1,11 @@
+{
+  "m_Name": "TetrachnidePetEgg",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "c7d20a66b46fad74a84cf44c0897b587",
+  "image_fid": "21300000",
+  "sellPrice": "50000",
+  "buyUpPrice": "100",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "TetrachnidePetEgg",
+  "loc_key": "Item.TetrachnidePetEgg"
+}

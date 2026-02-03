@@ -1,0 +1,20 @@
+{
+  "m_Name": "UndertakerWing",
+  "m_Script": "420e0e364fdb917921d229f1b4a22ed9",
+  "image": "a9919045b44e6144ebcd02dee3f5ae0c",
+  "image_fid": "21300000",
+  "sellPrice": "2500",
+  "buyUpPrice": "250",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "UndertakerWing",
+  "loc_key": "Item.UndertakerWing",
+  "dropped_by": [
+    {
+      "sourceId": "Undertaker",
+      "chance": "0.01",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    }
+  ]
+}

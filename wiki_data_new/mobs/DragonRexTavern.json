@@ -1,0 +1,74 @@
+{
+  "m_Name": "DragonRexTavern",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "3000",
+  "stamina": "100",
+  "level": "60",
+  "walkSpeed": "3",
+  "runSpeed": "5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "9",
+  "mobBehaviour": "3668b3c284924484ab9a378c6b456488",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "3692afba934c98c48a27d78a2ce62049",
+  "entityPrefab_fid": "1913889388988582",
+  "entityBonuses": {
+    "Dodge": "0.1",
+    "Defense": "0.5",
+    "PlagueDefense": "0.5",
+    "Absorption": "10",
+    "IgnoreNextSlowdown": "1",
+    "IgnoreNextStun": "1"
+  },
+  "skills": [
+    {
+      "id": "53aa6cdcd3aac504a8b45c679b98ce18",
+      "name": "DragonRexRage"
+    },
+    {
+      "id": "21c801bf3dffd3b499f663ec9667d56d",
+      "name": "DragonRexTavernFireBall",
+      "minDamage": "20",
+      "maxDamage": "30",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.3",
+      "ignoreDefense": "0.2",
+      "criticalChance": "0.1",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "15298abfb55cfaa4fa781369319ddd8c",
+      "name": "DragonRexTavernChillingBall",
+      "minDamage": "10",
+      "maxDamage": "15",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "1",
+      "ignoreDefense": "0.4",
+      "criticalChance": "0.1",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "6b3629ffc19328a498180a5673999170",
+      "name": "DragonRexBreath",
+      "minDamage": "20",
+      "maxDamage": "30",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "1",
+      "ignoreDefense": "1",
+      "criticalChance": "1",
+      "criticalValue": "1"
+    },
+    {
+      "id": "6c6c84faa8c585643b9d9a589ddd77fe",
+      "name": "DragonRexTavernSpikes"
+    },
+    {
+      "id": "8b206ab05790a0f4fb4287af9b793056",
+      "name": "DragonRexRecovery"
+    }
+  ],
+  "id": "DragonRexTavern",
+  "loc_key": "Entity.DragonRexTavern"
+}

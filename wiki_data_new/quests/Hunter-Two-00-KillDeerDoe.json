@@ -1,0 +1,16 @@
+{
+  "m_Name": "Hunter-Two-00-KillDeerDoe",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "5",
+    "rewardItem": "c6a2122d0f51b3e49a1a800e7068a352",
+    "rewardItemName": "MediumRawHide"
+  },
+  "id": "Hunter-Two-00-KillDeerDoe",
+  "group": "General"
+}

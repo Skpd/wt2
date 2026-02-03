@@ -1,0 +1,50 @@
+{
+  "m_Name": "FlySkull",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "300",
+  "stamina": "100",
+  "level": "50",
+  "walkSpeed": "1.6",
+  "runSpeed": "4.5",
+  "image": "acc3ca0cd78f40d42b73e94019056111",
+  "image_fid": "21300000",
+  "entityClass": "4",
+  "mobBehaviour": "13ac5cb899340154688b8eb8878fbc29",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "22fc5a000ddaa104fb8289df7b2e24c9",
+  "entityPrefab_fid": "1826282307200452",
+  "entityBonuses": {
+    "IgnoreBloodDots": "1",
+    "Defense": "0.5",
+    "PlagueDefense": "0.5"
+  },
+  "skills": [
+    {
+      "id": "6f76f26ccf6ee78488ac7160ee22959c",
+      "name": "FlySkullAttack",
+      "minDamage": "15",
+      "maxDamage": "25",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "1",
+      "ignoreDefense": "1",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    }
+  ],
+  "id": "FlySkull",
+  "loc_key": "Entity.FlySkull",
+  "skinning_drops": [
+    {
+      "itemId": "BoneFlour",
+      "chance": "1",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "SkeletonSkull",
+      "chance": "0.1",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

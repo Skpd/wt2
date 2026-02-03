@@ -1,0 +1,20 @@
+{
+  "m_Name": "DarkChampionCloak",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "ef41a9b9b6e60e9419050c74ac550c6b",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "DarkChampionCloak",
+  "loc_key": "Item.DarkChampionCloak",
+  "icon_path": "textures/DarkChampionCloak.png",
+  "dropped_by": [
+    {
+      "sourceId": "DwarfCursedChampion",
+      "chance": 0.1,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

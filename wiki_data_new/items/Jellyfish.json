@@ -1,0 +1,11 @@
+{
+  "m_Name": "Jellyfish",
+  "m_Script": "53d85703288a41ce0e87dcdb381b2599",
+  "image": "9fc9363acdfbadb46ae6fd10aef417a9",
+  "image_fid": "21300000",
+  "sellPrice": "50",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Jellyfish",
+  "loc_key": "Item.Jellyfish"
+}

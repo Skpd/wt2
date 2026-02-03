@@ -1,0 +1,31 @@
+{
+  "m_Name": "PumpkinEssence",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "41502987b834c7d44884e5dd71f3bd5c",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "PumpkinEssence",
+  "loc_key": "Item.PumpkinEssence",
+  "dropped_by": [
+    {
+      "sourceId": "HalloweenGodsend",
+      "chance": 0.014285714285714287,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HalloweenGrave",
+      "chance": 0.0125,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "Witch",
+      "chance": 0.09999999999999999,
+      "min": 1,
+      "max": 2
+    }
+  ]
+}

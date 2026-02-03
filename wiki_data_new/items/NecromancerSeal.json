@@ -1,0 +1,19 @@
+{
+  "m_Name": "NecromancerSeal",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "e920ca03721de364cb2862e7e661554d",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "500",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "NecromancerSeal",
+  "loc_key": "Item.NecromancerSeal",
+  "dropped_by": [
+    {
+      "sourceId": "CultistCursedSwordsman",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "BasicVesselBuildingKit",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "ef1d98a9b1d7733439fc55ca59c0eddc",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "67",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BasicVesselBuildingKit",
+  "loc_key": "Item.BasicVesselBuildingKit"
+}

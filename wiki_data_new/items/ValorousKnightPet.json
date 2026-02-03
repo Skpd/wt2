@@ -1,0 +1,11 @@
+{
+  "m_Name": "ValorousKnightPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "58ea1062506c6c04ba3523e2a51f575c",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "ValorousKnightPet",
+  "loc_key": "Item.ValorousKnightPet"
+}

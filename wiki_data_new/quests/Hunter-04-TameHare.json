@@ -1,0 +1,16 @@
+{
+  "m_Name": "Hunter-04-TameHare",
+  "m_Script": "2857c63319ba96a76c73b90ba974350f",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "1",
+  "reward": {
+    "money": "150",
+    "guildXp": "0",
+    "amount": "5",
+    "rewardItem": "5ff4aca00ef84a746a05bf45aef2b430",
+    "rewardItemName": "SnareRawHide"
+  },
+  "id": "Hunter-04-TameHare",
+  "group": "General"
+}

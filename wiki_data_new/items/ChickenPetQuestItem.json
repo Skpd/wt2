@@ -1,0 +1,49 @@
+{
+  "m_Name": "ChickenPetQuestItem",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "424b888325fe2ed4bbf7a464c358f0fc",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "10",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "ChickenPetQuestItem",
+  "loc_key": "Item.ChickenPetQuestItem",
+  "dropped_by": [
+    {
+      "sourceId": "GodsendGraveyard",
+      "chance": 0.005,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "GodsendMainland",
+      "chance": 0.005,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "GodsendMainlandSouth",
+      "chance": 0.0075,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "SkeletonWarrior",
+      "chance": 0.0025,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "SkeletonRanger",
+      "chance": 0.0025,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HideoutGodsensBody",
+      "chance": 0.0025,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "m_Name": "SpiderPet",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "80",
+  "stamina": "100",
+  "level": "1",
+  "walkSpeed": "1.6",
+  "runSpeed": "3.5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "2",
+  "mobBehaviour": {
+    "fileID": "0"
+  },
+  "entityPrefab": "9bf49a9a0254d12419e2aa7f7556caf1",
+  "entityPrefab_fid": "1515375057595964",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "fc75cd4492a958149bdd4248b579dc58",
+      "name": "SpiderPetAttack",
+      "minDamage": "8",
+      "maxDamage": "14",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    }
+  ],
+  "id": "SpiderPet",
+  "loc_key": "Entity.SpiderPet",
+  "skinning_drops": [
+    {
+      "itemId": "SmallRawHide",
+      "chance": "1",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "RawCarnivoreMeat",
+      "chance": "1",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "OrganicsClot",
+      "chance": "1",
+      "min": "1",
+      "max": "2"
+    }
+  ]
+}

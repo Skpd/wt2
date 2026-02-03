@@ -1,0 +1,116 @@
+{
+  "m_Name": "RawGoatMeat",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "7d07a21cc7834114bb650f32980d6fff",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.03",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "RawGoatMeat",
+  "loc_key": "Item.RawGoatMeat",
+  "dropped_by": [
+    {
+      "sourceId": "GodsendGraveyard",
+      "chance": 0.03571428571428571,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "sourceId": "GodsendMainland",
+      "chance": 0.03571428571428571,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "sourceId": "UsualHorsePintobayPet",
+      "chance": "1",
+      "min": "2",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "RareHorseChestnutPet",
+      "chance": "1",
+      "min": "2",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "UsualHorseBayPet",
+      "chance": "1",
+      "min": "2",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "RareHorsePalominoPet",
+      "chance": "1",
+      "min": "2",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "RareHorsePalominoPintoPet",
+      "chance": "1",
+      "min": "2",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "EpicHorseGrayPet",
+      "chance": "1",
+      "min": "2",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "GoatPet",
+      "chance": "1",
+      "min": "2",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "EpicHorseBlackPintoPet",
+      "chance": "1",
+      "min": "2",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "EpicHorseChestnutPintoPet",
+      "chance": "1",
+      "min": "2",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "EpicHorseWhitePet",
+      "chance": "1",
+      "min": "2",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Goat",
+      "chance": "1",
+      "min": "2",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "HorsePintobay",
+      "chance": "1",
+      "min": "2",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "RareHorsePalomino",
+      "chance": "1",
+      "min": "2",
+      "max": "3",
+      "type": "Skinning"
+    }
+  ]
+}

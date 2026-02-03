@@ -1,0 +1,11 @@
+{
+  "m_Name": "EpicHorseWhitePet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "178dc2596e1116640b658e4279b81a89",
+  "image_fid": "21300000",
+  "sellPrice": "50000",
+  "buyUpPrice": "300",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "EpicHorseWhitePet",
+  "loc_key": "Item.EpicHorseWhitePet"
+}

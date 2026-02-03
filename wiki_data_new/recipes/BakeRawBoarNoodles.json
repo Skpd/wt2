@@ -1,0 +1,21 @@
+{
+  "m_Name": "BakeRawBoarNoodles",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "bd2afb57e3009984591c3fe4ff7d6c04",
+      "amount": "1",
+      "name": "RawBoarNoodles",
+      "loc_key": "Item.RawBoarNoodles"
+    }
+  ],
+  "products": [
+    {
+      "guid": "5a35ec648b0e7fe4aaaeff0cd01a3763",
+      "amount": "1",
+      "name": "BoarNoodles",
+      "loc_key": "Item.BoarNoodles"
+    }
+  ],
+  "id": "BakeRawBoarNoodles"
+}

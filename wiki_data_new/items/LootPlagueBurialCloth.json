@@ -1,0 +1,25 @@
+{
+  "m_Name": "LootPlagueBurialCloth",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "c32a29fd8d316f9488a256e055332091",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "40",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "LootPlagueBurialCloth",
+  "loc_key": "Item.LootPlagueBurialCloth",
+  "dropped_by": [
+    {
+      "sourceId": "PlagueCityBrokenFurniture",
+      "chance": 0.25,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "PlagueCityCorpses",
+      "chance": 0.2,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

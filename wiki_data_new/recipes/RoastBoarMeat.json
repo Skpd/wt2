@@ -1,0 +1,21 @@
+{
+  "m_Name": "RoastBoarMeat",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "9a916e17a1ef03549bceafb00359c5c8",
+      "amount": "1",
+      "name": "RawBoarMeat",
+      "loc_key": "Item.RawBoarMeat"
+    }
+  ],
+  "products": [
+    {
+      "guid": "ebde30f47241383468d26ad1aa1e1eba",
+      "amount": "1",
+      "name": "RoastedMeat",
+      "loc_key": "Item.RoastedMeat"
+    }
+  ],
+  "id": "RoastBoarMeat"
+}

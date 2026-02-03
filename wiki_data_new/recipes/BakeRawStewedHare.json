@@ -1,0 +1,21 @@
+{
+  "m_Name": "BakeRawStewedHare",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "70da2d7068ea83745bf2381ffc33c649",
+      "amount": "1",
+      "name": "RawStewedHare",
+      "loc_key": "Item.RawStewedHare"
+    }
+  ],
+  "products": [
+    {
+      "guid": "bfdcbefadeb8c9341b39203c59221690",
+      "amount": "1",
+      "name": "StewedHare",
+      "loc_key": "Item.StewedHare"
+    }
+  ],
+  "id": "BakeRawStewedHare"
+}

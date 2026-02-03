@@ -1,0 +1,21 @@
+{
+  "m_Name": "BakeRawSugar\u0421roissant",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "bfd1a598c9753a84186148aa678d7687",
+      "amount": "1",
+      "name": "RawSugar\u0421roissant",
+      "loc_key": "Item.RawSugar\u0421roissant"
+    }
+  ],
+  "products": [
+    {
+      "guid": "2ac76d190e213aa479b46c97f33b9f18",
+      "amount": "1",
+      "name": "Sugar\u0421roissantAfterBake",
+      "loc_key": "Item.Sugar\u0421roissantAfterBake"
+    }
+  ],
+  "id": "BakeRawSugar\u0421roissant"
+}

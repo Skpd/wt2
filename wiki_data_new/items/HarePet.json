@@ -1,0 +1,11 @@
+{
+  "m_Name": "HarePet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "ddca3380adf36c645aa34b04c80154cb",
+  "image_fid": "21300000",
+  "sellPrice": "10",
+  "buyUpPrice": "10",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "HarePet",
+  "loc_key": "Item.HarePet"
+}

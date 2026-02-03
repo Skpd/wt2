@@ -1,0 +1,11 @@
+{
+  "m_Name": "RawMushroomChanterelles",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "0b391374a322e5946ac89d0a92c03ad7",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.05",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "RawMushroomChanterelles",
+  "loc_key": "Item.RawMushroomChanterelles"
+}

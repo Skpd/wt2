@@ -1,0 +1,26 @@
+{
+  "m_Name": "ShardOfHorror",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "b3be7690b1d074d49a8d1ae179016e0b",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "20",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "ShardOfHorror",
+  "loc_key": "Item.ShardOfHorror",
+  "icon_path": "textures/ShardOfHorror.png",
+  "dropped_by": [
+    {
+      "sourceId": "HarpyLarge",
+      "chance": 0.0006666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "CaveFinalChest",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

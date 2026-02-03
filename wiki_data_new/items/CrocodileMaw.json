@@ -1,0 +1,11 @@
+{
+  "m_Name": "CrocodileMaw",
+  "m_Script": "420e0e364fdb917921d229f1b4a22ed9",
+  "image": "1476c47e82f78bf42a297fdecc630796",
+  "image_fid": "21300000",
+  "sellPrice": "2500",
+  "buyUpPrice": "250",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "CrocodileMaw",
+  "loc_key": "Item.CrocodileMaw"
+}

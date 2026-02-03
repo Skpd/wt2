@@ -1,0 +1,667 @@
+{
+  "m_Name": "DemonWeak",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "5000",
+  "stamina": "100",
+  "level": "70",
+  "walkSpeed": "1.3",
+  "runSpeed": "4.2",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "10",
+  "mobBehaviour": "e01590057bf45ff42b2d2f7ebec424cd",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "350ee1e404045af459297d9c1448ebc5",
+  "entityPrefab_fid": "1320775653248061",
+  "entityBonuses": {
+    "Absorption": "10",
+    "Defense": "0.7",
+    "PlagueDefense": "0.7",
+    "IgnoreNextStun": "1",
+    "IgnoreNextSlowdown": "1"
+  },
+  "skills": [
+    {
+      "id": "5fbb79b2257ff9d4f91806af08531c71",
+      "name": "DemonWeakAttack",
+      "minDamage": "50",
+      "maxDamage": "80",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.3",
+      "ignoreDefense": "0.3",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "c99d021717bdd8142b18d2abcfbfde84",
+      "name": "DemonWeakStunAttack",
+      "minDamage": "50",
+      "maxDamage": "70",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.4",
+      "ignoreDefense": "0.4",
+      "criticalChance": "0.1",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "554eea2331c735846b669f2fd09fdf97",
+      "name": "DemonWeakAttack2",
+      "minDamage": "50",
+      "maxDamage": "80",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.3",
+      "ignoreDefense": "0.3",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "0de2609351c061d4b9408e2cda560187",
+      "name": "DemonWeakSpinAttack",
+      "minDamage": "60",
+      "maxDamage": "80",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.3",
+      "ignoreDefense": "0.3",
+      "criticalChance": "0.15",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "af4982aa607e4de41974b17f1b6e31cc",
+      "name": "DemonWeakRoar",
+      "minDamage": "5",
+      "maxDamage": "5",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "1",
+      "ignoreDefense": "1",
+      "criticalChance": "0",
+      "criticalValue": "1"
+    }
+  ],
+  "id": "DemonWeak",
+  "loc_key": "Entity.DemonWeak",
+  "drops": [
+    {
+      "itemId": "Money",
+      "chance": 1,
+      "min": 8000,
+      "max": 12000
+    },
+    {
+      "itemId": "DemonHeart",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SteelIngot",
+      "chance": 0.2,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "itemId": "ZuperitIngot",
+      "chance": 0.2,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "itemId": "ZuperiumIngot",
+      "chance": 0.2,
+      "min": 6,
+      "max": 12
+    },
+    {
+      "itemId": "SangitIngot",
+      "chance": 0.2,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "itemId": "SilverIngot",
+      "chance": 0.2,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "itemId": "IronSpear",
+      "chance": 0.25,
+      "min": 25,
+      "max": 50
+    },
+    {
+      "itemId": "SteelSpear",
+      "chance": 0.25,
+      "min": 20,
+      "max": 40
+    },
+    {
+      "itemId": "IronSlingAmmo",
+      "chance": 0.25,
+      "min": 50,
+      "max": 100
+    },
+    {
+      "itemId": "SpikedSlingAmmo",
+      "chance": 0.25,
+      "min": 30,
+      "max": 100
+    },
+    {
+      "itemId": "IronSpear",
+      "chance": 0.25,
+      "min": 25,
+      "max": 50
+    },
+    {
+      "itemId": "SteelSpear",
+      "chance": 0.25,
+      "min": 20,
+      "max": 40
+    },
+    {
+      "itemId": "IronSlingAmmo",
+      "chance": 0.25,
+      "min": 50,
+      "max": 100
+    },
+    {
+      "itemId": "SpikedSlingAmmo",
+      "chance": 0.25,
+      "min": 30,
+      "max": 100
+    },
+    {
+      "itemId": "GemFacetedAmethyst",
+      "chance": 0.2,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "GemFacetedEmerald",
+      "chance": 0.2,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "GemFacetedRuby",
+      "chance": 0.2,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "GemFacetedSapphire",
+      "chance": 0.2,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "GemFacetedTopaz",
+      "chance": 0.2,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "GemFacetedAmethyst",
+      "chance": 0.1,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "GemFacetedEmerald",
+      "chance": 0.1,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "GemFacetedRuby",
+      "chance": 0.1,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "GemFacetedSapphire",
+      "chance": 0.1,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "GemFacetedTopaz",
+      "chance": 0.1,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "SpiceBlackPepper",
+      "chance": 0.1,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "itemId": "SpiceCinnamon",
+      "chance": 0.1,
+      "min": 10,
+      "max": 25
+    },
+    {
+      "itemId": "SpiceSugar",
+      "chance": 0.1,
+      "min": 10,
+      "max": 25
+    },
+    {
+      "itemId": "SpiceSalt",
+      "chance": 0.1,
+      "min": 10,
+      "max": 25
+    },
+    {
+      "itemId": "Greenery",
+      "chance": 0.1,
+      "min": 10,
+      "max": 25
+    },
+    {
+      "itemId": "BeerWort",
+      "chance": 0.1,
+      "min": 5,
+      "max": 20
+    },
+    {
+      "itemId": "BeerBoiledWort",
+      "chance": 0.1,
+      "min": 5,
+      "max": 20
+    },
+    {
+      "itemId": "GraveBeetle",
+      "chance": 0.1,
+      "min": 10,
+      "max": 30
+    },
+    {
+      "itemId": "Corn",
+      "chance": 0.1,
+      "min": 5,
+      "max": 20
+    },
+    {
+      "itemId": "CornSeeds",
+      "chance": 0.1,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "itemId": "SpiceBlackPepper",
+      "chance": 0.05,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "itemId": "SpiceCinnamon",
+      "chance": 0.05,
+      "min": 10,
+      "max": 25
+    },
+    {
+      "itemId": "SpiceSugar",
+      "chance": 0.05,
+      "min": 10,
+      "max": 25
+    },
+    {
+      "itemId": "SpiceSalt",
+      "chance": 0.05,
+      "min": 10,
+      "max": 25
+    },
+    {
+      "itemId": "Greenery",
+      "chance": 0.05,
+      "min": 10,
+      "max": 25
+    },
+    {
+      "itemId": "BeerWort",
+      "chance": 0.05,
+      "min": 5,
+      "max": 20
+    },
+    {
+      "itemId": "BeerBoiledWort",
+      "chance": 0.05,
+      "min": 5,
+      "max": 20
+    },
+    {
+      "itemId": "GraveBeetle",
+      "chance": 0.05,
+      "min": 10,
+      "max": 30
+    },
+    {
+      "itemId": "Corn",
+      "chance": 0.05,
+      "min": 5,
+      "max": 20
+    },
+    {
+      "itemId": "CornSeeds",
+      "chance": 0.05,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "itemId": "HardenedLeather",
+      "chance": 0.3333333333333333,
+      "min": 6,
+      "max": 12
+    },
+    {
+      "itemId": "IronLines",
+      "chance": 0.3333333333333333,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "IronPlates",
+      "chance": 0.3333333333333333,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "HardenedLeather",
+      "chance": 0.3333333333333333,
+      "min": 6,
+      "max": 12
+    },
+    {
+      "itemId": "IronLines",
+      "chance": 0.3333333333333333,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "IronPlates",
+      "chance": 0.3333333333333333,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "SnareSteel",
+      "chance": 0.125,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "itemId": "FishingSpoon",
+      "chance": 0.125,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "itemId": "SteelRivets",
+      "chance": 0.125,
+      "min": 5,
+      "max": 16
+    },
+    {
+      "itemId": "SteelLines",
+      "chance": 0.125,
+      "min": 3,
+      "max": 5
+    },
+    {
+      "itemId": "SteelPlates",
+      "chance": 0.125,
+      "min": 3,
+      "max": 4
+    },
+    {
+      "itemId": "MoldySilk",
+      "chance": 0.125,
+      "min": 2,
+      "max": 4
+    },
+    {
+      "itemId": "AlchemicalReagents",
+      "chance": 0.125,
+      "min": 10,
+      "max": 30
+    },
+    {
+      "itemId": "Sulfur",
+      "chance": 0.125,
+      "min": 10,
+      "max": 30
+    },
+    {
+      "itemId": "SnareSteel",
+      "chance": 0.125,
+      "min": 2,
+      "max": 8
+    },
+    {
+      "itemId": "FishingSpoon",
+      "chance": 0.125,
+      "min": 2,
+      "max": 8
+    },
+    {
+      "itemId": "SteelRivets",
+      "chance": 0.125,
+      "min": 3,
+      "max": 12
+    },
+    {
+      "itemId": "SteelLines",
+      "chance": 0.125,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "itemId": "SteelPlates",
+      "chance": 0.125,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "itemId": "MoldySilk",
+      "chance": 0.125,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "AlchemicalReagents",
+      "chance": 0.125,
+      "min": 8,
+      "max": 20
+    },
+    {
+      "itemId": "Sulfur",
+      "chance": 0.125,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "itemId": "SnareSteel",
+      "chance": 0.125,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "itemId": "FishingSpoon",
+      "chance": 0.125,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "itemId": "SteelRivets",
+      "chance": 0.125,
+      "min": 2,
+      "max": 10
+    },
+    {
+      "itemId": "SteelLines",
+      "chance": 0.125,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "SteelPlates",
+      "chance": 0.125,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "MoldySilk",
+      "chance": 0.125,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "AlchemicalReagents",
+      "chance": 0.125,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "Sulfur",
+      "chance": 0.125,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "GemUncutAmethyst",
+      "chance": 0.08333333333333333,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "GemUncutEmerald",
+      "chance": 0.08333333333333333,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "GemUncutRuby",
+      "chance": 0.08333333333333333,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "GemUncutSapphire",
+      "chance": 0.08333333333333333,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "GemUncutTopaz",
+      "chance": 0.08333333333333333,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "SteelIngot",
+      "chance": 0.08333333333333333,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "GemUncutAmethyst",
+      "chance": 0.08333333333333333,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "GemUncutEmerald",
+      "chance": 0.08333333333333333,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "GemUncutRuby",
+      "chance": 0.08333333333333333,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "GemUncutSapphire",
+      "chance": 0.08333333333333333,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "GemUncutTopaz",
+      "chance": 0.08333333333333333,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "SteelIngot",
+      "chance": 0.08333333333333333,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "SkillBookLevel30",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "LootKnife",
+      "chance": 0.014285714285714287,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "MimicQuestItem",
+      "chance": 0.014285714285714287,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "DwarfQuestItem",
+      "chance": 0.014285714285714287,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "FishingQuestItem",
+      "chance": 0.014285714285714287,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SpiderQuestItem",
+      "chance": 0.014285714285714287,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "PetEssenceUnstable",
+      "chance": 0.014285714285714287,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "LoveLetterQuestItem",
+      "chance": 0.014285714285714287,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "BarghestMountSkin",
+      "chance": 0.05,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "HumanFinger",
+      "chance": 0.05,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

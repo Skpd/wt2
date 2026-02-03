@@ -1,0 +1,11 @@
+{
+  "m_Name": "VegetableStew",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "c7e3ef2a4447c144598d5f2b4ad5e625",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "25",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "VegetableStew",
+  "loc_key": "Item.VegetableStew"
+}

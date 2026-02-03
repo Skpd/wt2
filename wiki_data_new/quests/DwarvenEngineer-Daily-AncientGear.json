@@ -1,0 +1,20 @@
+{
+  "m_Name": "DwarvenEngineer-Daily-AncientGear",
+  "m_Script": "a33fbc2ed7ad8fe58f2dcfb6e1a39cab",
+  "line": "0",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "a6f35ccb9e006bc498564f30f20fea06",
+  "npcTaker": "a6f35ccb9e006bc498564f30f20fea06",
+  "reward": {
+    "money": "3500",
+    "guildXp": "0",
+    "amount": "5",
+    "rewardItem": "b3791ea2842ef564cb076a9cfa38d737",
+    "rewardItemName": "DwarvenAncientMechanisms"
+  },
+  "id": "DwarvenEngineer-Daily-AncientGear",
+  "npcGiverName": "DwarvenEngineerDesert",
+  "npcTakerName": "DwarvenEngineerDesert",
+  "group": "Daily"
+}

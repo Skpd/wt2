@@ -1,0 +1,27 @@
+{
+  "m_Name": "MediumLeatherTanning",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "406537ef53c3db4448e34dae586df4d7",
+      "amount": "1",
+      "name": "SoftSuppleMediumHide",
+      "loc_key": "Item.SoftSuppleMediumHide"
+    },
+    {
+      "guid": "6bb16b153b464774b8a569914ca99aa5",
+      "amount": "1",
+      "name": "WoodBarkLiquor",
+      "loc_key": "Item.WoodBarkLiquor"
+    }
+  ],
+  "products": [
+    {
+      "guid": "a81d8534aab4a694bbf67f01ed2cb9c5",
+      "amount": "1",
+      "name": "MediumLeather",
+      "loc_key": "Item.MediumLeather"
+    }
+  ],
+  "id": "MediumLeatherTanning"
+}

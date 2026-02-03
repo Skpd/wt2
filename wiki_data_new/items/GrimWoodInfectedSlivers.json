@@ -1,0 +1,133 @@
+{
+  "m_Name": "GrimWoodInfectedSlivers",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "335885dfd1acec446906bcdbda7e3208",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.01",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "GrimWoodInfectedSlivers",
+  "loc_key": "Item.GrimWoodInfectedSlivers",
+  "dropped_by": [
+    {
+      "sourceId": "PlagueCityBrokenFurniture",
+      "chance": 0.16666666666666666,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "sourceId": "PlagueCityBrokenFurniture",
+      "chance": 0.16666666666666666,
+      "min": 2,
+      "max": 6
+    },
+    {
+      "sourceId": "PlagueCityBrokenFurniture",
+      "chance": 0.16666666666666666,
+      "min": 3,
+      "max": 6
+    },
+    {
+      "sourceId": "PlagueCityBrokenFurniture",
+      "chance": 0.16666666666666666,
+      "min": 4,
+      "max": 5
+    },
+    {
+      "sourceId": "PlagueCityBrokenFurniture",
+      "chance": 0.049999999999999996,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "sourceId": "PlagueCityBrokenFurniture",
+      "chance": 0.049999999999999996,
+      "min": 2,
+      "max": 6
+    },
+    {
+      "sourceId": "PlagueCityBrokenFurniture",
+      "chance": 0.049999999999999996,
+      "min": 3,
+      "max": 6
+    },
+    {
+      "sourceId": "PlagueCityBrokenFurniture",
+      "chance": 0.049999999999999996,
+      "min": 4,
+      "max": 5
+    },
+    {
+      "sourceId": "PlagueAbandonedResources",
+      "chance": 0.16666666666666666,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "sourceId": "PlagueAbandonedResources",
+      "chance": 0.16666666666666666,
+      "min": 2,
+      "max": 6
+    },
+    {
+      "sourceId": "PlagueAbandonedResources",
+      "chance": 0.16666666666666666,
+      "min": 3,
+      "max": 6
+    },
+    {
+      "sourceId": "PlagueAbandonedResources",
+      "chance": 0.16666666666666666,
+      "min": 4,
+      "max": 5
+    },
+    {
+      "sourceId": "PlagueAbandonedResources",
+      "chance": 0.049999999999999996,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "sourceId": "PlagueAbandonedResources",
+      "chance": 0.049999999999999996,
+      "min": 2,
+      "max": 6
+    },
+    {
+      "sourceId": "PlagueAbandonedResources",
+      "chance": 0.049999999999999996,
+      "min": 3,
+      "max": 6
+    },
+    {
+      "sourceId": "PlagueAbandonedResources",
+      "chance": 0.049999999999999996,
+      "min": 4,
+      "max": 5
+    },
+    {
+      "sourceId": "UndeadAxeDungeon",
+      "chance": 1,
+      "min": 15,
+      "max": 40
+    },
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.125,
+      "min": 10,
+      "max": 30
+    },
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.25,
+      "min": 10,
+      "max": 30
+    },
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.25,
+      "min": 10,
+      "max": 30
+    }
+  ]
+}

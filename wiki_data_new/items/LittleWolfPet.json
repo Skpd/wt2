@@ -1,0 +1,11 @@
+{
+  "m_Name": "LittleWolfPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "d471459380e4eb3438bd26fe638d0b6c",
+  "image_fid": "21300000",
+  "sellPrice": "5000",
+  "buyUpPrice": "5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "LittleWolfPet",
+  "loc_key": "Item.LittleWolfPet"
+}

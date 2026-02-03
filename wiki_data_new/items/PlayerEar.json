@@ -1,0 +1,11 @@
+{
+  "m_Name": "PlayerEar",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "63edf6fb646d7324d8370d74946b0501",
+  "image_fid": "21300000",
+  "sellPrice": "0",
+  "buyUpPrice": "0",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "PlayerEar",
+  "loc_key": "Item.PlayerEar"
+}

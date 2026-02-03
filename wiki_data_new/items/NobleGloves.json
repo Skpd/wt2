@@ -1,0 +1,31 @@
+{
+  "m_Name": "NobleGloves",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "6b7ea0f5eae4c7345a8d4b724033e665",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1156",
+  "craftMaterialsBuyUpPricePercent": "1.7",
+  "id": "NobleGloves",
+  "loc_key": "Item.NobleGloves",
+  "dropped_by": [
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

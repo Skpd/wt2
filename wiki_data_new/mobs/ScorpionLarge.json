@@ -1,0 +1,72 @@
+{
+  "m_Name": "ScorpionLarge",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "765",
+  "stamina": "100",
+  "level": "47",
+  "walkSpeed": "2",
+  "runSpeed": "4",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "2",
+  "mobBehaviour": "f291c29a11fd66f4285f6ed68ecff503",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "effc7485c111f6c48bf2b0cea1bde68d",
+  "entityPrefab_fid": "1510300147914069",
+  "entityBonuses": {
+    "Dodge": "0.15",
+    "Defense": "0.25",
+    "Absorption": "14"
+  },
+  "skills": [
+    {
+      "id": "6081e9cbdde0161479bde515871929eb",
+      "name": "ScorpionAttackLarge",
+      "minDamage": "51",
+      "maxDamage": "85",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0.3",
+      "ignoreDefense": "0.3",
+      "criticalChance": "0.25",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "d1692104aefe3944498f03f0726448b8",
+      "name": "ScorpionClawsAttackLarge",
+      "minDamage": "68",
+      "maxDamage": "102",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.3",
+      "ignoreDefense": "0.3",
+      "criticalChance": "1",
+      "criticalValue": "1"
+    },
+    {
+      "id": "965ee99ee3e5c7c4ba986721e651ca74",
+      "name": "ScorpionReflectionLarge"
+    }
+  ],
+  "id": "ScorpionLarge",
+  "loc_key": "Entity.ScorpionLarge",
+  "skinning_drops": [
+    {
+      "itemId": "Chitin",
+      "chance": "1",
+      "min": "3",
+      "max": "6"
+    },
+    {
+      "itemId": "CausticMucus",
+      "chance": "0.15",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "ScorpionTail",
+      "chance": "0.01",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

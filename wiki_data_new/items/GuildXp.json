@@ -1,0 +1,11 @@
+{
+  "m_Name": "GuildXp",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "80df99856c67b5c45bb7dc15b3424892",
+  "image_fid": "21300000",
+  "sellPrice": "0",
+  "buyUpPrice": "0",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "GuildXp",
+  "loc_key": "Item.GuildXp"
+}

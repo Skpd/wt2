@@ -1,0 +1,72 @@
+{
+  "m_Name": "GrimWoodBow",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "4723820b721b515419ab5c12992434b1",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "4.76",
+  "craftMaterialsBuyUpPricePercent": "1.7",
+  "entityMaxLevel": "0",
+  "minDamage": "27",
+  "maxDamage": "34",
+  "minPlagueDamage": "3",
+  "maxPlagueDamage": "9",
+  "criticalChance": "0.09",
+  "criticalValue": "2.2",
+  "dismountChance": "0",
+  "splash": "0",
+  "isAOE": "0",
+  "projectileAOERange": "0",
+  "prefabAOEName": null,
+  "ignoreAvoidingDamage": "0",
+  "ignoreAbsorb": "0",
+  "ignoreDefense": "0",
+  "abilityName": null,
+  "effectLevelLimit": "0",
+  "effects": [],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "0"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  "id": "GrimWoodBow",
+  "loc_key": "Item.GrimWoodBow",
+  "dropped_by": [
+    {
+      "sourceId": "PlagueDragon",
+      "chance": 0.05714285714285715,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "FatOgre",
+      "chance": 0.014285714285714287,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "UndeadAxe",
+      "chance": 0.00016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "UndeadMace",
+      "chance": 0.00016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "UndeadSword",
+      "chance": 0.00016666666666666666,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

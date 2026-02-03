@@ -1,0 +1,287 @@
+{
+  "m_Name": "CultistSwordsman",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "250",
+  "stamina": "100",
+  "level": "20",
+  "walkSpeed": "1.6",
+  "runSpeed": "3.5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "0",
+  "mobBehaviour": "1ffb7607b4dfea441a4aafc9f96b3976",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "85e3a8be8ce79ce4781cc1bcd994ece2",
+  "entityPrefab_fid": "1976828745185889",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "861daab0333d0e3488aa9532c1e0ceaa",
+      "name": "CultistSwordsmanAttack",
+      "minDamage": "20",
+      "maxDamage": "25",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    }
+  ],
+  "id": "CultistSwordsman",
+  "loc_key": "Entity.CultistSwordsman",
+  "drops": [
+    {
+      "itemId": "Money",
+      "chance": 1,
+      "min": 20,
+      "max": 30
+    },
+    {
+      "itemId": "BoneBoots",
+      "chance": 0.14285714285714285,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "BoneGloves",
+      "chance": 0.14285714285714285,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "BoneHelmet",
+      "chance": 0.14285714285714285,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "BoneLower",
+      "chance": 0.14285714285714285,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "BoneShoulders",
+      "chance": 0.14285714285714285,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "BoneUpper",
+      "chance": 0.14285714285714285,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SkeletonSword",
+      "chance": 0.14285714285714285,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "CopperRawOre",
+      "chance": 0.1111111111111111,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "CopperOre",
+      "chance": 0.1111111111111111,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "TinRawOre",
+      "chance": 0.1111111111111111,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "TinOre",
+      "chance": 0.1111111111111111,
+      "min": 3,
+      "max": 5
+    },
+    {
+      "itemId": "SimpleMedicine",
+      "chance": 0.1111111111111111,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "RoughBandages",
+      "chance": 0.1111111111111111,
+      "min": 2,
+      "max": 3
+    },
+    {
+      "itemId": "PoisonArrow",
+      "chance": 0.1111111111111111,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "itemId": "FireArrow",
+      "chance": 0.1111111111111111,
+      "min": 3,
+      "max": 7
+    },
+    {
+      "itemId": "Torch",
+      "chance": 0.1111111111111111,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Bannock",
+      "chance": 0.06666666666666667,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "\u0421heesePiece",
+      "chance": 0.06666666666666667,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "Jerky",
+      "chance": 0.06666666666666667,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "SpiceBlackPepper",
+      "chance": 0.06666666666666667,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SpiceCinnamon",
+      "chance": 0.06666666666666667,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SpiceSalt",
+      "chance": 0.06666666666666667,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SpiceSugar",
+      "chance": 0.06666666666666667,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Cherries",
+      "chance": 0.06666666666666667,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Strawberry",
+      "chance": 0.06666666666666667,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Grape",
+      "chance": 0.06666666666666667,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Carrot",
+      "chance": 0.06666666666666667,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Beetroot",
+      "chance": 0.06666666666666667,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Onion",
+      "chance": 0.06666666666666667,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Garlic",
+      "chance": 0.06666666666666667,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Peas",
+      "chance": 0.06666666666666667,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "GatherMushroomQuestItem",
+      "chance": 0.05,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "GatherNoviceQuestItem",
+      "chance": 0.05,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "LootKnife",
+      "chance": 0.0014285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "MimicQuestItem",
+      "chance": 0.0014285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "DwarfQuestItem",
+      "chance": 0.0014285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "FishingQuestItem",
+      "chance": 0.0014285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SpiderQuestItem",
+      "chance": 0.0014285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "PetEssenceUnstable",
+      "chance": 0.0014285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "LoveLetterQuestItem",
+      "chance": 0.0014285714285714286,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SkillBookLevel10",
+      "chance": 0.2,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "LandDeedTimbered",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "0a45c9943d25bb44eb1baa63bab5b526",
+  "image_fid": "21300000",
+  "sellPrice": "5000",
+  "buyUpPrice": "1000",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "LandDeedTimbered",
+  "loc_key": "Item.LandDeedTimbered"
+}

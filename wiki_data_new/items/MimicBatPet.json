@@ -1,0 +1,11 @@
+{
+  "m_Name": "MimicBatPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "75ccd48357878e64e9d727147a59fc9e",
+  "image_fid": "21300000",
+  "sellPrice": "200",
+  "buyUpPrice": "200",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "MimicBatPet",
+  "loc_key": "Item.MimicBatPet"
+}

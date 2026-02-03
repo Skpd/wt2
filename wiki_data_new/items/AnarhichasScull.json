@@ -1,0 +1,11 @@
+{
+  "m_Name": "AnarhichasScull",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "a0456e332f257ff4c971cd3e23f977c6",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "20",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "AnarhichasScull",
+  "loc_key": "Item.AnarhichasScull"
+}

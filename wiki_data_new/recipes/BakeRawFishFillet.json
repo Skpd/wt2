@@ -1,0 +1,21 @@
+{
+  "m_Name": "BakeRawFishFillet",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "a67a98d6b4172514d83e3af82c3228d4",
+      "amount": "1",
+      "name": "RawFishFillet",
+      "loc_key": "Item.RawFishFillet"
+    }
+  ],
+  "products": [
+    {
+      "guid": "6d4be7c41a53b6f49989834b3ea0f15b",
+      "amount": "1",
+      "name": "FishFilletAfterBake",
+      "loc_key": "Item.FishFilletAfterBake"
+    }
+  ],
+  "id": "BakeRawFishFillet"
+}

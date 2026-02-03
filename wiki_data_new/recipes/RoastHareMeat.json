@@ -1,0 +1,21 @@
+{
+  "m_Name": "RoastHareMeat",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "64d28e46628fc7c4d9269940075fc5c9",
+      "amount": "1",
+      "name": "RawHareMeat",
+      "loc_key": "Item.RawHareMeat"
+    }
+  ],
+  "products": [
+    {
+      "guid": "ebde30f47241383468d26ad1aa1e1eba",
+      "amount": "1",
+      "name": "RoastedMeat",
+      "loc_key": "Item.RoastedMeat"
+    }
+  ],
+  "id": "RoastHareMeat"
+}

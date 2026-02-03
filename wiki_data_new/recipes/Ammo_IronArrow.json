@@ -1,0 +1,33 @@
+{
+  "m_Name": "Ammo_IronArrow",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "54bc0756c674105428d2ec1a852d8791",
+      "amount": "5",
+      "name": "IronArrowhead",
+      "loc_key": "Item.IronArrowhead"
+    },
+    {
+      "guid": "5280b4e0c8bfc4d4d880da274930bce3",
+      "amount": "25",
+      "name": "WoodHardSticks",
+      "loc_key": "Item.WoodHardSticks"
+    },
+    {
+      "guid": "b0600799eb78c0b43991dd46589976ba",
+      "amount": "5",
+      "name": "FeatherHarpy",
+      "loc_key": "Item.FeatherHarpy"
+    }
+  ],
+  "products": [
+    {
+      "guid": "a27ee2aa99cef194eb06cd89e1b57bba",
+      "amount": "50",
+      "name": "IronArrow",
+      "loc_key": "Item.IronArrow"
+    }
+  ],
+  "id": "Ammo_IronArrow"
+}

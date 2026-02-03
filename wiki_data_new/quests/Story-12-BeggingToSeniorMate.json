@@ -1,0 +1,21 @@
+{
+  "m_Name": "Story-12-BeggingToSeniorMate",
+  "m_Script": "7ba363098419be20ea85b82919f52c19",
+  "line": "1",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "43130402dafab1e45aaf0756a0a86bd2",
+  "predecessors": [
+    "Story-11-TalkToHelmsman"
+  ],
+  "npcTaker": "899c0ee6d6b49fc4286cb3a6db80f6b7",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "0"
+  },
+  "id": "Story-12-BeggingToSeniorMate",
+  "npcGiverName": "StoryHelmsman",
+  "npcTakerName": "StorySeniorMate",
+  "group": "General"
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "MechanicalFuelTank",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "1a66bf218d0642840b2c079a21d9fbf9",
+  "image_fid": "21300000",
+  "sellPrice": "25",
+  "buyUpPrice": "5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "MechanicalFuelTank",
+  "loc_key": "Item.MechanicalFuelTank"
+}

@@ -1,0 +1,23 @@
+{
+  "m_Name": "FisheryGatherIde",
+  "m_Script": "bbef8bd82ea7ec3f83b28462fb539071",
+  "line": "0",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "ea6c0480facd1544f88dfc66a449df99",
+  "predecessors": [
+    "FisheryWay-07-GatherCarp"
+  ],
+  "npcTaker": "ce2037277c874f5469efe712484304e5",
+  "reward": {
+    "money": "1000",
+    "guildXp": "0",
+    "amount": "50",
+    "rewardItem": "e96ecd4567662fb448b14ae0b770c085",
+    "rewardItemName": "Carrot"
+  },
+  "id": "FisheryGatherIde",
+  "npcGiverName": "CityFisherPaul",
+  "npcTakerName": "CityStablemanHenry",
+  "group": "Daily"
+}

@@ -1,0 +1,37 @@
+{
+  "m_Name": "IronSaw",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "5778da577f416c141a878071a7700fbf",
+  "image_fid": "21300000",
+  "sellPrice": "5000",
+  "buyUpPrice": "180.29999",
+  "craftMaterialsBuyUpPricePercent": "1.5",
+  "id": "IronSaw",
+  "loc_key": "Item.IronSaw",
+  "dropped_by": [
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "CaveFinalChest",
+      "chance": 0.045454545454545456,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

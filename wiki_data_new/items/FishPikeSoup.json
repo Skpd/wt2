@@ -1,0 +1,11 @@
+{
+  "m_Name": "FishPikeSoup",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "262c1fdb0a630194e97f7a1dabdfd7de",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "30",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "FishPikeSoup",
+  "loc_key": "Item.FishPikeSoup"
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "PotionFindBeehive",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "bd0556ef0e549024f8b69c79f5f9886a",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "40",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "PotionFindBeehive",
+  "loc_key": "Item.PotionFindBeehive"
+}

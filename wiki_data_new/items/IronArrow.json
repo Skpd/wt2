@@ -1,0 +1,97 @@
+{
+  "m_Name": "IronArrow",
+  "m_Script": "b2cd456c67ed7fbd493e563aaef7330a",
+  "image": "7283a25b5a267644494188584062fafe",
+  "image_fid": "21300000",
+  "sellPrice": "30",
+  "buyUpPrice": "0.26",
+  "craftMaterialsBuyUpPricePercent": "1.3",
+  "id": "IronArrow",
+  "loc_key": "Item.IronArrow",
+  "dropped_by": [
+    {
+      "sourceId": "SewersFinalChest",
+      "chance": 0.125,
+      "min": 40,
+      "max": 100
+    },
+    {
+      "sourceId": "SewersGodsendMaterial",
+      "chance": 0.08333333333333333,
+      "min": 8,
+      "max": 18
+    },
+    {
+      "sourceId": "BattlefieldGodsend",
+      "chance": 0.14285714285714285,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "BattlefieldGodsend",
+      "chance": 0.14285714285714285,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "BattlefieldGodsend",
+      "chance": 0.05714285714285715,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "GodsendMainlandSouth",
+      "chance": 0.125,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "LizardSpear",
+      "chance": 0.043478260869565216,
+      "min": 10,
+      "max": 30
+    },
+    {
+      "sourceId": "Weresnake",
+      "chance": 0.043478260869565216,
+      "min": 10,
+      "max": 30
+    },
+    {
+      "sourceId": "Werecrocodile",
+      "chance": 0.043478260869565216,
+      "min": 10,
+      "max": 30
+    },
+    {
+      "sourceId": "LizardSpear",
+      "chance": 0.008695652173913044,
+      "min": 10,
+      "max": 30
+    },
+    {
+      "sourceId": "Weresnake",
+      "chance": 0.008695652173913044,
+      "min": 10,
+      "max": 30
+    },
+    {
+      "sourceId": "Werecrocodile",
+      "chance": 0.008695652173913044,
+      "min": 10,
+      "max": 30
+    },
+    {
+      "sourceId": "DragonRex",
+      "chance": 0.14285714285714285,
+      "min": 50,
+      "max": 100
+    },
+    {
+      "sourceId": "DwarfAmbusherHideout",
+      "chance": 0.16666666666666666,
+      "min": 5,
+      "max": 10
+    }
+  ]
+}

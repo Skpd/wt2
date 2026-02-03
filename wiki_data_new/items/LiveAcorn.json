@@ -1,0 +1,48 @@
+{
+  "m_Name": "LiveAcorn",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "fce2a7fd14201c34da12b0b52e6ef853",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "2500",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "LiveAcorn",
+  "loc_key": "Item.LiveAcorn",
+  "dropped_by": [
+    {
+      "sourceId": "BufomorphPet",
+      "chance": "0.02",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "DementedTreeEntPet",
+      "chance": "0.02",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "TreeEnt",
+      "chance": "0.02",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "EarthTitanPet",
+      "chance": "0.02",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "CrocodilePet",
+      "chance": "0.02",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    }
+  ]
+}

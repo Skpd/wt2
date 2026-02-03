@@ -1,0 +1,21 @@
+{
+  "m_Name": "BakeRawBakedTrout",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "b67886b0ae89521409b8a7a2d50acd72",
+      "amount": "1",
+      "name": "RawBakedTrout",
+      "loc_key": "Item.RawBakedTrout"
+    }
+  ],
+  "products": [
+    {
+      "guid": "20c163769275f314abc7953a0be4c678",
+      "amount": "1",
+      "name": "BakedTroutAfterBake",
+      "loc_key": "Item.BakedTroutAfterBake"
+    }
+  ],
+  "id": "BakeRawBakedTrout"
+}

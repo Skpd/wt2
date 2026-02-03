@@ -1,0 +1,25 @@
+{
+  "m_Name": "CauldronForCampfire",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "8872135be8b6fc44e9ba1f53d659fe9d",
+  "image_fid": "21300000",
+  "sellPrice": "90",
+  "buyUpPrice": "5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "CauldronForCampfire",
+  "loc_key": "Item.CauldronForCampfire",
+  "dropped_by": [
+    {
+      "sourceId": "GodsendGraveyard",
+      "chance": 0.06,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "GodsendMainland",
+      "chance": 0.06,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

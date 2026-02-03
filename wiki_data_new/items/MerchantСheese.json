@@ -1,0 +1,11 @@
+{
+  "m_Name": "Merchant\u0421heese",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "44b3d97c386b9cd4ca3f743d0b523e5a",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Merchant\u0421heese",
+  "loc_key": "Item.Merchant\u0421heese"
+}

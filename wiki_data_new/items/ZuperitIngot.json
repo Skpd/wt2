@@ -1,0 +1,67 @@
+{
+  "m_Name": "ZuperitIngot",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "a086a5e3c8af2d841b143fc45fb81967",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "17",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "ZuperitIngot",
+  "loc_key": "Item.ZuperitIngot",
+  "dropped_by": [
+    {
+      "sourceId": "SewersFinalChest",
+      "chance": 0.2,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "sourceId": "Werecrocodile",
+      "chance": 0.016666666666666666,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "sourceId": "DemonWeak",
+      "chance": 0.2,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "sourceId": "DemonBrute",
+      "chance": 0.2,
+      "min": 10,
+      "max": 25
+    },
+    {
+      "sourceId": "DwarfEngineer",
+      "chance": 0.09090909090909091,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfSoldier",
+      "chance": 0.2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfOfficer",
+      "chance": 0.2,
+      "min": 2,
+      "max": 3
+    },
+    {
+      "sourceId": "Dwarf\u0421ommander",
+      "chance": 0.2,
+      "min": 2,
+      "max": 3
+    },
+    {
+      "sourceId": "DwarfCursedChampion",
+      "chance": 0.25,
+      "min": 10,
+      "max": 20
+    }
+  ]
+}

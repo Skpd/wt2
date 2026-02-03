@@ -1,0 +1,12 @@
+{
+  "m_Name": "PackedDominium",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "afc7a826b65689e4fac25631a90d610e",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "PackedDominium",
+  "loc_key": "Item.PackedDominium",
+  "icon_path": "textures/packed_dominium.png"
+}

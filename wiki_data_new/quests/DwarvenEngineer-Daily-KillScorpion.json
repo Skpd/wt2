@@ -1,0 +1,20 @@
+{
+  "m_Name": "DwarvenEngineer-Daily-KillScorpion",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "0",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "a6f35ccb9e006bc498564f30f20fea06",
+  "npcTaker": "a6f35ccb9e006bc498564f30f20fea06",
+  "reward": {
+    "money": "3000",
+    "guildXp": "0",
+    "amount": "40",
+    "rewardItem": "143177d510aff3749ae16185237196f2",
+    "rewardItemName": "DwarvenFuel"
+  },
+  "id": "DwarvenEngineer-Daily-KillScorpion",
+  "npcGiverName": "DwarvenEngineerDesert",
+  "npcTakerName": "DwarvenEngineerDesert",
+  "group": "Daily"
+}

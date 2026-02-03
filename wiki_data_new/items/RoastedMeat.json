@@ -1,0 +1,49 @@
+{
+  "m_Name": "RoastedMeat",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "fc6212fc197c7df4c8b060fcc8ffc346",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "2",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "RoastedMeat",
+  "loc_key": "Item.RoastedMeat",
+  "dropped_by": [
+    {
+      "sourceId": "ElderBasementMaterial",
+      "chance": 0.14285714285714285,
+      "min": 2,
+      "max": 2
+    },
+    {
+      "sourceId": "GodsendGraveyard",
+      "chance": 0.06818181818181818,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "sourceId": "GodsendMainland",
+      "chance": 0.06818181818181818,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "sourceId": "HideoutGodsensBody",
+      "chance": 0.041666666666666664,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "HideoutGodsensBody",
+      "chance": 0.02,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "GodsendWinter",
+      "chance": 0.07692307692307693,
+      "min": 1,
+      "max": 2
+    }
+  ]
+}

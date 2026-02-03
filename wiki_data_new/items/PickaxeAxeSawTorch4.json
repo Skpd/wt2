@@ -1,0 +1,40 @@
+{
+  "m_Name": "PickaxeAxeSawTorch4",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "3053b7ba5bc53154a9e3ca05653aa9f9",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "6702.744",
+  "craftMaterialsBuyUpPricePercent": "0.7",
+  "entityMaxLevel": "0",
+  "minDamage": "52",
+  "maxDamage": "70",
+  "minPlagueDamage": "0",
+  "maxPlagueDamage": "0",
+  "criticalChance": "0.05",
+  "criticalValue": "1.5",
+  "dismountChance": "0",
+  "splash": "1",
+  "isAOE": "0",
+  "projectileAOERange": "0",
+  "prefabAOEName": null,
+  "ignoreAvoidingDamage": "0",
+  "ignoreAbsorb": "0.3",
+  "ignoreDefense": "0.3",
+  "abilityName": null,
+  "effectLevelLimit": "0",
+  "effects": [],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "0"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  "id": "PickaxeAxeSawTorch4",
+  "loc_key": "Item.PickaxeAxeSawTorch4"
+}

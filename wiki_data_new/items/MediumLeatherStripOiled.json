@@ -1,0 +1,19 @@
+{
+  "m_Name": "MediumLeatherStripOiled",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "aa272e88025af0a4ea43538a7ed631cb",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "MediumLeatherStripOiled",
+  "loc_key": "Item.MediumLeatherStripOiled",
+  "dropped_by": [
+    {
+      "sourceId": "ElderFinalChest",
+      "chance": 0.2,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

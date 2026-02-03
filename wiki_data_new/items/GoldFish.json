@@ -1,0 +1,11 @@
+{
+  "m_Name": "GoldFish",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "9529259dc247874458c2d0d45c077c85",
+  "image_fid": "21300000",
+  "sellPrice": "45",
+  "buyUpPrice": "3",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "GoldFish",
+  "loc_key": "Item.GoldFish"
+}

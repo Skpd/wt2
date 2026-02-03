@@ -1,0 +1,11 @@
+{
+  "m_Name": "SimpleArmorBelt",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "385f9e4aab535ad438b10d46d0111497",
+  "image_fid": "21300000",
+  "sellPrice": "20",
+  "buyUpPrice": "4",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SimpleArmorBelt",
+  "loc_key": "Item.SimpleArmorBelt"
+}

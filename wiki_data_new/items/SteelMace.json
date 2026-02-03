@@ -1,0 +1,50 @@
+{
+  "m_Name": "SteelMace",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "8340740ae9266e64fb7b5122e2dec015",
+  "image_fid": "21300000",
+  "sellPrice": "0",
+  "buyUpPrice": "759.30005",
+  "craftMaterialsBuyUpPricePercent": "1.5",
+  "entityMaxLevel": "0",
+  "minDamage": "28",
+  "maxDamage": "42",
+  "minPlagueDamage": "0",
+  "maxPlagueDamage": "0",
+  "criticalChance": "0.07",
+  "criticalValue": "1.5",
+  "dismountChance": "0",
+  "splash": "0",
+  "isAOE": "0",
+  "projectileAOERange": "0",
+  "prefabAOEName": null,
+  "ignoreAvoidingDamage": "0",
+  "ignoreAbsorb": "0.3",
+  "ignoreDefense": "0.3",
+  "abilityName": null,
+  "effectLevelLimit": "0",
+  "effects": [
+    {
+      "effect": {
+        "fileID": "11400000",
+        "guid": "8a114ef22846c324cad8b6cd0cf4c9e7",
+        "type": "2"
+      },
+      "chance": "0.07",
+      "time": "3"
+    }
+  ],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "0"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  "id": "SteelMace",
+  "loc_key": "Item.SteelMace"
+}

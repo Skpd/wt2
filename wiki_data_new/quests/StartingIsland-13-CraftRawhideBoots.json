@@ -1,0 +1,16 @@
+{
+  "m_Name": "StartingIsland-13-CraftRawhideBoots",
+  "m_Script": "8bae99285fb9248eeae7964c5eaf8a95",
+  "line": "1",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "1",
+    "rewardItem": "0c32f256b2908cd45804f62d693af431",
+    "rewardItemName": "RawhideGloves"
+  },
+  "id": "StartingIsland-13-CraftRawhideBoots",
+  "group": "General"
+}

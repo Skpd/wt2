@@ -1,0 +1,27 @@
+{
+  "m_Name": "Stone_HewnMarblestone",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "af34da37f72eccb4185e18af0e20da2c",
+      "amount": "8",
+      "name": "Marblestone",
+      "loc_key": "Item.Marblestone"
+    },
+    {
+      "guid": "386f5ec3f42558645a5306b081b016ec",
+      "amount": "8",
+      "name": "HewnStone",
+      "loc_key": "Item.HewnStone"
+    }
+  ],
+  "products": [
+    {
+      "guid": "f10ceebbac2b97b4d920db3cb7ec1c67",
+      "amount": "5",
+      "name": "HewnMarblestone",
+      "loc_key": "Item.HewnMarblestone"
+    }
+  ],
+  "id": "Stone_HewnMarblestone"
+}

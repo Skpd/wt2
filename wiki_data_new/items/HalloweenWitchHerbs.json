@@ -1,0 +1,49 @@
+{
+  "m_Name": "HalloweenWitchHerbs",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "aaeac2dc62e9bbf4e9ab88c669ff5ec6",
+  "image_fid": "21300000",
+  "sellPrice": "50",
+  "buyUpPrice": "4",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "HalloweenWitchHerbs",
+  "loc_key": "Item.HalloweenWitchHerbs",
+  "dropped_by": [
+    {
+      "sourceId": "HalloweenGodsend",
+      "chance": 0.07142857142857142,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HalloweenGodsend",
+      "chance": 0.07142857142857142,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HalloweenGrave",
+      "chance": 0.08333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HalloweenGrave",
+      "chance": 0.08333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HalloweenGrave",
+      "chance": 0.1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "Witch",
+      "chance": 0.26666666666666666,
+      "min": 1,
+      "max": 2
+    }
+  ]
+}

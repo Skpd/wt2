@@ -1,0 +1,59 @@
+{
+  "m_Name": "ZombieBoarLarge",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "750",
+  "stamina": "100",
+  "level": "28",
+  "walkSpeed": "2",
+  "runSpeed": "4",
+  "image": "58219881702fd3c40934bb0707cf3530",
+  "image_fid": "21300000",
+  "entityClass": "10",
+  "mobBehaviour": "a089e3814136a724aa652e787c6ebc2f",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "ae585620c4a635d40a99f02ab11f02e6",
+  "entityPrefab_fid": "1971715524797837",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "527069ab34396164580b0e602fb8da1a",
+      "name": "ZombieBoarAttackLarge",
+      "minDamage": "34",
+      "maxDamage": "43",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.25",
+      "criticalValue": "1.5"
+    }
+  ],
+  "id": "ZombieBoarLarge",
+  "loc_key": "Entity.ZombieBoarLarge",
+  "icon_path": "textures/ZombieBoarLarge.png",
+  "skinning_drops": [
+    {
+      "itemId": "InfectedRawHide",
+      "chance": "0.3",
+      "min": "3",
+      "max": "3"
+    },
+    {
+      "itemId": "InflamedGallbladder",
+      "chance": "1",
+      "min": "4",
+      "max": "4"
+    },
+    {
+      "itemId": "Maggot",
+      "chance": "1",
+      "min": "5",
+      "max": "7"
+    },
+    {
+      "itemId": "Intestines",
+      "chance": "1",
+      "min": "3",
+      "max": "3"
+    }
+  ]
+}

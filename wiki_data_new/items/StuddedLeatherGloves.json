@@ -1,0 +1,31 @@
+{
+  "m_Name": "StuddedLeatherGloves",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "6f9bb5e28b3bb2c43a2ea59f376db0bc",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "484.5",
+  "craftMaterialsBuyUpPricePercent": "1.7",
+  "id": "StuddedLeatherGloves",
+  "loc_key": "Item.StuddedLeatherGloves",
+  "dropped_by": [
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

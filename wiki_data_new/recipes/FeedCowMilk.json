@@ -1,0 +1,21 @@
+{
+  "m_Name": "FeedCowMilk",
+  "m_Script": "37d6a230f8991a4267be4fd19e466e02",
+  "resources": [
+    {
+      "guid": "4c076ef9737781041aa728bce6d1a47a",
+      "amount": "5",
+      "name": "Cabbage",
+      "loc_key": "Item.Cabbage"
+    }
+  ],
+  "products": [
+    {
+      "guid": "2d88436195c76b148a3e199302a14058",
+      "amount": "1",
+      "name": "Milk",
+      "loc_key": "Item.Milk"
+    }
+  ],
+  "id": "FeedCowMilk"
+}

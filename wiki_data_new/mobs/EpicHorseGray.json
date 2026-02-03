@@ -1,0 +1,64 @@
+{
+  "m_Name": "EpicHorseGray",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "620",
+  "stamina": "100",
+  "level": "45",
+  "walkSpeed": "2",
+  "runSpeed": "6",
+  "image": "178dc2596e1116640b658e4279b81a89",
+  "image_fid": "21300000",
+  "entityClass": "1",
+  "mobBehaviour": "f90bc194cea48f34eac99b3486c6888c",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "6a0d19e958482b346af90c636db641ef",
+  "entityPrefab_fid": "1390052914919748",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "29dce9d69d82180469918f20b6966f1f",
+      "name": "EpicHorseAttack",
+      "minDamage": "40",
+      "maxDamage": "50",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0.5",
+      "ignoreDefense": "0.4",
+      "criticalChance": "0.2",
+      "criticalValue": "2"
+    }
+  ],
+  "id": "EpicHorseGray",
+  "loc_key": "Entity.EpicHorseGray",
+  "skinning_drops": [
+    {
+      "itemId": "MediumRawHide",
+      "chance": "1",
+      "min": "2",
+      "max": "4"
+    },
+    {
+      "itemId": "Intestines",
+      "chance": "0.5",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "AnimalStomach",
+      "chance": "0.03",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "AnimalHoof",
+      "chance": "0.02",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "OrganicsClot",
+      "chance": "1",
+      "min": "3",
+      "max": "5"
+    }
+  ]
+}

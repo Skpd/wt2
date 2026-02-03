@@ -1,0 +1,21 @@
+{
+  "m_Name": "BannockBake",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "17b572f1916e17b4e9a6f5e1e114cde9",
+      "amount": "1",
+      "name": "Dough",
+      "loc_key": "Item.Dough"
+    }
+  ],
+  "products": [
+    {
+      "guid": "eea2d0ca4406263469c6e94c638ff679",
+      "amount": "1",
+      "name": "Bannock",
+      "loc_key": "Item.Bannock"
+    }
+  ],
+  "id": "BannockBake"
+}

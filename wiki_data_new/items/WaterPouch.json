@@ -1,0 +1,11 @@
+{
+  "m_Name": "WaterPouch",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "1eb858a825ccd154b9bda6ab47121bb2",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "3",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "WaterPouch",
+  "loc_key": "Item.WaterPouch"
+}

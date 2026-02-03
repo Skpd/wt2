@@ -1,0 +1,40 @@
+{
+  "m_Name": "VeteranSilverSword",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "ddc0253930934b943befc26891479136",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "2469.8",
+  "craftMaterialsBuyUpPricePercent": "2",
+  "entityMaxLevel": "0",
+  "minDamage": "35",
+  "maxDamage": "43",
+  "minPlagueDamage": "0",
+  "maxPlagueDamage": "0",
+  "criticalChance": "0.12",
+  "criticalValue": "2.25",
+  "dismountChance": "0",
+  "splash": "1",
+  "isAOE": "0",
+  "projectileAOERange": "0",
+  "prefabAOEName": null,
+  "ignoreAvoidingDamage": "0",
+  "ignoreAbsorb": "0",
+  "ignoreDefense": "0",
+  "abilityName": null,
+  "effectLevelLimit": "0",
+  "effects": [],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "0"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  "id": "VeteranSilverSword",
+  "loc_key": "Item.VeteranSilverSword"
+}

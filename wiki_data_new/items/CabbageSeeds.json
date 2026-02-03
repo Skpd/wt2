@@ -1,0 +1,11 @@
+{
+  "m_Name": "CabbageSeeds",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "3d14bbed2124d9746aec8b69574668e1",
+  "image_fid": "21300000",
+  "sellPrice": "25",
+  "buyUpPrice": "0.05",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "CabbageSeeds",
+  "loc_key": "Item.CabbageSeeds"
+}

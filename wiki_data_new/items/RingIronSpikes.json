@@ -1,0 +1,11 @@
+{
+  "m_Name": "RingIronSpikes",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "e573a2abc46075542a839aaa4ad8bfdd",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "1.3",
+  "id": "RingIronSpikes",
+  "loc_key": "Item.RingIronSpikes"
+}

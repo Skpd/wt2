@@ -1,0 +1,19 @@
+{
+  "m_Name": "DwarvenMinerNote",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "b05daf1d374c19f468afaa0f87d65563",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "100",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "DwarvenMinerNote",
+  "loc_key": "Item.DwarvenMinerNote",
+  "dropped_by": [
+    {
+      "sourceId": "DwarfDigger",
+      "chance": 0.4,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

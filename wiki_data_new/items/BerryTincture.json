@@ -1,0 +1,11 @@
+{
+  "m_Name": "BerryTincture",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "deb72a54e9a4a4f42a3c2614aeb7552e",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "20",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BerryTincture",
+  "loc_key": "Item.BerryTincture"
+}

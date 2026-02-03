@@ -1,0 +1,11 @@
+{
+  "m_Name": "Kiwi",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "c56c3a43f09d1094c8274f020b071d63",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.25",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Kiwi",
+  "loc_key": "Item.Kiwi"
+}

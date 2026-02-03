@@ -1,0 +1,11 @@
+{
+  "m_Name": "MechanicalTubes",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "d6732b02f8f993c4588cabe3fb06b2e7",
+  "image_fid": "21300000",
+  "sellPrice": "25",
+  "buyUpPrice": "5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "MechanicalTubes",
+  "loc_key": "Item.MechanicalTubes"
+}

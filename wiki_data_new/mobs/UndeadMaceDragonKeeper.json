@@ -1,0 +1,88 @@
+{
+  "m_Name": "UndeadMaceDragonKeeper",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "500",
+  "stamina": "100",
+  "level": "50",
+  "walkSpeed": "1",
+  "runSpeed": "3",
+  "image": "f2ab3ee1500047f4db63c7d6a7a0fde9",
+  "image_fid": "21300000",
+  "entityClass": "10",
+  "mobBehaviour": "1ffb7607b4dfea441a4aafc9f96b3976",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "955916d4d4b719a40afb088e4271ea1b",
+  "entityPrefab_fid": "1418069549707139",
+  "entityBonuses": {
+    "Defense": "0.5",
+    "PlagueDefense": "0.5",
+    "Absorption": "10",
+    "Block": "0.25",
+    "BlockProjectile": "0.35"
+  },
+  "skills": [
+    {
+      "id": "a2e71cb6adc53184e956e4ab2eeaaf1e",
+      "name": "UndeadMaceDragonKeeperAttack",
+      "minDamage": "45",
+      "maxDamage": "65",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.5",
+      "ignoreDefense": "0.3",
+      "criticalChance": "0.1",
+      "criticalValue": "1.2"
+    }
+  ],
+  "id": "UndeadMaceDragonKeeper",
+  "loc_key": "Entity.UndeadMaceDragonKeeper",
+  "skinning_drops": [
+    {
+      "itemId": "Worm",
+      "chance": "1",
+      "min": "2",
+      "max": "4"
+    },
+    {
+      "itemId": "LeprousVeins",
+      "chance": "0.7",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "LeprousVeins",
+      "chance": "0.3",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "LeprousOrgans",
+      "chance": "0.3",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "RawDeadFlesh",
+      "chance": "0.3",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "LeprousBlood",
+      "chance": "0.1",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "LeprousBone",
+      "chance": "0.1",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "UndeadHand",
+      "chance": "0.005",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "RawCharlotte",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "fddc9a5b5482f78468d457d70a6700d5",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "10",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "RawCharlotte",
+  "loc_key": "Item.RawCharlotte"
+}

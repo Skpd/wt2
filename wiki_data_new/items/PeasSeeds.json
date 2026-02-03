@@ -1,0 +1,11 @@
+{
+  "m_Name": "PeasSeeds",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "87790154a231d064fbd1d750279eb66d",
+  "image_fid": "21300000",
+  "sellPrice": "10",
+  "buyUpPrice": "0.05",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "PeasSeeds",
+  "loc_key": "Item.PeasSeeds"
+}

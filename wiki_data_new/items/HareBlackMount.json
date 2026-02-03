@@ -1,0 +1,20 @@
+{
+  "m_Name": "HareBlackMount",
+  "m_Script": "f5673bd2393c13a27685bda14e28f91a",
+  "image": "6a6c428f56c7c5743bfd46ae84fa7d14",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "HareBlackMount",
+  "loc_key": "Item.HareBlackMount",
+  "dropped_by": [
+    {
+      "sourceId": "HareBlack5",
+      "chance": "0.18",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    }
+  ]
+}

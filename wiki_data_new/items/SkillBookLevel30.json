@@ -1,0 +1,49 @@
+{
+  "m_Name": "SkillBookLevel30",
+  "m_Script": "b16db3d39d738f81b76a135cf01093de",
+  "image": "767503c50b6b9474db9812b67af02823",
+  "image_fid": "21300000",
+  "sellPrice": "50000",
+  "buyUpPrice": "3000",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SkillBookLevel30",
+  "loc_key": "Item.SkillBookLevel30",
+  "dropped_by": [
+    {
+      "sourceId": "SewersFinalChest",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DemonWeak",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DemonBrute",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DragonRex",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "PlagueDragon",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfCursedChampion",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "m_Name": "PearAleFermentation",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "66c539d92e6f1434c82839e7fa29acb9",
+      "amount": "1",
+      "name": "BeerWort",
+      "loc_key": "Item.BeerWort"
+    },
+    {
+      "guid": "3898d0e4a12051f4a8b3f96f7cbb5509",
+      "amount": "1",
+      "name": "WaterJug",
+      "loc_key": "Item.WaterJug"
+    },
+    {
+      "guid": "99d35305bbc7a484b807d7a67c0ea229",
+      "amount": "1",
+      "name": "SpiceSugar",
+      "loc_key": "Item.SpiceSugar"
+    },
+    {
+      "guid": "6cca04d03789b554bbc38966afd546c4",
+      "amount": "1",
+      "name": "JuicePear",
+      "loc_key": "Item.JuicePear"
+    }
+  ],
+  "products": [
+    {
+      "guid": "e8811e2088bebbe44bf482b54819a9f2",
+      "amount": "1",
+      "name": "PearAle",
+      "loc_key": "Item.PearAle"
+    }
+  ],
+  "id": "PearAleFermentation"
+}

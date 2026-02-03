@@ -1,0 +1,27 @@
+{
+  "m_Name": "Saw_WoodBalks",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "a75227aa7a5c43e4f9d09c8b43cc38e3",
+      "amount": "4",
+      "name": "WoodLogs",
+      "loc_key": "Item.WoodLogs"
+    },
+    {
+      "guid": "6bb16b153b464774b8a569914ca99aa5",
+      "amount": "4",
+      "name": "WoodBarkLiquor",
+      "loc_key": "Item.WoodBarkLiquor"
+    }
+  ],
+  "products": [
+    {
+      "guid": "4f69386ce823ba14e996fd13cf6b5e1e",
+      "amount": "5",
+      "name": "WoodBalks",
+      "loc_key": "Item.WoodBalks"
+    }
+  ],
+  "id": "Saw_WoodBalks"
+}

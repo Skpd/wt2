@@ -1,0 +1,21 @@
+{
+  "m_Name": "Hunter-Three-03-KillBearLarge",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "dbbd65a03bea5164784da9022840adf8",
+  "predecessors": [
+    "Hunter-Three-02-KillSwampReptileLarge"
+  ],
+  "npcTaker": "dbbd65a03bea5164784da9022840adf8",
+  "reward": {
+    "money": "2500",
+    "guildXp": "0",
+    "amount": "0"
+  },
+  "id": "Hunter-Three-03-KillBearLarge",
+  "npcGiverName": "CityBreederErmak",
+  "npcTakerName": "CityBreederErmak",
+  "group": "General"
+}

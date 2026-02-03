@@ -1,0 +1,12 @@
+{
+  "m_Name": "JackLantern",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "2a4820d0aca3e1747abde3d3e247df56",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "JackLantern",
+  "loc_key": "Item.JackLantern",
+  "icon_path": "textures/jack_lantern.png"
+}

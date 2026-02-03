@@ -1,0 +1,50 @@
+{
+  "m_Name": "ReptileKnife2",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "a9679f237d6fd2149a8af091e79b4961",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "143406.8",
+  "craftMaterialsBuyUpPricePercent": "1",
+  "entityMaxLevel": "0",
+  "minDamage": "14",
+  "maxDamage": "20",
+  "minPlagueDamage": "5",
+  "maxPlagueDamage": "10",
+  "criticalChance": "0.33",
+  "criticalValue": "3",
+  "dismountChance": "0",
+  "splash": "0",
+  "isAOE": "0",
+  "projectileAOERange": "0",
+  "prefabAOEName": null,
+  "ignoreAvoidingDamage": "0",
+  "ignoreAbsorb": "0",
+  "ignoreDefense": "0",
+  "abilityName": null,
+  "effectLevelLimit": "0",
+  "effects": [
+    {
+      "effect": {
+        "fileID": "11400000",
+        "guid": "abfc567efe627b64abf8d62a708a4887",
+        "type": "2"
+      },
+      "chance": "0.2",
+      "time": "8"
+    }
+  ],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "0"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  "id": "ReptileKnife2",
+  "loc_key": "Item.ReptileKnife2"
+}

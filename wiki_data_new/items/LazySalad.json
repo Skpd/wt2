@@ -1,0 +1,12 @@
+{
+  "m_Name": "LazySalad",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "ee9a2a5a9fd840643883b34a41ca7031",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "LazySalad",
+  "loc_key": "Item.LazySalad",
+  "icon_path": "textures/LazySalad.png"
+}

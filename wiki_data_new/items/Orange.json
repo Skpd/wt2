@@ -1,0 +1,11 @@
+{
+  "m_Name": "Orange",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "87404263cc2fa094a8a1f707ae300a9a",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.25",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Orange",
+  "loc_key": "Item.Orange"
+}

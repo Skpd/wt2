@@ -1,0 +1,38 @@
+{
+  "m_Name": "AdventurerCloak",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "660aacf3f69f3a1488d9fd3ad6ffd92f",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "AdventurerCloak",
+  "loc_key": "Item.AdventurerCloak",
+  "icon_path": "textures/adventurer-cloak.png",
+  "dropped_by": [
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HideoutFinalChest",
+      "chance": 0.02,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HideoutFinalChest",
+      "chance": 0.04,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

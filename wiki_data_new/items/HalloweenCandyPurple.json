@@ -1,0 +1,31 @@
+{
+  "m_Name": "HalloweenCandyPurple",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "c9caf28d53faf674ba81ee3f2471676e",
+  "image_fid": "21300000",
+  "sellPrice": "0",
+  "buyUpPrice": "0",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "HalloweenCandyPurple",
+  "loc_key": "Item.HalloweenCandyPurple",
+  "dropped_by": [
+    {
+      "sourceId": "HalloweenGodsend",
+      "chance": 0.014285714285714287,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HalloweenGrave",
+      "chance": 0.0125,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "UndeadSwordHalloween",
+      "chance": 0.08333333333333333,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

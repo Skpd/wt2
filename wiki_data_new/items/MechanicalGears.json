@@ -1,0 +1,11 @@
+{
+  "m_Name": "MechanicalGears",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "ab3e13660fbb6c34183b5153d8400efe",
+  "image_fid": "21300000",
+  "sellPrice": "25",
+  "buyUpPrice": "5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "MechanicalGears",
+  "loc_key": "Item.MechanicalGears"
+}

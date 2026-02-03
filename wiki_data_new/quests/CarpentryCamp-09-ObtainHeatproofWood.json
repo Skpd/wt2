@@ -1,0 +1,21 @@
+{
+  "m_Name": "CarpentryCamp-09-ObtainHeatproofWood",
+  "m_Script": "bbef8bd82ea7ec3f83b28462fb539071",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "c691fc22711f7524f903f7d5151967b9",
+  "predecessors": [
+    "CarpentryCamp-08-SearchDriedTree"
+  ],
+  "npcTaker": "c691fc22711f7524f903f7d5151967b9",
+  "reward": {
+    "money": "2000",
+    "guildXp": "0",
+    "amount": "0"
+  },
+  "id": "CarpentryCamp-09-ObtainHeatproofWood",
+  "npcGiverName": "CarpentryCampOakcrusher",
+  "npcTakerName": "CarpentryCampOakcrusher",
+  "group": "General"
+}

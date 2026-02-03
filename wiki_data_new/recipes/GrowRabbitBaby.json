@@ -1,0 +1,14 @@
+{
+  "m_Name": "GrowRabbitBaby",
+  "m_Script": "37d6a230f8991a4267be4fd19e466e02",
+  "resources": [
+    {
+      "guid": "e96ecd4567662fb448b14ae0b770c085",
+      "amount": "5",
+      "name": "Carrot",
+      "loc_key": "Item.Carrot"
+    }
+  ],
+  "products": [],
+  "id": "GrowRabbitBaby"
+}

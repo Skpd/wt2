@@ -1,0 +1,11 @@
+{
+  "m_Name": "WarmingOintment",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "cbfdfd1c53120ad439d7db8a48d8d160",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "3",
+  "craftMaterialsBuyUpPricePercent": "1.1",
+  "id": "WarmingOintment",
+  "loc_key": "Item.WarmingOintment"
+}

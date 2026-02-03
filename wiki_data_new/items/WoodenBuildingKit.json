@@ -1,0 +1,12 @@
+{
+  "m_Name": "WoodenBuildingKit",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "c272d1de48be4ed4d9105e5d8c889b4f",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "WoodenBuildingKit",
+  "loc_key": "Item.WoodenBuildingKit",
+  "icon_path": "textures/wooden_building_kit.png"
+}

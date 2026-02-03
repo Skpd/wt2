@@ -1,0 +1,49 @@
+{
+  "m_Name": "BottleMapQuestItem",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "5d0aea4321aeeb741b778b88112dcba7",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "10",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BottleMapQuestItem",
+  "loc_key": "Item.BottleMapQuestItem",
+  "dropped_by": [
+    {
+      "sourceId": "GodsendGraveyard",
+      "chance": 0.005,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "GodsendMainland",
+      "chance": 0.005,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "GodsendMainlandSouth",
+      "chance": 0.0075,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "SkeletonWarrior",
+      "chance": 0.0025,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "SkeletonRanger",
+      "chance": 0.0025,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HideoutGodsensBody",
+      "chance": 0.0025,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

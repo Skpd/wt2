@@ -1,0 +1,34 @@
+{
+  "m_Name": "HewnStone",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "7526a2b182c8530429b5437b2042e36e",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.05",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "HewnStone",
+  "loc_key": "Item.HewnStone",
+  "dropped_by": [
+    {
+      "sourceId": "StoneArcher",
+      "chance": "1",
+      "min": "20",
+      "max": "40",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "StoneFlailer",
+      "chance": "1",
+      "min": "20",
+      "max": "40",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "StoneSwordsman",
+      "chance": "1",
+      "min": "20",
+      "max": "40",
+      "type": "Skinning"
+    }
+  ]
+}

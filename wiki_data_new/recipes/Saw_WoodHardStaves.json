@@ -1,0 +1,21 @@
+{
+  "m_Name": "Saw_WoodHardStaves",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "41e815b959518044bad4e092841a7be6",
+      "amount": "8",
+      "name": "WoodHardPoles",
+      "loc_key": "Item.WoodHardPoles"
+    }
+  ],
+  "products": [
+    {
+      "guid": "cc8406623e5f2ae4aba918d1c28129d3",
+      "amount": "4",
+      "name": "WoodHardStaves",
+      "loc_key": "Item.WoodHardStaves"
+    }
+  ],
+  "id": "Saw_WoodHardStaves"
+}

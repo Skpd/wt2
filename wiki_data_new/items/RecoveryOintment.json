@@ -1,0 +1,11 @@
+{
+  "m_Name": "RecoveryOintment",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "54da5e5a87743a648b84acf987d6f703",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "1",
+  "id": "RecoveryOintment",
+  "loc_key": "Item.RecoveryOintment"
+}

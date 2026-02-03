@@ -1,0 +1,59 @@
+{
+  "m_Name": "MineSpiderLarge",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "875",
+  "stamina": "100",
+  "level": "32",
+  "walkSpeed": "2",
+  "runSpeed": "4",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "2",
+  "mobBehaviour": "9a91df156d5ca1a48be0638cc52fc6f3",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "a215d0bdb4fcf3d47acdb8763db49c59",
+  "entityPrefab_fid": "1941543832760466",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "1af53a3a43254ab4baec949c2d389edb",
+      "name": "MineSpiderAttackLarge",
+      "minDamage": "42",
+      "maxDamage": "60",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0.1",
+      "ignoreDefense": "0",
+      "criticalChance": "0.25",
+      "criticalValue": "1.5"
+    }
+  ],
+  "id": "MineSpiderLarge",
+  "loc_key": "Entity.MineSpiderLarge",
+  "skinning_drops": [
+    {
+      "itemId": "Chitin",
+      "chance": "1",
+      "min": "3",
+      "max": "6"
+    },
+    {
+      "itemId": "Glue",
+      "chance": "0.6",
+      "min": "3",
+      "max": "3"
+    },
+    {
+      "itemId": "MoldySilk",
+      "chance": "0.04",
+      "min": "2",
+      "max": "2"
+    },
+    {
+      "itemId": "SpiderFingers",
+      "chance": "0.005",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

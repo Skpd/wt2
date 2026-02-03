@@ -1,0 +1,49 @@
+{
+  "m_Name": "LootPlagueOldClayMug",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "ba409cd06ae0e2f4ea6bafd8c3f040f8",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "15",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "LootPlagueOldClayMug",
+  "loc_key": "Item.LootPlagueOldClayMug",
+  "dropped_by": [
+    {
+      "sourceId": "PlagueCityBrokenFurniture",
+      "chance": 0.14285714285714285,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "PlagueCityBrokenFurniture",
+      "chance": 0.14285714285714285,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "PlagueCityBrokenFurniture",
+      "chance": 0.14285714285714285,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "PlagueCityBrokenFurniture",
+      "chance": 0.14285714285714285,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "PlagueCityBrokenFurniture",
+      "chance": 0.14285714285714285,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "PlagueCityBrokenFurniture",
+      "chance": 0.14285714285714285,
+      "min": 2,
+      "max": 2
+    }
+  ]
+}

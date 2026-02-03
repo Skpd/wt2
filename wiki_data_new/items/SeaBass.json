@@ -1,0 +1,11 @@
+{
+  "m_Name": "SeaBass",
+  "m_Script": "53d85703288a41ce0e87dcdb381b2599",
+  "image": "21d56584e47f4924097046cbb6bb4e08",
+  "image_fid": "21300000",
+  "sellPrice": "250",
+  "buyUpPrice": "8",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SeaBass",
+  "loc_key": "Item.SeaBass"
+}

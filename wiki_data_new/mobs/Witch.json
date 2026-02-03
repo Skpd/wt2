@@ -1,0 +1,231 @@
+{
+  "m_Name": "Witch",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "3000",
+  "stamina": "100",
+  "level": "35",
+  "walkSpeed": "2",
+  "runSpeed": "4",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "10",
+  "mobBehaviour": "1ffb7607b4dfea441a4aafc9f96b3976",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "657a22909679bc94bbc37801d7f9a3d5",
+  "entityPrefab_fid": "1709796163793378",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "cc3e0101355889d429a4882aea07ca89",
+      "name": "WitchBall",
+      "minDamage": "15",
+      "maxDamage": "20",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.5",
+      "ignoreDefense": "0.5",
+      "criticalChance": "1",
+      "criticalValue": "1"
+    },
+    {
+      "id": "835d1ad36ffad4a428dc76288141cb8d",
+      "name": "WitchCurse",
+      "minDamage": "20",
+      "maxDamage": "30",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.2",
+      "ignoreDefense": "0.3",
+      "criticalChance": "1",
+      "criticalValue": "1"
+    },
+    {
+      "id": "6e78e9e5c5ade424385cee1f7b423ad3",
+      "name": "WitchAOE",
+      "minDamage": "20",
+      "maxDamage": "40",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.3",
+      "ignoreDefense": "0.4",
+      "criticalChance": "1",
+      "criticalValue": "1"
+    }
+  ],
+  "id": "Witch",
+  "loc_key": "Entity.Witch",
+  "drops": [
+    {
+      "itemId": "Money",
+      "chance": 1,
+      "min": 500,
+      "max": 1000
+    },
+    {
+      "itemId": "HalloweenGift",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "PumpkinBeer",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "PumpkinSalad",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "PumpkinBannock",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "PumpkinEssence",
+      "chance": 0.09999999999999999,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "HalloweenCupcake",
+      "chance": 0.09999999999999999,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "HalloweenCookieGhost",
+      "chance": 0.09999999999999999,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "PumpkinBannock",
+      "chance": 0.09999999999999999,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "PumpkinSalad",
+      "chance": 0.09999999999999999,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "HalloweenCandy",
+      "chance": 0.09999999999999999,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "HalloweenWitchThread",
+      "chance": 0.26666666666666666,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "HalloweenWitchHerbs",
+      "chance": 0.26666666666666666,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "HalloweenCandle",
+      "chance": 0.26666666666666666,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "GemQualityFacetedAmethyst",
+      "chance": 0.2,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "GemQualityFacetedEmerald",
+      "chance": 0.2,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "GemQualityFacetedRuby",
+      "chance": 0.2,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "GemQualityFacetedSapphire",
+      "chance": 0.2,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "GemQualityFacetedTopaz",
+      "chance": 0.2,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "SpiceBlackPepper",
+      "chance": 0.25,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "itemId": "SpiceCinnamon",
+      "chance": 0.25,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "itemId": "SpiceSalt",
+      "chance": 0.25,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "itemId": "SpiceSugar",
+      "chance": 0.25,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "itemId": "RatTailOrgan",
+      "chance": 0.026000000000000002,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "WeedPlant",
+      "chance": 0.026000000000000002,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "GoatTongue",
+      "chance": 0.026000000000000002,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "ViperHead",
+      "chance": 0.026000000000000002,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SkeletonSkull",
+      "chance": 0.026000000000000002,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "HalloweenWitchSkull",
+      "chance": 0.05,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

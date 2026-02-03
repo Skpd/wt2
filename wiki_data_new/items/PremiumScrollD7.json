@@ -1,0 +1,11 @@
+{
+  "m_Name": "PremiumScrollD7",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "5dc41bfbe726cfd4592b7e8645f00b06",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "PremiumScrollD7",
+  "loc_key": "Item.PremiumScrollD7"
+}

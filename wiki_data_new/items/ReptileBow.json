@@ -1,0 +1,50 @@
+{
+  "m_Name": "ReptileBow",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "54684785b7fc30a4abdc03143dc851b0",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "40004.758",
+  "craftMaterialsBuyUpPricePercent": "1",
+  "entityMaxLevel": "0",
+  "minDamage": "45",
+  "maxDamage": "55",
+  "minPlagueDamage": "8",
+  "maxPlagueDamage": "15",
+  "criticalChance": "0.1",
+  "criticalValue": "2.3",
+  "dismountChance": "0",
+  "splash": "0",
+  "isAOE": "0",
+  "projectileAOERange": "0",
+  "prefabAOEName": null,
+  "ignoreAvoidingDamage": "0",
+  "ignoreAbsorb": "0",
+  "ignoreDefense": "0",
+  "abilityName": null,
+  "effectLevelLimit": "0",
+  "effects": [
+    {
+      "effect": {
+        "fileID": "11400000",
+        "guid": "abfc567efe627b64abf8d62a708a4887",
+        "type": "2"
+      },
+      "chance": "0.1",
+      "time": "5"
+    }
+  ],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "0"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  "id": "ReptileBow",
+  "loc_key": "Item.ReptileBow"
+}

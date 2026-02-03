@@ -1,0 +1,21 @@
+{
+  "m_Name": "BakeRawFishCutlets",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "f3da7436c162ca04a9f647f2de4ef644",
+      "amount": "1",
+      "name": "RawFishCutlets",
+      "loc_key": "Item.RawFishCutlets"
+    }
+  ],
+  "products": [
+    {
+      "guid": "65f5e14e933a4cf41b7495d91b781310",
+      "amount": "1",
+      "name": "FishCutletsAfterBake",
+      "loc_key": "Item.FishCutletsAfterBake"
+    }
+  ],
+  "id": "BakeRawFishCutlets"
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "HalibutPie",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "f3fee6ce8e566674bb1efe3a988ec26e",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "100",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "HalibutPie",
+  "loc_key": "Item.HalibutPie"
+}

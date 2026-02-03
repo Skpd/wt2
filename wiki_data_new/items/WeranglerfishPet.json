@@ -1,0 +1,11 @@
+{
+  "m_Name": "WeranglerfishPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "9a396e6f2609d89419737dc5a3188c5e",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "WeranglerfishPet",
+  "loc_key": "Item.WeranglerfishPet"
+}

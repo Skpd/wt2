@@ -1,0 +1,21 @@
+{
+  "m_Name": "CauldronBoiledEggs",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "c96ca6b2e2e6df4438568cec07873777",
+      "amount": "1",
+      "name": "WildEggs",
+      "loc_key": "Item.WildEggs"
+    }
+  ],
+  "products": [
+    {
+      "guid": "3babab146d0ae894f9c09a7c5a2509ea",
+      "amount": "1",
+      "name": "BoiledEggs",
+      "loc_key": "Item.BoiledEggs"
+    }
+  ],
+  "id": "CauldronBoiledEggs"
+}

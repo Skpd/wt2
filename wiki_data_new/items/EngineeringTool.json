@@ -1,0 +1,11 @@
+{
+  "m_Name": "EngineeringTool",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "95ccd526ba527374d867b19682d7dd68",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "282",
+  "craftMaterialsBuyUpPricePercent": "1.5",
+  "id": "EngineeringTool",
+  "loc_key": "Item.EngineeringTool"
+}

@@ -1,0 +1,33 @@
+{
+  "m_Name": "Clay_UnfiredGlass",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "3ec7933650f9ae643a96e16adf4ceb32",
+      "amount": "16",
+      "name": "Sand",
+      "loc_key": "Item.Sand"
+    },
+    {
+      "guid": "cab434caa5579504384cf5c2dcf6bd52",
+      "amount": "8",
+      "name": "Lime",
+      "loc_key": "Item.Lime"
+    },
+    {
+      "guid": "1c57f79c5bec2b842b93ffe2e2e76db5",
+      "amount": "8",
+      "name": "Chitin",
+      "loc_key": "Item.Chitin"
+    }
+  ],
+  "products": [
+    {
+      "guid": "1d2545eeb45646f469fa563a9dec1e87",
+      "amount": "5",
+      "name": "UnfiredGlass",
+      "loc_key": "Item.UnfiredGlass"
+    }
+  ],
+  "id": "Clay_UnfiredGlass"
+}

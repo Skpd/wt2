@@ -1,0 +1,37 @@
+{
+  "m_Name": "HumanFinger",
+  "m_Script": "420e0e364fdb917921d229f1b4a22ed9",
+  "image": "6545a68f74afa5f4d83f3d808b907925",
+  "image_fid": "21300000",
+  "sellPrice": "2500",
+  "buyUpPrice": "250",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "HumanFinger",
+  "loc_key": "Item.HumanFinger",
+  "dropped_by": [
+    {
+      "sourceId": "Reaper",
+      "chance": 0.05,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DemonWeak",
+      "chance": 0.05,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DemonBrute",
+      "chance": 0.05,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "FatOgre",
+      "chance": 0.05,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

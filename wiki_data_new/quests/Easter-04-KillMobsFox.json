@@ -1,0 +1,23 @@
+{
+  "m_Name": "Easter-04-KillMobsFox",
+  "m_Script": "c1970cf3678c9b688fd0652b2161d53d",
+  "line": "8",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "23b5f2c62fb06a147afb6b6229f6313d",
+  "predecessors": [
+    "Easter-03-ObtainEasterBasketEggs"
+  ],
+  "npcTaker": "23b5f2c62fb06a147afb6b6229f6313d",
+  "reward": {
+    "money": "500",
+    "guildXp": "0",
+    "amount": "5",
+    "rewardItem": "81372ed051881b84f906743e4fe0de2f",
+    "rewardItemName": "EasterHerbs"
+  },
+  "id": "Easter-04-KillMobsFox",
+  "npcGiverName": "EasterMrBunny",
+  "npcTakerName": "EasterMrBunny",
+  "group": "General"
+}

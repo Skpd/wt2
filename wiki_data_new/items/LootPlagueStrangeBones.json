@@ -1,0 +1,55 @@
+{
+  "m_Name": "LootPlagueStrangeBones",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "ceb18c7c465b2a5429e92dd784dd1ce9",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "18",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "LootPlagueStrangeBones",
+  "loc_key": "Item.LootPlagueStrangeBones",
+  "dropped_by": [
+    {
+      "sourceId": "PlagueCityCorpses",
+      "chance": 0.1111111111111111,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "PlagueSkeletonsCorpses",
+      "chance": 0.25,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "PlagueSkeletonsCorpses",
+      "chance": 0.25,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "PlagueSkeletonsCorpses",
+      "chance": 0.25,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "PlagueSpidersWeb",
+      "chance": 0.05,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "PlagueSpidersWeb",
+      "chance": 0.05,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "PlagueSpidersWeb",
+      "chance": 0.05,
+      "min": 1,
+      "max": 3
+    }
+  ]
+}

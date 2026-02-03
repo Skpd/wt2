@@ -1,0 +1,33 @@
+{
+  "m_Name": "Cookery_FishFat",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "84d190ccf3f13334395ed7218433c473",
+      "amount": "4",
+      "name": "FishFillet",
+      "loc_key": "Item.FishFillet"
+    },
+    {
+      "guid": "50ec2e53c017e374eb0e14001d671700",
+      "amount": "4",
+      "name": "SeaFishFillet",
+      "loc_key": "Item.SeaFishFillet"
+    },
+    {
+      "guid": "a6cf2961ded0f184a85633e2e065d3c2",
+      "amount": "4",
+      "name": "ClayJug",
+      "loc_key": "Item.ClayJug"
+    }
+  ],
+  "products": [
+    {
+      "guid": "96fbcb6a91948bd45830777e7b94cfd1",
+      "amount": "5",
+      "name": "FishFat",
+      "loc_key": "Item.FishFat"
+    }
+  ],
+  "id": "Cookery_FishFat"
+}

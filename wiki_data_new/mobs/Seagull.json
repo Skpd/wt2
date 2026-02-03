@@ -1,0 +1,34 @@
+{
+  "m_Name": "Seagull",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "10",
+  "stamina": "100",
+  "level": "1",
+  "walkSpeed": "1.6",
+  "runSpeed": "3.5",
+  "image": "1e7fcba8a7f6e6948aad2834cca640b1",
+  "image_fid": "21300000",
+  "entityClass": "8",
+  "mobBehaviour": "104ad351df3bc714e868744b5b1384ea",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "5e2857e895140654f9990eefb9087511",
+  "entityPrefab_fid": "1352761696169474",
+  "entityBonuses": {},
+  "skills": [],
+  "id": "Seagull",
+  "loc_key": "Entity.Seagull",
+  "skinning_drops": [
+    {
+      "itemId": "Feather",
+      "chance": "1",
+      "min": "2",
+      "max": "5"
+    },
+    {
+      "itemId": "BirdsEye",
+      "chance": "0.04",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

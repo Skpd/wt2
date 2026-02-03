@@ -1,0 +1,11 @@
+{
+  "m_Name": "FarmRabbitMale",
+  "m_Script": "19aae51a76263c851ea99fd1d6839342",
+  "image": "10e1cb84d6c8ab24ea9e1c9a9b64eed1",
+  "image_fid": "21300000",
+  "sellPrice": "9000",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "FarmRabbitMale",
+  "loc_key": "Item.FarmRabbitMale"
+}

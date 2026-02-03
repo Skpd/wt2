@@ -1,0 +1,33 @@
+{
+  "m_Name": "Ammo_IronBolt",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "34c68323c2bb5ed47b513105610b12cd",
+      "amount": "25",
+      "name": "MediumLeatherScrap",
+      "loc_key": "Item.MediumLeatherScrap"
+    },
+    {
+      "guid": "3e8991e0b4b092b4595244d4ffc2be0d",
+      "amount": "5",
+      "name": "IronLines",
+      "loc_key": "Item.IronLines"
+    },
+    {
+      "guid": "5280b4e0c8bfc4d4d880da274930bce3",
+      "amount": "25",
+      "name": "WoodHardSticks",
+      "loc_key": "Item.WoodHardSticks"
+    }
+  ],
+  "products": [
+    {
+      "guid": "21b742ac98f2e6545a41755ef6bde205",
+      "amount": "100",
+      "name": "IronBolt",
+      "loc_key": "Item.IronBolt"
+    }
+  ],
+  "id": "Ammo_IronBolt"
+}

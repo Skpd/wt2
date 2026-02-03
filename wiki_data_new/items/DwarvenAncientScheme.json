@@ -1,0 +1,31 @@
+{
+  "m_Name": "DwarvenAncientScheme",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "d1c225603bd43f447978500af364e9e2",
+  "image_fid": "21300000",
+  "sellPrice": "150",
+  "buyUpPrice": "150",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "DwarvenAncientScheme",
+  "loc_key": "Item.DwarvenAncientScheme",
+  "dropped_by": [
+    {
+      "sourceId": "DwarfFortFinalChest",
+      "chance": 1,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "DwarfFortFinalChest",
+      "chance": 0.125,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfFortFinalChest",
+      "chance": 0.125,
+      "min": 2,
+      "max": 2
+    }
+  ]
+}

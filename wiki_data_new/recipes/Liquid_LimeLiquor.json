@@ -1,0 +1,27 @@
+{
+  "m_Name": "Liquid_LimeLiquor",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "cab434caa5579504384cf5c2dcf6bd52",
+      "amount": "4",
+      "name": "Lime",
+      "loc_key": "Item.Lime"
+    },
+    {
+      "guid": "27d507923a0f91a489ebecc6d7e70fd4",
+      "amount": "4",
+      "name": "Water",
+      "loc_key": "Item.Water"
+    }
+  ],
+  "products": [
+    {
+      "guid": "cdc551fca64b1f340af42f54deeb4202",
+      "amount": "5",
+      "name": "LimeLiquor",
+      "loc_key": "Item.LimeLiquor"
+    }
+  ],
+  "id": "Liquid_LimeLiquor"
+}

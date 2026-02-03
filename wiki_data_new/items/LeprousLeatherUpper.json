@@ -1,0 +1,19 @@
+{
+  "m_Name": "LeprousLeatherUpper",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "8a17407f5f4af5442b395c1ba846bd5e",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "868.02",
+  "craftMaterialsBuyUpPricePercent": "1.7",
+  "id": "LeprousLeatherUpper",
+  "loc_key": "Item.LeprousLeatherUpper",
+  "dropped_by": [
+    {
+      "sourceId": "PlagueDragon",
+      "chance": 0.024999999999999998,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

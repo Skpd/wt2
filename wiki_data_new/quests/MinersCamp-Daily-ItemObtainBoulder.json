@@ -1,0 +1,23 @@
+{
+  "m_Name": "MinersCamp-Daily-ItemObtainBoulder",
+  "m_Script": "a33fbc2ed7ad8fe58f2dcfb6e1a39cab",
+  "line": "0",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "d225f39b3523f7543baaf0f570a6acf2",
+  "predecessors": [
+    "MinersCamp-07-KillMobsKobolds"
+  ],
+  "npcTaker": "cc538b1fb3a4b9544aedd1b82b22aa43",
+  "reward": {
+    "money": "500",
+    "guildXp": "0",
+    "amount": "1",
+    "rewardItem": "fbf468e3b48f5fd489404e7afc86feb0",
+    "rewardItemName": "MinerRation"
+  },
+  "id": "MinersCamp-Daily-ItemObtainBoulder",
+  "npcGiverName": "MinersCampDailyQuests",
+  "npcTakerName": "MinersCampRonold",
+  "group": "Daily"
+}

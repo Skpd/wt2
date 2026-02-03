@@ -1,0 +1,48 @@
+{
+  "m_Name": "WoodHardLogs",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "bfca4dadd18d32d46aee38ddd9aaa7a8",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.15",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "WoodHardLogs",
+  "loc_key": "Item.WoodHardLogs",
+  "dropped_by": [
+    {
+      "sourceId": "BufomorphPet",
+      "chance": "1",
+      "min": "20",
+      "max": "30",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "DementedTreeEntPet",
+      "chance": "1",
+      "min": "20",
+      "max": "30",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "TreeEnt",
+      "chance": "1",
+      "min": "20",
+      "max": "30",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "EarthTitanPet",
+      "chance": "1",
+      "min": "20",
+      "max": "30",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "CrocodilePet",
+      "chance": "1",
+      "min": "20",
+      "max": "30",
+      "type": "Skinning"
+    }
+  ]
+}

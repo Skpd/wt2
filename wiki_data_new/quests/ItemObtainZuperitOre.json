@@ -1,0 +1,18 @@
+{
+  "m_Name": "ItemObtainZuperitOre",
+  "m_Script": "a33fbc2ed7ad8fe58f2dcfb6e1a39cab",
+  "line": "0",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "b6647622c2afd254cb5cbf794b5ab1b7",
+  "npcTaker": "876f3c2fb7d15044aa3b6d235cf3d3cf",
+  "reward": {
+    "money": "4000",
+    "guildXp": "0",
+    "amount": "0"
+  },
+  "id": "ItemObtainZuperitOre",
+  "npcGiverName": "MainIslandMountainDailyQuests",
+  "npcTakerName": "CitySmithHank",
+  "group": "Daily"
+}

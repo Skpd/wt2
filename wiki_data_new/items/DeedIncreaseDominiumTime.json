@@ -1,0 +1,11 @@
+{
+  "m_Name": "DeedIncreaseDominiumTime",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "8d5fde5940816a6498a7908d436e9eba",
+  "image_fid": "21300000",
+  "sellPrice": "25000",
+  "buyUpPrice": "5000",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "DeedIncreaseDominiumTime",
+  "loc_key": "Item.DeedIncreaseDominiumTime"
+}

@@ -1,0 +1,27 @@
+{
+  "m_Name": "SoakedMediumHideTanning",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "fba08432622eb244e8420beadc896bb5",
+      "amount": "1",
+      "name": "MediumHide",
+      "loc_key": "Item.MediumHide"
+    },
+    {
+      "guid": "27d507923a0f91a489ebecc6d7e70fd4",
+      "amount": "1",
+      "name": "Water",
+      "loc_key": "Item.Water"
+    }
+  ],
+  "products": [
+    {
+      "guid": "be1bfbb877964bf46a51cce4b2528365",
+      "amount": "1",
+      "name": "SoakedMediumHide",
+      "loc_key": "Item.SoakedMediumHide"
+    }
+  ],
+  "id": "SoakedMediumHideTanning"
+}

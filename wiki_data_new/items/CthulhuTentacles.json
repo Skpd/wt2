@@ -1,0 +1,20 @@
+{
+  "m_Name": "CthulhuTentacles",
+  "m_Script": "420e0e364fdb917921d229f1b4a22ed9",
+  "image": "bf685f16942537a43824774e3dd717f8",
+  "image_fid": "21300000",
+  "sellPrice": "2500",
+  "buyUpPrice": "250",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "CthulhuTentacles",
+  "loc_key": "Item.CthulhuTentacles",
+  "dropped_by": [
+    {
+      "sourceId": "UnderwaterBoss",
+      "chance": "0.2",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    }
+  ]
+}

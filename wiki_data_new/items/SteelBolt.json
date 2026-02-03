@@ -1,0 +1,11 @@
+{
+  "m_Name": "SteelBolt",
+  "m_Script": "b2cd456c67ed7fbd493e563aaef7330a",
+  "image": "caa75816d04b94348b78d89051f85a0e",
+  "image_fid": "21300000",
+  "sellPrice": "10",
+  "buyUpPrice": "0.1243",
+  "craftMaterialsBuyUpPricePercent": "1.1",
+  "id": "SteelBolt",
+  "loc_key": "Item.SteelBolt"
+}

@@ -1,0 +1,23 @@
+{
+  "m_Name": "BattlefieldFishing-02-CatchPufferfish",
+  "m_Script": "bbef8bd82ea7ec3f83b28462fb539071",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "c33919de331a8e64d8dfc5aaa353923e",
+  "predecessors": [
+    "BattlefieldFishing-01-CatchPiranha"
+  ],
+  "npcTaker": "c33919de331a8e64d8dfc5aaa353923e",
+  "reward": {
+    "money": "6000",
+    "guildXp": "0",
+    "amount": "5",
+    "rewardItem": "acd0015bcd1d5744ab0f14d32b8b2752",
+    "rewardItemName": "FishingSpoon"
+  },
+  "id": "BattlefieldFishing-02-CatchPufferfish",
+  "npcGiverName": "AbandonedBattlefieldFisherElmar",
+  "npcTakerName": "AbandonedBattlefieldFisherElmar",
+  "group": "General"
+}

@@ -1,0 +1,78 @@
+{
+  "m_Name": "EpicHorseGrayPet",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "1",
+  "stamina": "100",
+  "level": "1",
+  "walkSpeed": "3.6",
+  "runSpeed": "5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "1",
+  "mobBehaviour": {
+    "fileID": "0"
+  },
+  "entityPrefab": "1dc983a5c8377524f96e5dc1a0cbe8a2",
+  "entityPrefab_fid": "1784985588926663",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "a4fd0405d9575034bb2af1ad670a6631",
+      "name": "EpicHorsePetAttack",
+      "minDamage": "4",
+      "maxDamage": "10",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.2",
+      "criticalValue": "2"
+    }
+  ],
+  "id": "EpicHorseGrayPet",
+  "loc_key": "Entity.EpicHorseGrayPet",
+  "skinning_drops": [
+    {
+      "itemId": "MediumRawHide",
+      "chance": "1",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "RawGoatMeat",
+      "chance": "1",
+      "min": "2",
+      "max": "3"
+    },
+    {
+      "itemId": "Intestines",
+      "chance": "0.4",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "AnimalStomach",
+      "chance": "0.01",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "AnimalHoof",
+      "chance": "0.005",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "GoatTongue",
+      "chance": "0.01",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "OrganicsClot",
+      "chance": "1",
+      "min": "1",
+      "max": "3"
+    }
+  ]
+}

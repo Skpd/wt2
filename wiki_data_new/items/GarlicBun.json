@@ -1,0 +1,11 @@
+{
+  "m_Name": "GarlicBun",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "a0551310151cc0942abc73bf5255b66b",
+  "image_fid": "21300000",
+  "sellPrice": "500",
+  "buyUpPrice": "30",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "GarlicBun",
+  "loc_key": "Item.GarlicBun"
+}

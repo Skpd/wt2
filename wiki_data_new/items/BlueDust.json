@@ -1,0 +1,31 @@
+{
+  "m_Name": "BlueDust",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "525323c46481b7d4d93f189d9bc1b9ff",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "100",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BlueDust",
+  "loc_key": "Item.BlueDust",
+  "dropped_by": [
+    {
+      "sourceId": "HalloweenGrave",
+      "chance": 0.08333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HalloweenGrave",
+      "chance": 0.08333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "SkeletonHalloweenWarrior",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "m_Name": "Intestines",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "2556667210b9f6a4ca2650d7b824fd90",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.03",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Intestines",
+  "loc_key": "Item.Intestines",
+  "icon_path": "textures/Intestines.png",
+  "dropped_by": [
+    {
+      "sourceId": "UndeadPickaxeDungeon",
+      "chance": 0.4,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "UndeadAxeDungeon",
+      "chance": 0.4,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "UndeadAxe",
+      "chance": 0.4,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "UndeadMace",
+      "chance": 0.4,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "UndeadSword",
+      "chance": 0.4,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "UndeadMage",
+      "chance": 0.4,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "BloodyBear",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "ZombieBoarLarge",
+      "chance": "1",
+      "min": "3",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "ZombieBoar",
+      "chance": "0.5",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "WeresquidPet",
+      "chance": "0.5",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "CactusPet",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "ScorpionPet",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "LionPet",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "SkeletonGuardPet",
+      "chance": "0.5",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "FlySkullPet",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "ScorpionPetLarge",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "SkeletonKnightPet",
+      "chance": "0.5",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "WeranglerfishPet",
+      "chance": "0.5",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "OwlPet",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "ReaperPet",
+      "chance": "0.5",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "BearPet",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "HugeBoarPet",
+      "chance": "0.5",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "UsualHorsePintobayPet",
+      "chance": "0.4",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "RareHorseChestnutPet",
+      "chance": "0.4",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "UsualHorseBayPet",
+      "chance": "0.4",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "RareHorsePalominoPet",
+      "chance": "0.4",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "DeerPet",
+      "chance": "0.4",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "RareHorsePalominoPintoPet",
+      "chance": "0.4",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "EpicHorseGrayPet",
+      "chance": "0.4",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "BearPetLarge",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "ValorousKnightPet",
+      "chance": "0.5",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "GoatPet",
+      "chance": "0.4",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "BoarPet",
+      "chance": "0.5",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "EpicHorseBlackPintoPet",
+      "chance": "0.4",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "EpicHorseChestnutPintoPet",
+      "chance": "0.4",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "EpicHorseWhitePet",
+      "chance": "0.4",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "RareHorsePalominoPinto",
+      "chance": "0.5",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "UsualHorseBay",
+      "chance": "0.4",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "EpicHorseChestnutPinto",
+      "chance": "0.5",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Bear",
+      "chance": "1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "HugeBoar",
+      "chance": "0.5",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Boar",
+      "chance": "0.5",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "EpicHorseGray",
+      "chance": "0.5",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "UsualHorsePintobay",
+      "chance": "0.4",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Goat",
+      "chance": "0.4",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "EpicHorseBlackPinto",
+      "chance": "0.5",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "HorsePintobay",
+      "chance": "0.4",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "DeerStag",
+      "chance": "0.6",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "EpicHorseWhite",
+      "chance": "0.5",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "RareHorsePalomino",
+      "chance": "0.4",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "BearLarge",
+      "chance": "1",
+      "min": "4",
+      "max": "6",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "RareHorseChestnut",
+      "chance": "0.5",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "DeerDoe",
+      "chance": "0.4",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    }
+  ]
+}

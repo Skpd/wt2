@@ -1,0 +1,21 @@
+{
+  "m_Name": "Saw_WoodStaves",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "5a4bd548ad2a7a64c8d60832b4f802ab",
+      "amount": "8",
+      "name": "WoodPoles",
+      "loc_key": "Item.WoodPoles"
+    }
+  ],
+  "products": [
+    {
+      "guid": "18c0c8dbf7f5f5341bbb31c9329c0c13",
+      "amount": "5",
+      "name": "WoodStaves",
+      "loc_key": "Item.WoodStaves"
+    }
+  ],
+  "id": "Saw_WoodStaves"
+}

@@ -1,0 +1,12 @@
+{
+  "m_Name": "Christmas2024CloakRed",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "a8a0c4b647e47554d9a21959a6692102",
+  "image_fid": "21300000",
+  "sellPrice": "50000",
+  "buyUpPrice": "5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Christmas2024CloakRed",
+  "loc_key": "Item.Christmas2024CloakRed",
+  "icon_path": "textures/Christmas2024CloakRed.png"
+}

@@ -1,0 +1,169 @@
+{
+  "m_Name": "WoodLogs",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "5070e70e3c4ab2e429383736d5512578",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "WoodLogs",
+  "loc_key": "Item.WoodLogs",
+  "dropped_by": [
+    {
+      "sourceId": "GodsendObstacle",
+      "chance": 0.125,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "GodsendGraveyard",
+      "chance": 0.06818181818181818,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "sourceId": "GodsendMainland",
+      "chance": 0.06818181818181818,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "sourceId": "CultistRisenSwordsman",
+      "chance": 0.038461538461538464,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "CultistCursedSwordsman",
+      "chance": 0.038461538461538464,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "SkeletonWarrior",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "sourceId": "UndeadAxeDungeon",
+      "chance": 0.09090909090909091,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "ChurchFinalChest",
+      "chance": 0.038461538461538464,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "ChurchFinalChest",
+      "chance": 0.038461538461538464,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "ChurchFinalChest",
+      "chance": 0.038461538461538464,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "ChurchFinalChest",
+      "chance": 0.038461538461538464,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "ChurchFinalChest",
+      "chance": 0.038461538461538464,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "ExecutionerGrave",
+      "chance": 0.25,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "MausoleumBossChest",
+      "chance": 0.0625,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "GraveyardMausoleumWarriorsChest",
+      "chance": 0.0625,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "MausoleumBossChest",
+      "chance": 0.0625,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "GraveyardMausoleumWarriorsChest",
+      "chance": 0.0625,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "MausoleumBossChest",
+      "chance": 0.0625,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "GraveyardMausoleumWarriorsChest",
+      "chance": 0.0625,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "HideoutFinalChest",
+      "chance": 0.038461538461538464,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "HideoutFinalChest",
+      "chance": 0.038461538461538464,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "HideoutFinalChest",
+      "chance": 0.038461538461538464,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "HideoutFinalChest",
+      "chance": 0.038461538461538464,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "WinterForestFinalChest",
+      "chance": 0.038461538461538464,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "WinterForestFinalChest",
+      "chance": 0.04,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "WinterForestFinalChest",
+      "chance": 0.04,
+      "min": 5,
+      "max": 10
+    }
+  ]
+}

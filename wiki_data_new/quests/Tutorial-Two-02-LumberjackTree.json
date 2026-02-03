@@ -1,0 +1,16 @@
+{
+  "m_Name": "Tutorial-Two-02-LumberjackTree",
+  "m_Script": "b597784dc7837e744b6c4fa47c80a317",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "1",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "10",
+    "rewardItem": "5a4bd548ad2a7a64c8d60832b4f802ab",
+    "rewardItemName": "WoodPoles"
+  },
+  "id": "Tutorial-Two-02-LumberjackTree",
+  "group": "General"
+}

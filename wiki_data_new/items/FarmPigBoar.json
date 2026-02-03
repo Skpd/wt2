@@ -1,0 +1,11 @@
+{
+  "m_Name": "FarmPigBoar",
+  "m_Script": "19aae51a76263c851ea99fd1d6839342",
+  "image": "52323eb448c425447a664206fe19af89",
+  "image_fid": "21300000",
+  "sellPrice": "17500",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "FarmPigBoar",
+  "loc_key": "Item.FarmPigBoar"
+}

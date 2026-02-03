@@ -1,0 +1,27 @@
+{
+  "m_Name": "RingSteel",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "ca358059014354046978aaf1e6a32f55",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "500",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "RingSteel",
+  "loc_key": "Item.RingSteel",
+  "dropped_by": [
+    {
+      "sourceId": "BlackGiantCrab",
+      "chance": "0.2",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "GiantCrab",
+      "chance": "0.2",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    }
+  ]
+}

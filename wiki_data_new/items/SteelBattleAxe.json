@@ -1,0 +1,60 @@
+{
+  "m_Name": "SteelBattleAxe",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "21a7e8281d788b84aae6a2b19fd7991c",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1093.4401",
+  "craftMaterialsBuyUpPricePercent": "1.7",
+  "entityMaxLevel": "0",
+  "minDamage": "26",
+  "maxDamage": "42",
+  "minPlagueDamage": "0",
+  "maxPlagueDamage": "0",
+  "criticalChance": "0.1",
+  "criticalValue": "1.5",
+  "dismountChance": "0",
+  "splash": "1",
+  "isAOE": "0",
+  "projectileAOERange": "0",
+  "prefabAOEName": null,
+  "ignoreAvoidingDamage": "0",
+  "ignoreAbsorb": "0",
+  "ignoreDefense": "0",
+  "abilityName": null,
+  "effectLevelLimit": "0",
+  "effects": [],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "0"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  "id": "SteelBattleAxe",
+  "loc_key": "Item.SteelBattleAxe",
+  "dropped_by": [
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

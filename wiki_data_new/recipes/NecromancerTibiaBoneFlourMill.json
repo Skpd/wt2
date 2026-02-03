@@ -1,0 +1,21 @@
+{
+  "m_Name": "NecromancerTibiaBoneFlourMill",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "0d4f7718e258dca42bbd6f8445ea4a76",
+      "amount": "1",
+      "name": "NecromancerTibia",
+      "loc_key": "Item.NecromancerTibia"
+    }
+  ],
+  "products": [
+    {
+      "guid": "b601056686e52cb4ead308fd023da26f",
+      "amount": "3",
+      "name": "BoneFlour",
+      "loc_key": "Item.BoneFlour"
+    }
+  ],
+  "id": "NecromancerTibiaBoneFlourMill"
+}

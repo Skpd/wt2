@@ -1,0 +1,27 @@
+{
+  "m_Name": "CauldronSugarSyrupFromBeetroot",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "a975e5c0fa2ec24498ed904251911453",
+      "amount": "4",
+      "name": "Beetroot",
+      "loc_key": "Item.Beetroot"
+    },
+    {
+      "guid": "27d507923a0f91a489ebecc6d7e70fd4",
+      "amount": "1",
+      "name": "Water",
+      "loc_key": "Item.Water"
+    }
+  ],
+  "products": [
+    {
+      "guid": "9a168ea56cd6490448b46391d0d0ee72",
+      "amount": "1",
+      "name": "SugarSyrup",
+      "loc_key": "Item.SugarSyrup"
+    }
+  ],
+  "id": "CauldronSugarSyrupFromBeetroot"
+}

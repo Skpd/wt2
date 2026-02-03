@@ -1,0 +1,62 @@
+{
+  "m_Name": "GiftPink",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "caa0a5b57e5d2cd47a59b470ed9754ef",
+  "image_fid": "21300000",
+  "sellPrice": "0",
+  "buyUpPrice": "0",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "GiftPink",
+  "loc_key": "Item.GiftPink",
+  "dropped_by": [
+    {
+      "sourceId": "DementedElf",
+      "chance": 0.075,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DementedElf",
+      "chance": 0.11666666666666665,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "Krampus",
+      "chance": 0.3333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "WinterForestFinalChest",
+      "chance": 0.023333333333333334,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "WinterForestFinalChest",
+      "chance": 0.05,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "WinterForestFinalChest",
+      "chance": 0.05,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "WinterForestFinalChest",
+      "chance": 0.09999999999999999,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HareBlack4",
+      "chance": "1",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    }
+  ]
+}

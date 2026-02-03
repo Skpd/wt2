@@ -1,0 +1,11 @@
+{
+  "m_Name": "WeretoadEgg",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "1e2566b3dd864844fa05e05f8f92cc2e",
+  "image_fid": "21300000",
+  "sellPrice": "0",
+  "buyUpPrice": "500",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "WeretoadEgg",
+  "loc_key": "Item.WeretoadEgg"
+}

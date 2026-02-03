@@ -1,0 +1,61 @@
+{
+  "m_Name": "HewnStoneSlingAmmo",
+  "m_Script": "b2cd456c67ed7fbd493e563aaef7330a",
+  "image": "1ce19639ea2c274479da92beeb551509",
+  "image_fid": "21300000",
+  "sellPrice": "6",
+  "buyUpPrice": "0.2",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "HewnStoneSlingAmmo",
+  "loc_key": "Item.HewnStoneSlingAmmo",
+  "dropped_by": [
+    {
+      "sourceId": "Reaper",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "sourceId": "FatOgre",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "sourceId": "FatOgre",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "sourceId": "HideoutGodsensBody",
+      "chance": 0.058823529411764705,
+      "min": 5,
+      "max": 20
+    },
+    {
+      "sourceId": "HideoutGodsensBody",
+      "chance": 0.041666666666666664,
+      "min": 5,
+      "max": 20
+    },
+    {
+      "sourceId": "HideoutGodsensBody",
+      "chance": 0.02,
+      "min": 5,
+      "max": 20
+    },
+    {
+      "sourceId": "GodsendWinter",
+      "chance": 0.07692307692307693,
+      "min": 5,
+      "max": 20
+    },
+    {
+      "sourceId": "GodsendWinter",
+      "chance": 0.07692307692307693,
+      "min": 5,
+      "max": 20
+    }
+  ]
+}

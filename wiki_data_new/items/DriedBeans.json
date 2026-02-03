@@ -1,0 +1,19 @@
+{
+  "m_Name": "DriedBeans",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "3164888da78bb524ebbeb5f50a14d534",
+  "image_fid": "21300000",
+  "sellPrice": "45",
+  "buyUpPrice": "5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "DriedBeans",
+  "loc_key": "Item.DriedBeans",
+  "dropped_by": [
+    {
+      "sourceId": "PlagueSkeletonsCorpses",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

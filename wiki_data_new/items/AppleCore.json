@@ -1,0 +1,19 @@
+{
+  "m_Name": "AppleCore",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "64b194882e5c4544f948c18bba35086e",
+  "image_fid": "21300000",
+  "sellPrice": "40",
+  "buyUpPrice": "5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "AppleCore",
+  "loc_key": "Item.AppleCore",
+  "dropped_by": [
+    {
+      "sourceId": "PlagueSkeletonsCorpses",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

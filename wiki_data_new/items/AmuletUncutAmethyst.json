@@ -1,0 +1,11 @@
+{
+  "m_Name": "AmuletUncutAmethyst",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "e2225f1ee230dae4e9835a549b6e2eee",
+  "image_fid": "21300000",
+  "sellPrice": "100",
+  "buyUpPrice": "100",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "AmuletUncutAmethyst",
+  "loc_key": "Item.AmuletUncutAmethyst"
+}

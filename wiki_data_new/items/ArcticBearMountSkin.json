@@ -1,0 +1,19 @@
+{
+  "m_Name": "ArcticBearMountSkin",
+  "m_Script": "f5673bd2393c13a27685bda14e28f91a",
+  "image": "5ee8bcc1216e90144adac9836f0e873c",
+  "image_fid": "21300000",
+  "sellPrice": "250000",
+  "buyUpPrice": "100",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "ArcticBearMountSkin",
+  "loc_key": "Item.ArcticBearMountSkin",
+  "dropped_by": [
+    {
+      "sourceId": "Krampus",
+      "chance": 0.006666666666666667,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

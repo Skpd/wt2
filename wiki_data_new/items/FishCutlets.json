@@ -1,0 +1,11 @@
+{
+  "m_Name": "FishCutlets",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "debf2850c8148254f8ddd6d4b56105d6",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "15",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "FishCutlets",
+  "loc_key": "Item.FishCutlets"
+}

@@ -1,0 +1,23 @@
+{
+  "m_Name": "KillMobsZombieBoar",
+  "m_Script": "c1970cf3678c9b688fd0652b2161d53d",
+  "line": "0",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "a2b2d861524c72142a3366233cccc744",
+  "predecessors": [
+    "Graveyard-03-KillZombieBoar"
+  ],
+  "npcTaker": "4a1e3234210c65c4ca409eefa714207e",
+  "reward": {
+    "money": "1500",
+    "guildXp": "0",
+    "amount": "25",
+    "rewardItem": "fb5d60e50f8881943b751616ebde1268",
+    "rewardItemName": "SimpleMedicine"
+  },
+  "id": "KillMobsZombieBoar",
+  "npcGiverName": "MainIslandTownDailyQuests",
+  "npcTakerName": "JunkerRagnara",
+  "group": "Daily"
+}

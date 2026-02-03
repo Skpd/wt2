@@ -1,0 +1,11 @@
+{
+  "m_Name": "SangiumHeavyUpper",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "df0b32464296eb745a9fca1995643fb3",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "4236",
+  "craftMaterialsBuyUpPricePercent": "2",
+  "id": "SangiumHeavyUpper",
+  "loc_key": "Item.SangiumHeavyUpper"
+}

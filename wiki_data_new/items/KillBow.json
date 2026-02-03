@@ -1,0 +1,40 @@
+{
+  "m_Name": "KillBow",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "bdfa2185813278e4e838d22014652bcb",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "entityMaxLevel": "0",
+  "minDamage": "2500",
+  "maxDamage": "2500",
+  "minPlagueDamage": "2500",
+  "maxPlagueDamage": "2500",
+  "criticalChance": "0",
+  "criticalValue": "1",
+  "dismountChance": "0",
+  "splash": "0",
+  "isAOE": "0",
+  "projectileAOERange": "0",
+  "prefabAOEName": null,
+  "ignoreAvoidingDamage": "1",
+  "ignoreAbsorb": "0",
+  "ignoreDefense": "0",
+  "abilityName": null,
+  "effectLevelLimit": "0",
+  "effects": [],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "0"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  "id": "KillBow",
+  "loc_key": "Item.KillBow"
+}

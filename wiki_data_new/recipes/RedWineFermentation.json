@@ -1,0 +1,27 @@
+{
+  "m_Name": "RedWineFermentation",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "f99220b542c512e4dad060dd35f60a00",
+      "amount": "2",
+      "name": "JuiceGrape",
+      "loc_key": "Item.JuiceGrape"
+    },
+    {
+      "guid": "99d35305bbc7a484b807d7a67c0ea229",
+      "amount": "4",
+      "name": "SpiceSugar",
+      "loc_key": "Item.SpiceSugar"
+    }
+  ],
+  "products": [
+    {
+      "guid": "32471d2923a1d11498798b34ee3bdc3f",
+      "amount": "1",
+      "name": "RedWine",
+      "loc_key": "Item.RedWine"
+    }
+  ],
+  "id": "RedWineFermentation"
+}

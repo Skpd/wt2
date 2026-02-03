@@ -1,0 +1,33 @@
+{
+  "m_Name": "InfectedRawHideCleanising",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "1035ad0c47e49e64f8a9c1567c5aa8fa",
+      "amount": "1",
+      "name": "InfectedRawHide",
+      "loc_key": "Item.InfectedRawHide"
+    },
+    {
+      "guid": "fb5d60e50f8881943b751616ebde1268",
+      "amount": "1",
+      "name": "SimpleMedicine",
+      "loc_key": "Item.SimpleMedicine"
+    },
+    {
+      "guid": "27d507923a0f91a489ebecc6d7e70fd4",
+      "amount": "1",
+      "name": "Water",
+      "loc_key": "Item.Water"
+    }
+  ],
+  "products": [
+    {
+      "guid": "c6a2122d0f51b3e49a1a800e7068a352",
+      "amount": "1",
+      "name": "MediumRawHide",
+      "loc_key": "Item.MediumRawHide"
+    }
+  ],
+  "id": "InfectedRawHideCleanising"
+}

@@ -1,0 +1,23 @@
+{
+  "m_Name": "KillBossEarthTitan",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "0",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "e5ba14d4b44a1d14e9671ecf011a5bc6",
+  "predecessors": [
+    "Boss-05-KillEarthTitan"
+  ],
+  "npcTaker": "11e1970d86e6e6440b43cdad3cffb63a",
+  "reward": {
+    "money": "5000",
+    "guildXp": "0",
+    "amount": "50",
+    "rewardItem": "7e19e5c89a955d740bf9dc8ea8b50a17",
+    "rewardItemName": "SangitOre"
+  },
+  "id": "KillBossEarthTitan",
+  "npcGiverName": "MainIslandTownDailyHardcoreQuests",
+  "npcTakerName": "CityMasonPetrum",
+  "group": "Daily"
+}

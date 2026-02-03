@@ -1,0 +1,37 @@
+{
+  "m_Name": "GreatShield",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "52115580ed6f1ac4799eb7a0e275470b",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1000",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "GreatShield",
+  "loc_key": "Item.GreatShield",
+  "dropped_by": [
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfFortFinalChest",
+      "chance": 0.25,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "CrowPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "dad7ce148b818964cab385de23365078",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "CrowPet",
+  "loc_key": "Item.CrowPet"
+}

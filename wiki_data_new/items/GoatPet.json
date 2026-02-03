@@ -1,0 +1,11 @@
+{
+  "m_Name": "GoatPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "352ed6741f759494fa54807b605f73a3",
+  "image_fid": "21300000",
+  "sellPrice": "20",
+  "buyUpPrice": "20",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "GoatPet",
+  "loc_key": "Item.GoatPet"
+}

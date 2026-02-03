@@ -1,0 +1,54 @@
+{
+  "m_Name": "MarmotPet",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "1",
+  "stamina": "100",
+  "level": "1",
+  "walkSpeed": "1.6",
+  "runSpeed": "3.5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "1",
+  "mobBehaviour": {
+    "fileID": "0"
+  },
+  "entityPrefab": "9bf49a9a0254d12419e2aa7f7556caf1",
+  "entityPrefab_fid": "1515375057595964",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "ab2cd4c049ff2dd4c83afbeb5017eb5a",
+      "name": "MarmotPetAttack",
+      "minDamage": "3",
+      "maxDamage": "10",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "1",
+      "ignoreDefense": "0.2",
+      "criticalChance": "0.1",
+      "criticalValue": "1.5"
+    }
+  ],
+  "id": "MarmotPet",
+  "loc_key": "Entity.MarmotPet",
+  "skinning_drops": [
+    {
+      "itemId": "SmallRawHide",
+      "chance": "1",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "RawCarnivoreMeat",
+      "chance": "1",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "OrganicsClot",
+      "chance": "1",
+      "min": "1",
+      "max": "2"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "GallbladderLiquor",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "f366702fbb41c4a4ca033ae1f6333e63",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.3",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "GallbladderLiquor",
+  "loc_key": "Item.GallbladderLiquor"
+}

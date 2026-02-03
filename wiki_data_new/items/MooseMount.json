@@ -1,0 +1,11 @@
+{
+  "m_Name": "MooseMount",
+  "m_Script": "f5673bd2393c13a27685bda14e28f91a",
+  "image": "d56fb8dc850aa2043a0b378dbc30b3f7",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "MooseMount",
+  "loc_key": "Item.MooseMount"
+}

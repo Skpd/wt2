@@ -1,0 +1,71 @@
+{
+  "m_Name": "PlagueInfectedSpiderPet",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "1",
+  "stamina": "100",
+  "level": "1",
+  "walkSpeed": "1.6",
+  "runSpeed": "3.5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "2",
+  "mobBehaviour": {
+    "fileID": "0"
+  },
+  "entityPrefab": "2034d6a01941db44db39d4ed08403c29",
+  "entityPrefab_fid": "1950531120908872",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "c21769701a98a7345957c1c5351a4ad2",
+      "name": "PlagueSpiderPetShellAttack",
+      "minDamage": "5",
+      "maxDamage": "5",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.2",
+      "ignoreDefense": "0.2",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "89e21f164e401ab49b1c0927bfe51379",
+      "name": "PlagueInfectedSpiderPetAttack",
+      "minDamage": "10",
+      "maxDamage": "20",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0.2",
+      "ignoreDefense": "0.2",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    }
+  ],
+  "id": "PlagueInfectedSpiderPet",
+  "loc_key": "Entity.PlagueInfectedSpiderPet",
+  "skinning_drops": [
+    {
+      "itemId": "Chitin",
+      "chance": "1",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "GrimSpiderWeb",
+      "chance": "0.3",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "MoldySilk",
+      "chance": "0.01",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "SpiderFingers",
+      "chance": "0.006",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

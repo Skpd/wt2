@@ -1,0 +1,109 @@
+{
+  "m_Name": "PlagueBomb",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "a94ee49b4dbeba249beda5e6226bcd69",
+  "image_fid": "21300000",
+  "sellPrice": "3",
+  "buyUpPrice": "0.1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "entityMaxLevel": "0",
+  "minDamage": "13",
+  "maxDamage": "23",
+  "minPlagueDamage": "4",
+  "maxPlagueDamage": "8",
+  "criticalChance": "0",
+  "criticalValue": "1",
+  "dismountChance": "0",
+  "splash": "0",
+  "isAOE": "1",
+  "projectileAOERange": "3",
+  "prefabAOEName": "PlagueBomb",
+  "ignoreAvoidingDamage": "1",
+  "ignoreAbsorb": "0.1",
+  "ignoreDefense": "0",
+  "abilityName": null,
+  "effectLevelLimit": "0",
+  "effects": [
+    {
+      "effect": {
+        "fileID": "11400000",
+        "guid": "5e7eb7f3488279449b17e3d48c5ce399",
+        "type": "2"
+      },
+      "chance": "1",
+      "time": "7"
+    },
+    {
+      "effect": {
+        "fileID": "11400000",
+        "guid": "029e0afb1d3f4dd458630ac4f514bf99",
+        "type": "2"
+      },
+      "chance": "1",
+      "time": "10"
+    }
+  ],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "0"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  "id": "PlagueBomb",
+  "loc_key": "Item.PlagueBomb",
+  "dropped_by": [
+    {
+      "sourceId": "SewersFinalChest",
+      "chance": 0.1111111111111111,
+      "min": 3,
+      "max": 5
+    },
+    {
+      "sourceId": "SewersFinalChest",
+      "chance": 0.1111111111111111,
+      "min": 3,
+      "max": 5
+    },
+    {
+      "sourceId": "SewersFinalChest",
+      "chance": 0.1111111111111111,
+      "min": 3,
+      "max": 5
+    },
+    {
+      "sourceId": "DwarfCursedChampion",
+      "chance": 0.1111111111111111,
+      "min": 3,
+      "max": 5
+    },
+    {
+      "sourceId": "DwarfCursedChampion",
+      "chance": 0.1111111111111111,
+      "min": 3,
+      "max": 5
+    },
+    {
+      "sourceId": "DwarfCursedChampion",
+      "chance": 0.1111111111111111,
+      "min": 3,
+      "max": 5
+    },
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.1111111111111111,
+      "min": 2,
+      "max": 4
+    },
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.1,
+      "min": 2,
+      "max": 4
+    }
+  ]
+}

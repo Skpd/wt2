@@ -1,0 +1,409 @@
+{
+  "m_Name": "WeakAntidote",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "83b2b175334a22a49aa683cbeb3fff06",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "1.1",
+  "id": "WeakAntidote",
+  "loc_key": "Item.WeakAntidote",
+  "dropped_by": [
+    {
+      "sourceId": "SewersFinalChest",
+      "chance": 0.05555555555555555,
+      "min": 8,
+      "max": 20
+    },
+    {
+      "sourceId": "SewersFinalChest",
+      "chance": 0.05555555555555555,
+      "min": 8,
+      "max": 20
+    },
+    {
+      "sourceId": "SewersGodsendMaterial",
+      "chance": 0.016666666666666666,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "PlagueSkeletonsCorpses",
+      "chance": 0.047619047619047616,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "BattlefieldGodsend",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "BattlefieldGodsend",
+      "chance": 0.049999999999999996,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "GodsendMainlandSouth",
+      "chance": 0.1,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "RustyChest",
+      "chance": 0.12,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "CultistRisenSwordsman",
+      "chance": 0.038461538461538464,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "sourceId": "CultistCursedSwordsman",
+      "chance": 0.038461538461538464,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "sourceId": "LizardSpear",
+      "chance": 0.043478260869565216,
+      "min": 3,
+      "max": 6
+    },
+    {
+      "sourceId": "Weresnake",
+      "chance": 0.043478260869565216,
+      "min": 3,
+      "max": 6
+    },
+    {
+      "sourceId": "Werecrocodile",
+      "chance": 0.043478260869565216,
+      "min": 3,
+      "max": 6
+    },
+    {
+      "sourceId": "LizardSpear",
+      "chance": 0.008695652173913044,
+      "min": 3,
+      "max": 6
+    },
+    {
+      "sourceId": "Weresnake",
+      "chance": 0.008695652173913044,
+      "min": 3,
+      "max": 6
+    },
+    {
+      "sourceId": "Werecrocodile",
+      "chance": 0.008695652173913044,
+      "min": 3,
+      "max": 6
+    },
+    {
+      "sourceId": "Weresnake",
+      "chance": 0.016666666666666666,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "sourceId": "PlagueDragon",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "sourceId": "PlagueDragon",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "sourceId": "PlagueDragon",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "sourceId": "PlagueDragon",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "sourceId": "PlagueDragon",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "sourceId": "FatOgre",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "sourceId": "FatOgre",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "sourceId": "UndeadPickaxeDungeon",
+      "chance": 0.0625,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "UndeadAxeDungeon",
+      "chance": 0.09090909090909091,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "UndeadAxe",
+      "chance": 0.047619047619047616,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "UndeadMace",
+      "chance": 0.047619047619047616,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "UndeadSword",
+      "chance": 0.047619047619047616,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "UndeadMage",
+      "chance": 0.047619047619047616,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "DwarfAmbusher",
+      "chance": 0.25,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "DwarfSoldier",
+      "chance": 0.25,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "DwarfOfficer",
+      "chance": 0.25,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "Dwarf\u0421ommander",
+      "chance": 0.25,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "ChurchFinalChest",
+      "chance": 0.038461538461538464,
+      "min": 3,
+      "max": 7
+    },
+    {
+      "sourceId": "ChurchFinalChest",
+      "chance": 0.038461538461538464,
+      "min": 3,
+      "max": 7
+    },
+    {
+      "sourceId": "ChurchFinalChest",
+      "chance": 0.038461538461538464,
+      "min": 3,
+      "max": 7
+    },
+    {
+      "sourceId": "ChurchFinalChest",
+      "chance": 0.038461538461538464,
+      "min": 3,
+      "max": 7
+    },
+    {
+      "sourceId": "ChurchFinalChest",
+      "chance": 0.038461538461538464,
+      "min": 3,
+      "max": 7
+    },
+    {
+      "sourceId": "CaveFinalChest",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "sourceId": "CaveFinalChest",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "sourceId": "CaveFinalChest",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "sourceId": "CaveFinalChest",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "sourceId": "CaveFinalChest",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.2,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.2,
+      "min": 2,
+      "max": 3
+    },
+    {
+      "sourceId": "MausoleumBossChest",
+      "chance": 0.0625,
+      "min": 3,
+      "max": 7
+    },
+    {
+      "sourceId": "GraveyardMausoleumWarriorsChest",
+      "chance": 0.0625,
+      "min": 3,
+      "max": 7
+    },
+    {
+      "sourceId": "MausoleumBossChest",
+      "chance": 0.0625,
+      "min": 3,
+      "max": 7
+    },
+    {
+      "sourceId": "GraveyardMausoleumWarriorsChest",
+      "chance": 0.0625,
+      "min": 3,
+      "max": 7
+    },
+    {
+      "sourceId": "MausoleumBossChest",
+      "chance": 0.0625,
+      "min": 3,
+      "max": 7
+    },
+    {
+      "sourceId": "GraveyardMausoleumWarriorsChest",
+      "chance": 0.0625,
+      "min": 3,
+      "max": 7
+    },
+    {
+      "sourceId": "GiantBeetle",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "sourceId": "GiantBeetle",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "sourceId": "GiantBeetle",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "sourceId": "DwarfFortFinalChest",
+      "chance": 0.03225806451612903,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "sourceId": "DwarfFortFinalChest",
+      "chance": 0.03225806451612903,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "sourceId": "DwarfFortFinalChest",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "sourceId": "DwarfFortFinalChest",
+      "chance": 0.03333333333333333,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "sourceId": "HideoutFinalChest",
+      "chance": 0.038461538461538464,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "sourceId": "HideoutFinalChest",
+      "chance": 0.038461538461538464,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "sourceId": "HideoutFinalChest",
+      "chance": 0.038461538461538464,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "sourceId": "HideoutFinalChest",
+      "chance": 0.038461538461538464,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "sourceId": "WinterForestFinalChest",
+      "chance": 0.038461538461538464,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "sourceId": "WinterForestFinalChest",
+      "chance": 0.04,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "sourceId": "WinterForestFinalChest",
+      "chance": 0.04,
+      "min": 2,
+      "max": 5
+    }
+  ]
+}

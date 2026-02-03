@@ -1,0 +1,23 @@
+{
+  "m_Name": "Xmas-09-KillUndeadDragonServant",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "3",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "4a1e3234210c65c4ca409eefa714207e",
+  "predecessors": [
+    "Xmas-04-ObtainStolenGifts"
+  ],
+  "npcTaker": "4a1e3234210c65c4ca409eefa714207e",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "1",
+    "rewardItem": "e2d0a6a8bda517c4abe3f19534cca838",
+    "rewardItemName": "LargeBoostPotion"
+  },
+  "id": "Xmas-09-KillUndeadDragonServant",
+  "npcGiverName": "JunkerRagnara",
+  "npcTakerName": "JunkerRagnara",
+  "group": "General"
+}

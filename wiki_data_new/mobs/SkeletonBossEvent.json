@@ -1,0 +1,76 @@
+{
+  "m_Name": "SkeletonBossEvent",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "300",
+  "stamina": "100",
+  "level": "25",
+  "walkSpeed": "2",
+  "runSpeed": "3.5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "4",
+  "mobBehaviour": "1ffb7607b4dfea441a4aafc9f96b3976",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "12f82ed5cf1e6f94bad6f72510dbfb61",
+  "entityPrefab_fid": "1687273116823292",
+  "entityBonuses": {
+    "Parry": "0.1",
+    "Block": "0.1",
+    "BlockProjectile": "0.1",
+    "IgnoreBloodDots": "1",
+    "Defense": "0.5"
+  },
+  "skills": [
+    {
+      "id": "5c533b809ff2c764aa5017156f13df89",
+      "name": "SkeletonBossEventAttack",
+      "minDamage": "20",
+      "maxDamage": "25",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0.2",
+      "ignoreDefense": "0.2",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "6e897ba6f34c9f84883d4b258f74f5de",
+      "name": "SkeletonBossEventLaceration",
+      "minDamage": "25",
+      "maxDamage": "30",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.2",
+      "ignoreDefense": "0.2",
+      "criticalChance": "1",
+      "criticalValue": "1"
+    }
+  ],
+  "id": "SkeletonBossEvent",
+  "loc_key": "Entity.SkeletonBossEvent",
+  "drops": [
+    {
+      "itemId": "Money",
+      "chance": 0.5,
+      "min": 25,
+      "max": 70
+    },
+    {
+      "itemId": "Bone",
+      "chance": 1,
+      "min": 5,
+      "max": 12
+    },
+    {
+      "itemId": "SkeletonSkull",
+      "chance": 0.008,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SkeletonKeyPart3",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

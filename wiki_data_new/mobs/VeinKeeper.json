@@ -1,0 +1,100 @@
+{
+  "m_Name": "VeinKeeper",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "1000",
+  "stamina": "100",
+  "level": "35",
+  "walkSpeed": "3",
+  "runSpeed": "3",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "6",
+  "mobBehaviour": "1ffb7607b4dfea441a4aafc9f96b3976",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "a4730c9fffb11f740a461d30343fc94f",
+  "entityPrefab_fid": "1937946187943758",
+  "entityBonuses": {
+    "Absorption": "20",
+    "IgnoreSlowdown": "1",
+    "IgnoreBloodDots": "1",
+    "IgnoreFireDots": "1"
+  },
+  "skills": [
+    {
+      "id": "7b470cad297d1cc408d622b23b5b2573",
+      "name": "VeinKeeperAttack",
+      "minDamage": "35",
+      "maxDamage": "50",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0.3",
+      "ignoreDefense": "0.3",
+      "criticalChance": "0",
+      "criticalValue": "0"
+    }
+  ],
+  "id": "VeinKeeper",
+  "loc_key": "Entity.VeinKeeper",
+  "skinning_drops": [
+    {
+      "itemId": "StoneCloakDecorQuestItem",
+      "chance": "0.004",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "Boulder",
+      "chance": "1",
+      "min": "3",
+      "max": "6"
+    },
+    {
+      "itemId": "Limestone",
+      "chance": "0.5",
+      "min": "5",
+      "max": "10"
+    },
+    {
+      "itemId": "TinOre",
+      "chance": "0.5",
+      "min": "5",
+      "max": "10"
+    },
+    {
+      "itemId": "Coal",
+      "chance": "0.5",
+      "min": "3",
+      "max": "6"
+    },
+    {
+      "itemId": "IronRawOre",
+      "chance": "0.3",
+      "min": "2",
+      "max": "3"
+    },
+    {
+      "itemId": "MagmaCrystal",
+      "chance": "0.05",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "Salt",
+      "chance": "0.1",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "Sulfur",
+      "chance": "0.1",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "GolemHeart",
+      "chance": "0.01",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

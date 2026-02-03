@@ -1,0 +1,45 @@
+{
+  "m_Name": "DarkCraftedBeerBluePorterFermentation",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "e64a8f0ae22afa042a2fab29b07bd72b",
+      "amount": "1",
+      "name": "BeerBoiledWort",
+      "loc_key": "Item.BeerBoiledWort"
+    },
+    {
+      "guid": "3898d0e4a12051f4a8b3f96f7cbb5509",
+      "amount": "1",
+      "name": "WaterJug",
+      "loc_key": "Item.WaterJug"
+    },
+    {
+      "guid": "99d35305bbc7a484b807d7a67c0ea229",
+      "amount": "2",
+      "name": "SpiceSugar",
+      "loc_key": "Item.SpiceSugar"
+    },
+    {
+      "guid": "9cd48afcd3da71340a145aefc4d27335",
+      "amount": "4",
+      "name": "Blueberries",
+      "loc_key": "Item.Blueberries"
+    },
+    {
+      "guid": "1e2fa2632a873464080aaee01f09960e",
+      "amount": "1",
+      "name": "LootCavecrawlerBrain",
+      "loc_key": "Item.LootCavecrawlerBrain"
+    }
+  ],
+  "products": [
+    {
+      "guid": "e9517303c6714e546a75334f331e2544",
+      "amount": "1",
+      "name": "DarkCraftedBeerBluePorter",
+      "loc_key": "Item.DarkCraftedBeerBluePorter"
+    }
+  ],
+  "id": "DarkCraftedBeerBluePorterFermentation"
+}

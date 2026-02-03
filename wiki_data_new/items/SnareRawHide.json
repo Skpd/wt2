@@ -1,0 +1,50 @@
+{
+  "m_Name": "SnareRawHide",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "b127e13ec241d6e4582a7274f454108f",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.2",
+  "craftMaterialsBuyUpPricePercent": "1",
+  "entityMaxLevel": "0",
+  "minDamage": "0",
+  "maxDamage": "0",
+  "minPlagueDamage": "0",
+  "maxPlagueDamage": "0",
+  "criticalChance": "0",
+  "criticalValue": "0",
+  "dismountChance": "0",
+  "splash": "0",
+  "isAOE": "0",
+  "projectileAOERange": "0",
+  "prefabAOEName": null,
+  "ignoreAvoidingDamage": "0",
+  "ignoreAbsorb": "0",
+  "ignoreDefense": "0",
+  "abilityName": null,
+  "effectLevelLimit": "7",
+  "effects": [
+    {
+      "effect": {
+        "fileID": "11400000",
+        "guid": "f9212bbc070368f4fbc28e73bf0809d8",
+        "type": "2"
+      },
+      "chance": "1",
+      "time": "5"
+    }
+  ],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "0"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  "id": "SnareRawHide",
+  "loc_key": "Item.SnareRawHide"
+}

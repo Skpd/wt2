@@ -1,0 +1,51 @@
+{
+  "m_Name": "CauldronVegetableChowder",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "4c076ef9737781041aa728bce6d1a47a",
+      "amount": "1",
+      "name": "Cabbage",
+      "loc_key": "Item.Cabbage"
+    },
+    {
+      "guid": "a975e5c0fa2ec24498ed904251911453",
+      "amount": "1",
+      "name": "Beetroot",
+      "loc_key": "Item.Beetroot"
+    },
+    {
+      "guid": "e96ecd4567662fb448b14ae0b770c085",
+      "amount": "2",
+      "name": "Carrot",
+      "loc_key": "Item.Carrot"
+    },
+    {
+      "guid": "a148c86d6b37f9a42bcaf1ee1e368beb",
+      "amount": "1",
+      "name": "Garlic",
+      "loc_key": "Item.Garlic"
+    },
+    {
+      "guid": "73dedc9b9aa11e1479e25907edaf49db",
+      "amount": "1",
+      "name": "SpiceSalt",
+      "loc_key": "Item.SpiceSalt"
+    },
+    {
+      "guid": "27d507923a0f91a489ebecc6d7e70fd4",
+      "amount": "1",
+      "name": "Water",
+      "loc_key": "Item.Water"
+    }
+  ],
+  "products": [
+    {
+      "guid": "388d00437d1bee14aaab5beee8b4c7d0",
+      "amount": "1",
+      "name": "VegetableChowder",
+      "loc_key": "Item.VegetableChowder"
+    }
+  ],
+  "id": "CauldronVegetableChowder"
+}

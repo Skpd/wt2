@@ -1,0 +1,11 @@
+{
+  "m_Name": "SkullsCloak",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "7a6237ee5e205e040a1da0b248f2441b",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SkullsCloak",
+  "loc_key": "Item.SkullsCloak"
+}

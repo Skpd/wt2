@@ -1,0 +1,48 @@
+{
+  "m_Name": "CompositeBow",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "6784928dbcd92dd4c8494160e40aace0",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "677.62006",
+  "craftMaterialsBuyUpPricePercent": "1.7",
+  "entityMaxLevel": "0",
+  "minDamage": "25",
+  "maxDamage": "32",
+  "minPlagueDamage": "0",
+  "maxPlagueDamage": "0",
+  "criticalChance": "0.08",
+  "criticalValue": "2.1",
+  "dismountChance": "0",
+  "splash": "0",
+  "isAOE": "0",
+  "projectileAOERange": "0",
+  "prefabAOEName": null,
+  "ignoreAvoidingDamage": "0",
+  "ignoreAbsorb": "0",
+  "ignoreDefense": "0",
+  "abilityName": null,
+  "effectLevelLimit": "0",
+  "effects": [],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "0"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  "id": "CompositeBow",
+  "loc_key": "Item.CompositeBow",
+  "dropped_by": [
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

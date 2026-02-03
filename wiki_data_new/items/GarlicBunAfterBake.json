@@ -1,0 +1,11 @@
+{
+  "m_Name": "GarlicBunAfterBake",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "6a776c8b4b440e34fb9645856254ea03",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "2",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "GarlicBunAfterBake",
+  "loc_key": "Item.GarlicBunAfterBake"
+}

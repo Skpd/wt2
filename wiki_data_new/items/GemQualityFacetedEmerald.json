@@ -1,0 +1,19 @@
+{
+  "m_Name": "GemQualityFacetedEmerald",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "917a1ae25b900364cb6cadf05da6ed41",
+  "image_fid": "21300000",
+  "sellPrice": "10",
+  "buyUpPrice": "2",
+  "craftMaterialsBuyUpPricePercent": "1.5",
+  "id": "GemQualityFacetedEmerald",
+  "loc_key": "Item.GemQualityFacetedEmerald",
+  "dropped_by": [
+    {
+      "sourceId": "Witch",
+      "chance": 0.2,
+      "min": 1,
+      "max": 2
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "m_Name": "SantaHatBlue",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "4b2d0009e97b426449eacc51280f4bf3",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SantaHatBlue",
+  "loc_key": "Item.SantaHatBlue",
+  "icon_path": "textures/SantaHatBlue.png"
+}

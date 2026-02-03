@@ -1,0 +1,31 @@
+{
+  "m_Name": "Arsenicum",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "6e32410229e693b4e9bb3ea0620664a3",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.2",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Arsenicum",
+  "loc_key": "Item.Arsenicum",
+  "dropped_by": [
+    {
+      "sourceId": "PlagueDragon",
+      "chance": 0.5,
+      "min": 5,
+      "max": 20
+    },
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.35,
+      "min": 2,
+      "max": 4
+    },
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.3,
+      "min": 1,
+      "max": 3
+    }
+  ]
+}

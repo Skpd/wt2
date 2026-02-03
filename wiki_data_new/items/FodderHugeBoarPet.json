@@ -1,0 +1,11 @@
+{
+  "m_Name": "FodderHugeBoarPet",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "047c808be00f6414fbea295db3d7d71e",
+  "image_fid": "21300000",
+  "sellPrice": "100",
+  "buyUpPrice": "0.5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "FodderHugeBoarPet",
+  "loc_key": "Item.FodderHugeBoarPet"
+}

@@ -1,0 +1,31 @@
+{
+  "m_Name": "BakedFrogLegs",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "fe18f86fbd7450148a2b6f7615d4d545",
+  "image_fid": "21300000",
+  "sellPrice": "100",
+  "buyUpPrice": "5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BakedFrogLegs",
+  "loc_key": "Item.BakedFrogLegs",
+  "dropped_by": [
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.14285714285714285,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.1111111111111111,
+      "min": 2,
+      "max": 3
+    },
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.1,
+      "min": 1,
+      "max": 2
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "IronPan",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "816e601bf2a51884f9e9771eb908fe4c",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "IronPan",
+  "loc_key": "Item.IronPan"
+}

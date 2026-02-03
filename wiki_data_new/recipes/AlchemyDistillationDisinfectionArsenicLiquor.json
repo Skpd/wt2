@@ -1,0 +1,33 @@
+{
+  "m_Name": "AlchemyDistillationDisinfectionArsenicLiquor",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "f71e3dd84e022804abbe8d6338366f12",
+      "amount": "1",
+      "name": "Arsenicum",
+      "loc_key": "Item.Arsenicum"
+    },
+    {
+      "guid": "7b1835a3f820dcb4392795759b7c43c8",
+      "amount": "1",
+      "name": "Chelidonium",
+      "loc_key": "Item.Chelidonium"
+    },
+    {
+      "guid": "b6d13d3b78440884daa8e9b8d835ec28",
+      "amount": "1",
+      "name": "DistilledWater",
+      "loc_key": "Item.DistilledWater"
+    }
+  ],
+  "products": [
+    {
+      "guid": "2de0fc7586f71d4488a4b66965e18b29",
+      "amount": "2",
+      "name": "DisinfectionArsenicLiquor",
+      "loc_key": "Item.DisinfectionArsenicLiquor"
+    }
+  ],
+  "id": "AlchemyDistillationDisinfectionArsenicLiquor"
+}

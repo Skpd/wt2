@@ -1,0 +1,21 @@
+{
+  "m_Name": "BakeRawCarp",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "321a3a88d8cf7cd468b8a0f9e91e4fe2",
+      "amount": "1",
+      "name": "RawCarp",
+      "loc_key": "Item.RawCarp"
+    }
+  ],
+  "products": [
+    {
+      "guid": "3cb0663d23709454ea2991778d55c9af",
+      "amount": "1",
+      "name": "CarpAfterBake",
+      "loc_key": "Item.CarpAfterBake"
+    }
+  ],
+  "id": "BakeRawCarp"
+}

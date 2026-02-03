@@ -1,0 +1,16 @@
+{
+  "m_Name": "Hunter-Two-04-KillBear",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "2",
+    "rewardItem": "aede6dc749ea89e46a18bea652039e94",
+    "rewardItemName": "BearHideFragment"
+  },
+  "id": "Hunter-Two-04-KillBear",
+  "group": "General"
+}

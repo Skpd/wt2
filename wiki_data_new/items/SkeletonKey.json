@@ -1,0 +1,11 @@
+{
+  "m_Name": "SkeletonKey",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "7770a3b54504c29499389b10a8c58020",
+  "image_fid": "21300000",
+  "sellPrice": "10",
+  "buyUpPrice": "25",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SkeletonKey",
+  "loc_key": "Item.SkeletonKey"
+}

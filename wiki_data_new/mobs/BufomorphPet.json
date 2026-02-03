@@ -1,0 +1,72 @@
+{
+  "m_Name": "BufomorphPet",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "100",
+  "stamina": "100",
+  "level": "1",
+  "walkSpeed": "3",
+  "runSpeed": "6.5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "2",
+  "mobBehaviour": {
+    "fileID": "0"
+  },
+  "entityPrefab": "1abebf39cec8e6a43897799e393fc58d",
+  "entityPrefab_fid": "1049881487406163",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "7c91c1f3a6306a44d83ec18d61ac5fe3",
+      "name": "BufomorphPetAttack",
+      "minDamage": "10",
+      "maxDamage": "30",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "1",
+      "ignoreDefense": "0",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    }
+  ],
+  "id": "BufomorphPet",
+  "loc_key": "Entity.BufomorphPet",
+  "skinning_drops": [
+    {
+      "itemId": "DarkWood",
+      "chance": "1",
+      "min": "3",
+      "max": "6"
+    },
+    {
+      "itemId": "WoodBark",
+      "chance": "1",
+      "min": "20",
+      "max": "30"
+    },
+    {
+      "itemId": "WoodHardLogs",
+      "chance": "1",
+      "min": "20",
+      "max": "30"
+    },
+    {
+      "itemId": "HeatproofWood",
+      "chance": "1",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "ColdTearsEnt",
+      "chance": "1",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "LiveAcorn",
+      "chance": "0.02",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

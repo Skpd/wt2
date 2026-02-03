@@ -1,0 +1,31 @@
+{
+  "m_Name": "LuckyHarpyFeather",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "33f42cf88809feb48bb228d58eef9859",
+  "image_fid": "21300000",
+  "sellPrice": "1000",
+  "buyUpPrice": "0.05",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "LuckyHarpyFeather",
+  "loc_key": "Item.LuckyHarpyFeather",
+  "dropped_by": [
+    {
+      "sourceId": "Harpy",
+      "chance": 0.0016666666666666668,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyLarge",
+      "chance": 0.0006666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0011111111111111111,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

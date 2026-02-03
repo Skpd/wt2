@@ -1,0 +1,11 @@
+{
+  "m_Name": "SquirrelPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "fd77cc7a1b91f8b46a48dbf4f377af8f",
+  "image_fid": "21300000",
+  "sellPrice": "20",
+  "buyUpPrice": "20",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SquirrelPet",
+  "loc_key": "Item.SquirrelPet"
+}

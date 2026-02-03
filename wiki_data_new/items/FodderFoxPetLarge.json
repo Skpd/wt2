@@ -1,0 +1,11 @@
+{
+  "m_Name": "FodderFoxPetLarge",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "d5f4145d48da3384ba6eda3665bd9105",
+  "image_fid": "21300000",
+  "sellPrice": "100",
+  "buyUpPrice": "0.5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "FodderFoxPetLarge",
+  "loc_key": "Item.FodderFoxPetLarge"
+}

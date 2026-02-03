@@ -1,0 +1,11 @@
+{
+  "m_Name": "Cornmeal",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "cae0a163a9451d94e8169aa981c00286",
+  "image_fid": "21300000",
+  "sellPrice": "10",
+  "buyUpPrice": "0.4",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Cornmeal",
+  "loc_key": "Item.Cornmeal"
+}

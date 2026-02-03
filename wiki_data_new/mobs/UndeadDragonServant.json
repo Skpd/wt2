@@ -1,0 +1,189 @@
+{
+  "m_Name": "UndeadDragonServant",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "250",
+  "stamina": "100",
+  "level": "35",
+  "walkSpeed": "1",
+  "runSpeed": "3",
+  "image": "f8551523aadb82d43a24994cbe00d273",
+  "image_fid": "21300000",
+  "entityClass": "10",
+  "mobBehaviour": "1ffb7607b4dfea441a4aafc9f96b3976",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "016d4aa0329f36b4e954df847754cc2e",
+  "entityPrefab_fid": "1004642545591958",
+  "entityBonuses": {
+    "Defense": "0.5",
+    "PlagueDefense": "0.5"
+  },
+  "skills": [
+    {
+      "id": "56efaedd0c6b02749a1a76c9b2563807",
+      "name": "UndeadDragonServantAttack",
+      "minDamage": "30",
+      "maxDamage": "50",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.25",
+      "criticalValue": "1.2"
+    }
+  ],
+  "id": "UndeadDragonServant",
+  "loc_key": "Entity.UndeadDragonServant",
+  "drops": [
+    {
+      "itemId": "Money",
+      "chance": 1,
+      "min": 1,
+      "max": 250
+    },
+    {
+      "itemId": "Maggot",
+      "chance": 1,
+      "min": 3,
+      "max": 5
+    },
+    {
+      "itemId": "Maggot",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Maggot",
+      "chance": 1,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "Maggot",
+      "chance": 1,
+      "min": 2,
+      "max": 4
+    },
+    {
+      "itemId": "Maggot",
+      "chance": 1,
+      "min": 3,
+      "max": 5
+    },
+    {
+      "itemId": "SkillBookLevel10",
+      "chance": 0.1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "DragonEye",
+      "chance": 0.005,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "DragonEye",
+      "chance": 0.007,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "DragonEye",
+      "chance": 0.01,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "DragonEye",
+      "chance": 0.015,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "DragonEye",
+      "chance": 0.02,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "ChristmasGift",
+      "chance": 0.05,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "ChristmasGift",
+      "chance": 0.07,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "ChristmasGift",
+      "chance": 0.1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "ChristmasGift",
+      "chance": 0.12,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "ChristmasGift",
+      "chance": 0.15,
+      "min": 1,
+      "max": 1
+    }
+  ],
+  "skinning_drops": [
+    {
+      "itemId": "Worm",
+      "chance": "1",
+      "min": "2",
+      "max": "4"
+    },
+    {
+      "itemId": "LeprousVeins",
+      "chance": "0.7",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "LeprousVeins",
+      "chance": "0.3",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "LeprousOrgans",
+      "chance": "0.3",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "RawDeadFlesh",
+      "chance": "0.3",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "LeprousBlood",
+      "chance": "0.1",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "LeprousBone",
+      "chance": "0.1",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "UndeadHand",
+      "chance": "0.005",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

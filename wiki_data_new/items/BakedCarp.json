@@ -1,0 +1,11 @@
+{
+  "m_Name": "BakedCarp",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "efb15463c2cdecd40ace782ccee1e77a",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "40",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BakedCarp",
+  "loc_key": "Item.BakedCarp"
+}

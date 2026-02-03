@@ -1,0 +1,21 @@
+{
+  "m_Name": "RoastRouch",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "59cf46c8fa83fec4f855a8ff9bdfde47",
+      "amount": "1",
+      "name": "Roach",
+      "loc_key": "Item.Roach"
+    }
+  ],
+  "products": [
+    {
+      "guid": "005b6a0c4620d4140a4d7e6095ef8d2f",
+      "amount": "1",
+      "name": "RoastedFishMeat",
+      "loc_key": "Item.RoastedFishMeat"
+    }
+  ],
+  "id": "RoastRouch"
+}

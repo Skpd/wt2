@@ -1,0 +1,31 @@
+{
+  "m_Name": "HalloweenCupcake",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "9843f0bd2b8752b48815c24104ab2ce1",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "HalloweenCupcake",
+  "loc_key": "Item.HalloweenCupcake",
+  "dropped_by": [
+    {
+      "sourceId": "HalloweenGodsend",
+      "chance": 0.014285714285714287,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HalloweenGrave",
+      "chance": 0.0125,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "Witch",
+      "chance": 0.09999999999999999,
+      "min": 1,
+      "max": 2
+    }
+  ]
+}

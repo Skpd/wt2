@@ -1,0 +1,24 @@
+{
+  "m_Name": "Boss-00-KillSkeletonBoss",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "4a1e3234210c65c4ca409eefa714207e",
+  "predecessors": [
+    "Church-03-KillBloodyBear",
+    "Graveyard-05-KillOrcShaman"
+  ],
+  "npcTaker": "4a1e3234210c65c4ca409eefa714207e",
+  "reward": {
+    "money": "500",
+    "guildXp": "0",
+    "amount": "10",
+    "rewardItem": "afc661c81e685e94ca4d121fcd618aa0",
+    "rewardItemName": "WeakAntidote"
+  },
+  "id": "Boss-00-KillSkeletonBoss",
+  "npcGiverName": "JunkerRagnara",
+  "npcTakerName": "JunkerRagnara",
+  "group": "General"
+}

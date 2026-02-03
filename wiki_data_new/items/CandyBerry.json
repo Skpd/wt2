@@ -1,0 +1,11 @@
+{
+  "m_Name": "CandyBerry",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "e906976701430874fb8adbaeee731a17",
+  "image_fid": "21300000",
+  "sellPrice": "0",
+  "buyUpPrice": "0",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "CandyBerry",
+  "loc_key": "Item.CandyBerry"
+}

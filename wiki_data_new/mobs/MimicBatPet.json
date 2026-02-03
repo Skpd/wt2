@@ -1,0 +1,39 @@
+{
+  "m_Name": "MimicBatPet",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "180",
+  "stamina": "100",
+  "level": "35",
+  "walkSpeed": "1.6",
+  "runSpeed": "3.5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "1",
+  "mobBehaviour": {
+    "fileID": "0"
+  },
+  "entityPrefab": {
+    "fileID": "0"
+  },
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "05b51c4882966494081056a061cdd4e9",
+      "name": "MimicBatPetAdaptation"
+    },
+    {
+      "id": "8baab60016dc5ca439a66e6f9e741b0f",
+      "name": "MimicBatPetAttack",
+      "minDamage": "7",
+      "maxDamage": "13",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.5",
+      "ignoreDefense": "0.5",
+      "criticalChance": "0.15",
+      "criticalValue": "1.2"
+    }
+  ],
+  "id": "MimicBatPet",
+  "loc_key": "Entity.MimicBatPet"
+}

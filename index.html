@@ -3,212 +3,869 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Game Wiki</title>
+    <title>Game Asset Wiki</title>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
     <style>
-        body { font-family: sans-serif; margin: 0; padding: 0; display: flex; height: 100vh; }
-        #sidebar { width: 250px; background: #f0f0f0; padding: 20px; overflow-y: auto; border-right: 1px solid #ccc; }
-        #content { flex: 1; padding: 20px; overflow-y: auto; }
-        .search-box { width: 100%; padding: 5px; margin-bottom: 10px; }
-        .list-item { cursor: pointer; padding: 5px; border-bottom: 1px solid #ddd; }
-        .list-item:hover { background: #e0e0e0; }
-        .hidden { display: none; }
-        h2 { border-bottom: 2px solid #333; padding-bottom: 5px; }
-        .field { margin-bottom: 10px; }
-        .label { font-weight: bold; }
-        .locale-switch { margin-bottom: 20px; }
+        :root {
+            --bg-color: #1e1e2e;
+            --sidebar-bg: #181825;
+            --card-bg: #313244;
+            --text-main: #cdd6f4;
+            --text-muted: #a6adc8;
+            --accent: #89b4fa;
+            --border: #45475a;
+            --table-header-bg: #45475a;
+            --table-row-hover: #585b70;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            margin: 0;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        #app {
+            display: flex;
+            width: 100%;
+            height: 100%;
+        }
+
+        aside {
+            width: 280px;
+            background-color: var(--sidebar-bg);
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            border-right: 1px solid var(--border);
+        }
+
+        h1 {
+            font-size: 1.5rem;
+            margin-bottom: 20px;
+            color: var(--accent);
+        }
+
+        nav button {
+            background: none;
+            border: none;
+            color: var(--text-muted);
+            text-align: left;
+            padding: 12px 15px;
+            width: 100%;
+            cursor: pointer;
+            font-size: 1.1rem;
+            transition: 0.2s;
+            border-radius: 6px;
+            margin-bottom: 5px;
+        }
+
+        nav button:hover, nav button.active {
+            background-color: var(--card-bg);
+            color: var(--accent);
+            font-weight: 600;
+        }
+
+        .controls {
+            margin-top: auto;
+        }
+
+        select, input {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            background-color: var(--card-bg);
+            border: 1px solid var(--border);
+            color: var(--text-main);
+            border-radius: 6px;
+            box-sizing: border-box;
+            font-size: 1rem;
+        }
+
+        main {
+            flex: 1;
+            padding: 30px;
+            overflow-y: auto;
+            position: relative;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 20px;
+        }
+
+        .card {
+            background-color: var(--card-bg);
+            padding: 20px;
+            border-radius: 12px;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+            border: 1px solid transparent;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+
+        .card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+            border-color: var(--accent);
+        }
+
+        .icon-preview {
+            width: 64px;
+            height: 64px;
+            background-color: #111;
+            margin-bottom: 15px;
+            object-fit: contain;
+            image-rendering: pixelated;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+        }
+
+        .card h3 {
+            margin: 0 0 8px 0;
+            color: var(--accent);
+            font-size: 1.1rem;
+        }
+
+        .tag {
+            display: inline-block;
+            background: var(--accent);
+            color: var(--bg-color);
+            padding: 4px 10px;
+            border-radius: 12px;
+            font-size: 0.8rem;
+            font-weight: bold;
+        }
+
+        .detail-view {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        .back-btn {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            color: var(--text-main);
+            padding: 8px 16px;
+            cursor: pointer;
+            margin-bottom: 20px;
+            border-radius: 6px;
+            font-size: 1rem;
+        }
+
+        .back-btn:hover {
+            background-color: var(--border);
+        }
+
+        .header-section {
+            display: flex;
+            gap: 30px;
+            margin-bottom: 30px;
+            align-items: flex-start;
+        }
+
+        .large-icon {
+            width: 128px;
+            height: 128px;
+            background-color: #111;
+            border-radius: 12px;
+            flex-shrink: 0;
+        }
+
+        .info-block h1 {
+            margin: 0 0 10px 0;
+            font-size: 2.5rem;
+        }
+
+        .info-block p {
+            font-size: 1.1rem;
+            color: var(--text-muted);
+            line-height: 1.5;
+        }
+
+        .section-title {
+            font-size: 1.5rem;
+            color: var(--accent);
+            margin-top: 40px;
+            margin-bottom: 15px;
+            border-bottom: 2px solid var(--border);
+            padding-bottom: 10px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background-color: var(--card-bg);
+            border-radius: 8px;
+            overflow: hidden;
+            margin-bottom: 20px;
+        }
+
+        th, td {
+            text-align: left;
+            padding: 12px 15px;
+            border-bottom: 1px solid var(--border);
+        }
+
+        th {
+            background-color: var(--table-header-bg);
+            color: var(--accent);
+            font-weight: 600;
+            text-transform: uppercase;
+            font-size: 0.9rem;
+        }
+
+        tr:last-child td {
+            border-bottom: none;
+        }
+
+        tr:hover td {
+            background-color: var(--table-row-hover);
+        }
+
+        .clickable-row {
+            cursor: pointer;
+        }
+
+        .stat-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+
+        .stat-card {
+            background: var(--sidebar-bg);
+            padding: 15px;
+            border-radius: 8px;
+            text-align: center;
+        }
+
+        .stat-label {
+            color: var(--text-muted);
+            font-size: 0.9rem;
+            margin-bottom: 5px;
+        }
+
+        .stat-value {
+            font-size: 1.2rem;
+            font-weight: bold;
+            color: var(--text-main);
+        }
+
+        .skill-detail {
+            font-size: 0.9em;
+            color: var(--text-muted);
+            margin-top: 4px;
+        }
     </style>
 </head>
 <body>
+<div id="app">
+    <aside>
+        <h1>Wiki Data</h1>
+        <nav>
+            <button :class="{ active: currentCategory === 'mobs' }" @click="setCategory('mobs')">Mobs</button>
+            <button :class="{ active: currentCategory === 'items' }" @click="setCategory('items')">Items</button>
+            <button :class="{ active: currentCategory === 'quests' }" @click="setCategory('quests')">Quests</button>
+            <button :class="{ active: currentCategory === 'recipes' }" @click="setCategory('recipes')">Recipes</button>
+        </nav>
 
-<div id="sidebar">
-    <div class="locale-switch">
-        <select id="locale-select" onchange="changeLocale()">
-            <option value="en">English</option>
-            <option value="ru">Russian</option>
-        </select>
-    </div>
+        <div class="controls">
+            <input type="text" v-model="searchQuery" placeholder="Search...">
+            <select v-model="currentLocale">
+                <option v-for="loc in availableLocales" :value="loc">{{ loc.toUpperCase() }}</option>
+            </select>
+        </div>
+    </aside>
 
-    <input type="text" id="search" class="search-box" placeholder="Search..." onkeyup="filterList()">
+    <main>
+        <!-- List View -->
+        <div v-if="!selectedEntity" class="grid">
+            <div v-for="entity in filteredList" :key="entity.id" class="card" @click="selectEntity(entity)">
+                <div class="icon-preview" :style="getIconStyle(entity)"></div>
+                <h3>{{ t(entity.loc_key || entity.loc_key_name || entity.name || entity.id) }}</h3>
+                <span class="tag">{{ entity.id }}</span>
+                <div v-if="entity.group" style="margin-top: 5px; font-size: 0.8em; color: var(--text-muted);">
+                    {{ entity.group }}
+                </div>
+            </div>
+            <div v-if="filteredList.length === 0"
+                 style="color: var(--text-muted); grid-column: 1/-1; text-align: center; margin-top: 50px;">
+                No results found.
+            </div>
+        </div>
 
-    <div id="tabs">
-        <button onclick="showList('mobs')">Mobs</button>
-        <button onclick="showList('items')">Items</button>
-        <button onclick="showList('quests')">Quests</button>
-        <button onclick="showList('recipes')">Recipes</button>
-    </div>
+        <!-- Detail View -->
+        <div v-else class="detail-view">
+            <button class="back-btn" @click="clearSelection">← Back to List</button>
 
-    <div id="list-container"></div>
-</div>
+            <div class="header-section">
+                <div class="large-icon" :style="getIconStyle(selectedEntity, 2)"></div>
+                <div class="info-block">
+                    <h1>
+                        {{ t(selectedEntity.loc_key || selectedEntity.loc_key_name || selectedEntity.name || selectedEntity.id)
+                        }}</h1>
+                    <p>{{ t(selectedEntity.description || selectedEntity.loc_key_desc) }}</p>
+                    <div style="margin-top: 10px;">
+                        <span class="tag">ID: {{ selectedEntity.id }}</span>
+                        <span v-if="selectedEntity.group" class="tag"
+                              style="background: #fab387; color: #1e1e2e; margin-left: 10px;">{{ selectedEntity.group
+                            }}</span>
+                    </div>
+                </div>
+            </div>
 
-<div id="content">
-    <h1>Welcome to the Wiki</h1>
-    <p>Select an item from the left to view details.</p>
+            <!-- Mob Specifics -->
+            <div v-if="currentCategory === 'mobs'">
+                <div class="section-title">Stats</div>
+                <div class="stat-grid">
+                    <div class="stat-card">
+                        <div class="stat-label">Health</div>
+                        <div class="stat-value">{{ selectedEntity.health || '-' }}</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-label">Level</div>
+                        <div class="stat-value">{{ selectedEntity.level || '-' }}</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-label">Walk Speed</div>
+                        <div class="stat-value">{{ selectedEntity.walkSpeed || '-' }}</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-label">Run Speed</div>
+                        <div class="stat-value">{{ selectedEntity.runSpeed || '-' }}</div>
+                    </div>
+
+                    <div class="stat-card">
+                        <div class="stat-label">Absorption</div>
+                        <div class="stat-value">{{ selectedEntity.Absorption || '-'}}</div>
+                    </div>
+
+                    <div class="stat-card">
+                        <div class="stat-label">Block</div>
+                        <div class="stat-value">{{ selectedEntity.Block || '-'}}</div>
+                    </div>
+
+                    <div class="stat-card">
+                        <div class="stat-label">BlockProjectile</div>
+                        <div class="stat-value">{{ selectedEntity.BlockProjectile || '-'}}</div>
+                    </div>
+
+                    <div class="stat-card">
+                        <div class="stat-label">Defense</div>
+                        <div class="stat-value">{{ selectedEntity.Defense || '-'}}</div>
+                    </div>
+
+                    <div class="stat-card">
+                        <div class="stat-label">DivineBurningVulnerability</div>
+                        <div class="stat-value">{{ selectedEntity.DivineBurningVulnerability || '-'}}</div>
+                    </div>
+
+                    <div class="stat-card">
+                        <div class="stat-label">Dodge</div>
+                        <div class="stat-value">{{ selectedEntity.entityBonuses.Dodge || '-'}}</div>
+                    </div>
+
+                    <div class="stat-card">
+                        <div class="stat-label">IgnoreBloodDots</div>
+                        <div class="stat-value">{{ selectedEntity.entityBonuses.IgnoreBloodDots || '-'}}</div>
+                    </div>
+
+                    <div class="stat-card">
+                        <div class="stat-label">IgnoreDamage</div>
+                        <div class="stat-value">{{ selectedEntity.entityBonuses.IgnoreDamage || '-'}}</div>
+                    </div>
+
+                    <div class="stat-card">
+                        <div class="stat-label">IgnoreEffects</div>
+                        <div class="stat-value">{{ selectedEntity.entityBonuses.IgnoreEffects || '-'}}</div>
+                    </div>
+
+                    <div class="stat-card">
+                        <div class="stat-label">IgnoreFireDots</div>
+                        <div class="stat-value">{{ selectedEntity.entityBonuses.IgnoreFireDots || '-'}}</div>
+                    </div>
+
+                    <div class="stat-card">
+                        <div class="stat-label">IgnoreNextSlowdown</div>
+                        <div class="stat-value">{{ selectedEntity.entityBonuses.IgnoreNextSlowdown || '-'}}</div>
+                    </div>
+
+                    <div class="stat-card">
+                        <div class="stat-label">IgnoreNextStun</div>
+                        <div class="stat-value">{{ selectedEntity.entityBonuses.IgnoreNextStun || '-'}}</div>
+                    </div>
+
+                    <div class="stat-card">
+                        <div class="stat-label">IgnoreNormalDamage</div>
+                        <div class="stat-value">{{ selectedEntity.entityBonuses.IgnoreNormalDamage || '-'}}</div>
+                    </div>
+
+                    <div class="stat-card">
+                        <div class="stat-label">IgnoreNormalDamageDots</div>
+                        <div class="stat-value">{{ selectedEntity.entityBonuses.IgnoreNormalDamageDots || '-'}}</div>
+                    </div>
+
+                    <div class="stat-card">
+                        <div class="stat-label">IgnorePetAttacks</div>
+                        <div class="stat-value">{{ selectedEntity.entityBonuses.IgnorePetAttacks || '-'}}</div>
+                    </div>
+
+                    <div class="stat-card">
+                        <div class="stat-label">IgnoreSlowdown</div>
+                        <div class="stat-value">{{ selectedEntity.entityBonuses.IgnoreSlowdown || '-'}}</div>
+                    </div>
+
+                    <div class="stat-card">
+                        <div class="stat-label">IgnoreStun</div>
+                        <div class="stat-value">{{ selectedEntity.entityBonuses.IgnoreStun || '-'}}</div>
+                    </div>
+
+                    <div class="stat-card">
+                        <div class="stat-label">Parry</div>
+                        <div class="stat-value">{{ selectedEntity.entityBonuses.Parry || '-'}}</div>
+                    </div>
+
+                    <div class="stat-card">
+                        <div class="stat-label">PlagueDefense</div>
+                        <div class="stat-value">{{ selectedEntity.entityBonuses.PlagueDefense || '-'}}</div>
+                    </div>
+
+                    <div class="stat-card">
+                        <div class="stat-label">PlagueInfectionChance</div>
+                        <div class="stat-value">{{ selectedEntity.entityBonuses.PlagueInfectionChance || '-'}}</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-label">ReflectDealthMeleeDamage</div>
+                        <div class="stat-value">{{ selectedEntity.entityBonuses.ReflectDealthMeleeDamage || '-'}}</div>
+                    </div>
+                </div>
+
+                <div v-if="selectedEntity.skills && selectedEntity.skills.length">
+                    <div class="section-title">Skills</div>
+                    <table>
+                        <thead>
+                        <tr>
+                            <th>Name</th>
+                            <th>Damage</th>
+                            <th>Stamina</th>
+                            <th>Effects</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr v-for="skill in selectedEntity.skills">
+                            <td>
+                                <strong>{{ t(skill.name) }}</strong>
+                                <div class="skill-detail">{{ t(skill.description) }}</div>
+                            </td>
+                            <td>
+                                {{ skill.damage || skill.minDamage || '-' }}
+                                <span v-if="skill.maxDamage">- {{ skill.maxDamage }}</span>
+                            </td>
+                            <td>{{ skill.stamina || '-' }}</td>
+                            <td>
+                                <div v-if="skill.ignoreAvoidingDamage">Ignore Avoid:
+                                    {{ skill.ignoreAvoidingDamage }}
+                                </div>
+                                <div v-if="skill.ignoreAbsorb">Ignore Absorb: {{ skill.ignoreAbsorb }}</div>
+                                <div v-if="skill.ignoreDefense">Ignore Def: {{ skill.ignoreDefense }}</div>
+                                <div v-if="skill.criticalChance">Crit Chance: {{ skill.criticalChance }}</div>
+                                <div v-if="skill.criticalValue">Crit Value: {{ skill.criticalValue }}</div>
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <div v-if="selectedEntity.skinning_drops && selectedEntity.skinning_drops.length">
+                    <div class="section-title">Skinning Drops</div>
+                    <table>
+                        <thead>
+                        <tr>
+                            <th>Item</th>
+                            <th>Chance</th>
+                            <th>Amount</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr v-for="drop in selectedEntity.skinning_drops" class="clickable-row"
+                            @click="goToItem(drop.itemId)">
+                            <td>
+                                <div style="display: flex; align-items: center; gap: 10px;">
+                                    <div class="icon-preview" style="width: 32px; height: 32px; margin: 0;"
+                                         :style="getItemIconStyle(drop.itemId)"></div>
+                                    <span>{{ getItemName(drop.itemId) }}</span>
+                                </div>
+                            </td>
+                            <td>{{ (drop.chance * 100).toFixed(1) }}%</td>
+                            <td>{{ drop.min }}{{ drop.max > drop.min ? '-' + drop.max : '' }}</td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <div v-if="selectedEntity.drops && selectedEntity.drops.length">
+                    <div class="section-title">Drops</div>
+                    <table>
+                        <thead>
+                        <tr>
+                            <th>Item</th>
+                            <th>Chance</th>
+                            <th>Amount</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr v-for="drop in selectedEntity.drops" class="clickable-row"
+                            @click="goToItem(drop.itemId)">
+                            <td>
+                                <div style="display: flex; align-items: center; gap: 10px;">
+                                    <div class="icon-preview" style="width: 32px; height: 32px; margin: 0;"
+                                         :style="getItemIconStyle(drop.itemId)"></div>
+                                    <span>{{ getItemName(drop.itemId) }}</span>
+                                </div>
+                            </td>
+                            <td>{{ (drop.chance * 100).toFixed(1) }}%</td>
+                            <td>{{ drop.min }}{{ drop.max > drop.min ? '-' + drop.max : '' }}</td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <!-- Item Specifics -->
+            <div v-if="currentCategory === 'items'">
+                <div class="section-title">Details</div>
+                <div class="stat-grid">
+                    <div class="stat-card">
+                        <div class="stat-label">Sell Price</div>
+                        <div class="stat-value">{{ selectedEntity.sellPrice || '-' }}</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-label">Buy Price</div>
+                        <div class="stat-value">{{ selectedEntity.buyUpPrice || '-' }}</div>
+                    </div>
+                </div>
+
+                <div v-if="selectedEntity.dropped_by && selectedEntity.dropped_by.length">
+                    <div class="section-title">Dropped By</div>
+                    <table>
+                        <thead>
+                        <tr>
+                            <th>Source</th>
+                            <th>Type</th>
+                            <th>Chance</th>
+                            <th>Amount</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr v-for="source in selectedEntity.dropped_by" class="clickable-row"
+                            @click="goToMob(source.sourceId)">
+                            <td>
+                                <div style="display: flex; align-items: center; gap: 10px;">
+                                    <div class="icon-preview" style="width: 32px; height: 32px; margin: 0;"
+                                         :style="getMobIconStyle(source.sourceId)"></div>
+                                    <span>{{ getMobName(source.sourceId) }}</span>
+                                </div>
+                            </td>
+                            <td>
+                                        <span v-if="source.type === 'Skinning'" class="tag"
+                                              style="background: #fab387; color: #1e1e2e;">Skinning</span>
+                                <span v-else class="tag"
+                                      style="background: #a6e3a1; color: #1e1e2e;">Drop</span>
+                            </td>
+                            <td>{{ (source.chance * 100).toFixed(1) }}%</td>
+                            <td>{{ source.min }}{{ source.max > source.min ? '-' + source.max : '' }}</td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <!-- Recipe Specifics -->
+            <div v-if="currentCategory === 'recipes'">
+                <div class="section-title">Ingredients</div>
+                <table>
+                    <thead>
+                    <tr>
+                        <th>Item</th>
+                        <th>Amount</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr v-for="res in selectedEntity.resources" class="clickable-row"
+                        @click="goToItem(res.name)">
+                        <td>{{ getItemName(res.name) }}</td>
+                        <td>{{ res.amount }}</td>
+                    </tr>
+                    </tbody>
+                </table>
+
+                <div class="section-title">Products</div>
+                <table>
+                    <thead>
+                    <tr>
+                        <th>Item</th>
+                        <th>Amount</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr v-for="prod in selectedEntity.products" class="clickable-row"
+                        @click="goToItem(prod.name)">
+                        <td>{{ getItemName(prod.name) }}</td>
+                        <td>{{ prod.amount }}</td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- Quest Specifics -->
+            <div v-if="currentCategory === 'quests'">
+                <div class="section-title">Details</div>
+                <div class="stat-grid">
+                    <div class="stat-card" v-if="selectedEntity.npcGiverName">
+                        <div class="stat-label">Giver</div>
+                        <div class="stat-value">{{ t(selectedEntity.npcGiverName) }}</div>
+                    </div>
+                    <div class="stat-card" v-if="selectedEntity.npcTakerName">
+                        <div class="stat-label">Taker</div>
+                        <div class="stat-value">{{ t(selectedEntity.npcTakerName) }}</div>
+                    </div>
+                    <div class="stat-card" v-if="selectedEntity.isDaily">
+                        <div class="stat-label">Type</div>
+                        <div class="stat-value">Daily</div>
+                    </div>
+                </div>
+
+                <div v-if="selectedEntity.predecessors && selectedEntity.predecessors.length">
+                    <div class="section-title">Prerequisites</div>
+                    <ul>
+                        <li v-for="pred in selectedEntity.predecessors">{{ pred }}</li>
+                    </ul>
+                </div>
+
+                <div v-if="selectedEntity.reward">
+                    <div class="section-title">Rewards</div>
+                    <div class="stat-grid">
+                        <div class="stat-card" v-if="selectedEntity.reward.money">
+                            <div class="stat-label">Money</div>
+                            <div class="stat-value">{{ selectedEntity.reward.money }}</div>
+                        </div>
+                        <div class="stat-card" v-if="selectedEntity.reward.guildXp">
+                            <div class="stat-label">Guild XP</div>
+                            <div class="stat-value">{{ selectedEntity.reward.guildXp }}</div>
+                        </div>
+                        <div class="stat-card clickable-row" v-if="selectedEntity.reward.rewardItemName"
+                             @click="goToItem(selectedEntity.reward.rewardItemName)">
+                            <div class="stat-label">Item</div>
+                            <div class="stat-value">
+                                {{ getItemName(selectedEntity.reward.rewardItemName) }}
+                                <span v-if="selectedEntity.reward.amount">x{{ selectedEntity.reward.amount
+                                    }}</span>
+                            </div>
+                        </div>
+                        <div class="stat-card" v-if="selectedEntity.reward.bookSkill">
+                            <div class="stat-label">Skill Book</div>
+                            <div class="stat-value">{{ selectedEntity.reward.bookSkill }}</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </main>
 </div>
 
 <script>
-    let data = {};
-    let currentLocale = 'en';
-    let currentType = 'mobs';
+    const {createApp} = Vue;
 
-    async function loadData() {
-        const response = await fetch('wiki_data.json');
-        data = await response.json();
-        showList('mobs');
-    }
+    createApp({
+        data() {
+            return {
+                availableLocales: ['en'],
+                basePath: 'wiki_data_new',
 
-    function getLoc(key) {
-        if (data.locales && data.locales[currentLocale] && data.locales[currentLocale][key]) {
-            return data.locales[currentLocale][key];
-        }
-        return key;
-    }
+                currentCategory: 'mobs',
+                currentLocale: 'en',
+                searchQuery: '',
+                selectedEntity: null,
 
-    function changeLocale() {
-        currentLocale = document.getElementById('locale-select').value;
-        showList(currentType);
-        document.getElementById('content').innerHTML = '<h1>Welcome to the Wiki</h1><p>Select an item from the left to view details.</p>';
-    }
+                manifest: {mobs: [], items: [], quests: [], recipes: []},
+                locales: {},
 
-    function showList(type) {
-        currentType = type;
-        const container = document.getElementById('list-container');
-        container.innerHTML = '';
+                // Cache for quick lookups
+                itemMap: {},
+                mobMap: {}
+            }
+        },
+        computed: {
+            currentList() {
+                return this.manifest[this.currentCategory] || [];
+            },
+            filteredList() {
+                if (!this.searchQuery) return this.currentList;
+                const lowerQuery = this.searchQuery.toLowerCase();
+                return this.currentList.filter(item => {
+                    if (String(item.id).toLowerCase().includes(lowerQuery)) return true;
+                    const name = this.t(item.loc_key || item.loc_key_name || item.name || item.id).toLowerCase();
+                    if (name.includes(lowerQuery)) return true;
+                    return false;
+                });
+            }
+        },
+        methods: {
+            async init() {
+                try {
+                    const [manifestRes, localesRes] = await Promise.all([
+                        fetch(`${this.basePath}/manifest.json`),
+                        fetch(`${this.basePath}/locales.json`)
+                    ]);
+                    this.manifest = await manifestRes.json();
+                    this.locales = await localesRes.json();
 
-        data[type].forEach(item => {
-            const div = document.createElement('div');
-            div.className = 'list-item';
-            let name = item.id;
-            if (type === 'quests') {
-                name = getLoc(item.loc_key_name);
-            } else if (type === 'recipes') {
-                name = item.id; // Recipes usually don't have a direct loc key for the recipe itself, maybe use product name?
-                if (item.products && item.products.length > 0) {
-                     name = getLoc(item.products[0].loc_key) + " (Recipe)";
+                    this.availableLocales = Object.keys(this.locales);
+                    if (!this.availableLocales.includes(this.currentLocale)) {
+                        this.currentLocale = this.availableLocales[0] || 'en';
+                    }
+
+                    // Build maps for quick lookup
+                    this.manifest.items.forEach(i => this.itemMap[i.id] = i);
+                    this.manifest.mobs.forEach(m => this.mobMap[m.id] = m);
+
+                    // Handle initial URL state
+                    this.handlePopState();
+
+                } catch (e) {
+                    console.error("Failed to load initial data", e);
                 }
-            } else {
-                name = getLoc(item.loc_key);
-            }
-            div.textContent = name;
-            div.dataset.id = item.id;
-            div.onclick = () => showDetails(item, type);
-            container.appendChild(div);
-        });
-    }
+            },
 
-    function filterList() {
-        const query = document.getElementById('search').value.toLowerCase();
-        const items = document.querySelectorAll('.list-item');
-        items.forEach(item => {
-            if (item.textContent.toLowerCase().includes(query)) {
-                item.classList.remove('hidden');
-            } else {
-                item.classList.add('hidden');
-            }
-        });
-    }
+            setCategory(cat) {
+                this.currentCategory = cat;
+                this.selectedEntity = null;
+                this.searchQuery = '';
+                this.updateUrl();
+            },
 
-    function showDetails(item, type) {
-        const content = document.getElementById('content');
-        let html = '';
+            async selectEntity(entitySummary) {
+                try {
+                    const res = await fetch(`${this.basePath}/${this.currentCategory}/${entitySummary.id}.json`);
+                    this.selectedEntity = await res.json();
+                    this.updateUrl();
+                } catch (e) {
+                    console.error(`Failed to load entity ${entitySummary.id}`, e);
+                }
+            },
 
-        if (type === 'mobs') {
-            const name = getLoc(item.loc_key);
-            html += `<h2>${name}</h2>`;
-            html += `<div class="field"><span class="label">ID:</span> ${item.id}</div>`;
-            html += `<div class="field"><span class="label">Level:</span> ${item.level || 'N/A'}</div>`;
-            html += `<div class="field"><span class="label">Health:</span> ${item.health || 'N/A'}</div>`;
-            html += `<div class="field"><span class="label">Stamina:</span> ${item.stamina || 'N/A'}</div>`;
-            html += `<div class="field"><span class="label">Walk Speed:</span> ${item.walkSpeed || 'N/A'}</div>`;
-            html += `<div class="field"><span class="label">Run Speed:</span> ${item.runSpeed || 'N/A'}</div>`;
+            clearSelection() {
+                this.selectedEntity = null;
+                this.updateUrl();
+            },
 
-            if (item.skills && item.skills.length > 0) {
-                html += `<h3>Skills</h3><ul>`;
-                item.skills.forEach(skillName => {
-                    let skillInfo = data.skills_info[skillName];
-                    let damageStr = "";
-                    if (skillInfo && (skillInfo.minDamage || skillInfo.maxDamage)) {
-                        damageStr = ` (Damage: ${skillInfo.minDamage || 0} - ${skillInfo.maxDamage || 0})`;
+            updateUrl() {
+                const params = new URLSearchParams();
+                if (this.currentCategory) params.set('category', this.currentCategory);
+                if (this.selectedEntity) params.set('id', this.selectedEntity.id);
+
+                const newUrl = `${window.location.pathname}?${params.toString()}`;
+                window.history.pushState({
+                    category: this.currentCategory,
+                    id: this.selectedEntity ? this.selectedEntity.id : null
+                }, '', newUrl);
+            },
+
+            handlePopState() {
+                const params = new URLSearchParams(window.location.search);
+                const category = params.get('category');
+                const id = params.get('id');
+
+                if (category && this.manifest[category]) {
+                    this.currentCategory = category;
+                    if (id) {
+                        const entity = this.manifest[category].find(e => e.id === id);
+                        if (entity) {
+                            this.selectEntity(entity);
+                        }
+                    } else {
+                        this.selectedEntity = null;
                     }
-                    html += `<li>${skillName}${damageStr}</li>`;
-                });
-                html += `</ul>`;
-            }
+                } else {
+                    // Default
+                    this.currentCategory = 'mobs';
+                    this.selectedEntity = null;
+                }
+            },
 
-            if (item.drops && item.drops.length > 0) {
-                html += `<h3>Drops</h3>`;
-                item.drops.forEach(drop => {
-                    if (drop.money) {
-                        html += `<div class="field"><span class="label">Money:</span> ${drop.money.amount} - ${drop.money.amountMax || drop.money.amount} (Chance: ${drop.money.chance})</div>`;
-                    }
-                    if (drop.list) {
-                        html += `<ul>`;
-                        drop.list.forEach(group => {
-                            html += `<li>Chance: ${group.chance}`;
-                            if (group.randomList) {
-                                html += `<ul>`;
-                                group.randomList.forEach(loot => {
-                                    const itemName = getLoc(`Item.${loot.typeName}`);
-                                    html += `<li>${itemName} (${loot.amount || 1}${loot.amountMax ? '-' + loot.amountMax : ''})</li>`;
-                                });
-                                html += `</ul>`;
-                            }
-                            html += `</li>`;
-                        });
-                        html += `</ul>`;
-                    }
-                });
-            }
+            t(key) {
+                if (!key) return '';
+                return (this.locales[this.currentLocale] && this.locales[this.currentLocale][key]) || key;
+            },
 
-        } else if (type === 'items') {
-            const name = getLoc(item.loc_key);
-            const desc = getLoc(item.loc_key + ".Description");
-            html += `<h2>${name}</h2>`;
-            if (desc !== item.loc_key + ".Description") {
-                html += `<p>${desc}</p>`;
-            }
-            html += `<div class="field"><span class="label">ID:</span> ${item.id}</div>`;
-            if (item.sellPrice) html += `<div class="field"><span class="label">Sell Price:</span> ${item.sellPrice}</div>`;
-            if (item.buyUpPrice) html += `<div class="field"><span class="label">Buy Up Price:</span> ${item.buyUpPrice}</div>`;
-            if (item.maxStack) html += `<div class="field"><span class="label">Max Stack:</span> ${item.maxStack}</div>`;
+            getIconStyle(entity, scale = 1) {
+                if (!entity || !entity.icon_path) return {};
+                const path = `${this.basePath}/${entity.icon_path}`;
+                const style = {
+                    backgroundImage: `url('${path}')`,
+                    backgroundRepeat: 'no-repeat'
+                };
+                if (entity.icon_rect) {
+                    const r = entity.icon_rect;
+                    style.backgroundPosition = `-${r.x * scale}px -${r.y * scale}px`;
+                    style.backgroundSize = 'auto';
+                    style.width = `${r.w * scale}px`;
+                    style.height = `${r.h * scale}px`;
+                } else {
+                    style.backgroundSize = 'contain';
+                    style.backgroundPosition = 'center';
+                }
+                return style;
+            },
 
-        } else if (type === 'quests') {
-            const name = getLoc(item.loc_key_name);
-            const desc = getLoc(item.loc_key_desc);
-            html += `<h2>${name}</h2>`;
-            html += `<p>${desc}</p>`;
-            html += `<div class="field"><span class="label">ID:</span> ${item.id}</div>`;
-        } else if (type === 'recipes') {
-            let name = item.id;
-            if (item.products && item.products.length > 0) {
-                 name = getLoc(item.products[0].loc_key) + " (Recipe)";
-            }
-            html += `<h2>${name}</h2>`;
-            html += `<div class="field"><span class="label">ID:</span> ${item.id}</div>`;
+            getItemName(id) {
+                const item = this.itemMap[id];
+                return item ? this.t(item.loc_key || item.name || item.id) : id;
+            },
 
-            if (item.resources && item.resources.length > 0) {
-                html += `<h3>Resources</h3><ul>`;
-                item.resources.forEach(res => {
-                    const resName = res.loc_key ? getLoc(res.loc_key) : (res.name || 'Unknown');
-                    html += `<li>${resName}: ${res.amount}</li>`;
-                });
-                html += `</ul>`;
-            }
+            getMobName(id) {
+                const mob = this.mobMap[id];
+                return mob ? this.t(mob.loc_key || mob.name || mob.id) : id;
+            },
 
-            if (item.products && item.products.length > 0) {
-                html += `<h3>Products</h3><ul>`;
-                item.products.forEach(prod => {
-                    const prodName = prod.loc_key ? getLoc(prod.loc_key) : (prod.name || 'Unknown');
-                    html += `<li>${prodName}: ${prod.amount}</li>`;
-                });
-                html += `</ul>`;
+            getItemIconStyle(id) {
+                const item = this.itemMap[id];
+                return this.getIconStyle(item, 0.5); // Scale down for table
+            },
+
+            getMobIconStyle(id) {
+                const mob = this.mobMap[id];
+                return this.getIconStyle(mob, 0.5);
+            },
+
+            goToItem(id) {
+                if (this.itemMap[id]) {
+                    this.currentCategory = 'items';
+                    this.selectEntity(this.itemMap[id]);
+                }
+            },
+
+            goToMob(id) {
+                if (this.mobMap[id]) {
+                    this.currentCategory = 'mobs';
+                    this.selectEntity(this.mobMap[id]);
+                }
             }
+        },
+        mounted() {
+            window.addEventListener('popstate', this.handlePopState);
+            this.init();
         }
-
-        content.innerHTML = html;
-    }
-
-    loadData();
+    }).mount('#app');
 </script>
-
 </body>
 </html>

@@ -1,0 +1,23 @@
+{
+  "m_Name": "Xmas-Daily-GatherChristmasBall",
+  "m_Script": "a33fbc2ed7ad8fe58f2dcfb6e1a39cab",
+  "line": "3",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "4a1e3234210c65c4ca409eefa714207e",
+  "predecessors": [
+    "Xmas-04-ObtainStolenGifts"
+  ],
+  "npcTaker": "4a1e3234210c65c4ca409eefa714207e",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "1",
+    "rewardItem": "ce654efc3af9f464582c0baa07f0baf5",
+    "rewardItemName": "SmallBoostPotion"
+  },
+  "id": "Xmas-Daily-GatherChristmasBall",
+  "npcGiverName": "JunkerRagnara",
+  "npcTakerName": "JunkerRagnara",
+  "group": "Daily"
+}

@@ -1,0 +1,23 @@
+{
+  "m_Name": "Boss-05-KillEarthTitan",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "11e1970d86e6e6440b43cdad3cffb63a",
+  "predecessors": [
+    "Boss-04-KillTreeEnt"
+  ],
+  "npcTaker": "11e1970d86e6e6440b43cdad3cffb63a",
+  "reward": {
+    "money": "5000",
+    "guildXp": "0",
+    "amount": "5",
+    "rewardItem": "af34da37f72eccb4185e18af0e20da2c",
+    "rewardItemName": "Marblestone"
+  },
+  "id": "Boss-05-KillEarthTitan",
+  "npcGiverName": "CityMasonPetrum",
+  "npcTakerName": "CityMasonPetrum",
+  "group": "General"
+}

@@ -1,0 +1,31 @@
+{
+  "m_Name": "LootPlagueStrangeSkull",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "86eb6066f44fa7a4ca332a87b7ac2991",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "45",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "LootPlagueStrangeSkull",
+  "loc_key": "Item.LootPlagueStrangeSkull",
+  "dropped_by": [
+    {
+      "sourceId": "PlagueCityCorpses",
+      "chance": 0.1111111111111111,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "PlagueSkeletonsCorpses",
+      "chance": 0.25,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "PlagueSpidersWeb",
+      "chance": 0.05,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

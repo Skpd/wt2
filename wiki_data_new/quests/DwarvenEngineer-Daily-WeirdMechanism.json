@@ -1,0 +1,20 @@
+{
+  "m_Name": "DwarvenEngineer-Daily-WeirdMechanism",
+  "m_Script": "a33fbc2ed7ad8fe58f2dcfb6e1a39cab",
+  "line": "0",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "b8954a69e9531d74db3180d41d9a2285",
+  "npcTaker": "b8954a69e9531d74db3180d41d9a2285",
+  "reward": {
+    "money": "2500",
+    "guildXp": "0",
+    "amount": "5",
+    "rewardItem": "b3791ea2842ef564cb076a9cfa38d737",
+    "rewardItemName": "DwarvenAncientMechanisms"
+  },
+  "id": "DwarvenEngineer-Daily-WeirdMechanism",
+  "npcGiverName": "DwarvenEngineerMount",
+  "npcTakerName": "DwarvenEngineerMount",
+  "group": "Daily"
+}

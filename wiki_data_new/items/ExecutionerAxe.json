@@ -1,0 +1,48 @@
+{
+  "m_Name": "ExecutionerAxe",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "75621f47e0d44cf4e91460dd4ca06bf8",
+  "image_fid": "21300000",
+  "sellPrice": "500",
+  "buyUpPrice": "50",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "entityMaxLevel": "0",
+  "minDamage": "23",
+  "maxDamage": "37",
+  "minPlagueDamage": "0",
+  "maxPlagueDamage": "0",
+  "criticalChance": "0.15",
+  "criticalValue": "1.5",
+  "dismountChance": "0",
+  "splash": "1",
+  "isAOE": "0",
+  "projectileAOERange": "0",
+  "prefabAOEName": null,
+  "ignoreAvoidingDamage": "0",
+  "ignoreAbsorb": "0",
+  "ignoreDefense": "0",
+  "abilityName": null,
+  "effectLevelLimit": "0",
+  "effects": [],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "0"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  "id": "ExecutionerAxe",
+  "loc_key": "Item.ExecutionerAxe",
+  "dropped_by": [
+    {
+      "sourceId": "ExecutionerGrave",
+      "chance": 0.5,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

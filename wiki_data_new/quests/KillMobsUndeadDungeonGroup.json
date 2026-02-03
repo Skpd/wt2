@@ -1,0 +1,23 @@
+{
+  "m_Name": "KillMobsUndeadDungeonGroup",
+  "m_Script": "c1970cf3678c9b688fd0652b2161d53d",
+  "line": "0",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "204b498d36241ba4bb1e2ad92ef74a22",
+  "predecessors": [
+    "Mobs-06-KillUndeadGroup"
+  ],
+  "npcTaker": "f25f74f380d9f0041af14bd2e376816f",
+  "reward": {
+    "money": "3000",
+    "guildXp": "0",
+    "amount": "5",
+    "rewardItem": "067acd9514b8b8d46a8c9a7f1cd91528",
+    "rewardItemName": "HealingBandages"
+  },
+  "id": "KillMobsUndeadDungeonGroup",
+  "npcGiverName": "PlagueDailyQuests",
+  "npcTakerName": "PlagueGoPoints",
+  "group": "Daily"
+}

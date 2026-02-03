@@ -1,0 +1,23 @@
+{
+  "m_Name": "Witchcrafter-09-ObtainWeaponPoison",
+  "m_Script": "a33fbc2ed7ad8fe58f2dcfb6e1a39cab",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "cf906b95c7aa0a14685e5751ba7fc1ad",
+  "predecessors": [
+    "Witchcrafter-08-CraftBattleHungerPotion"
+  ],
+  "npcTaker": "cf906b95c7aa0a14685e5751ba7fc1ad",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "5",
+    "rewardItem": "6d4ea3c855cf03c4a96d99fdcede5f74",
+    "rewardItemName": "SilverIngot"
+  },
+  "id": "Witchcrafter-09-ObtainWeaponPoison",
+  "npcGiverName": "CityWitchcrafterOrvin",
+  "npcTakerName": "CityWitchcrafterOrvin",
+  "group": "General"
+}

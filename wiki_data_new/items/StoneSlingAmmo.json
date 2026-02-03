@@ -1,0 +1,11 @@
+{
+  "m_Name": "StoneSlingAmmo",
+  "m_Script": "b2cd456c67ed7fbd493e563aaef7330a",
+  "image": "36e1f8c0db2c1f645bbf962babc1000f",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.02",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "StoneSlingAmmo",
+  "loc_key": "Item.StoneSlingAmmo"
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "ChickenPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "054a09dabf62aba40b7ceca1065c8d56",
+  "image_fid": "21300000",
+  "sellPrice": "10",
+  "buyUpPrice": "10",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "ChickenPet",
+  "loc_key": "Item.ChickenPet"
+}

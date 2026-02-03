@@ -1,0 +1,33 @@
+{
+  "m_Name": "Cookery_LeavenedDough",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "013eb2699025dea4fbc6416d3c9e3f14",
+      "amount": "4",
+      "name": "Flour",
+      "loc_key": "Item.Flour"
+    },
+    {
+      "guid": "1d69b080360d9844ca7742fe9b68e43a",
+      "amount": "4",
+      "name": "Sourdough",
+      "loc_key": "Item.Sourdough"
+    },
+    {
+      "guid": "c96ca6b2e2e6df4438568cec07873777",
+      "amount": "4",
+      "name": "WildEggs",
+      "loc_key": "Item.WildEggs"
+    }
+  ],
+  "products": [
+    {
+      "guid": "9900206d56d1e1746a22399181ae9724",
+      "amount": "5",
+      "name": "LeavenedDough",
+      "loc_key": "Item.LeavenedDough"
+    }
+  ],
+  "id": "Cookery_LeavenedDough"
+}

@@ -1,0 +1,310 @@
+{
+  "m_Name": "IronRawOre",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "9ec203dba051f04469f03c33472933fd",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.05",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "IronRawOre",
+  "loc_key": "Item.IronRawOre",
+  "dropped_by": [
+    {
+      "sourceId": "UndeadSwordHalloween",
+      "chance": 0.07142857142857142,
+      "min": 10,
+      "max": 50
+    },
+    {
+      "sourceId": "CursedKobold",
+      "chance": 0.25,
+      "min": 50,
+      "max": 50
+    },
+    {
+      "sourceId": "CursedKobold",
+      "chance": 0.125,
+      "min": 50,
+      "max": 50
+    },
+    {
+      "sourceId": "CursedKobold",
+      "chance": 0.125,
+      "min": 50,
+      "max": 50
+    },
+    {
+      "sourceId": "CursedKobold",
+      "chance": 0.125,
+      "min": 50,
+      "max": 50
+    },
+    {
+      "sourceId": "CursedKobold",
+      "chance": 0.125,
+      "min": 50,
+      "max": 50
+    },
+    {
+      "sourceId": "MineKobold",
+      "chance": 0.1111111111111111,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "MineKobold",
+      "chance": 0.25,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "MineKobold",
+      "chance": 0.3333333333333333,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "MineKobold",
+      "chance": 0.3333333333333333,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "MineKobold",
+      "chance": 0.07142857142857142,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "FatOgre",
+      "chance": 0.07142857142857142,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "UndeadPickaxeDungeon",
+      "chance": 0.0625,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "UndeadPickaxeDungeon",
+      "chance": 0.07142857142857142,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "UndeadAxe",
+      "chance": 0.0625,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "UndeadMace",
+      "chance": 0.0625,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "UndeadSword",
+      "chance": 0.0625,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "UndeadAxe",
+      "chance": 0.07142857142857142,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "UndeadMace",
+      "chance": 0.07142857142857142,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "UndeadSword",
+      "chance": 0.07142857142857142,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "UndeadMage",
+      "chance": 0.07142857142857142,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "UndeadMage",
+      "chance": 0.0625,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "MountainDwarf",
+      "chance": 0.03333333333333333,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "DwarfDigger",
+      "chance": 0.03333333333333333,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "DwarfEngineer",
+      "chance": 0.03333333333333333,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "DwarfAmbusher",
+      "chance": 0.03333333333333333,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "DwarfSoldier",
+      "chance": 0.03333333333333333,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "DwarfOfficer",
+      "chance": 0.03333333333333333,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "Dwarf\u0421ommander",
+      "chance": 0.03333333333333333,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "MountainDwarf",
+      "chance": 0.0375,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "DwarfDigger",
+      "chance": 0.0375,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "DwarfEngineer",
+      "chance": 0.0375,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "DwarfAmbusher",
+      "chance": 0.0375,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "DwarfSoldier",
+      "chance": 0.0375,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "DwarfOfficer",
+      "chance": 0.0375,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "Dwarf\u0421ommander",
+      "chance": 0.0375,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "DwarfAmbusherHideout",
+      "chance": 0.04666666666666666,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "DwarfAmbusherHideout",
+      "chance": 0.0625,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "OrcShaman",
+      "chance": 0.25,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "ChurchCultist",
+      "chance": 0.1,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "DwarfFortGodsendMaterial",
+      "chance": 0.14285714285714285,
+      "min": 3,
+      "max": 5
+    },
+    {
+      "sourceId": "DwarfFortGodsendMaterial",
+      "chance": 0.14285714285714285,
+      "min": 3,
+      "max": 5
+    },
+    {
+      "sourceId": "DwarfFortGodsendMaterial",
+      "chance": 0.045454545454545456,
+      "min": 3,
+      "max": 5
+    },
+    {
+      "sourceId": "DwarfFortGodsendMaterial",
+      "chance": 0.045454545454545456,
+      "min": 4,
+      "max": 5
+    },
+    {
+      "sourceId": "HideoutGodsendMaterial",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "sourceId": "GodsendWinter",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "sourceId": "UndergroundGuardianLarge",
+      "chance": "1",
+      "min": "6",
+      "max": "9",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "VeinKeeperLarge",
+      "chance": "0.6",
+      "min": "6",
+      "max": "9",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "VeinKeeper",
+      "chance": "0.3",
+      "min": "2",
+      "max": "3",
+      "type": "Skinning"
+    }
+  ]
+}

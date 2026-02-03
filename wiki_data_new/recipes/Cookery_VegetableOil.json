@@ -1,0 +1,33 @@
+{
+  "m_Name": "Cookery_VegetableOil",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "bcfd4756ddb7ad14494cc410ddaa8a11",
+      "amount": "4",
+      "name": "WoodNuts",
+      "loc_key": "Item.WoodNuts"
+    },
+    {
+      "guid": "646568439822b5c459e7ae6498e9b5e7",
+      "amount": "4",
+      "name": "Nettle",
+      "loc_key": "Item.Nettle"
+    },
+    {
+      "guid": "a6cf2961ded0f184a85633e2e065d3c2",
+      "amount": "4",
+      "name": "ClayJug",
+      "loc_key": "Item.ClayJug"
+    }
+  ],
+  "products": [
+    {
+      "guid": "bf405eaf6802c2e498be070392bd9ae5",
+      "amount": "5",
+      "name": "VegetableOil",
+      "loc_key": "Item.VegetableOil"
+    }
+  ],
+  "id": "Cookery_VegetableOil"
+}

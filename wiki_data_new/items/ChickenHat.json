@@ -1,0 +1,11 @@
+{
+  "m_Name": "ChickenHat",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "3ec98920ed8e10749a1c4e9bb8e4258d",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "51",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "ChickenHat",
+  "loc_key": "Item.ChickenHat"
+}

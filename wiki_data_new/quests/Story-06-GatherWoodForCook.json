@@ -1,0 +1,19 @@
+{
+  "m_Name": "Story-06-GatherWoodForCook",
+  "m_Script": "bbef8bd82ea7ec3f83b28462fb539071",
+  "line": "1",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "63861cc2b0287e2478d9b753cc540756",
+  "predecessors": [
+    "Story-05-UseHangoverCure"
+  ],
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "0"
+  },
+  "id": "Story-06-GatherWoodForCook",
+  "npcGiverName": "StoryCook",
+  "group": "General"
+}

@@ -1,0 +1,31 @@
+{
+  "m_Name": "DwarvenAncientMechanisms",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "0cffc97acae6a1b40984d4568000097f",
+  "image_fid": "21300000",
+  "sellPrice": "100",
+  "buyUpPrice": "100",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "DwarvenAncientMechanisms",
+  "loc_key": "Item.DwarvenAncientMechanisms",
+  "dropped_by": [
+    {
+      "sourceId": "DwarfEngineer",
+      "chance": 0.06,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfFortFinalChest",
+      "chance": 1,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "DwarfFortGodsendMaterial",
+      "chance": 0.007000000000000001,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

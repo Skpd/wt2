@@ -1,0 +1,21 @@
+{
+  "m_Name": "UnfiredGlass",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "1d2545eeb45646f469fa563a9dec1e87",
+      "amount": "1",
+      "name": "UnfiredGlass",
+      "loc_key": "Item.UnfiredGlass"
+    }
+  ],
+  "products": [
+    {
+      "guid": "84c0cbb13b1ff9946b46c7503bcf0d7f",
+      "amount": "1",
+      "name": "Glass",
+      "loc_key": "Item.Glass"
+    }
+  ],
+  "id": "UnfiredGlass"
+}

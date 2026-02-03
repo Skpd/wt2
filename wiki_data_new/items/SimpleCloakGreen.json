@@ -1,0 +1,12 @@
+{
+  "m_Name": "SimpleCloakGreen",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "328283ecb0cc245408f507e64e35e181",
+  "image_fid": "21300000",
+  "sellPrice": "7500",
+  "buyUpPrice": "5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SimpleCloakGreen",
+  "loc_key": "Item.SimpleCloakGreen",
+  "icon_path": "textures/SimpleCloakGreen.png"
+}

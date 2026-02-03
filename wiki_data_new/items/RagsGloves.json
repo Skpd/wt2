@@ -1,0 +1,12 @@
+{
+  "m_Name": "RagsGloves",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "b1240220db4f6e942b9b673d0200c082",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "RagsGloves",
+  "loc_key": "Item.RagsGloves",
+  "icon_path": "textures/RagsGloves.png"
+}

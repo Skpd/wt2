@@ -1,0 +1,11 @@
+{
+  "m_Name": "SalmonSoup",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "eb53c5a2e9a48d246bfe5cb28e21b2a5",
+  "image_fid": "21300000",
+  "sellPrice": "2000",
+  "buyUpPrice": "50",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SalmonSoup",
+  "loc_key": "Item.SalmonSoup"
+}

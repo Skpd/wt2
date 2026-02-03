@@ -1,0 +1,21 @@
+{
+  "m_Name": "CarpentryCamp-03-ObtainWoodHardSticks",
+  "m_Script": "bbef8bd82ea7ec3f83b28462fb539071",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "c691fc22711f7524f903f7d5151967b9",
+  "predecessors": [
+    "CarpentryCamp-02-SearchStump"
+  ],
+  "npcTaker": "c691fc22711f7524f903f7d5151967b9",
+  "reward": {
+    "money": "1000",
+    "guildXp": "0",
+    "amount": "0"
+  },
+  "id": "CarpentryCamp-03-ObtainWoodHardSticks",
+  "npcGiverName": "CarpentryCampOakcrusher",
+  "npcTakerName": "CarpentryCampOakcrusher",
+  "group": "General"
+}

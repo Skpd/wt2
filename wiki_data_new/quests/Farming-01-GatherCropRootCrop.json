@@ -1,0 +1,20 @@
+{
+  "m_Name": "Farming-01-GatherCropRootCrop",
+  "m_Script": "b597784dc7837e744b6c4fa47c80a317",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "e667ecf0f14c71d4baef02be358cd745",
+  "npcTaker": "e667ecf0f14c71d4baef02be358cd745",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "20",
+    "rewardItem": "374432bcc66221243a57bda8a15119e6",
+    "rewardItemName": "CarrotSeeds"
+  },
+  "id": "Farming-01-GatherCropRootCrop",
+  "npcGiverName": "CityFarmerJack",
+  "npcTakerName": "CityFarmerJack",
+  "group": "General"
+}

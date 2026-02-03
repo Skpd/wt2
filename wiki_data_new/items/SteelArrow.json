@@ -1,0 +1,55 @@
+{
+  "m_Name": "SteelArrow",
+  "m_Script": "b2cd456c67ed7fbd493e563aaef7330a",
+  "image": "69753108203670a4d9182a02941c8060",
+  "image_fid": "21300000",
+  "sellPrice": "50",
+  "buyUpPrice": "0.69299996",
+  "craftMaterialsBuyUpPricePercent": "1.4",
+  "id": "SteelArrow",
+  "loc_key": "Item.SteelArrow",
+  "dropped_by": [
+    {
+      "sourceId": "SewersFinalChest",
+      "chance": 0.125,
+      "min": 25,
+      "max": 70
+    },
+    {
+      "sourceId": "LizardSpear",
+      "chance": 0.043478260869565216,
+      "min": 6,
+      "max": 20
+    },
+    {
+      "sourceId": "Weresnake",
+      "chance": 0.043478260869565216,
+      "min": 6,
+      "max": 20
+    },
+    {
+      "sourceId": "Werecrocodile",
+      "chance": 0.043478260869565216,
+      "min": 6,
+      "max": 20
+    },
+    {
+      "sourceId": "LizardSpear",
+      "chance": 0.008695652173913044,
+      "min": 6,
+      "max": 20
+    },
+    {
+      "sourceId": "Weresnake",
+      "chance": 0.008695652173913044,
+      "min": 6,
+      "max": 20
+    },
+    {
+      "sourceId": "Werecrocodile",
+      "chance": 0.008695652173913044,
+      "min": 6,
+      "max": 20
+    }
+  ]
+}

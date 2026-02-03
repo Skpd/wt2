@@ -1,0 +1,33 @@
+{
+  "m_Name": "Alchemy_Sulfur",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "322f06d905aa606458c16fb8db399d40",
+      "amount": "40",
+      "name": "SulfurOre",
+      "loc_key": "Item.SulfurOre"
+    },
+    {
+      "guid": "cab434caa5579504384cf5c2dcf6bd52",
+      "amount": "4",
+      "name": "Lime",
+      "loc_key": "Item.Lime"
+    },
+    {
+      "guid": "27d507923a0f91a489ebecc6d7e70fd4",
+      "amount": "4",
+      "name": "Water",
+      "loc_key": "Item.Water"
+    }
+  ],
+  "products": [
+    {
+      "guid": "0ff36829267b23044ae7764b83d207b6",
+      "amount": "5",
+      "name": "Sulfur",
+      "loc_key": "Item.Sulfur"
+    }
+  ],
+  "id": "Alchemy_Sulfur"
+}

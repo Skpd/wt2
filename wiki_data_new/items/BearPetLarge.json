@@ -1,0 +1,11 @@
+{
+  "m_Name": "BearPetLarge",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "a0324da56bb33374fa1f6931561ac52f",
+  "image_fid": "21300000",
+  "sellPrice": "2000",
+  "buyUpPrice": "2000",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BearPetLarge",
+  "loc_key": "Item.BearPetLarge"
+}

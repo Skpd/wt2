@@ -1,0 +1,53 @@
+{
+  "m_Name": "MimicBat",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "180",
+  "stamina": "100",
+  "level": "35",
+  "walkSpeed": "1.8",
+  "runSpeed": "4.5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "1",
+  "mobBehaviour": "13ac5cb899340154688b8eb8878fbc29",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "6127f5f76d87c4840a34398ed689a4ad",
+  "entityPrefab_fid": "1129514610828920",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "480d61a0e06170a4cbe33b4f9b3a4402",
+      "name": "MimicBatAttack",
+      "minDamage": "8",
+      "maxDamage": "13",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "1",
+      "ignoreDefense": "1",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    }
+  ],
+  "id": "MimicBat",
+  "loc_key": "Entity.MimicBat",
+  "skinning_drops": [
+    {
+      "itemId": "InfectedRawHide",
+      "chance": "0.15",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "SmallRawHide",
+      "chance": "1",
+      "min": "2",
+      "max": "4"
+    },
+    {
+      "itemId": "MimicBatWing",
+      "chance": "0.02",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

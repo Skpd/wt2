@@ -1,0 +1,94 @@
+{
+  "m_Name": "DementedTreeEntPet",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "200",
+  "stamina": "100",
+  "level": "1",
+  "walkSpeed": "1.6",
+  "runSpeed": "3.5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "3",
+  "mobBehaviour": {
+    "fileID": "0"
+  },
+  "entityPrefab": "1abebf39cec8e6a43897799e393fc58d",
+  "entityPrefab_fid": "1049881487406163",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "7b335dcf056564e40bc54a48539a6172",
+      "name": "DementedTreeEntPetAttack",
+      "minDamage": "10",
+      "maxDamage": "30",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "1",
+      "ignoreDefense": "0",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "377635e631b79e742812acf918a05aac",
+      "name": "DementedTreeEntPetStunAttack",
+      "minDamage": "10",
+      "maxDamage": "30",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "1",
+      "ignoreDefense": "0",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "3d303bead9560944a8ea25b543142091",
+      "name": "DementedTreeEntPetPlagueCurse",
+      "minDamage": "1",
+      "maxDamage": "1",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    }
+  ],
+  "id": "DementedTreeEntPet",
+  "loc_key": "Entity.DementedTreeEntPet",
+  "skinning_drops": [
+    {
+      "itemId": "DarkWood",
+      "chance": "1",
+      "min": "3",
+      "max": "6"
+    },
+    {
+      "itemId": "WoodBark",
+      "chance": "1",
+      "min": "20",
+      "max": "30"
+    },
+    {
+      "itemId": "WoodHardLogs",
+      "chance": "1",
+      "min": "20",
+      "max": "30"
+    },
+    {
+      "itemId": "HeatproofWood",
+      "chance": "1",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "ColdTearsEnt",
+      "chance": "1",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "LiveAcorn",
+      "chance": "0.02",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

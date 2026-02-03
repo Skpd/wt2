@@ -1,0 +1,31 @@
+{
+  "m_Name": "HardenedLeatherGloves",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "e4d7d07d686a86240b8fe976332afc5b",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "72",
+  "craftMaterialsBuyUpPricePercent": "1.5",
+  "id": "HardenedLeatherGloves",
+  "loc_key": "Item.HardenedLeatherGloves",
+  "dropped_by": [
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

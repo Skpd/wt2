@@ -1,0 +1,11 @@
+{
+  "m_Name": "TigerMountSkin",
+  "m_Script": "f5673bd2393c13a27685bda14e28f91a",
+  "image": "e5956153085a2ab4cb702eb2686ca497",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "TigerMountSkin",
+  "loc_key": "Item.TigerMountSkin"
+}

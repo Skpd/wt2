@@ -1,0 +1,11 @@
+{
+  "m_Name": "Redbilberry",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "9a90bf1ae8abf67409c4fe8576e59a81",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.05",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Redbilberry",
+  "loc_key": "Item.Redbilberry"
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "Sourdough",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "7d7952cf1f1f20043b74f0c7dc38efac",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1.6",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Sourdough",
+  "loc_key": "Item.Sourdough"
+}

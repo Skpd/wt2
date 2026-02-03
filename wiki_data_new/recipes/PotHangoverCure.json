@@ -1,0 +1,27 @@
+{
+  "m_Name": "PotHangoverCure",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "fd58efdc75ad4c64c84b61edcced6080",
+      "amount": "1",
+      "name": "RatDroppings",
+      "loc_key": "Item.RatDroppings"
+    },
+    {
+      "guid": "0ff36829267b23044ae7764b83d207b6",
+      "amount": "1",
+      "name": "Sulfur",
+      "loc_key": "Item.Sulfur"
+    }
+  ],
+  "products": [
+    {
+      "guid": "c83aeffed0a0a8d4f9a9fe35af5499dc",
+      "amount": "1",
+      "name": "HangoverCure",
+      "loc_key": "Item.HangoverCure"
+    }
+  ],
+  "id": "PotHangoverCure"
+}

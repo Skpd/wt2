@@ -1,0 +1,11 @@
+{
+  "m_Name": "PotionFindLingonBerryPlant",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "7905bef368508d9499ad0b180b9d530e",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "40",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "PotionFindLingonBerryPlant",
+  "loc_key": "Item.PotionFindLingonBerryPlant"
+}

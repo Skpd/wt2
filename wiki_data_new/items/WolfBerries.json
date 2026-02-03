@@ -1,0 +1,19 @@
+{
+  "m_Name": "WolfBerries",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "612f6cb0c1583664f89f68fb7a9d66d8",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.05",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "WolfBerries",
+  "loc_key": "Item.WolfBerries",
+  "dropped_by": [
+    {
+      "sourceId": "FatOgre",
+      "chance": 0.3333333333333333,
+      "min": 10,
+      "max": 20
+    }
+  ]
+}

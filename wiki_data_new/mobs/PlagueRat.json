@@ -1,0 +1,72 @@
+{
+  "m_Name": "PlagueRat",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "250",
+  "stamina": "100",
+  "level": "25",
+  "walkSpeed": "1.6",
+  "runSpeed": "3.5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "1",
+  "mobBehaviour": "b3ac478c5ce45fe48b8d8d1298c5e4ca",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "a7eac82ec7d92834290c9f8eacc1f1ea",
+  "entityPrefab_fid": "1006967109261082",
+  "entityBonuses": {
+    "PlagueInfectionChance": "0.02"
+  },
+  "skills": [
+    {
+      "id": "f8c50cee0cf70cb408dae0643c052b62",
+      "name": "PlagueRatAttack",
+      "minDamage": "15",
+      "maxDamage": "35",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.15",
+      "criticalValue": "1.2"
+    },
+    {
+      "id": "a1b9ba4cbc5ff104690fb9765a70cfa9",
+      "name": "PlagueRatInfectedBite",
+      "minDamage": "10",
+      "maxDamage": "20",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "1",
+      "ignoreDefense": "1",
+      "criticalChance": "0.25",
+      "criticalValue": "1.5"
+    }
+  ],
+  "id": "PlagueRat",
+  "loc_key": "Entity.PlagueRat",
+  "skinning_drops": [
+    {
+      "itemId": "InfectedRawHide",
+      "chance": "0.5",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "LeprousRawhideParts",
+      "chance": "0.2",
+      "min": "1",
+      "max": "4"
+    },
+    {
+      "itemId": "LeprousBlood",
+      "chance": "0.1",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "RatTailOrgan",
+      "chance": "0.007",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

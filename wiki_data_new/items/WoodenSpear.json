@@ -1,0 +1,90 @@
+{
+  "m_Name": "WoodenSpear",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "901d2b589d8772a4a8fa24e1d05749cd",
+  "image_fid": "21300000",
+  "sellPrice": "3",
+  "buyUpPrice": "0.1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "entityMaxLevel": "25",
+  "minDamage": "8",
+  "maxDamage": "16",
+  "minPlagueDamage": "0",
+  "maxPlagueDamage": "0",
+  "criticalChance": "0.05",
+  "criticalValue": "1.5",
+  "dismountChance": "0",
+  "splash": "0",
+  "isAOE": "0",
+  "projectileAOERange": "0",
+  "prefabAOEName": null,
+  "ignoreAvoidingDamage": "0",
+  "ignoreAbsorb": "0",
+  "ignoreDefense": "0",
+  "abilityName": null,
+  "effectLevelLimit": "0",
+  "effects": [],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "0"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  "id": "WoodenSpear",
+  "loc_key": "Item.WoodenSpear",
+  "dropped_by": [
+    {
+      "sourceId": "GodsendGraveyard",
+      "chance": 0.05555555555555555,
+      "min": 10,
+      "max": 25
+    },
+    {
+      "sourceId": "GodsendMainland",
+      "chance": 0.05555555555555555,
+      "min": 10,
+      "max": 25
+    },
+    {
+      "sourceId": "Reaper",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "sourceId": "SkeletonRanger",
+      "chance": 0.16666666666666666,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "sourceId": "FatOgre",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "sourceId": "FatOgre",
+      "chance": 0.1111111111111111,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "sourceId": "HideoutGodsensBody",
+      "chance": 0.058823529411764705,
+      "min": 5,
+      "max": 20
+    },
+    {
+      "sourceId": "GodsendWinter",
+      "chance": 0.07692307692307693,
+      "min": 5,
+      "max": 20
+    }
+  ]
+}

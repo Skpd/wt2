@@ -1,0 +1,91 @@
+{
+  "m_Name": "BearLarge",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "3000",
+  "stamina": "100",
+  "level": "53",
+  "walkSpeed": "2.5",
+  "runSpeed": "6",
+  "image": "a0324da56bb33374fa1f6931561ac52f",
+  "image_fid": "21300000",
+  "entityClass": "1",
+  "mobBehaviour": "39dd1c703ba236f4098db705bda0cda1",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "c1dfe1abb67e5b34aa1a9b92243b4489",
+  "entityPrefab_fid": "1126021228615819",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "8fbacd204f34b6a40bcfac498aa027b7",
+      "name": "BearFortitudeLarge"
+    },
+    {
+      "id": "2a2cb5f8cc1cc0543b30acba705899a3",
+      "name": "BearAttackLarge",
+      "minDamage": "68",
+      "maxDamage": "85",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.25",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "e624c8e0ec2a33c43b7271abe1b181bf",
+      "name": "BearClawsLarge",
+      "minDamage": "68",
+      "maxDamage": "85",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.25",
+      "criticalValue": "1.5"
+    }
+  ],
+  "id": "BearLarge",
+  "loc_key": "Entity.BearLarge",
+  "skinning_drops": [
+    {
+      "itemId": "MediumRawHide",
+      "chance": "1",
+      "min": "12",
+      "max": "20"
+    },
+    {
+      "itemId": "RawCarnivoreMeat",
+      "chance": "1",
+      "min": "40",
+      "max": "80"
+    },
+    {
+      "itemId": "BearHideFragment",
+      "chance": "1",
+      "min": "3",
+      "max": "4"
+    },
+    {
+      "itemId": "Intestines",
+      "chance": "1",
+      "min": "4",
+      "max": "6"
+    },
+    {
+      "itemId": "AnimalStomach",
+      "chance": "0.1",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "BearPaw",
+      "chance": "0.2",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "OrganicsClot",
+      "chance": "1",
+      "min": "5",
+      "max": "10"
+    }
+  ]
+}

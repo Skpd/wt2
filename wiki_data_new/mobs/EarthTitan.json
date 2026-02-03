@@ -1,0 +1,112 @@
+{
+  "m_Name": "EarthTitan",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "10000",
+  "stamina": "100",
+  "level": "70",
+  "walkSpeed": "2",
+  "runSpeed": "3",
+  "image": "4e3c4a3a012e5aa4ca5b4b57b388cfe8",
+  "image_fid": "21300000",
+  "entityClass": "6",
+  "mobBehaviour": "9bd8dce76b1a6f04ab0d74128de939e4",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "a52e603570bff2a40ab120553915eff5",
+  "entityPrefab_fid": "1129600389132547",
+  "entityBonuses": {
+    "Defense": "0.5",
+    "BlockProjectile": "0.6",
+    "IgnoreEffects": "1"
+  },
+  "skills": [
+    {
+      "id": "a06bcdb4c1346cd47b4b658bc15dda75",
+      "name": "EarthTitanStunAttack",
+      "minDamage": "40",
+      "maxDamage": "50",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.5",
+      "ignoreDefense": "0.3",
+      "criticalChance": "0",
+      "criticalValue": "0"
+    },
+    {
+      "id": "161c43f677c96d444807aa800fe844ac",
+      "name": "EarthTitanAttack",
+      "minDamage": "50",
+      "maxDamage": "80",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "1",
+      "ignoreDefense": "0.3",
+      "criticalChance": "0",
+      "criticalValue": "0"
+    },
+    {
+      "id": "298d9cfeaeba12e4eb8d71eed0952fc1",
+      "name": "EarthTitanFootAttack",
+      "minDamage": "60",
+      "maxDamage": "80",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.5",
+      "ignoreDefense": "0.3",
+      "criticalChance": "0",
+      "criticalValue": "0"
+    },
+    {
+      "id": "2d641be58886c314ab6a38201e06f73c",
+      "name": "EarthTitanReflection"
+    }
+  ],
+  "id": "EarthTitan",
+  "loc_key": "Entity.EarthTitan",
+  "skinning_drops": [
+    {
+      "itemId": "EarthTitanSeal",
+      "chance": "0.25",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "SangitOre",
+      "chance": "1",
+      "min": "6",
+      "max": "10"
+    },
+    {
+      "itemId": "ZuperitOre",
+      "chance": "1",
+      "min": "6",
+      "max": "10"
+    },
+    {
+      "itemId": "Marblestone",
+      "chance": "1",
+      "min": "3",
+      "max": "5"
+    },
+    {
+      "itemId": "MarblestoneBoulder",
+      "chance": "1",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "ShardOfLonging",
+      "chance": "1",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "EarthTitanHeart",
+      "chance": "0.2",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "LiveBoulder",
+      "chance": "0.02",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

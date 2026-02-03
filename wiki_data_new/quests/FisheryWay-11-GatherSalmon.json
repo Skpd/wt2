@@ -1,0 +1,23 @@
+{
+  "m_Name": "FisheryWay-11-GatherSalmon",
+  "m_Script": "bbef8bd82ea7ec3f83b28462fb539071",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "ea6c0480facd1544f88dfc66a449df99",
+  "predecessors": [
+    "FisheryWay-10-GatherShrimp"
+  ],
+  "npcTaker": "ea6c0480facd1544f88dfc66a449df99",
+  "reward": {
+    "money": "7500",
+    "guildXp": "0",
+    "amount": "10",
+    "rewardItem": "79cda299b5e2b4646b39700d455b4cae",
+    "rewardItemName": "Moonshine"
+  },
+  "id": "FisheryWay-11-GatherSalmon",
+  "npcGiverName": "CityFisherPaul",
+  "npcTakerName": "CityFisherPaul",
+  "group": "General"
+}

@@ -1,0 +1,23 @@
+{
+  "m_Name": "FisheryGatherCatfish",
+  "m_Script": "bbef8bd82ea7ec3f83b28462fb539071",
+  "line": "0",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "ea6c0480facd1544f88dfc66a449df99",
+  "predecessors": [
+    "FisheryWay-08-GatherPike"
+  ],
+  "npcTaker": "0ffb12bd08d548e43a9ac684e873e33b",
+  "reward": {
+    "money": "1000",
+    "guildXp": "0",
+    "amount": "3",
+    "rewardItem": "3bf1c0d488506f94282541ea993a1567",
+    "rewardItemName": "MinerStew"
+  },
+  "id": "FisheryGatherCatfish",
+  "npcGiverName": "CityFisherPaul",
+  "npcTakerName": "MinersCampLenora",
+  "group": "Daily"
+}

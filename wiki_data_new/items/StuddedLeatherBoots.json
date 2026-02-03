@@ -1,0 +1,31 @@
+{
+  "m_Name": "StuddedLeatherBoots",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "c8f82cd4c7d56fe49827d45bc69e90aa",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "530.4",
+  "craftMaterialsBuyUpPricePercent": "1.7",
+  "id": "StuddedLeatherBoots",
+  "loc_key": "Item.StuddedLeatherBoots",
+  "dropped_by": [
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "m_Name": "EssentialOilBase",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "98d831d107acff74ea8e50d7adc8ce78",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.3",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "EssentialOilBase",
+  "loc_key": "Item.EssentialOilBase",
+  "icon_path": "textures/EssentialOilBase.png"
+}

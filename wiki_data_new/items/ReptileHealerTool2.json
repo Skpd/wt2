@@ -1,0 +1,50 @@
+{
+  "m_Name": "ReptileHealerTool2",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "921a76ee52cb8d441800c88ea69c99a5",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "181124.62",
+  "craftMaterialsBuyUpPricePercent": "1.2",
+  "entityMaxLevel": "0",
+  "minDamage": "28",
+  "maxDamage": "55",
+  "minPlagueDamage": "9",
+  "maxPlagueDamage": "23",
+  "criticalChance": "0.07",
+  "criticalValue": "1.5",
+  "dismountChance": "0",
+  "splash": "0",
+  "isAOE": "0",
+  "projectileAOERange": "0",
+  "prefabAOEName": null,
+  "ignoreAvoidingDamage": "0",
+  "ignoreAbsorb": "0.25",
+  "ignoreDefense": "0.25",
+  "abilityName": null,
+  "effectLevelLimit": "0",
+  "effects": [
+    {
+      "effect": {
+        "fileID": "11400000",
+        "guid": "abfc567efe627b64abf8d62a708a4887",
+        "type": "2"
+      },
+      "chance": "0.2",
+      "time": "8"
+    }
+  ],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "0"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  "id": "ReptileHealerTool2",
+  "loc_key": "Item.ReptileHealerTool2"
+}

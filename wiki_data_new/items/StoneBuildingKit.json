@@ -1,0 +1,12 @@
+{
+  "m_Name": "StoneBuildingKit",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "9d47204f3c5e25844937552fb1161266",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "StoneBuildingKit",
+  "loc_key": "Item.StoneBuildingKit",
+  "icon_path": "textures/stone_building_kit.png"
+}

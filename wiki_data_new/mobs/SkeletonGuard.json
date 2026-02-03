@@ -1,0 +1,248 @@
+{
+  "m_Name": "SkeletonGuard",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "500",
+  "stamina": "100",
+  "level": "65",
+  "walkSpeed": "1.2",
+  "runSpeed": "4",
+  "image": "3fefa2518bfd30a4da28d914adb7d698",
+  "image_fid": "21300000",
+  "entityClass": "4",
+  "mobBehaviour": "1ffb7607b4dfea441a4aafc9f96b3976",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "7b25d7057741bb24f92dc58c2a343685",
+  "entityPrefab_fid": "1792148324970479",
+  "entityBonuses": {
+    "Block": "0.4",
+    "BlockProjectile": "0.6",
+    "IgnoreBloodDots": "1",
+    "Defense": "0.7",
+    "IgnoreNextSlowdown": "1",
+    "IgnoreNextStun": "1",
+    "Absorption": "20",
+    "PlagueDefense": "0.7"
+  },
+  "skills": [
+    {
+      "id": "316a59471a4585d4ca68fa82d475e135",
+      "name": "SkeletonGuardShieldAttack",
+      "minDamage": "30",
+      "maxDamage": "35",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.5",
+      "ignoreDefense": "0.5",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "a283b55ce5c307845a80cd67a9f37260",
+      "name": "SkeletonGuardAttack",
+      "minDamage": "40",
+      "maxDamage": "50",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0.2",
+      "ignoreDefense": "0.1",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "ab40ccfd1e10f594fb7466288d978664",
+      "name": "SkeletonGuardAttack2",
+      "minDamage": "40",
+      "maxDamage": "50",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0.2",
+      "ignoreDefense": "0.1",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "271cb2e0ea95d6b4da7e92c00e3e29e6",
+      "name": "SkeletonGuardAttack3",
+      "minDamage": "35",
+      "maxDamage": "45",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0.4",
+      "ignoreDefense": "0.2",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "cd66734564ac2d245a95f8232111461f",
+      "name": "SkeletonGuardBuff"
+    }
+  ],
+  "id": "SkeletonGuard",
+  "loc_key": "Entity.SkeletonGuard",
+  "drops": [
+    {
+      "itemId": "GraveBeetle",
+      "chance": 1,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "itemId": "Bone",
+      "chance": 1,
+      "min": 3,
+      "max": 7
+    },
+    {
+      "itemId": "BoneFlour",
+      "chance": 0.5,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "itemId": "SkeletonSkull",
+      "chance": 0.04,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SnareSteel",
+      "chance": 0.0125,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "FishingSpoon",
+      "chance": 0.0125,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "SteelRivets",
+      "chance": 0.0125,
+      "min": 2,
+      "max": 2
+    },
+    {
+      "itemId": "SteelLines",
+      "chance": 0.0125,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SteelPlates",
+      "chance": 0.0125,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "MoldySilk",
+      "chance": 0.0125,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "AlchemicalReagents",
+      "chance": 0.0125,
+      "min": 3,
+      "max": 6
+    },
+    {
+      "itemId": "SteelIngot",
+      "chance": 0.0125,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "SnareSteel",
+      "chance": 0.00625,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "FishingSpoon",
+      "chance": 0.00625,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "SteelRivets",
+      "chance": 0.00625,
+      "min": 2,
+      "max": 2
+    },
+    {
+      "itemId": "SteelLines",
+      "chance": 0.00625,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SteelPlates",
+      "chance": 0.00625,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "MoldySilk",
+      "chance": 0.00625,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "AlchemicalReagents",
+      "chance": 0.00625,
+      "min": 3,
+      "max": 6
+    },
+    {
+      "itemId": "SteelIngot",
+      "chance": 0.00625,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "itemId": "GemUncutAmethyst",
+      "chance": 0.02,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "GemUncutEmerald",
+      "chance": 0.02,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "GemUncutRuby",
+      "chance": 0.02,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "GemUncutSapphire",
+      "chance": 0.02,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "GemUncutTopaz",
+      "chance": 0.02,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SkillBookLevel20",
+      "chance": 0.05,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Money",
+      "chance": 1,
+      "min": 200,
+      "max": 500
+    },
+    {
+      "itemId": "GuardMedal",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

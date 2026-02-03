@@ -1,0 +1,11 @@
+{
+  "m_Name": "StartingIslandMap",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "51bb306631e6b574297af2b5ef74f44d",
+  "image_fid": "21300000",
+  "sellPrice": "30",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "StartingIslandMap",
+  "loc_key": "Item.StartingIslandMap"
+}

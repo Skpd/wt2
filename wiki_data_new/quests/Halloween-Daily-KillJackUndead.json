@@ -1,0 +1,23 @@
+{
+  "m_Name": "Halloween-Daily-KillJackUndead",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "6",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "4a1e3234210c65c4ca409eefa714207e",
+  "predecessors": [
+    "Halloween-03-KillWitch"
+  ],
+  "npcTaker": "4a1e3234210c65c4ca409eefa714207e",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "2",
+    "rewardItem": "288d461ab9d46af4989ecb3c1da9fc15",
+    "rewardItemName": "HalloweenGift"
+  },
+  "id": "Halloween-Daily-KillJackUndead",
+  "npcGiverName": "JunkerRagnara",
+  "npcTakerName": "JunkerRagnara",
+  "group": "Daily"
+}

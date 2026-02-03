@@ -1,0 +1,31 @@
+{
+  "m_Name": "HardenedLeatherBoots",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "29c10da9fc7cdd8419c94ec67e14c2c3",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "90",
+  "craftMaterialsBuyUpPricePercent": "1.5",
+  "id": "HardenedLeatherBoots",
+  "loc_key": "Item.HardenedLeatherBoots",
+  "dropped_by": [
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

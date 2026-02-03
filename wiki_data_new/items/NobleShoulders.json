@@ -1,0 +1,31 @@
+{
+  "m_Name": "NobleShoulders",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "3cd4ca969ed8691438121ee0b50b493c",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1217.2001",
+  "craftMaterialsBuyUpPricePercent": "1.7",
+  "id": "NobleShoulders",
+  "loc_key": "Item.NobleShoulders",
+  "dropped_by": [
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

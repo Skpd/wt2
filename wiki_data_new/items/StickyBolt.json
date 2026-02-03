@@ -1,0 +1,11 @@
+{
+  "m_Name": "StickyBolt",
+  "m_Script": "b2cd456c67ed7fbd493e563aaef7330a",
+  "image": "0db720458cfec03488777a5cad2ff371",
+  "image_fid": "21300000",
+  "sellPrice": "10",
+  "buyUpPrice": "0.1243",
+  "craftMaterialsBuyUpPricePercent": "1.1",
+  "id": "StickyBolt",
+  "loc_key": "Item.StickyBolt"
+}

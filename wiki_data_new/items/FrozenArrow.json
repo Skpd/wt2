@@ -1,0 +1,31 @@
+{
+  "m_Name": "FrozenArrow",
+  "m_Script": "b2cd456c67ed7fbd493e563aaef7330a",
+  "image": "2fcfac65e472be046ae117112cc08139",
+  "image_fid": "21300000",
+  "sellPrice": "50",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "FrozenArrow",
+  "loc_key": "Item.FrozenArrow",
+  "dropped_by": [
+    {
+      "sourceId": "DragonRex",
+      "chance": 0.14285714285714285,
+      "min": 40,
+      "max": 50
+    },
+    {
+      "sourceId": "DementedElf",
+      "chance": 0.05,
+      "min": 3,
+      "max": 5
+    },
+    {
+      "sourceId": "Krampus",
+      "chance": 0.3333333333333333,
+      "min": 5,
+      "max": 15
+    }
+  ]
+}

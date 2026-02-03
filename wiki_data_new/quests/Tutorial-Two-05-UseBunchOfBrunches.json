@@ -1,0 +1,16 @@
+{
+  "m_Name": "Tutorial-Two-05-UseBunchOfBrunches",
+  "m_Script": "b597784dc7837e744b6c4fa47c80a317",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "1",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "5",
+    "rewardItem": "3ad62d6d17567e84f9700e7cc383499c",
+    "rewardItemName": "Boulder"
+  },
+  "id": "Tutorial-Two-05-UseBunchOfBrunches",
+  "group": "General"
+}

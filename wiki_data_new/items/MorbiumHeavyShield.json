@@ -1,0 +1,25 @@
+{
+  "m_Name": "MorbiumHeavyShield",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "ea5aad0750480cd48945bb2dda2d3426",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "5126.5205",
+  "craftMaterialsBuyUpPricePercent": "1.7",
+  "id": "MorbiumHeavyShield",
+  "loc_key": "Item.MorbiumHeavyShield",
+  "dropped_by": [
+    {
+      "sourceId": "PlagueDragon",
+      "chance": 0.1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "FatOgre",
+      "chance": 0.01,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

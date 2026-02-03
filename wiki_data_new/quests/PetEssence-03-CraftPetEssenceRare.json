@@ -1,0 +1,21 @@
+{
+  "m_Name": "PetEssence-03-CraftPetEssenceRare",
+  "m_Script": "8bae99285fb9248eeae7964c5eaf8a95",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "predecessors": [
+    "PetEssence-02-TameCrows"
+  ],
+  "npcTaker": "4a1e3234210c65c4ca409eefa714207e",
+  "reward": {
+    "money": "2500",
+    "guildXp": "0",
+    "amount": "10",
+    "rewardItem": "0118af7a893ce524baf2385a72384b94",
+    "rewardItemName": "EmptyEssenceFlask"
+  },
+  "id": "PetEssence-03-CraftPetEssenceRare",
+  "npcTakerName": "JunkerRagnara",
+  "group": "General"
+}

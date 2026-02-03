@@ -1,0 +1,33 @@
+{
+  "m_Name": "Ammo_BronzeSpear",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "34a3fb28185afb8479128e97a0814fd2",
+      "amount": "15",
+      "name": "BronzeIngot",
+      "loc_key": "Item.BronzeIngot"
+    },
+    {
+      "guid": "18c0c8dbf7f5f5341bbb31c9329c0c13",
+      "amount": "35",
+      "name": "WoodStaves",
+      "loc_key": "Item.WoodStaves"
+    },
+    {
+      "guid": "91478cc6f25bea8499756fb11fc4fc3f",
+      "amount": "3",
+      "name": "SmallHide",
+      "loc_key": "Item.SmallHide"
+    }
+  ],
+  "products": [
+    {
+      "guid": "35f6f6ce95bd90e4e971457495642088",
+      "amount": "100",
+      "name": "BronzeSpear",
+      "loc_key": "Item.BronzeSpear"
+    }
+  ],
+  "id": "Ammo_BronzeSpear"
+}

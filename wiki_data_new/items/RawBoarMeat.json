@@ -1,0 +1,95 @@
+{
+  "m_Name": "RawBoarMeat",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "9fcb09745308c014bab2f3232f379382",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.03",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "RawBoarMeat",
+  "loc_key": "Item.RawBoarMeat",
+  "dropped_by": [
+    {
+      "sourceId": "GodsendGraveyard",
+      "chance": 0.03571428571428571,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "sourceId": "GodsendMainland",
+      "chance": 0.03571428571428571,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "sourceId": "WeresquidPet",
+      "chance": "1",
+      "min": "3",
+      "max": "4",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "SkeletonGuardPet",
+      "chance": "1",
+      "min": "3",
+      "max": "4",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "SkeletonKnightPet",
+      "chance": "1",
+      "min": "3",
+      "max": "4",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "WeranglerfishPet",
+      "chance": "1",
+      "min": "3",
+      "max": "4",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "ReaperPet",
+      "chance": "1",
+      "min": "3",
+      "max": "4",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "HugeBoarPet",
+      "chance": "1",
+      "min": "3",
+      "max": "4",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "ValorousKnightPet",
+      "chance": "1",
+      "min": "3",
+      "max": "4",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "BoarPet",
+      "chance": "1",
+      "min": "3",
+      "max": "4",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "HugeBoar",
+      "chance": "1",
+      "min": "3",
+      "max": "5",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Boar",
+      "chance": "1",
+      "min": "3",
+      "max": "4",
+      "type": "Skinning"
+    }
+  ]
+}

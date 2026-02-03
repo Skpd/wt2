@@ -1,0 +1,11 @@
+{
+  "m_Name": "CrocodilePet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "fcb59044780f8294cb005d040684fa8b",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "CrocodilePet",
+  "loc_key": "Item.CrocodilePet"
+}

@@ -1,0 +1,146 @@
+{
+  "m_Name": "RawAnimalFat",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "37d2ebab1615aaa40ba42fa70b9306c7",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.05",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "RawAnimalFat",
+  "loc_key": "Item.RawAnimalFat",
+  "dropped_by": [
+    {
+      "sourceId": "WeresquidPet",
+      "chance": "1",
+      "min": "2",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "CactusPet",
+      "chance": "1",
+      "min": "10",
+      "max": "20",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "ScorpionPet",
+      "chance": "1",
+      "min": "10",
+      "max": "20",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "LionPet",
+      "chance": "1",
+      "min": "10",
+      "max": "20",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "SkeletonGuardPet",
+      "chance": "1",
+      "min": "2",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "FlySkullPet",
+      "chance": "1",
+      "min": "10",
+      "max": "20",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "ScorpionPetLarge",
+      "chance": "1",
+      "min": "10",
+      "max": "20",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "SkeletonKnightPet",
+      "chance": "1",
+      "min": "2",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "WeranglerfishPet",
+      "chance": "1",
+      "min": "2",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "OwlPet",
+      "chance": "1",
+      "min": "10",
+      "max": "20",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "ReaperPet",
+      "chance": "1",
+      "min": "2",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "BearPet",
+      "chance": "1",
+      "min": "10",
+      "max": "20",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "HugeBoarPet",
+      "chance": "1",
+      "min": "2",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "BearPetLarge",
+      "chance": "1",
+      "min": "10",
+      "max": "20",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "ValorousKnightPet",
+      "chance": "1",
+      "min": "2",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "BoarPet",
+      "chance": "1",
+      "min": "2",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Bear",
+      "chance": "1",
+      "min": "10",
+      "max": "20",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "HugeBoar",
+      "chance": "1",
+      "min": "5",
+      "max": "10",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Boar",
+      "chance": "1",
+      "min": "2",
+      "max": "3",
+      "type": "Skinning"
+    }
+  ]
+}

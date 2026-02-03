@@ -1,0 +1,11 @@
+{
+  "m_Name": "LoafBread",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "389cd40adf4a08449a2fa5b321e301ba",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "20",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "LoafBread",
+  "loc_key": "Item.LoafBread"
+}

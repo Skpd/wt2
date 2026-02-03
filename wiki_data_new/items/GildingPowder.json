@@ -1,0 +1,25 @@
+{
+  "m_Name": "GildingPowder",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "44189db9b3b9cbc47850cbe2da5957a2",
+  "image_fid": "21300000",
+  "sellPrice": "50",
+  "buyUpPrice": "0.049584005",
+  "craftMaterialsBuyUpPricePercent": "1.2",
+  "id": "GildingPowder",
+  "loc_key": "Item.GildingPowder",
+  "dropped_by": [
+    {
+      "sourceId": "Harpy",
+      "chance": 0.5,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "HarpyLarge",
+      "chance": 0.5,
+      "min": 2,
+      "max": 5
+    }
+  ]
+}

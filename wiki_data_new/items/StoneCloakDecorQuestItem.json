@@ -1,0 +1,41 @@
+{
+  "m_Name": "StoneCloakDecorQuestItem",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "8395a25dae88354478769c305b1c079d",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "10",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "StoneCloakDecorQuestItem",
+  "loc_key": "Item.StoneCloakDecorQuestItem",
+  "dropped_by": [
+    {
+      "sourceId": "UndergroundGuardian",
+      "chance": "0.005",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "UndergroundGuardianLarge",
+      "chance": "0.012",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "VeinKeeperLarge",
+      "chance": "0.01",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "VeinKeeper",
+      "chance": "0.004",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    }
+  ]
+}

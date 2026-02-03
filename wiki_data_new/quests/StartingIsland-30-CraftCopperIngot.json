@@ -1,0 +1,16 @@
+{
+  "m_Name": "StartingIsland-30-CraftCopperIngot",
+  "m_Script": "8bae99285fb9248eeae7964c5eaf8a95",
+  "line": "1",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "10",
+    "rewardItem": "5d0d7a7b36d396b4da48fd7db119af4a",
+    "rewardItemName": "CopperIngot"
+  },
+  "id": "StartingIsland-30-CraftCopperIngot",
+  "group": "General"
+}

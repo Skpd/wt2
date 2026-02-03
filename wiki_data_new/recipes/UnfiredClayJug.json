@@ -1,0 +1,21 @@
+{
+  "m_Name": "UnfiredClayJug",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "95b8c4f2867af594a85cf06c56403f88",
+      "amount": "1",
+      "name": "UnfiredClayJug",
+      "loc_key": "Item.UnfiredClayJug"
+    }
+  ],
+  "products": [
+    {
+      "guid": "a6cf2961ded0f184a85633e2e065d3c2",
+      "amount": "1",
+      "name": "ClayJug",
+      "loc_key": "Item.ClayJug"
+    }
+  ],
+  "id": "UnfiredClayJug"
+}

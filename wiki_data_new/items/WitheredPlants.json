@@ -1,0 +1,25 @@
+{
+  "m_Name": "WitheredPlants",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "0fee1ac9752ac1c4aa61b91ac64efe18",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.01",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "WitheredPlants",
+  "loc_key": "Item.WitheredPlants",
+  "dropped_by": [
+    {
+      "sourceId": "MausoleumBossChest",
+      "chance": 1,
+      "min": 3,
+      "max": 10
+    },
+    {
+      "sourceId": "GraveyardMausoleumWarriorsChest",
+      "chance": 1,
+      "min": 3,
+      "max": 10
+    }
+  ]
+}

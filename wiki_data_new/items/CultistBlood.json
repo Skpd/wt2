@@ -1,0 +1,32 @@
+{
+  "m_Name": "CultistBlood",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "ad5bc0ed9711fbb4e8b3744361ffd9ca",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "50",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "CultistBlood",
+  "loc_key": "Item.CultistBlood",
+  "dropped_by": [
+    {
+      "sourceId": "CultistRisenSwordsman",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "CultistCursedSwordsman",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "UnderwaterBoss",
+      "chance": "1",
+      "min": "3",
+      "max": "6",
+      "type": "Skinning"
+    }
+  ]
+}

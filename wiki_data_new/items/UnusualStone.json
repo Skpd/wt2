@@ -1,0 +1,12 @@
+{
+  "m_Name": "UnusualStone",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "7dc635e9f95fcc74e8c623c3895a9641",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.05",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "UnusualStone",
+  "loc_key": "Item.UnusualStone",
+  "icon_path": "textures/UnusualStone.png"
+}

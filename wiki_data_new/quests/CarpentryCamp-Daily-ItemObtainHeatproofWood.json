@@ -1,0 +1,23 @@
+{
+  "m_Name": "CarpentryCamp-Daily-ItemObtainHeatproofWood",
+  "m_Script": "a33fbc2ed7ad8fe58f2dcfb6e1a39cab",
+  "line": "0",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "92438ab9d3ff4204da74b38b6dd67dcd",
+  "predecessors": [
+    "CarpentryCamp-09-ObtainHeatproofWood"
+  ],
+  "npcTaker": "2588405983ff4fa4d9d522bb0b8ff5c1",
+  "reward": {
+    "money": "2500",
+    "guildXp": "0",
+    "amount": "2",
+    "rewardItem": "f49e8f984f8460d47be875ca94d6653f",
+    "rewardItemName": "StrawberryDessert"
+  },
+  "id": "CarpentryCamp-Daily-ItemObtainHeatproofWood",
+  "npcGiverName": "CarpentryCampDailyQuests",
+  "npcTakerName": "CarpentryCampBerne",
+  "group": "Daily"
+}

@@ -1,0 +1,27 @@
+{
+  "m_Name": "Saw_WoodHardBalks",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "9d69fdca91f9db1469c92c9cbf9a6963",
+      "amount": "4",
+      "name": "WoodHardLogs",
+      "loc_key": "Item.WoodHardLogs"
+    },
+    {
+      "guid": "6bb16b153b464774b8a569914ca99aa5",
+      "amount": "4",
+      "name": "WoodBarkLiquor",
+      "loc_key": "Item.WoodBarkLiquor"
+    }
+  ],
+  "products": [
+    {
+      "guid": "72b3f78fad60e17489df2c9c78acbdd9",
+      "amount": "5",
+      "name": "WoodHardBalks",
+      "loc_key": "Item.WoodHardBalks"
+    }
+  ],
+  "id": "Saw_WoodHardBalks"
+}

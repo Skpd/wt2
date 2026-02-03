@@ -1,0 +1,21 @@
+{
+  "m_Name": "RoastCatfish",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "1c70a9e5e42db2b4ab885280bc61bda4",
+      "amount": "1",
+      "name": "Catfish",
+      "loc_key": "Item.Catfish"
+    }
+  ],
+  "products": [
+    {
+      "guid": "005b6a0c4620d4140a4d7e6095ef8d2f",
+      "amount": "15",
+      "name": "RoastedFishMeat",
+      "loc_key": "Item.RoastedFishMeat"
+    }
+  ],
+  "id": "RoastCatfish"
+}

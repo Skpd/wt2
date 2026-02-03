@@ -1,0 +1,48 @@
+{
+  "m_Name": "WoodBark",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "d16879f99a1ce714e983cc12fb2b3278",
+  "image_fid": "21300000",
+  "sellPrice": "1",
+  "buyUpPrice": "0.02",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "WoodBark",
+  "loc_key": "Item.WoodBark",
+  "dropped_by": [
+    {
+      "sourceId": "BufomorphPet",
+      "chance": "1",
+      "min": "20",
+      "max": "30",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "DementedTreeEntPet",
+      "chance": "1",
+      "min": "20",
+      "max": "30",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "TreeEnt",
+      "chance": "1",
+      "min": "20",
+      "max": "30",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "EarthTitanPet",
+      "chance": "1",
+      "min": "20",
+      "max": "30",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "CrocodilePet",
+      "chance": "1",
+      "min": "20",
+      "max": "30",
+      "type": "Skinning"
+    }
+  ]
+}

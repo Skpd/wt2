@@ -1,0 +1,124 @@
+{
+  "m_Name": "ReaperPet",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "1",
+  "stamina": "100",
+  "level": "1",
+  "walkSpeed": "3.5",
+  "runSpeed": "5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "4",
+  "mobBehaviour": {
+    "fileID": "0"
+  },
+  "entityPrefab": "98549401f56eb134baa125a6bce93b23",
+  "entityPrefab_fid": "1298603832291023",
+  "entityBonuses": {
+    "IgnoreBloodDots": "1"
+  },
+  "skills": [
+    {
+      "id": "854c2b6e8363a054683be649f26f9bd4",
+      "name": "ReaperPetCast2",
+      "minDamage": "5",
+      "maxDamage": "5",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0",
+      "criticalValue": "1"
+    },
+    {
+      "id": "11052c5ceb64f284786e10166ef23ec6",
+      "name": "ReaperPetAttack",
+      "minDamage": "45",
+      "maxDamage": "70",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.1",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "dcef990e2c069de4da2df1518c17e2df",
+      "name": "ReaperPetAttack2",
+      "minDamage": "45",
+      "maxDamage": "70",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.1",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "45f41b1402e1ffe4291ef00bcfab0915",
+      "name": "ReaperPetAttack3",
+      "minDamage": "60",
+      "maxDamage": "80",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0.3",
+      "ignoreDefense": "0.3",
+      "criticalChance": "0.1",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "10da2594c6ee11743ac9be80ee2802c7",
+      "name": "ReaperPetCast1",
+      "minDamage": "10",
+      "maxDamage": "15",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.4",
+      "ignoreDefense": "0.4",
+      "criticalChance": "0.1",
+      "criticalValue": "1.5"
+    }
+  ],
+  "id": "ReaperPet",
+  "loc_key": "Entity.ReaperPet",
+  "skinning_drops": [
+    {
+      "itemId": "MediumRawHide",
+      "chance": "1",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "RawBoarMeat",
+      "chance": "1",
+      "min": "3",
+      "max": "4"
+    },
+    {
+      "itemId": "RawAnimalFat",
+      "chance": "1",
+      "min": "2",
+      "max": "3"
+    },
+    {
+      "itemId": "Intestines",
+      "chance": "0.5",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "AnimalStomach",
+      "chance": "0.01",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "BoarTusk",
+      "chance": "0.01",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "OrganicsClot",
+      "chance": "1",
+      "min": "2",
+      "max": "3"
+    }
+  ]
+}

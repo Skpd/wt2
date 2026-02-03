@@ -1,0 +1,33 @@
+{
+  "m_Name": "Clay_UnfiredClayBricks",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "a83980bfedbb3934586ec062e50447fb",
+      "amount": "4",
+      "name": "Clay",
+      "loc_key": "Item.Clay"
+    },
+    {
+      "guid": "3ec7933650f9ae643a96e16adf4ceb32",
+      "amount": "4",
+      "name": "Sand",
+      "loc_key": "Item.Sand"
+    },
+    {
+      "guid": "27d507923a0f91a489ebecc6d7e70fd4",
+      "amount": "4",
+      "name": "Water",
+      "loc_key": "Item.Water"
+    }
+  ],
+  "products": [
+    {
+      "guid": "90587221aa3a3a9429d7eaf1c25a5aaf",
+      "amount": "5",
+      "name": "UnfiredClayBricks",
+      "loc_key": "Item.UnfiredClayBricks"
+    }
+  ],
+  "id": "Clay_UnfiredClayBricks"
+}

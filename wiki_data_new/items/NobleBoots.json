@@ -1,0 +1,31 @@
+{
+  "m_Name": "NobleBoots",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "b0be8a0999794df4fbeb491e6ca97e00",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1370.2001",
+  "craftMaterialsBuyUpPricePercent": "1.7",
+  "id": "NobleBoots",
+  "loc_key": "Item.NobleBoots",
+  "dropped_by": [
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

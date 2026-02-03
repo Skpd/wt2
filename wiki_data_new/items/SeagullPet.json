@@ -1,0 +1,11 @@
+{
+  "m_Name": "SeagullPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "1e7fcba8a7f6e6948aad2834cca640b1",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "2",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SeagullPet",
+  "loc_key": "Item.SeagullPet"
+}

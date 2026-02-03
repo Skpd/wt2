@@ -1,0 +1,14 @@
+{
+  "m_Name": "Tutorial-Warrior-Block",
+  "m_Script": "481a71f42b0c864bd0562973891760c8",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "100",
+    "guildXp": "0",
+    "amount": "0"
+  },
+  "id": "Tutorial-Warrior-Block",
+  "group": "General"
+}

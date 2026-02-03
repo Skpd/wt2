@@ -1,0 +1,11 @@
+{
+  "m_Name": "AdvancedVesselBuildingKit",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "6e4c65644fd20134fa435b651688b450",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "200",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "AdvancedVesselBuildingKit",
+  "loc_key": "Item.AdvancedVesselBuildingKit"
+}

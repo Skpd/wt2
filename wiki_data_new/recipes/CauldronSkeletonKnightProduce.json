@@ -1,0 +1,45 @@
+{
+  "m_Name": "CauldronSkeletonKnightProduce",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "19ed847d1a0b01249bc9653601f3d97a",
+      "amount": "1",
+      "name": "FlySkullPet",
+      "loc_key": "Item.FlySkullPet"
+    },
+    {
+      "guid": "9f9911482aa0baa449c635040bd03db9",
+      "amount": "50",
+      "name": "KnightMedal",
+      "loc_key": "Item.KnightMedal"
+    },
+    {
+      "guid": "71ada1be3e50749418f55ae4a0daebc0",
+      "amount": "20",
+      "name": "CultistBlood",
+      "loc_key": "Item.CultistBlood"
+    },
+    {
+      "guid": "f865f12383942f449b26d55ad5546ab9",
+      "amount": "5",
+      "name": "NecromancerSeal",
+      "loc_key": "Item.NecromancerSeal"
+    },
+    {
+      "guid": "6d0942adae425bc4d93cb165d3099084",
+      "amount": "1",
+      "name": "BloodFromHideout",
+      "loc_key": "Item.BloodFromHideout"
+    }
+  ],
+  "products": [
+    {
+      "guid": "b69631e3e58aae74da2c341425a1b93f",
+      "amount": "1",
+      "name": "SkeletonKnightPet",
+      "loc_key": "Item.SkeletonKnightPet"
+    }
+  ],
+  "id": "CauldronSkeletonKnightProduce"
+}

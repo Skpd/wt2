@@ -1,0 +1,11 @@
+{
+  "m_Name": "Bomb",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "6407f882b9cbef241a81f0ce77ebd322",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Bomb",
+  "loc_key": "Item.Bomb"
+}

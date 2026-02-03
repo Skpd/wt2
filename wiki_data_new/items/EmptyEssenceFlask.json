@@ -1,0 +1,11 @@
+{
+  "m_Name": "EmptyEssenceFlask",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "5f753f985764c4b4b9b2c9f05574bc45",
+  "image_fid": "21300000",
+  "sellPrice": "1000",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "EmptyEssenceFlask",
+  "loc_key": "Item.EmptyEssenceFlask"
+}

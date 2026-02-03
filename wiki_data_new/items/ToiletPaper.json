@@ -1,0 +1,12 @@
+{
+  "m_Name": "ToiletPaper",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "c7d5c66e90b562c44ac41ae952cf9949",
+  "image_fid": "21300000",
+  "sellPrice": "0",
+  "buyUpPrice": "0",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "ToiletPaper",
+  "loc_key": "Item.ToiletPaper",
+  "icon_path": "textures/ToiletPaper.png"
+}

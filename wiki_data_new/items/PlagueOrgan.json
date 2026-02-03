@@ -1,0 +1,41 @@
+{
+  "m_Name": "PlagueOrgan",
+  "m_Script": "420e0e364fdb917921d229f1b4a22ed9",
+  "image": "853b0628eb450a14e88b8aa5930fa58f",
+  "image_fid": "21300000",
+  "sellPrice": "2500",
+  "buyUpPrice": "250",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "PlagueOrgan",
+  "loc_key": "Item.PlagueOrgan",
+  "dropped_by": [
+    {
+      "sourceId": "Undertaker",
+      "chance": "0.02",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Ghoul",
+      "chance": "0.02",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "LivingFlesh",
+      "chance": "0.02",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Vampire",
+      "chance": "0.02",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    }
+  ]
+}

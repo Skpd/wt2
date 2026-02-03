@@ -1,0 +1,19 @@
+{
+  "m_Name": "UndeadSkullHead",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "ffe918cfb74bda749b6e21a28f6c7921",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "2500",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "UndeadSkullHead",
+  "loc_key": "Item.UndeadSkullHead",
+  "dropped_by": [
+    {
+      "sourceId": "FatOgre",
+      "chance": 0.02,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

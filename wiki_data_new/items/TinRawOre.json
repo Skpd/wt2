@@ -1,0 +1,242 @@
+{
+  "m_Name": "TinRawOre",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "4fe09718476faca45a69672cdafd6bdb",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.03",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "TinRawOre",
+  "loc_key": "Item.TinRawOre",
+  "dropped_by": [
+    {
+      "sourceId": "GodsendObstacle",
+      "chance": 0.125,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "GodsendGraveyard",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "GodsendMainland",
+      "chance": 0.05555555555555555,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "CultistSwordsman",
+      "chance": 0.1111111111111111,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "SkeletonWarrior",
+      "chance": 0.16666666666666666,
+      "min": 2,
+      "max": 6
+    },
+    {
+      "sourceId": "UndeadSwordHalloween",
+      "chance": 0.07142857142857142,
+      "min": 10,
+      "max": 50
+    },
+    {
+      "sourceId": "MineKobold",
+      "chance": 0.1111111111111111,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "MineKobold",
+      "chance": 0.07142857142857142,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "FatOgre",
+      "chance": 0.07142857142857142,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "UndeadPickaxeDungeon",
+      "chance": 0.0625,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "UndeadPickaxeDungeon",
+      "chance": 0.07142857142857142,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "UndeadAxe",
+      "chance": 0.0625,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "UndeadMace",
+      "chance": 0.0625,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "UndeadSword",
+      "chance": 0.0625,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "UndeadAxe",
+      "chance": 0.07142857142857142,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "UndeadMace",
+      "chance": 0.07142857142857142,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "UndeadSword",
+      "chance": 0.07142857142857142,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "UndeadMage",
+      "chance": 0.07142857142857142,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "UndeadMage",
+      "chance": 0.0625,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "MountainDwarf",
+      "chance": 0.03333333333333333,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "DwarfDigger",
+      "chance": 0.03333333333333333,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "DwarfEngineer",
+      "chance": 0.03333333333333333,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "DwarfAmbusher",
+      "chance": 0.03333333333333333,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "DwarfSoldier",
+      "chance": 0.03333333333333333,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "DwarfOfficer",
+      "chance": 0.03333333333333333,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "Dwarf\u0421ommander",
+      "chance": 0.03333333333333333,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "MountainDwarf",
+      "chance": 0.0375,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "DwarfDigger",
+      "chance": 0.0375,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "DwarfEngineer",
+      "chance": 0.0375,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "DwarfAmbusher",
+      "chance": 0.0375,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "DwarfSoldier",
+      "chance": 0.0375,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "DwarfOfficer",
+      "chance": 0.0375,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "Dwarf\u0421ommander",
+      "chance": 0.0375,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "DwarfAmbusherHideout",
+      "chance": 0.04666666666666666,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "DwarfAmbusherHideout",
+      "chance": 0.0625,
+      "min": 5,
+      "max": 15
+    },
+    {
+      "sourceId": "ChurchCultist",
+      "chance": 0.1,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "sourceId": "HideoutGodsensBody",
+      "chance": 0.058823529411764705,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "StartingIslandGuardian",
+      "chance": "0.5",
+      "min": "10",
+      "max": "20",
+      "type": "Skinning"
+    }
+  ]
+}

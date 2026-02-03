@@ -1,0 +1,19 @@
+{
+  "m_Name": "EasterSugar",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "34d950883f964ee41a79175e61ede872",
+  "image_fid": "21300000",
+  "sellPrice": "300",
+  "buyUpPrice": "10",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "EasterSugar",
+  "loc_key": "Item.EasterSugar",
+  "dropped_by": [
+    {
+      "sourceId": "EasterObjectBasket",
+      "chance": 0.08,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

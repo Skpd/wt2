@@ -1,0 +1,11 @@
+{
+  "m_Name": "SpiderPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "e7c6a20377383f040b9fd8ec23623aa9",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SpiderPet",
+  "loc_key": "Item.SpiderPet"
+}

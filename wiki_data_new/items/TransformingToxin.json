@@ -1,0 +1,11 @@
+{
+  "m_Name": "TransformingToxin",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "752c0c5f309c2d64f942e8a36371c63f",
+  "image_fid": "21300000",
+  "sellPrice": "5000",
+  "buyUpPrice": "1000",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "TransformingToxin",
+  "loc_key": "Item.TransformingToxin"
+}

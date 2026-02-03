@@ -1,0 +1,19 @@
+{
+  "m_Name": "PumpkinPie",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "0c9202ea4df1165409242248b40e00d1",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "100",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "PumpkinPie",
+  "loc_key": "Item.PumpkinPie",
+  "dropped_by": [
+    {
+      "sourceId": "HalloweenGrave",
+      "chance": 0.0125,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

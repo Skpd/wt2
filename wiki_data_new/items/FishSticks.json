@@ -1,0 +1,11 @@
+{
+  "m_Name": "FishSticks",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "0ff344d10651b4542bb8568d0f938058",
+  "image_fid": "21300000",
+  "sellPrice": "500",
+  "buyUpPrice": "20",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "FishSticks",
+  "loc_key": "Item.FishSticks"
+}

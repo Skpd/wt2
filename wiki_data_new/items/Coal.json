@@ -1,0 +1,185 @@
+{
+  "m_Name": "Coal",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "fd434fa0fc032ab4a9ad326df87a3312",
+  "image_fid": "21300000",
+  "sellPrice": "90",
+  "buyUpPrice": "0.05",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Coal",
+  "loc_key": "Item.Coal",
+  "dropped_by": [
+    {
+      "sourceId": "SewersGodsendMaterial",
+      "chance": 0.11666666666666665,
+      "min": 6,
+      "max": 14
+    },
+    {
+      "sourceId": "HalloweenGodsend",
+      "chance": 0.07142857142857142,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "sourceId": "HalloweenGodsend",
+      "chance": 0.07142857142857142,
+      "min": 2,
+      "max": 4
+    },
+    {
+      "sourceId": "HalloweenGodsend",
+      "chance": 0.07142857142857142,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "sourceId": "HalloweenGodsend",
+      "chance": 0.07142857142857142,
+      "min": 2,
+      "max": 4
+    },
+    {
+      "sourceId": "GodsendMainlandSouth",
+      "chance": 0.08333333333333333,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "CursedKobold",
+      "chance": 0.125,
+      "min": 25,
+      "max": 50
+    },
+    {
+      "sourceId": "CursedKobold",
+      "chance": 0.125,
+      "min": 25,
+      "max": 50
+    },
+    {
+      "sourceId": "CursedKobold",
+      "chance": 0.125,
+      "min": 25,
+      "max": 50
+    },
+    {
+      "sourceId": "CursedKobold",
+      "chance": 0.125,
+      "min": 25,
+      "max": 50
+    },
+    {
+      "sourceId": "MineKobold",
+      "chance": 0.1111111111111111,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "sourceId": "MountainDwarf",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "sourceId": "DwarfDigger",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "sourceId": "DwarfEngineer",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "sourceId": "DwarfAmbusher",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "sourceId": "DwarfSoldier",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "sourceId": "DwarfOfficer",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "sourceId": "Dwarf\u0421ommander",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "sourceId": "DwarfAmbusherHideout",
+      "chance": 0.04666666666666666,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "sourceId": "DwarfDigger",
+      "chance": 0.16666666666666666,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "sourceId": "ExecutionerGrave",
+      "chance": 0.25,
+      "min": 2,
+      "max": 7
+    },
+    {
+      "sourceId": "DwarfFortGodsendMaterial",
+      "chance": 0.14285714285714285,
+      "min": 3,
+      "max": 5
+    },
+    {
+      "sourceId": "HideoutGodsendMaterial",
+      "chance": 0.16666666666666666,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "sourceId": "GodsendWinter",
+      "chance": 0.16666666666666666,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "sourceId": "UndergroundGuardian",
+      "chance": "0.5",
+      "min": "5",
+      "max": "10",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "UndergroundGuardianLarge",
+      "chance": "1",
+      "min": "15",
+      "max": "30",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "VeinKeeperLarge",
+      "chance": "1",
+      "min": "9",
+      "max": "18",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "VeinKeeper",
+      "chance": "0.5",
+      "min": "3",
+      "max": "6",
+      "type": "Skinning"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "m_Name": "HardenedLeatherStrip",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "cb0f297d9c965914a935a6ab65790e0e",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "2",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "HardenedLeatherStrip",
+  "loc_key": "Item.HardenedLeatherStrip",
+  "dropped_by": [
+    {
+      "sourceId": "LizardSpear",
+      "chance": 0.01,
+      "min": 2,
+      "max": 6
+    },
+    {
+      "sourceId": "Weresnake",
+      "chance": 0.01,
+      "min": 2,
+      "max": 6
+    },
+    {
+      "sourceId": "Werecrocodile",
+      "chance": 0.01,
+      "min": 2,
+      "max": 6
+    },
+    {
+      "sourceId": "LizardSpear",
+      "chance": 0.005,
+      "min": 2,
+      "max": 6
+    },
+    {
+      "sourceId": "Weresnake",
+      "chance": 0.005,
+      "min": 2,
+      "max": 6
+    },
+    {
+      "sourceId": "Werecrocodile",
+      "chance": 0.005,
+      "min": 2,
+      "max": 6
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "m_Name": "UnderwaterBoss",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "6600",
+  "stamina": "100",
+  "level": "60",
+  "walkSpeed": "2.5",
+  "runSpeed": "3.8",
+  "image": "287c7b9c7cb893048b0666e2890ccb4a",
+  "image_fid": "21300000",
+  "entityClass": "10",
+  "mobBehaviour": "e01590057bf45ff42b2d2f7ebec424cd",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "01eb93cfd6ea6eb418e79067f8d0e236",
+  "entityPrefab_fid": "1410659168426229",
+  "entityBonuses": {
+    "Absorption": "20",
+    "Defense": "0.6",
+    "IgnoreStun": "1",
+    "IgnoreNextSlowdown": "1"
+  },
+  "skills": [
+    {
+      "id": "5e6cb72002629824198338c6bf1a38b7",
+      "name": "UnderwaterBossAttack",
+      "minDamage": "60",
+      "maxDamage": "90",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "1",
+      "ignoreDefense": "0",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "0c8389153b921c247b6746721bb8b142",
+      "name": "UnderwaterBossAttack2",
+      "minDamage": "60",
+      "maxDamage": "90",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "1",
+      "ignoreDefense": "0",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "258d475d72b785b4da6807e4d912e201",
+      "name": "UnderwaterBossAttack3",
+      "minDamage": "40",
+      "maxDamage": "60",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "1",
+      "ignoreDefense": "0",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "0aa53bb5c7c9dbf45b3703ec4afe355c",
+      "name": "UnderwaterBossCastArea",
+      "minDamage": "5",
+      "maxDamage": "10",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "1",
+      "ignoreDefense": "1",
+      "criticalChance": "1",
+      "criticalValue": "1"
+    }
+  ],
+  "id": "UnderwaterBoss",
+  "loc_key": "Entity.UnderwaterBoss",
+  "skinning_drops": [
+    {
+      "itemId": "CultistBlood",
+      "chance": "1",
+      "min": "3",
+      "max": "6"
+    },
+    {
+      "itemId": "Sulfur",
+      "chance": "1",
+      "min": "8",
+      "max": "16"
+    },
+    {
+      "itemId": "ColdBloodJewel",
+      "chance": "0.4",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "CthulhuLarva",
+      "chance": "0.2",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "CthulhuTentacles",
+      "chance": "0.2",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "CthulhuEye",
+      "chance": "0.05",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

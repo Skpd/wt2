@@ -1,0 +1,14 @@
+{
+  "m_Name": "StartingIsland-24-UseSmithereens",
+  "m_Script": "dac54fee2e578801d3037a2bd9208051",
+  "line": "1",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "400",
+    "guildXp": "0",
+    "amount": "0"
+  },
+  "id": "StartingIsland-24-UseSmithereens",
+  "group": "General"
+}

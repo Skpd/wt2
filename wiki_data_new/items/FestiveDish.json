@@ -1,0 +1,11 @@
+{
+  "m_Name": "FestiveDish",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "949c0b2852adb6645bfce1e075fc430e",
+  "image_fid": "21300000",
+  "sellPrice": "1700",
+  "buyUpPrice": "100",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "FestiveDish",
+  "loc_key": "Item.FestiveDish"
+}

@@ -1,0 +1,19 @@
+{
+  "m_Name": "StoneArrow",
+  "m_Script": "b2cd456c67ed7fbd493e563aaef7330a",
+  "image": "16570f01823d5c448b2c43a7f0c4d01c",
+  "image_fid": "21300000",
+  "sellPrice": "4",
+  "buyUpPrice": "0.1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "StoneArrow",
+  "loc_key": "Item.StoneArrow",
+  "dropped_by": [
+    {
+      "sourceId": "ElderBasementMaterial",
+      "chance": 0.1,
+      "min": 5,
+      "max": 10
+    }
+  ]
+}

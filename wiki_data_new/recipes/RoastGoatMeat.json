@@ -1,0 +1,21 @@
+{
+  "m_Name": "RoastGoatMeat",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "7adb4bcc810d1dd48906d0b02ad8fdee",
+      "amount": "1",
+      "name": "RawGoatMeat",
+      "loc_key": "Item.RawGoatMeat"
+    }
+  ],
+  "products": [
+    {
+      "guid": "ebde30f47241383468d26ad1aa1e1eba",
+      "amount": "1",
+      "name": "RoastedMeat",
+      "loc_key": "Item.RoastedMeat"
+    }
+  ],
+  "id": "RoastGoatMeat"
+}

@@ -1,0 +1,21 @@
+{
+  "m_Name": "RoastFishFillet",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "84d190ccf3f13334395ed7218433c473",
+      "amount": "1",
+      "name": "FishFillet",
+      "loc_key": "Item.FishFillet"
+    }
+  ],
+  "products": [
+    {
+      "guid": "005b6a0c4620d4140a4d7e6095ef8d2f",
+      "amount": "1",
+      "name": "RoastedFishMeat",
+      "loc_key": "Item.RoastedFishMeat"
+    }
+  ],
+  "id": "RoastFishFillet"
+}

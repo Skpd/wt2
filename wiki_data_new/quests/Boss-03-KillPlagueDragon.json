@@ -1,0 +1,24 @@
+{
+  "m_Name": "Boss-03-KillPlagueDragon",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "f25f74f380d9f0041af14bd2e376816f",
+  "predecessors": [
+    "Boss-02-KillFatOgre",
+    "Mobs-10-KillLivingFlesh"
+  ],
+  "npcTaker": "f25f74f380d9f0041af14bd2e376816f",
+  "reward": {
+    "money": "10000",
+    "guildXp": "0",
+    "amount": "1",
+    "rewardItem": "fb842e166c7ad5b4c9f1e6bfb22af42d",
+    "rewardItemName": "PlagueHorse"
+  },
+  "id": "Boss-03-KillPlagueDragon",
+  "npcGiverName": "PlagueGoPoints",
+  "npcTakerName": "PlagueGoPoints",
+  "group": "General"
+}

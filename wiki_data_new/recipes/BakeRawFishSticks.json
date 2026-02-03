@@ -1,0 +1,21 @@
+{
+  "m_Name": "BakeRawFishSticks",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "1dceeb10cf690d7449bdeb48f6dc910b",
+      "amount": "1",
+      "name": "RawFishSticks",
+      "loc_key": "Item.RawFishSticks"
+    }
+  ],
+  "products": [
+    {
+      "guid": "fd402f7345aeb704b840e08795d5091f",
+      "amount": "1",
+      "name": "FishSticksAfterBake",
+      "loc_key": "Item.FishSticksAfterBake"
+    }
+  ],
+  "id": "BakeRawFishSticks"
+}

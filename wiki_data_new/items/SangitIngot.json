@@ -1,0 +1,49 @@
+{
+  "m_Name": "SangitIngot",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "22b37259b0828134fa72a79126a2e7d8",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "18",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SangitIngot",
+  "loc_key": "Item.SangitIngot",
+  "dropped_by": [
+    {
+      "sourceId": "SewersFinalChest",
+      "chance": 0.2,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "sourceId": "DemonWeak",
+      "chance": 0.2,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "sourceId": "DemonBrute",
+      "chance": 0.2,
+      "min": 10,
+      "max": 25
+    },
+    {
+      "sourceId": "DwarfOfficer",
+      "chance": 0.2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "Dwarf\u0421ommander",
+      "chance": 0.2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfCursedChampion",
+      "chance": 0.25,
+      "min": 10,
+      "max": 20
+    }
+  ]
+}

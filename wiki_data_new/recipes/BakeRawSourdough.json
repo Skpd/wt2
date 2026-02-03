@@ -1,0 +1,21 @@
+{
+  "m_Name": "BakeRawSourdough",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "38f395a60940d704ebebaa2b94391468",
+      "amount": "1",
+      "name": "RawSourdough",
+      "loc_key": "Item.RawSourdough"
+    }
+  ],
+  "products": [
+    {
+      "guid": "1d69b080360d9844ca7742fe9b68e43a",
+      "amount": "1",
+      "name": "Sourdough",
+      "loc_key": "Item.Sourdough"
+    }
+  ],
+  "id": "BakeRawSourdough"
+}

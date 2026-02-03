@@ -1,0 +1,11 @@
+{
+  "m_Name": "RawCowMeat",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "49c854ff82a2d3e4585ec6f107a5e1c1",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.03",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "RawCowMeat",
+  "loc_key": "Item.RawCowMeat"
+}

@@ -1,0 +1,27 @@
+{
+  "m_Name": "BarghestPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "8d0da026d372e134eb3fee92d713561e",
+  "image_fid": "21300000",
+  "sellPrice": "10000",
+  "buyUpPrice": "10000",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BarghestPet",
+  "loc_key": "Item.BarghestPet",
+  "dropped_by": [
+    {
+      "sourceId": "Barghest",
+      "chance": "0.05",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "BarghestDungeon",
+      "chance": "0.01",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "m_Name": "Crocodile",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "8000",
+  "stamina": "100",
+  "level": "65",
+  "walkSpeed": "1.6",
+  "runSpeed": "3",
+  "image": "fcb59044780f8294cb005d040684fa8b",
+  "image_fid": "21300000",
+  "entityClass": "9",
+  "mobBehaviour": "f291c29a11fd66f4285f6ed68ecff503",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "737032a40459d314fa5ee6e434deb480",
+  "entityPrefab_fid": "1975208100942665",
+  "entityBonuses": {
+    "IgnoreEffects": "1",
+    "Absorption": "20",
+    "Defense": "0.3"
+  },
+  "skills": [
+    {
+      "id": "c9204caf7b707994cbbd2e585166a28a",
+      "name": "CrocodileAttack",
+      "minDamage": "50",
+      "maxDamage": "80",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0.3",
+      "ignoreDefense": "0.2",
+      "criticalChance": "0.15",
+      "criticalValue": "1.2"
+    },
+    {
+      "id": "864e2c4aab9d9ce468f9bc0e56408caf",
+      "name": "CrocodileFerociousBite",
+      "minDamage": "50",
+      "maxDamage": "60",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.5",
+      "ignoreDefense": "0.5",
+      "criticalChance": "1",
+      "criticalValue": "1"
+    },
+    {
+      "id": "daae97b2e83c7e646ba00a206472accc",
+      "name": "CrocodileFortitude"
+    }
+  ],
+  "id": "Crocodile",
+  "loc_key": "Entity.Crocodile",
+  "skinning_drops": [
+    {
+      "itemId": "Chitin",
+      "chance": "1",
+      "min": "4",
+      "max": "10"
+    },
+    {
+      "itemId": "RawCarnivoreMeat",
+      "chance": "1",
+      "min": "5",
+      "max": "10"
+    },
+    {
+      "itemId": "LeprousBlood",
+      "chance": "1",
+      "min": "1",
+      "max": "3"
+    },
+    {
+      "itemId": "LeprousBlood",
+      "chance": "0.7",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "LeprousBone",
+      "chance": "1",
+      "min": "1",
+      "max": "3"
+    },
+    {
+      "itemId": "LeprousBone",
+      "chance": "0.7",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "CrocodileJaw",
+      "chance": "0.2",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "CrocodileEgg",
+      "chance": "0.02",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

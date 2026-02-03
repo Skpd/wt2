@@ -1,0 +1,23 @@
+{
+  "m_Name": "KillBossDwarfAmbusherHideout",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "0",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "a2b2d861524c72142a3366233cccc744",
+  "predecessors": [
+    "Boss-00-KillSkeletonBoss"
+  ],
+  "npcTaker": "e5ba14d4b44a1d14e9671ecf011a5bc6",
+  "reward": {
+    "money": "5000",
+    "guildXp": "0",
+    "amount": "5",
+    "rewardItem": "067acd9514b8b8d46a8c9a7f1cd91528",
+    "rewardItemName": "HealingBandages"
+  },
+  "id": "KillBossDwarfAmbusherHideout",
+  "npcGiverName": "MainIslandTownDailyQuests",
+  "npcTakerName": "MainIslandTownDailyHardcoreQuests",
+  "group": "Daily"
+}

@@ -1,0 +1,37 @@
+{
+  "m_Name": "SilverIngot",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "5be55c0d763a29c41947b4ac6c4d4ae2",
+  "image_fid": "21300000",
+  "sellPrice": "1000",
+  "buyUpPrice": "100",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SilverIngot",
+  "loc_key": "Item.SilverIngot",
+  "dropped_by": [
+    {
+      "sourceId": "SewersFinalChest",
+      "chance": 0.2,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "sourceId": "DemonWeak",
+      "chance": 0.2,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "sourceId": "DemonBrute",
+      "chance": 0.2,
+      "min": 10,
+      "max": 25
+    },
+    {
+      "sourceId": "DwarfCursedChampion",
+      "chance": 0.25,
+      "min": 10,
+      "max": 20
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "AmuletBlackPearl",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "e5932ba056ade08428f5618b332347fe",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1500",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "AmuletBlackPearl",
+  "loc_key": "Item.AmuletBlackPearl"
+}

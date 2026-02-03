@@ -1,0 +1,21 @@
+{
+  "m_Name": "BakeRawOnionRings",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "0fff9a821ec41334496199ae2786291c",
+      "amount": "1",
+      "name": "RawOnionRings",
+      "loc_key": "Item.RawOnionRings"
+    }
+  ],
+  "products": [
+    {
+      "guid": "419040b71d966694c9404b2ae7986452",
+      "amount": "1",
+      "name": "OnionRings",
+      "loc_key": "Item.OnionRings"
+    }
+  ],
+  "id": "BakeRawOnionRings"
+}

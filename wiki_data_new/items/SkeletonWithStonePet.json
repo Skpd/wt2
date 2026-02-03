@@ -1,0 +1,11 @@
+{
+  "m_Name": "SkeletonWithStonePet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "3b979d911a068ae4582f15063d7a7d0b",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SkeletonWithStonePet",
+  "loc_key": "Item.SkeletonWithStonePet"
+}

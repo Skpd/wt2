@@ -1,0 +1,40 @@
+{
+  "m_Name": "ZuperiumKnife",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "550cfd1e21992d948a94fa71942750ea",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "2710",
+  "craftMaterialsBuyUpPricePercent": "2",
+  "entityMaxLevel": "0",
+  "minDamage": "11",
+  "maxDamage": "14",
+  "minPlagueDamage": "0",
+  "maxPlagueDamage": "0",
+  "criticalChance": "0.3",
+  "criticalValue": "3",
+  "dismountChance": "0",
+  "splash": "0",
+  "isAOE": "0",
+  "projectileAOERange": "0",
+  "prefabAOEName": null,
+  "ignoreAvoidingDamage": "0",
+  "ignoreAbsorb": "0",
+  "ignoreDefense": "0",
+  "abilityName": null,
+  "effectLevelLimit": "0",
+  "effects": [],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "0"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  "id": "ZuperiumKnife",
+  "loc_key": "Item.ZuperiumKnife"
+}

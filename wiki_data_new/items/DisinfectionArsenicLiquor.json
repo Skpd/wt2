@@ -1,0 +1,11 @@
+{
+  "m_Name": "DisinfectionArsenicLiquor",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "4be7eb886f988d0448abdd0984935748",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.2",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "DisinfectionArsenicLiquor",
+  "loc_key": "Item.DisinfectionArsenicLiquor"
+}

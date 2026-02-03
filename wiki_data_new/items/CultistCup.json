@@ -1,0 +1,19 @@
+{
+  "m_Name": "CultistCup",
+  "m_Script": "420e0e364fdb917921d229f1b4a22ed9",
+  "image": "d27f8680575adcb4cbd99181a235fb6d",
+  "image_fid": "21300000",
+  "sellPrice": "2500",
+  "buyUpPrice": "250",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "CultistCup",
+  "loc_key": "Item.CultistCup",
+  "dropped_by": [
+    {
+      "sourceId": "CultistRisenSwordsman",
+      "chance": 0.025,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

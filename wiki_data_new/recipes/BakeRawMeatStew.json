@@ -1,0 +1,21 @@
+{
+  "m_Name": "BakeRawMeatStew",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "f07f3974272c68343b3d3f3c318f90b1",
+      "amount": "1",
+      "name": "RawMeatStew",
+      "loc_key": "Item.RawMeatStew"
+    }
+  ],
+  "products": [
+    {
+      "guid": "4c099f54c768c4d40bccc8c96e7b46c5",
+      "amount": "1",
+      "name": "MeatStew",
+      "loc_key": "Item.MeatStew"
+    }
+  ],
+  "id": "BakeRawMeatStew"
+}

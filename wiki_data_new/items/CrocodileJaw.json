@@ -1,0 +1,27 @@
+{
+  "m_Name": "CrocodileJaw",
+  "m_Script": "420e0e364fdb917921d229f1b4a22ed9",
+  "image": "651e0f7880f59cf4e8c90c9ddabc273b",
+  "image_fid": "21300000",
+  "sellPrice": "5000",
+  "buyUpPrice": "500",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "CrocodileJaw",
+  "loc_key": "Item.CrocodileJaw",
+  "dropped_by": [
+    {
+      "sourceId": "Crocodile",
+      "chance": "0.2",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "CrocodileDungeon",
+      "chance": "0.1",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    }
+  ]
+}

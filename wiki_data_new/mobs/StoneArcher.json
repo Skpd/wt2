@@ -1,0 +1,71 @@
+{
+  "m_Name": "StoneArcher",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "3000",
+  "stamina": "100",
+  "level": "50",
+  "walkSpeed": "2",
+  "runSpeed": "4",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "6",
+  "mobBehaviour": "f91774b36f22cf74c89e3b71b74ecde9",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "1608ded7dec6308498e7b015fe173d5b",
+  "entityPrefab_fid": "1369762293775775",
+  "entityBonuses": {
+    "Absorption": "30",
+    "IgnoreEffects": "1"
+  },
+  "skills": [
+    {
+      "id": "89778eddcc2a5d54bbdabb6a879d4de0",
+      "name": "StoneWarriorBuff"
+    },
+    {
+      "id": "76a4b76401f8ff244b0b48fb28bdf843",
+      "name": "StoneArcherAttack",
+      "minDamage": "35",
+      "maxDamage": "55",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0.6",
+      "ignoreDefense": "0.35",
+      "criticalChance": "0",
+      "criticalValue": "0"
+    },
+    {
+      "id": "1296fc0573133af46b219c53aafde850",
+      "name": "StoneArcherCloseAttack",
+      "minDamage": "35",
+      "maxDamage": "55",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0.6",
+      "ignoreDefense": "0.35",
+      "criticalChance": "0",
+      "criticalValue": "0"
+    }
+  ],
+  "id": "StoneArcher",
+  "loc_key": "Entity.StoneArcher",
+  "skinning_drops": [
+    {
+      "itemId": "HewnStone",
+      "chance": "1",
+      "min": "20",
+      "max": "40"
+    },
+    {
+      "itemId": "HewnBoulder",
+      "chance": "1",
+      "min": "10",
+      "max": "20"
+    },
+    {
+      "itemId": "Rock",
+      "chance": "1",
+      "min": "10",
+      "max": "20"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "m_Name": "CauldronWeaponPoisonProduce",
+  "m_Script": "241914504fa4bbfc865ca8c6f53028f5",
+  "resources": [
+    {
+      "guid": "72fd143b163415e4d8daecf9884ee452",
+      "amount": "1",
+      "name": "EmptyFlask",
+      "loc_key": "Item.EmptyFlask"
+    },
+    {
+      "guid": "96778eff7d6ee4c488c1ddcb51b5cf50",
+      "amount": "1",
+      "name": "ScorpionTail",
+      "loc_key": "Item.ScorpionTail"
+    },
+    {
+      "guid": "96778eff7d6ee4c488c1ddcb51b5cf50",
+      "amount": "1",
+      "name": "ScorpionTail",
+      "loc_key": "Item.ScorpionTail"
+    },
+    {
+      "guid": "8e1bca5ad61fb7b44a4fc4afd0562181",
+      "amount": "5",
+      "name": "ReagentPowder",
+      "loc_key": "Item.ReagentPowder"
+    }
+  ],
+  "products": [
+    {
+      "guid": "b25d65bd100056147acba0576f8331ef",
+      "amount": "1",
+      "name": "WeaponPoison",
+      "loc_key": "Item.WeaponPoison"
+    }
+  ],
+  "id": "CauldronWeaponPoisonProduce"
+}

@@ -1,0 +1,54 @@
+{
+  "m_Name": "YellowChristmasBall",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "762dae885bd12f645975f033daaeb39a",
+  "image_fid": "21300000",
+  "sellPrice": "0",
+  "buyUpPrice": "0",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "YellowChristmasBall",
+  "loc_key": "Item.YellowChristmasBall",
+  "dropped_by": [
+    {
+      "sourceId": "DementedElf",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HareBlack5",
+      "chance": "1",
+      "min": "2",
+      "max": "3",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "HareBlack4",
+      "chance": "0.75",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "HareBlack1",
+      "chance": "0.25",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "HareBlack2",
+      "chance": "0.35",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "HareBlack3",
+      "chance": "0.5",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    }
+  ]
+}

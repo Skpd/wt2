@@ -1,0 +1,11 @@
+{
+  "m_Name": "BattleHungerPotion",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "5627d3678b629be4fbf2102292e28121",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.01",
+  "craftMaterialsBuyUpPricePercent": "1",
+  "id": "BattleHungerPotion",
+  "loc_key": "Item.BattleHungerPotion"
+}

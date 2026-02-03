@@ -1,0 +1,21 @@
+{
+  "m_Name": "MorbiumSmelting",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "7651870d0de4fee40ae187c83f6d657e",
+      "amount": "2",
+      "name": "MorbiumSmeltingMix",
+      "loc_key": "Item.MorbiumSmeltingMix"
+    }
+  ],
+  "products": [
+    {
+      "guid": "1316adfd4cca50841ab07991c0040210",
+      "amount": "1",
+      "name": "MorbiumIngot",
+      "loc_key": "Item.MorbiumIngot"
+    }
+  ],
+  "id": "MorbiumSmelting"
+}

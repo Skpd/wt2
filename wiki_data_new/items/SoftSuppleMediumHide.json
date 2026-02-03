@@ -1,0 +1,11 @@
+{
+  "m_Name": "SoftSuppleMediumHide",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "dfc63ee2d324b14479bf1efdbd6fd0cb",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SoftSuppleMediumHide",
+  "loc_key": "Item.SoftSuppleMediumHide"
+}

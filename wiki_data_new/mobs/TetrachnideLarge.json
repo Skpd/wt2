@@ -1,0 +1,82 @@
+{
+  "m_Name": "TetrachnideLarge",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "375",
+  "stamina": "100",
+  "level": "37",
+  "walkSpeed": "2.5",
+  "runSpeed": "5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "2",
+  "mobBehaviour": "ff6d63f41bf87164cb7b7b71a6559110",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "403e9413bbfcbc84c9c46ddfd01c57bc",
+  "entityPrefab_fid": "1854774128117638",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "ee44eaa5f4bf9a447b1c5c3893dcebd0",
+      "name": "TetrachnideAttackLarge",
+      "minDamage": "85",
+      "maxDamage": "110",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.25",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "776241cdb26b9f44aa31b8ceb254001e",
+      "name": "TetrachnideBreathLarge",
+      "minDamage": "7",
+      "maxDamage": "7",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "1",
+      "ignoreDefense": "1",
+      "criticalChance": "0",
+      "criticalValue": "0"
+    }
+  ],
+  "id": "TetrachnideLarge",
+  "loc_key": "Entity.TetrachnideLarge",
+  "skinning_drops": [
+    {
+      "itemId": "LootCavecrawlerShell",
+      "chance": "0.6",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "LootCavecrawlerLegs",
+      "chance": "1",
+      "min": "1",
+      "max": "3"
+    },
+    {
+      "itemId": "LootCavecrawlerBrain",
+      "chance": "0.1",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "TetrachnideClaw",
+      "chance": "0.015",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "LootCavecrawlerMaterial",
+      "chance": "1",
+      "min": "1",
+      "max": "3"
+    },
+    {
+      "itemId": "LootCavecrawlerClaw",
+      "chance": "0.6",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

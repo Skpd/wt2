@@ -1,0 +1,20 @@
+{
+  "m_Name": "VampireBlood",
+  "m_Script": "420e0e364fdb917921d229f1b4a22ed9",
+  "image": "859c3c3cc765b05438f114b4fb2dc35f",
+  "image_fid": "21300000",
+  "sellPrice": "5000",
+  "buyUpPrice": "500",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "VampireBlood",
+  "loc_key": "Item.VampireBlood",
+  "dropped_by": [
+    {
+      "sourceId": "Vampire",
+      "chance": "0.01",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    }
+  ]
+}

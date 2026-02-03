@@ -1,0 +1,25 @@
+{
+  "m_Name": "MorbiumHeavyBoots",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "b6c532de90c2a394bbadec3b3d38435b",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "2218.4",
+  "craftMaterialsBuyUpPricePercent": "2",
+  "id": "MorbiumHeavyBoots",
+  "loc_key": "Item.MorbiumHeavyBoots",
+  "dropped_by": [
+    {
+      "sourceId": "PlagueDragon",
+      "chance": 0.024999999999999998,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.06,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

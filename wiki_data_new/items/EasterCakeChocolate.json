@@ -1,0 +1,19 @@
+{
+  "m_Name": "EasterCakeChocolate",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "33ba1a124470a2c42854c4f98944d706",
+  "image_fid": "21300000",
+  "sellPrice": "50000",
+  "buyUpPrice": "10",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "EasterCakeChocolate",
+  "loc_key": "Item.EasterCakeChocolate",
+  "dropped_by": [
+    {
+      "sourceId": "EasterObjectBasket",
+      "chance": 0.02,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

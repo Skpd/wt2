@@ -1,0 +1,23 @@
+{
+  "m_Name": "Story-04-GatherRatDroppings",
+  "m_Script": "bbef8bd82ea7ec3f83b28462fb539071",
+  "line": "1",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "63861cc2b0287e2478d9b753cc540756",
+  "predecessors": [
+    "Story-03-AttackWithCookKnife"
+  ],
+  "npcTaker": "63861cc2b0287e2478d9b753cc540756",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "1",
+    "rewardItem": "0ff36829267b23044ae7764b83d207b6",
+    "rewardItemName": "Sulfur"
+  },
+  "id": "Story-04-GatherRatDroppings",
+  "npcGiverName": "StoryCook",
+  "npcTakerName": "StoryCook",
+  "group": "General"
+}

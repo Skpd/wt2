@@ -1,0 +1,33 @@
+{
+  "m_Name": "Ammo_FireBolt",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "b0cfed6c09f3fc74fbdc3e80ebbdb510",
+      "amount": "25",
+      "name": "BurningRingPotion",
+      "loc_key": "Item.BurningRingPotion"
+    },
+    {
+      "guid": "57ec541410877da42bb49cf2029bb87c",
+      "amount": "100",
+      "name": "SteelBolt",
+      "loc_key": "Item.SteelBolt"
+    },
+    {
+      "guid": "1be3eb1fa1c24864fb6d7e661395a61b",
+      "amount": "5",
+      "name": "ZuperiumIngot",
+      "loc_key": "Item.ZuperiumIngot"
+    }
+  ],
+  "products": [
+    {
+      "guid": "bfb0ce6391d36a44a9f13b397f457454",
+      "amount": "100",
+      "name": "FireBolt",
+      "loc_key": "Item.FireBolt"
+    }
+  ],
+  "id": "Ammo_FireBolt"
+}

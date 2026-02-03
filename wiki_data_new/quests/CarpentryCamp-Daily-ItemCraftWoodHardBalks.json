@@ -1,0 +1,23 @@
+{
+  "m_Name": "CarpentryCamp-Daily-ItemCraftWoodHardBalks",
+  "m_Script": "8bae99285fb9248eeae7964c5eaf8a95",
+  "line": "0",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "92438ab9d3ff4204da74b38b6dd67dcd",
+  "predecessors": [
+    "CarpentryCamp-09-ObtainHeatproofWood"
+  ],
+  "npcTaker": "860dcc9b67deabf47b8c22508ece8568",
+  "reward": {
+    "money": "2000",
+    "guildXp": "0",
+    "amount": "100",
+    "rewardItem": "986a428d9427c824fb605a4ca8a7f169",
+    "rewardItemName": "SteelArrow"
+  },
+  "id": "CarpentryCamp-Daily-ItemCraftWoodHardBalks",
+  "npcGiverName": "CarpentryCampDailyQuests",
+  "npcTakerName": "CarpentryCampBonan",
+  "group": "Daily"
+}

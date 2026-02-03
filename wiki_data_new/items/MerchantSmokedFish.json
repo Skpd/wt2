@@ -1,0 +1,11 @@
+{
+  "m_Name": "MerchantSmokedFish",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "8d538962838b431449b2aa59b4e8398e",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "MerchantSmokedFish",
+  "loc_key": "Item.MerchantSmokedFish"
+}

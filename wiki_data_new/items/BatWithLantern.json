@@ -1,0 +1,11 @@
+{
+  "m_Name": "BatWithLantern",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "0cbf8aa6fc22a834bbfa54cb8e0c6655",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BatWithLantern",
+  "loc_key": "Item.BatWithLantern"
+}

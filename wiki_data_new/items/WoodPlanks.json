@@ -1,0 +1,25 @@
+{
+  "m_Name": "WoodPlanks",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "eabd8e11be9c0c6478b8885f444bb947",
+  "image_fid": "21300000",
+  "sellPrice": "20",
+  "buyUpPrice": "0.1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "WoodPlanks",
+  "loc_key": "Item.WoodPlanks",
+  "dropped_by": [
+    {
+      "sourceId": "GodsendMainlandSouth",
+      "chance": 0.08333333333333333,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "DwarfEngineer",
+      "chance": 0.09090909090909091,
+      "min": 1,
+      "max": 3
+    }
+  ]
+}

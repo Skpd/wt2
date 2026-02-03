@@ -1,0 +1,41 @@
+{
+  "m_Name": "GolemHeart",
+  "m_Script": "420e0e364fdb917921d229f1b4a22ed9",
+  "image": "aa494b55112407f4eab4defbce120f3a",
+  "image_fid": "21300000",
+  "sellPrice": "1250",
+  "buyUpPrice": "125",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "GolemHeart",
+  "loc_key": "Item.GolemHeart",
+  "dropped_by": [
+    {
+      "sourceId": "UndergroundGuardian",
+      "chance": "0.01",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "UndergroundGuardianLarge",
+      "chance": "0.015",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "VeinKeeperLarge",
+      "chance": "0.015",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "VeinKeeper",
+      "chance": "0.01",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "m_Name": "SkillUp-00-GetBattleSkillLevel30",
+  "m_Script": "7ba363098419be20ea85b82919f52c19",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "4a1e3234210c65c4ca409eefa714207e",
+  "predecessors": [
+    "Boss-00-KillSkeletonBoss"
+  ],
+  "npcTaker": "4a1e3234210c65c4ca409eefa714207e",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "1",
+    "rewardItem": "fd493652b83d71547b5d0142bfafffea",
+    "rewardItemName": "EmeticPotion"
+  },
+  "id": "SkillUp-00-GetBattleSkillLevel30",
+  "npcGiverName": "JunkerRagnara",
+  "npcTakerName": "JunkerRagnara",
+  "group": "General"
+}

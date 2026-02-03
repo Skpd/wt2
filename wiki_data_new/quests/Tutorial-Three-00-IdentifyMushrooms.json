@@ -1,0 +1,16 @@
+{
+  "m_Name": "Tutorial-Three-00-IdentifyMushrooms",
+  "m_Script": "f950a81bcc4e64f2377f7e379fbab538",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "1",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "10",
+    "rewardItem": "88a419031a203304db1ab26f5336d6d4",
+    "rewardItemName": "BakedMushroom"
+  },
+  "id": "Tutorial-Three-00-IdentifyMushrooms",
+  "group": "General"
+}

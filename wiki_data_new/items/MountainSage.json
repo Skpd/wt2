@@ -1,0 +1,37 @@
+{
+  "m_Name": "MountainSage",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "f96a839732bd2eb40b7159864b598ba7",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "MountainSage",
+  "loc_key": "Item.MountainSage",
+  "dropped_by": [
+    {
+      "sourceId": "DwarfAmbusher",
+      "chance": 0.25,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "sourceId": "DwarfSoldier",
+      "chance": 0.25,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "sourceId": "DwarfOfficer",
+      "chance": 0.25,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "sourceId": "Dwarf\u0421ommander",
+      "chance": 0.25,
+      "min": 2,
+      "max": 5
+    }
+  ]
+}

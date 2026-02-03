@@ -1,0 +1,11 @@
+{
+  "m_Name": "IndeerChristmasMount",
+  "m_Script": "f5673bd2393c13a27685bda14e28f91a",
+  "image": "c1d1867616877c54abe41169704b921a",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "IndeerChristmasMount",
+  "loc_key": "Item.IndeerChristmasMount"
+}

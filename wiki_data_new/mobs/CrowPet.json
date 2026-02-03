@@ -1,0 +1,23 @@
+{
+  "m_Name": "CrowPet",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "1",
+  "stamina": "100",
+  "level": "1",
+  "walkSpeed": "1.6",
+  "runSpeed": "3.5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "8",
+  "mobBehaviour": {
+    "fileID": "0"
+  },
+  "entityPrefab": {
+    "fileID": "0"
+  },
+  "entityBonuses": {},
+  "skills": [],
+  "id": "CrowPet",
+  "loc_key": "Entity.CrowPet"
+}

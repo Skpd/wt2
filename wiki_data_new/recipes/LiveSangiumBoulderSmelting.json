@@ -1,0 +1,27 @@
+{
+  "m_Name": "LiveSangiumBoulderSmelting",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "60722f583ba618744b278c71483366a1",
+      "amount": "1",
+      "name": "LiveBoulder",
+      "loc_key": "Item.LiveBoulder"
+    },
+    {
+      "guid": "e68acf752b0bd3842b083c80ced4f6de",
+      "amount": "100",
+      "name": "SangiumIngot",
+      "loc_key": "Item.SangiumIngot"
+    }
+  ],
+  "products": [
+    {
+      "guid": "6f43be79dcf22844384f577fe5c25d87",
+      "amount": "1",
+      "name": "LiveSangiumBoulder",
+      "loc_key": "Item.LiveSangiumBoulder"
+    }
+  ],
+  "id": "LiveSangiumBoulderSmelting"
+}

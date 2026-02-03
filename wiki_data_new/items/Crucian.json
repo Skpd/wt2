@@ -1,0 +1,11 @@
+{
+  "m_Name": "Crucian",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "01a5f83396b08fc4a8905352cdb3ab60",
+  "image_fid": "21300000",
+  "sellPrice": "45",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Crucian",
+  "loc_key": "Item.Crucian"
+}

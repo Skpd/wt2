@@ -1,0 +1,87 @@
+{
+  "m_Name": "CrocodilePet",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "200",
+  "stamina": "100",
+  "level": "1",
+  "walkSpeed": "1.6",
+  "runSpeed": "3.5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "9",
+  "mobBehaviour": {
+    "fileID": "0"
+  },
+  "entityPrefab": "1abebf39cec8e6a43897799e393fc58d",
+  "entityPrefab_fid": "1049881487406163",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "52559a9b0aff2284cbcd4d3457193dde",
+      "name": "CrocodilePetFerociousBite",
+      "minDamage": "50",
+      "maxDamage": "60",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.5",
+      "ignoreDefense": "0",
+      "criticalChance": "1",
+      "criticalValue": "1"
+    },
+    {
+      "id": "dc0017dc0abcc8b418ec4fdbd2d14e33",
+      "name": "CrocodilePetAttack",
+      "minDamage": "50",
+      "maxDamage": "80",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.15",
+      "criticalValue": "1.2"
+    },
+    {
+      "id": "d508db5f29457534e9cb3903c699fe61",
+      "name": "CrocodilePetFortitude"
+    }
+  ],
+  "id": "CrocodilePet",
+  "loc_key": "Entity.CrocodilePet",
+  "skinning_drops": [
+    {
+      "itemId": "DarkWood",
+      "chance": "1",
+      "min": "3",
+      "max": "6"
+    },
+    {
+      "itemId": "WoodBark",
+      "chance": "1",
+      "min": "20",
+      "max": "30"
+    },
+    {
+      "itemId": "WoodHardLogs",
+      "chance": "1",
+      "min": "20",
+      "max": "30"
+    },
+    {
+      "itemId": "HeatproofWood",
+      "chance": "1",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "ColdTearsEnt",
+      "chance": "1",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "LiveAcorn",
+      "chance": "0.02",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

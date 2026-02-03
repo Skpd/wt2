@@ -1,0 +1,23 @@
+{
+  "m_Name": "TrashObtainLootKitchenWareGroup",
+  "m_Script": "19ba6651bb0cf2b303c6b7a307fd3003",
+  "line": "0",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "204b498d36241ba4bb1e2ad92ef74a22",
+  "predecessors": [
+    "Mobs-06-KillUndeadGroup"
+  ],
+  "npcTaker": "9b3d55a56a0d3f446a583b7c1d294dfa",
+  "reward": {
+    "money": "3000",
+    "guildXp": "0",
+    "amount": "30",
+    "rewardItem": "a318a57cdad4fc34bb7b6c0004c7a92a",
+    "rewardItemName": "WideBandages"
+  },
+  "id": "TrashObtainLootKitchenWareGroup",
+  "npcGiverName": "PlagueDailyQuests",
+  "npcTakerName": "PlagueBuyer",
+  "group": "Daily"
+}

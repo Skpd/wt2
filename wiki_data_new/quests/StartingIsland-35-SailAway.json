@@ -1,0 +1,14 @@
+{
+  "m_Name": "StartingIsland-35-SailAway",
+  "m_Script": "7ba363098419be20ea85b82919f52c19",
+  "line": "1",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "0"
+  },
+  "id": "StartingIsland-35-SailAway",
+  "group": "General"
+}

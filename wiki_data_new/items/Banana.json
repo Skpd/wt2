@@ -1,0 +1,11 @@
+{
+  "m_Name": "Banana",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "e709e0868fafbe845bc8e1afebae3201",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.25",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Banana",
+  "loc_key": "Item.Banana"
+}

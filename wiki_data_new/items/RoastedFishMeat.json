@@ -1,0 +1,19 @@
+{
+  "m_Name": "RoastedFishMeat",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "91171acedebf8b9458bb3a7f14bc67e9",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "2",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "RoastedFishMeat",
+  "loc_key": "Item.RoastedFishMeat",
+  "dropped_by": [
+    {
+      "sourceId": "ElderBasementMaterial",
+      "chance": 0.14285714285714285,
+      "min": 2,
+      "max": 2
+    }
+  ]
+}

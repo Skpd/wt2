@@ -1,0 +1,49 @@
+{
+  "m_Name": "WetBandages",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "4ad2ad7924c38b44589684c1811c876f",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1.947",
+  "craftMaterialsBuyUpPricePercent": "1.1",
+  "id": "WetBandages",
+  "loc_key": "Item.WetBandages",
+  "dropped_by": [
+    {
+      "sourceId": "BattlefieldGodsend",
+      "chance": 0.16666666666666666,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "BattlefieldGodsend",
+      "chance": 0.049999999999999996,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "GodsendMainlandSouth",
+      "chance": 0.1,
+      "min": 3,
+      "max": 5
+    },
+    {
+      "sourceId": "RustyChest",
+      "chance": 0.12,
+      "min": 3,
+      "max": 5
+    },
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.2,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.2,
+      "min": 2,
+      "max": 2
+    }
+  ]
+}

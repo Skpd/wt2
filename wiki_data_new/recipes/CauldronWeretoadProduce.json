@@ -1,0 +1,33 @@
+{
+  "m_Name": "CauldronWeretoadProduce",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "72be667156788c948997a93d47b09a71",
+      "amount": "50",
+      "name": "FrogLegs",
+      "loc_key": "Item.FrogLegs"
+    },
+    {
+      "guid": "ed387302f331ee747acf194bf9720c33",
+      "amount": "20",
+      "name": "LeprousBlood",
+      "loc_key": "Item.LeprousBlood"
+    },
+    {
+      "guid": "26d6e8b6c2e070048b3bc3e027bd48fd",
+      "amount": "1",
+      "name": "ReptilePowder",
+      "loc_key": "Item.ReptilePowder"
+    }
+  ],
+  "products": [
+    {
+      "guid": "2c842b9cd02547d4da4f95accd1c1d9f",
+      "amount": "1",
+      "name": "WeretoadEgg",
+      "loc_key": "Item.WeretoadEgg"
+    }
+  ],
+  "id": "CauldronWeretoadProduce"
+}

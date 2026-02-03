@@ -1,0 +1,23 @@
+{
+  "m_Name": "BeastslayerKnife-07-ReturnToJunkerRagnara",
+  "m_Script": "a33fbc2ed7ad8fe58f2dcfb6e1a39cab",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "4a1e3234210c65c4ca409eefa714207e",
+  "predecessors": [
+    "BeastslayerKnife-06-ObtainBloodFromHideout"
+  ],
+  "npcTaker": "4a1e3234210c65c4ca409eefa714207e",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "1",
+    "rewardItem": "9579ff3d88c869b4aab33ab9b0c8510f",
+    "rewardItemName": "BeastslayerKnife"
+  },
+  "id": "BeastslayerKnife-07-ReturnToJunkerRagnara",
+  "npcGiverName": "JunkerRagnara",
+  "npcTakerName": "JunkerRagnara",
+  "group": "General"
+}

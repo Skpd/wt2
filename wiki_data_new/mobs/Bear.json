@@ -1,0 +1,97 @@
+{
+  "m_Name": "Bear",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "1200",
+  "stamina": "100",
+  "level": "50",
+  "walkSpeed": "2",
+  "runSpeed": "5",
+  "image": "81cc31e981fe30946a06259d0bcc7e65",
+  "image_fid": "21300000",
+  "entityClass": "1",
+  "mobBehaviour": "39dd1c703ba236f4098db705bda0cda1",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "5aafae0139671e44883df6f4c169168e",
+  "entityPrefab_fid": "1730290540719938",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "a0dc5752c813b7e4aab67c4d23ef92b5",
+      "name": "BearFortitude"
+    },
+    {
+      "id": "7e26a71890e50ff4fa1aae1f7faedd98",
+      "name": "BearAttack",
+      "minDamage": "40",
+      "maxDamage": "50",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "3ea715c232dc7274ab5b10fb35b22d2e",
+      "name": "BearClaws",
+      "minDamage": "40",
+      "maxDamage": "50",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    }
+  ],
+  "id": "Bear",
+  "loc_key": "Entity.Bear",
+  "skinning_drops": [
+    {
+      "itemId": "MediumRawHide",
+      "chance": "1",
+      "min": "3",
+      "max": "5"
+    },
+    {
+      "itemId": "RawCarnivoreMeat",
+      "chance": "1",
+      "min": "20",
+      "max": "30"
+    },
+    {
+      "itemId": "RawAnimalFat",
+      "chance": "1",
+      "min": "10",
+      "max": "20"
+    },
+    {
+      "itemId": "BearHideFragment",
+      "chance": "1",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "Intestines",
+      "chance": "1",
+      "min": "1",
+      "max": "2"
+    },
+    {
+      "itemId": "AnimalStomach",
+      "chance": "0.05",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "BearPaw",
+      "chance": "0.1",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "OrganicsClot",
+      "chance": "1",
+      "min": "3",
+      "max": "6"
+    }
+  ]
+}

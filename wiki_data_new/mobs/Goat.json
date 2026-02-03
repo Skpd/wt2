@@ -1,0 +1,76 @@
+{
+  "m_Name": "Goat",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "120",
+  "stamina": "100",
+  "level": "12",
+  "walkSpeed": "2",
+  "runSpeed": "5",
+  "image": "352ed6741f759494fa54807b605f73a3",
+  "image_fid": "21300000",
+  "entityClass": "1",
+  "mobBehaviour": "f90bc194cea48f34eac99b3486c6888c",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "1dc983a5c8377524f96e5dc1a0cbe8a2",
+  "entityPrefab_fid": "1784985588926663",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "4a03e27675dfb564ca6631a89f568ce5",
+      "name": "GoatAttack",
+      "minDamage": "7",
+      "maxDamage": "11",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.1",
+      "criticalValue": "1.5"
+    }
+  ],
+  "id": "Goat",
+  "loc_key": "Entity.Goat",
+  "skinning_drops": [
+    {
+      "itemId": "MediumRawHide",
+      "chance": "1",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "RawGoatMeat",
+      "chance": "1",
+      "min": "2",
+      "max": "3"
+    },
+    {
+      "itemId": "Intestines",
+      "chance": "0.4",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "AnimalStomach",
+      "chance": "0.01",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "AnimalHoof",
+      "chance": "0.005",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "GoatTongue",
+      "chance": "0.01",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "OrganicsClot",
+      "chance": "1",
+      "min": "1",
+      "max": "3"
+    }
+  ]
+}

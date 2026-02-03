@@ -1,0 +1,23 @@
+{
+  "m_Name": "MinersCamp-Daily-KillMobsMountainDwarf",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "0",
+  "isDaily": "1",
+  "isTutorial": "0",
+  "npcGiver": "d225f39b3523f7543baaf0f570a6acf2",
+  "predecessors": [
+    "MinersCamp-07-KillMobsKobolds"
+  ],
+  "npcTaker": "3e5a69fb62ba83e40826e902fc6fcec0",
+  "reward": {
+    "money": "1000",
+    "guildXp": "0",
+    "amount": "10",
+    "rewardItem": "1086820f809fc164fa661770a8aaab09",
+    "rewardItemName": "IronIngot"
+  },
+  "id": "MinersCamp-Daily-KillMobsMountainDwarf",
+  "npcGiverName": "MinersCampDailyQuests",
+  "npcTakerName": "MinersCampHarbeck",
+  "group": "Daily"
+}

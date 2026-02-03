@@ -1,0 +1,11 @@
+{
+  "m_Name": "SeaFishFillet",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "929f48c490454df44ab3d23e996ca8e2",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "3",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SeaFishFillet",
+  "loc_key": "Item.SeaFishFillet"
+}

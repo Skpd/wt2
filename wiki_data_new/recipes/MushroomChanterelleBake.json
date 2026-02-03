@@ -1,0 +1,21 @@
+{
+  "m_Name": "MushroomChanterelleBake",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "4e04aa4e88ff23e4589b3b021e8e9f0a",
+      "amount": "1",
+      "name": "RawMushroomChanterelles",
+      "loc_key": "Item.RawMushroomChanterelles"
+    }
+  ],
+  "products": [
+    {
+      "guid": "88a419031a203304db1ab26f5336d6d4",
+      "amount": "1",
+      "name": "BakedMushroom",
+      "loc_key": "Item.BakedMushroom"
+    }
+  ],
+  "id": "MushroomChanterelleBake"
+}

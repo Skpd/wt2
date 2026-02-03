@@ -1,0 +1,33 @@
+{
+  "m_Name": "Ammo_PlagueBolt",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "3e51b52e1cd212248833dd4f4a629dc3",
+      "amount": "20",
+      "name": "PlagueBomb",
+      "loc_key": "Item.PlagueBomb"
+    },
+    {
+      "guid": "57ec541410877da42bb49cf2029bb87c",
+      "amount": "100",
+      "name": "SteelBolt",
+      "loc_key": "Item.SteelBolt"
+    },
+    {
+      "guid": "1316adfd4cca50841ab07991c0040210",
+      "amount": "5",
+      "name": "MorbiumIngot",
+      "loc_key": "Item.MorbiumIngot"
+    }
+  ],
+  "products": [
+    {
+      "guid": "3dbe122dd48dd4e46bf0edd37d763875",
+      "amount": "100",
+      "name": "PlagueBolt",
+      "loc_key": "Item.PlagueBolt"
+    }
+  ],
+  "id": "Ammo_PlagueBolt"
+}

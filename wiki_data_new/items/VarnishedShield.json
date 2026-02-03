@@ -1,0 +1,38 @@
+{
+  "m_Name": "VarnishedShield",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "8831604b0f90489428199152b1e6540c",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "363",
+  "craftMaterialsBuyUpPricePercent": "1.5",
+  "id": "VarnishedShield",
+  "loc_key": "Item.VarnishedShield",
+  "icon_path": "textures/VarnishedShield.png",
+  "dropped_by": [
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HideoutGodsensBody",
+      "chance": 0.02,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

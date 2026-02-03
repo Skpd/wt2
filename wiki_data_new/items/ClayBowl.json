@@ -1,0 +1,31 @@
+{
+  "m_Name": "ClayBowl",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "78d56cc713a4f8640b14c205c7b2d912",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "ClayBowl",
+  "loc_key": "Item.ClayBowl",
+  "dropped_by": [
+    {
+      "sourceId": "PlagueCityBrokenFurniture",
+      "chance": 0.14285714285714285,
+      "min": 3,
+      "max": 8
+    },
+    {
+      "sourceId": "PlagueCityBrokenFurniture",
+      "chance": 0.14285714285714285,
+      "min": 4,
+      "max": 10
+    },
+    {
+      "sourceId": "GodsendMainlandSouth",
+      "chance": 0.049999999999999996,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

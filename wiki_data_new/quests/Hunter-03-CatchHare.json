@@ -1,0 +1,16 @@
+{
+  "m_Name": "Hunter-03-CatchHare",
+  "m_Script": "1f7e2daaf0f39066de4225206dae8ef0",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "1",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "5",
+    "rewardItem": "930bddb0d0a377c448cecd4313de13f5",
+    "rewardItemName": "RootCrop"
+  },
+  "id": "Hunter-03-CatchHare",
+  "group": "General"
+}

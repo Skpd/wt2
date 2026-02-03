@@ -1,0 +1,23 @@
+{
+  "m_Name": "Tamer-02-GoatFeedEvent",
+  "m_Script": "7ba363098419be20ea85b82919f52c19",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "dbbd65a03bea5164784da9022840adf8",
+  "predecessors": [
+    "Tamer-01-TameGoat"
+  ],
+  "npcTaker": "dbbd65a03bea5164784da9022840adf8",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "50",
+    "rewardItem": "82841f21dbdaf5141b76cbbedc2117a8",
+    "rewardItemName": "BirdDroppings"
+  },
+  "id": "Tamer-02-GoatFeedEvent",
+  "npcGiverName": "CityBreederErmak",
+  "npcTakerName": "CityBreederErmak",
+  "group": "General"
+}

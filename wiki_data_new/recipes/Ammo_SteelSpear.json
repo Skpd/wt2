@@ -1,0 +1,39 @@
+{
+  "m_Name": "Ammo_SteelSpear",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "bb7309217ea06294db7ac69dd42ae558",
+      "amount": "7",
+      "name": "SteelLines",
+      "loc_key": "Item.SteelLines"
+    },
+    {
+      "guid": "cc8406623e5f2ae4aba918d1c28129d3",
+      "amount": "35",
+      "name": "WoodHardStaves",
+      "loc_key": "Item.WoodHardStaves"
+    },
+    {
+      "guid": "65a89d687dec2184a9a160dc1d5d0f70",
+      "amount": "3",
+      "name": "HardenedLeatherScrap",
+      "loc_key": "Item.HardenedLeatherScrap"
+    },
+    {
+      "guid": "2037eec4eb1c70441be0c5726db38b89",
+      "amount": "6",
+      "name": "MediumLeatherStrip",
+      "loc_key": "Item.MediumLeatherStrip"
+    }
+  ],
+  "products": [
+    {
+      "guid": "412404b26f3897048bf9d9e2622c5827",
+      "amount": "100",
+      "name": "SteelSpear",
+      "loc_key": "Item.SteelSpear"
+    }
+  ],
+  "id": "Ammo_SteelSpear"
+}

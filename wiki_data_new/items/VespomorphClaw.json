@@ -1,0 +1,41 @@
+{
+  "m_Name": "VespomorphClaw",
+  "m_Script": "420e0e364fdb917921d229f1b4a22ed9",
+  "image": "8bdf4df3556044e4c9b3721250b35513",
+  "image_fid": "21300000",
+  "sellPrice": "2500",
+  "buyUpPrice": "250",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "VespomorphClaw",
+  "loc_key": "Item.VespomorphClaw",
+  "dropped_by": [
+    {
+      "sourceId": "CavecrawlerSmall",
+      "chance": "0.01",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Cavecrawler",
+      "chance": "0.2",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "VespomorphLarge",
+      "chance": "0.01",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "Vespomorph",
+      "chance": "0.005",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    }
+  ]
+}

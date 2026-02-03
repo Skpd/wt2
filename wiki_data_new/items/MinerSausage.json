@@ -1,0 +1,11 @@
+{
+  "m_Name": "MinerSausage",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "1561034582f13304290915c5f5299969",
+  "image_fid": "21300000",
+  "sellPrice": "2000",
+  "buyUpPrice": "50",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "MinerSausage",
+  "loc_key": "Item.MinerSausage"
+}

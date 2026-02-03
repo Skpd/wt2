@@ -1,0 +1,202 @@
+{
+  "m_Name": "SkeletonBoss",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "300",
+  "stamina": "100",
+  "level": "25",
+  "walkSpeed": "2",
+  "runSpeed": "3.5",
+  "image": {
+    "fileID": "0"
+  },
+  "entityClass": "4",
+  "mobBehaviour": "1ffb7607b4dfea441a4aafc9f96b3976",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "12f82ed5cf1e6f94bad6f72510dbfb61",
+  "entityPrefab_fid": "1687273116823292",
+  "entityBonuses": {
+    "Parry": "0.1",
+    "Block": "0.1",
+    "BlockProjectile": "0.1",
+    "IgnoreBloodDots": "1",
+    "Defense": "0.5"
+  },
+  "skills": [
+    {
+      "id": "7c733644be6ff8e48acee4658e2c622b",
+      "name": "SkeletonBossAttack",
+      "minDamage": "20",
+      "maxDamage": "25",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0.2",
+      "ignoreDefense": "0.2",
+      "criticalChance": "0.2",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "e09873b3694b2e7479a74b884194dc8b",
+      "name": "SkeletonBossLaceration",
+      "minDamage": "25",
+      "maxDamage": "30",
+      "ignoreAvoidingDamage": "1",
+      "ignoreAbsorb": "0.2",
+      "ignoreDefense": "0.2",
+      "criticalChance": "1",
+      "criticalValue": "1"
+    }
+  ],
+  "id": "SkeletonBoss",
+  "loc_key": "Entity.SkeletonBoss",
+  "drops": [
+    {
+      "itemId": "Money",
+      "chance": 0.8,
+      "min": 10,
+      "max": 50
+    },
+    {
+      "itemId": "BoneBoots",
+      "chance": 0.125,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "BoneGloves",
+      "chance": 0.125,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "BoneHelmet",
+      "chance": 0.125,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "BoneLower",
+      "chance": 0.125,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "BoneShoulders",
+      "chance": 0.125,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "BoneUpper",
+      "chance": 0.125,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SkeletonSword",
+      "chance": 0.125,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SkeletonShield",
+      "chance": 0.125,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "Bone",
+      "chance": 1,
+      "min": 6,
+      "max": 12
+    },
+    {
+      "itemId": "LootKnife",
+      "chance": 0.0007142857142857143,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "MimicQuestItem",
+      "chance": 0.0007142857142857143,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "DwarfQuestItem",
+      "chance": 0.0007142857142857143,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "FishingQuestItem",
+      "chance": 0.0007142857142857143,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SpiderQuestItem",
+      "chance": 0.0007142857142857143,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "PetEssenceUnstable",
+      "chance": 0.0007142857142857143,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "LoveLetterQuestItem",
+      "chance": 0.0007142857142857143,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "LootKnife",
+      "chance": 0.002857142857142857,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "MimicQuestItem",
+      "chance": 0.002857142857142857,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "DwarfQuestItem",
+      "chance": 0.002857142857142857,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "FishingQuestItem",
+      "chance": 0.002857142857142857,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SpiderQuestItem",
+      "chance": 0.002857142857142857,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "PetEssenceUnstable",
+      "chance": 0.002857142857142857,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "LoveLetterQuestItem",
+      "chance": 0.002857142857142857,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "itemId": "SkeletonSkull",
+      "chance": 0.05,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

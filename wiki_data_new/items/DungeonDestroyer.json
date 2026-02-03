@@ -1,0 +1,11 @@
+{
+  "m_Name": "DungeonDestroyer",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "46fc8e39faca18a4ea96fb2910c48031",
+  "image_fid": "21300000",
+  "sellPrice": "0",
+  "buyUpPrice": "0",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "DungeonDestroyer",
+  "loc_key": "Item.DungeonDestroyer"
+}

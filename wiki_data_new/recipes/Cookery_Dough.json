@@ -1,0 +1,27 @@
+{
+  "m_Name": "Cookery_Dough",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "013eb2699025dea4fbc6416d3c9e3f14",
+      "amount": "4",
+      "name": "Flour",
+      "loc_key": "Item.Flour"
+    },
+    {
+      "guid": "27d507923a0f91a489ebecc6d7e70fd4",
+      "amount": "4",
+      "name": "Water",
+      "loc_key": "Item.Water"
+    }
+  ],
+  "products": [
+    {
+      "guid": "17b572f1916e17b4e9a6f5e1e114cde9",
+      "amount": "5",
+      "name": "Dough",
+      "loc_key": "Item.Dough"
+    }
+  ],
+  "id": "Cookery_Dough"
+}

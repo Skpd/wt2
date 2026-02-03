@@ -1,0 +1,12 @@
+{
+  "m_Name": "MagmaCloak",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "611cb104bf121c54eaff841f499ceb1b",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "MagmaCloak",
+  "loc_key": "Item.MagmaCloak",
+  "icon_path": "textures/magma-cloak.png"
+}

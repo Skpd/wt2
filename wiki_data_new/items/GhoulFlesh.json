@@ -1,0 +1,27 @@
+{
+  "m_Name": "GhoulFlesh",
+  "m_Script": "420e0e364fdb917921d229f1b4a22ed9",
+  "image": "9f80b3d3da59a9f419dab4bcc5ad1f3a",
+  "image_fid": "21300000",
+  "sellPrice": "2500",
+  "buyUpPrice": "250",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "GhoulFlesh",
+  "loc_key": "Item.GhoulFlesh",
+  "dropped_by": [
+    {
+      "sourceId": "Ghoul",
+      "chance": "0.02",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "GhoulDungeon",
+      "chance": "0.01",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    }
+  ]
+}

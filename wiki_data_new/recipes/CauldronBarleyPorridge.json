@@ -1,0 +1,39 @@
+{
+  "m_Name": "CauldronBarleyPorridge",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "ca46bfdf00f8a714abbb6908fd7384f5",
+      "amount": "5",
+      "name": "Barley",
+      "loc_key": "Item.Barley"
+    },
+    {
+      "guid": "930bddb0d0a377c448cecd4313de13f5",
+      "amount": "2",
+      "name": "RootCrop",
+      "loc_key": "Item.RootCrop"
+    },
+    {
+      "guid": "60b3f9c9d9fc69d44b655acd374bef42",
+      "amount": "1",
+      "name": "Onion",
+      "loc_key": "Item.Onion"
+    },
+    {
+      "guid": "27d507923a0f91a489ebecc6d7e70fd4",
+      "amount": "1",
+      "name": "Water",
+      "loc_key": "Item.Water"
+    }
+  ],
+  "products": [
+    {
+      "guid": "3a2b23f3c2b54f14bb92420f12bafbdb",
+      "amount": "1",
+      "name": "BarleyPorridge",
+      "loc_key": "Item.BarleyPorridge"
+    }
+  ],
+  "id": "CauldronBarleyPorridge"
+}

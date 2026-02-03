@@ -1,0 +1,11 @@
+{
+  "m_Name": "WolfDarkPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "877db2ab5b13c9447b36ec2a0b0eb3d9",
+  "image_fid": "21300000",
+  "sellPrice": "1000",
+  "buyUpPrice": "1000",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "WolfDarkPet",
+  "loc_key": "Item.WolfDarkPet"
+}

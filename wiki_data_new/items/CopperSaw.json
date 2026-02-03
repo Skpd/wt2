@@ -1,0 +1,31 @@
+{
+  "m_Name": "CopperSaw",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "02a3ae443bf2e6e4eaa9e7cb4553680d",
+  "image_fid": "21300000",
+  "sellPrice": "100",
+  "buyUpPrice": "4.51",
+  "craftMaterialsBuyUpPricePercent": "1.1",
+  "id": "CopperSaw",
+  "loc_key": "Item.CopperSaw",
+  "dropped_by": [
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HarpyChest",
+      "chance": 0.0002039983680130559,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

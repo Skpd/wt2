@@ -1,0 +1,21 @@
+{
+  "m_Name": "Mobs-05-KillPlagueRat",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "f25f74f380d9f0041af14bd2e376816f",
+  "predecessors": [
+    "Mobs-04-AreaDarkForestDungeon"
+  ],
+  "npcTaker": "f25f74f380d9f0041af14bd2e376816f",
+  "reward": {
+    "money": "1000",
+    "guildXp": "0",
+    "amount": "0"
+  },
+  "id": "Mobs-05-KillPlagueRat",
+  "npcGiverName": "PlagueGoPoints",
+  "npcTakerName": "PlagueGoPoints",
+  "group": "General"
+}

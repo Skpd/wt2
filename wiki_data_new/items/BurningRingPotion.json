@@ -1,0 +1,11 @@
+{
+  "m_Name": "BurningRingPotion",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "998b60b23d66a5a45b22078a7adecf22",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.01",
+  "craftMaterialsBuyUpPricePercent": "1",
+  "id": "BurningRingPotion",
+  "loc_key": "Item.BurningRingPotion"
+}

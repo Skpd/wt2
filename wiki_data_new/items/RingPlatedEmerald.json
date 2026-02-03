@@ -1,0 +1,11 @@
+{
+  "m_Name": "RingPlatedEmerald",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "1cd2983ac438e3443bae1ffd16c55a9b",
+  "image_fid": "21300000",
+  "sellPrice": "100",
+  "buyUpPrice": "100",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "RingPlatedEmerald",
+  "loc_key": "Item.RingPlatedEmerald"
+}

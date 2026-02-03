@@ -1,0 +1,11 @@
+{
+  "m_Name": "WaterJug",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "8741c3a6114c13741b09feeae7cd9df5",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "WaterJug",
+  "loc_key": "Item.WaterJug"
+}

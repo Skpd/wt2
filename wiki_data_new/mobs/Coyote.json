@@ -1,0 +1,60 @@
+{
+  "m_Name": "Coyote",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "400",
+  "stamina": "100",
+  "level": "40",
+  "walkSpeed": "2",
+  "runSpeed": "6",
+  "image": "84f77f97acf0ee64a9ae8d14df6eafd6",
+  "image_fid": "21300000",
+  "entityClass": "1",
+  "mobBehaviour": "39dd1c703ba236f4098db705bda0cda1",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "e8eedd1f586b51846b1bd34630c1a5c2",
+  "entityPrefab_fid": "1894553231042057",
+  "entityBonuses": {
+    "Dodge": "0.2"
+  },
+  "skills": [
+    {
+      "id": "d3b724e0f99eac848881c3ae05696d3b",
+      "name": "CoyoteAttack",
+      "minDamage": "35",
+      "maxDamage": "45",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.15",
+      "criticalValue": "1.7"
+    }
+  ],
+  "id": "Coyote",
+  "loc_key": "Entity.Coyote",
+  "skinning_drops": [
+    {
+      "itemId": "MediumRawHide",
+      "chance": "1",
+      "min": "1",
+      "max": "3"
+    },
+    {
+      "itemId": "RawCarnivoreMeat",
+      "chance": "1",
+      "min": "2",
+      "max": "3"
+    },
+    {
+      "itemId": "CoyoteBone",
+      "chance": "0.01",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "OrganicsClot",
+      "chance": "1",
+      "min": "3",
+      "max": "4"
+    }
+  ]
+}

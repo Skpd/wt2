@@ -1,0 +1,11 @@
+{
+  "m_Name": "VegetableChowder",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "7b147485d8b07ba4b8080490f35aea63",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "2",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "VegetableChowder",
+  "loc_key": "Item.VegetableChowder"
+}

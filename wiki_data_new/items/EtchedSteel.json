@@ -1,0 +1,32 @@
+{
+  "m_Name": "EtchedSteel",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "0d254788e7f132f4ab4c47bfb0d98cbf",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "20",
+  "craftMaterialsBuyUpPricePercent": "1.1",
+  "id": "EtchedSteel",
+  "loc_key": "Item.EtchedSteel",
+  "icon_path": "textures/EtchedSteel.png",
+  "dropped_by": [
+    {
+      "sourceId": "CaveFinalChest",
+      "chance": 0.004545454545454546,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "GiantBeetle",
+      "chance": 0.004545454545454546,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfFortFinalChest",
+      "chance": 0.004545454545454546,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

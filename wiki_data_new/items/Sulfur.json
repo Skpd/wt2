@@ -1,0 +1,324 @@
+{
+  "m_Name": "Sulfur",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "ab281abe763e8d049935c9c34614f804",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Sulfur",
+  "loc_key": "Item.Sulfur",
+  "dropped_by": [
+    {
+      "sourceId": "HalloweenGodsend",
+      "chance": 0.07142857142857142,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "HalloweenGodsend",
+      "chance": 0.07142857142857142,
+      "min": 2,
+      "max": 4
+    },
+    {
+      "sourceId": "HalloweenGodsend",
+      "chance": 0.07142857142857142,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "HalloweenGodsend",
+      "chance": 0.07142857142857142,
+      "min": 2,
+      "max": 4
+    },
+    {
+      "sourceId": "HalloweenGrave",
+      "chance": 0.08333333333333333,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "HalloweenGrave",
+      "chance": 0.08333333333333333,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "HalloweenGrave",
+      "chance": 0.1,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "HalloweenGrave",
+      "chance": 0.05714285714285715,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "DemonWeak",
+      "chance": 0.125,
+      "min": 10,
+      "max": 30
+    },
+    {
+      "sourceId": "DemonWeak",
+      "chance": 0.125,
+      "min": 10,
+      "max": 20
+    },
+    {
+      "sourceId": "DemonWeak",
+      "chance": 0.125,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "DemonBrute",
+      "chance": 0.125,
+      "min": 10,
+      "max": 30
+    },
+    {
+      "sourceId": "DemonBrute",
+      "chance": 0.125,
+      "min": 7,
+      "max": 20
+    },
+    {
+      "sourceId": "DemonBrute",
+      "chance": 0.125,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "UndeadSwordHalloween",
+      "chance": 0.07142857142857142,
+      "min": 2,
+      "max": 4
+    },
+    {
+      "sourceId": "DragonRex",
+      "chance": 1,
+      "min": 10,
+      "max": 30
+    },
+    {
+      "sourceId": "CursedKobold",
+      "chance": 0.125,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "CursedKobold",
+      "chance": 0.125,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "CursedKobold",
+      "chance": 0.125,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "CursedKobold",
+      "chance": 0.125,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "MineKobold",
+      "chance": 0.1111111111111111,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "MineKobold",
+      "chance": 0.07142857142857142,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "PlagueDragon",
+      "chance": 0.7,
+      "min": 10,
+      "max": 50
+    },
+    {
+      "sourceId": "FatOgre",
+      "chance": 0.07142857142857142,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "UndeadPickaxeDungeon",
+      "chance": 0.07142857142857142,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "UndeadAxe",
+      "chance": 0.07142857142857142,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "UndeadMace",
+      "chance": 0.07142857142857142,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "UndeadSword",
+      "chance": 0.07142857142857142,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "sourceId": "UndeadMage",
+      "chance": 0.07142857142857142,
+      "min": 3,
+      "max": 3
+    },
+    {
+      "sourceId": "MountainDwarf",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfDigger",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfEngineer",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfAmbusher",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfSoldier",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfOfficer",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "Dwarf\u0421ommander",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfAmbusherHideout",
+      "chance": 0.04666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.35,
+      "min": 2,
+      "max": 4
+    },
+    {
+      "sourceId": "GiantBeetle",
+      "chance": 1,
+      "min": 3,
+      "max": 5
+    },
+    {
+      "sourceId": "GiantBeetle",
+      "chance": 0.3333333333333333,
+      "min": 5,
+      "max": 20
+    },
+    {
+      "sourceId": "DwarfFortFinalChest",
+      "chance": 1,
+      "min": 20,
+      "max": 40
+    },
+    {
+      "sourceId": "DwarfFortFinalChest",
+      "chance": 1,
+      "min": 8,
+      "max": 15
+    },
+    {
+      "sourceId": "DwarfFortFinalChest",
+      "chance": 0.3333333333333333,
+      "min": 8,
+      "max": 16
+    },
+    {
+      "sourceId": "DwarfFortFinalChest",
+      "chance": 0.2,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "sourceId": "DwarfFortGodsendMaterial",
+      "chance": 0.14285714285714285,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "DwarfFortGodsendMaterial",
+      "chance": 0.14285714285714285,
+      "min": 3,
+      "max": 5
+    },
+    {
+      "sourceId": "UndergroundGuardian",
+      "chance": "0.2",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "UndergroundGuardianLarge",
+      "chance": "0.4",
+      "min": "3",
+      "max": "6",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "VeinKeeperLarge",
+      "chance": "0.2",
+      "min": "3",
+      "max": "6",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "VeinKeeper",
+      "chance": "0.1",
+      "min": "1",
+      "max": "2",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "UnderwaterBoss",
+      "chance": "1",
+      "min": "8",
+      "max": "16",
+      "type": "Skinning"
+    }
+  ]
+}

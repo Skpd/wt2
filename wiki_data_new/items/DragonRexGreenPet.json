@@ -1,0 +1,12 @@
+{
+  "m_Name": "DragonRexGreenPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": {
+    "fileID": "0"
+  },
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "DragonRexGreenPet",
+  "loc_key": "Item.DragonRexGreenPet"
+}

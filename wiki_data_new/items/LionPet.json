@@ -1,0 +1,11 @@
+{
+  "m_Name": "LionPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "c143ef819b87ec843925fc0b2b6ee53b",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "LionPet",
+  "loc_key": "Item.LionPet"
+}

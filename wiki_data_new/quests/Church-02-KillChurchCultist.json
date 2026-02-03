@@ -1,0 +1,16 @@
+{
+  "m_Name": "Church-02-KillChurchCultist",
+  "m_Script": "295059eeae643ac5e006739cf692c127",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "300",
+    "guildXp": "0",
+    "amount": "1",
+    "rewardItem": "dbaca0526f4d26248bd15c2d47bf696a",
+    "rewardItemName": "IronMace"
+  },
+  "id": "Church-02-KillChurchCultist",
+  "group": "General"
+}

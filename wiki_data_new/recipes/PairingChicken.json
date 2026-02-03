@@ -1,0 +1,14 @@
+{
+  "m_Name": "PairingChicken",
+  "m_Script": "b1883acace5efde8b0f3bf8cd2885231",
+  "resources": [
+    {
+      "guid": "c96ca6b2e2e6df4438568cec07873777",
+      "amount": "1",
+      "name": "WildEggs",
+      "loc_key": "Item.WildEggs"
+    }
+  ],
+  "products": [],
+  "id": "PairingChicken"
+}

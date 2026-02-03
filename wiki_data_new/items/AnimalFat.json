@@ -1,0 +1,11 @@
+{
+  "m_Name": "AnimalFat",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "8134153347d34fa49a3174f4525a4568",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.05",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "AnimalFat",
+  "loc_key": "Item.AnimalFat"
+}

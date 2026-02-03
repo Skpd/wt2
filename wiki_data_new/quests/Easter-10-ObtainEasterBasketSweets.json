@@ -1,0 +1,23 @@
+{
+  "m_Name": "Easter-10-ObtainEasterBasketSweets",
+  "m_Script": "a33fbc2ed7ad8fe58f2dcfb6e1a39cab",
+  "line": "8",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "23b5f2c62fb06a147afb6b6229f6313d",
+  "predecessors": [
+    "Easter-09-CraftEasterBuns"
+  ],
+  "npcTaker": "23b5f2c62fb06a147afb6b6229f6313d",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "1",
+    "rewardItem": "258081a3d9e2a054f956d1a1513eaa7a",
+    "rewardItemName": "EasterCakeBunny"
+  },
+  "id": "Easter-10-ObtainEasterBasketSweets",
+  "npcGiverName": "EasterMrBunny",
+  "npcTakerName": "EasterMrBunny",
+  "group": "General"
+}

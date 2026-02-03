@@ -1,0 +1,33 @@
+{
+  "m_Name": "Ammo_CopperArrow",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "c737f84fb255328488717444af63ee8d",
+      "amount": "5",
+      "name": "CopperArrowhead",
+      "loc_key": "Item.CopperArrowhead"
+    },
+    {
+      "guid": "34f152c775f0a6b438e1d0825d8896ef",
+      "amount": "25",
+      "name": "WoodSticks",
+      "loc_key": "Item.WoodSticks"
+    },
+    {
+      "guid": "3f4a5da5efd8d65408890d34180dde7f",
+      "amount": "5",
+      "name": "Feather",
+      "loc_key": "Item.Feather"
+    }
+  ],
+  "products": [
+    {
+      "guid": "9b7ccad20558e024f893d81d3cc765a7",
+      "amount": "50",
+      "name": "CopperArrow",
+      "loc_key": "Item.CopperArrow"
+    }
+  ],
+  "id": "Ammo_CopperArrow"
+}

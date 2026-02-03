@@ -1,0 +1,11 @@
+{
+  "m_Name": "PorkTenderloin",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "65aa85eed4a0bc34fb75566db9258028",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "20",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "PorkTenderloin",
+  "loc_key": "Item.PorkTenderloin"
+}

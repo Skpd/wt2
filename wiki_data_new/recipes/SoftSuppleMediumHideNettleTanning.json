@@ -1,0 +1,27 @@
+{
+  "m_Name": "SoftSuppleMediumHideNettleTanning",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "c85e6a79ed3287b4eb022e295fdb4ad5",
+      "amount": "1",
+      "name": "SuppleMediumHide",
+      "loc_key": "Item.SuppleMediumHide"
+    },
+    {
+      "guid": "01302561d4a89674d94d03d6f2a643e9",
+      "amount": "1",
+      "name": "NettleLiquor",
+      "loc_key": "Item.NettleLiquor"
+    }
+  ],
+  "products": [
+    {
+      "guid": "406537ef53c3db4448e34dae586df4d7",
+      "amount": "1",
+      "name": "SoftSuppleMediumHide",
+      "loc_key": "Item.SoftSuppleMediumHide"
+    }
+  ],
+  "id": "SoftSuppleMediumHideNettleTanning"
+}

@@ -1,0 +1,14 @@
+{
+  "m_Name": "Tutorial-Warrior-Dodge-Sprint",
+  "m_Script": "dac54fee2e578801d3037a2bd9208051",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "1",
+  "reward": {
+    "money": "100",
+    "guildXp": "0",
+    "amount": "0"
+  },
+  "id": "Tutorial-Warrior-Dodge-Sprint",
+  "group": "General"
+}

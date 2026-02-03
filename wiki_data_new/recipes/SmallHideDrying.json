@@ -1,0 +1,21 @@
+{
+  "m_Name": "SmallHideDrying",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "8bd047932a5033542a570cc9b20e1ae4",
+      "amount": "1",
+      "name": "SmallRawHide",
+      "loc_key": "Item.SmallRawHide"
+    }
+  ],
+  "products": [
+    {
+      "guid": "91478cc6f25bea8499756fb11fc4fc3f",
+      "amount": "1",
+      "name": "SmallHide",
+      "loc_key": "Item.SmallHide"
+    }
+  ],
+  "id": "SmallHideDrying"
+}

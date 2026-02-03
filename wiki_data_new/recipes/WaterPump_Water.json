@@ -1,0 +1,21 @@
+{
+  "m_Name": "WaterPump_Water",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "3ec7933650f9ae643a96e16adf4ceb32",
+      "amount": "1",
+      "name": "Sand",
+      "loc_key": "Item.Sand"
+    }
+  ],
+  "products": [
+    {
+      "guid": "27d507923a0f91a489ebecc6d7e70fd4",
+      "amount": "50",
+      "name": "Water",
+      "loc_key": "Item.Water"
+    }
+  ],
+  "id": "WaterPump_Water"
+}

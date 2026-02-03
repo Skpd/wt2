@@ -1,0 +1,14 @@
+{
+  "m_Name": "Fishery-Two-03-GatherCatfish",
+  "m_Script": "bbef8bd82ea7ec3f83b28462fb539071",
+  "line": "0",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "reward": {
+    "money": "300",
+    "guildXp": "0",
+    "amount": "0"
+  },
+  "id": "Fishery-Two-03-GatherCatfish",
+  "group": "General"
+}

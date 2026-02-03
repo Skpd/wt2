@@ -1,0 +1,21 @@
+{
+  "m_Name": "RoastCarnivoreMeat",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "5c01c2bb91e16f9429cca7c5c330a51d",
+      "amount": "1",
+      "name": "RawCarnivoreMeat",
+      "loc_key": "Item.RawCarnivoreMeat"
+    }
+  ],
+  "products": [
+    {
+      "guid": "ebde30f47241383468d26ad1aa1e1eba",
+      "amount": "1",
+      "name": "RoastedMeat",
+      "loc_key": "Item.RoastedMeat"
+    }
+  ],
+  "id": "RoastCarnivoreMeat"
+}

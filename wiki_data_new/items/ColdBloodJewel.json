@@ -1,0 +1,21 @@
+{
+  "m_Name": "ColdBloodJewel",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "969f6d51c1739a549a85d9dc5df812a8",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "20",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "ColdBloodJewel",
+  "loc_key": "Item.ColdBloodJewel",
+  "icon_path": "textures/ColdBloodJewel.png",
+  "dropped_by": [
+    {
+      "sourceId": "UnderwaterBoss",
+      "chance": "0.4",
+      "min": "1",
+      "max": "1",
+      "type": "Skinning"
+    }
+  ]
+}

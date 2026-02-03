@@ -1,0 +1,11 @@
+{
+  "m_Name": "CatPet",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "682ef18dc978f99468094be432b90890",
+  "image_fid": "21300000",
+  "sellPrice": "10",
+  "buyUpPrice": "10",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "CatPet",
+  "loc_key": "Item.CatPet"
+}

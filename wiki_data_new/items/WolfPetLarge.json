@@ -1,0 +1,11 @@
+{
+  "m_Name": "WolfPetLarge",
+  "m_Script": "54a61c01ebb08625e74419b266738087",
+  "image": "a579f096055459844890d468bf3e7383",
+  "image_fid": "21300000",
+  "sellPrice": "100",
+  "buyUpPrice": "100",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "WolfPetLarge",
+  "loc_key": "Item.WolfPetLarge"
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "BeerMalt",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "8dbaa7fc903ba9449909b6b7d710fe9b",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.3",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BeerMalt",
+  "loc_key": "Item.BeerMalt"
+}

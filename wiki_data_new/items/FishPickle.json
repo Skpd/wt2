@@ -1,0 +1,11 @@
+{
+  "m_Name": "FishPickle",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "1977839e2b3d65c44b5421928f6c8e69",
+  "image_fid": "21300000",
+  "sellPrice": "500",
+  "buyUpPrice": "25",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "FishPickle",
+  "loc_key": "Item.FishPickle"
+}

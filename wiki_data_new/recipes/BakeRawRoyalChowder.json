@@ -1,0 +1,21 @@
+{
+  "m_Name": "BakeRawRoyalChowder",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "778846222d854594e8a376652a0f21ea",
+      "amount": "1",
+      "name": "RawRoyalChowder",
+      "loc_key": "Item.RawRoyalChowder"
+    }
+  ],
+  "products": [
+    {
+      "guid": "6c350baf492bda344a13e17846b753f4",
+      "amount": "1",
+      "name": "RoyalChowder",
+      "loc_key": "Item.RoyalChowder"
+    }
+  ],
+  "id": "BakeRawRoyalChowder"
+}

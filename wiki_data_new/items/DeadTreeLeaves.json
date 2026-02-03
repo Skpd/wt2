@@ -1,0 +1,11 @@
+{
+  "m_Name": "DeadTreeLeaves",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "f630feb860d47404dbae096c12f7a7a5",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.2",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "DeadTreeLeaves",
+  "loc_key": "Item.DeadTreeLeaves"
+}

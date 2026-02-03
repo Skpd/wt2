@@ -1,0 +1,20 @@
+{
+  "m_Name": "BloodFromHideout",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "66f232288db5a584c982d7c74f7f9744",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "20",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BloodFromHideout",
+  "loc_key": "Item.BloodFromHideout",
+  "icon_path": "textures/BloodFromHideout.png",
+  "dropped_by": [
+    {
+      "sourceId": "OrcShaman",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

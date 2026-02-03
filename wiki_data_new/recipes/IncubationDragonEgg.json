@@ -1,0 +1,21 @@
+{
+  "m_Name": "IncubationDragonEgg",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "3b2e72dcb9a495b41964ca40bddf0dbe",
+      "amount": "1",
+      "name": "DragonEgg",
+      "loc_key": "Item.DragonEgg"
+    }
+  ],
+  "products": [
+    {
+      "guid": "06d90bf481146df4d8816515a32de9ca",
+      "amount": "1",
+      "name": "DragonRexPet",
+      "loc_key": "Item.DragonRexPet"
+    }
+  ],
+  "id": "IncubationDragonEgg"
+}

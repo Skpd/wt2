@@ -1,0 +1,11 @@
+{
+  "m_Name": "BakedTroutAfterBake",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "1690a6dbd36efa245b49267089286342",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "10",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "BakedTroutAfterBake",
+  "loc_key": "Item.BakedTroutAfterBake"
+}

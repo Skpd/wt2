@@ -1,0 +1,72 @@
+{
+  "m_Name": "MorbiumAxe",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "f3ee97838fbaa6e4cbc154653eda99fe",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1325.6",
+  "craftMaterialsBuyUpPricePercent": "2",
+  "entityMaxLevel": "0",
+  "minDamage": "18",
+  "maxDamage": "38",
+  "minPlagueDamage": "8",
+  "maxPlagueDamage": "16",
+  "criticalChance": "0.1",
+  "criticalValue": "1.5",
+  "dismountChance": "0",
+  "splash": "1",
+  "isAOE": "0",
+  "projectileAOERange": "0",
+  "prefabAOEName": null,
+  "ignoreAvoidingDamage": "0",
+  "ignoreAbsorb": "0",
+  "ignoreDefense": "0",
+  "abilityName": null,
+  "effectLevelLimit": "0",
+  "effects": [],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "0"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  "id": "MorbiumAxe",
+  "loc_key": "Item.MorbiumAxe",
+  "dropped_by": [
+    {
+      "sourceId": "PlagueDragon",
+      "chance": 0.05714285714285715,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "FatOgre",
+      "chance": 0.014285714285714287,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "UndeadAxe",
+      "chance": 0.00016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "UndeadMace",
+      "chance": 0.00016666666666666666,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "UndeadSword",
+      "chance": 0.00016666666666666666,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "m_Name": "SantaBackpack",
+  "m_Script": "863a9c533b6034a579a9ba1eaefbe45d",
+  "image": "376748d49235e1948ab96b1b0cd4000f",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "5",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SantaBackpack",
+  "loc_key": "Item.SantaBackpack",
+  "icon_path": "textures/SantaBackpack.png"
+}

@@ -1,0 +1,39 @@
+{
+  "m_Name": "SaltpeterPitSaltpeterLimestone",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "ad8574214168ea546b3009f7049885fd",
+      "amount": "4",
+      "name": "WitheredPlants",
+      "loc_key": "Item.WitheredPlants"
+    },
+    {
+      "guid": "82841f21dbdaf5141b76cbbedc2117a8",
+      "amount": "2",
+      "name": "BirdDroppings",
+      "loc_key": "Item.BirdDroppings"
+    },
+    {
+      "guid": "cab434caa5579504384cf5c2dcf6bd52",
+      "amount": "2",
+      "name": "Lime",
+      "loc_key": "Item.Lime"
+    },
+    {
+      "guid": "34f152c775f0a6b438e1d0825d8896ef",
+      "amount": "2",
+      "name": "WoodSticks",
+      "loc_key": "Item.WoodSticks"
+    }
+  ],
+  "products": [
+    {
+      "guid": "300cb9b412c3ce94ca2586270ff8c597",
+      "amount": "1",
+      "name": "SaltpeterLimestone",
+      "loc_key": "Item.SaltpeterLimestone"
+    }
+  ],
+  "id": "SaltpeterPitSaltpeterLimestone"
+}

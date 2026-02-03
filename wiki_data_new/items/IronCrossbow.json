@@ -1,0 +1,40 @@
+{
+  "m_Name": "IronCrossbow",
+  "m_Script": "8257e88f7e40841f774a70a33a2b6c2e",
+  "image": "a9b7aca5061c2124694f81fdf51ed35b",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "104.439995",
+  "craftMaterialsBuyUpPricePercent": "1.4",
+  "entityMaxLevel": "0",
+  "minDamage": "30",
+  "maxDamage": "35",
+  "minPlagueDamage": "0",
+  "maxPlagueDamage": "0",
+  "criticalChance": "0.09",
+  "criticalValue": "1.25",
+  "dismountChance": "0",
+  "splash": "0",
+  "isAOE": "0",
+  "projectileAOERange": "0",
+  "prefabAOEName": null,
+  "ignoreAvoidingDamage": "1",
+  "ignoreAbsorb": "0",
+  "ignoreDefense": "0",
+  "abilityName": null,
+  "effectLevelLimit": "0",
+  "effects": [],
+  "damageZoneOnAttack": {
+    "damageZone": {
+      "fileID": "0"
+    },
+    "chanceToSpawn": "1",
+    "spawnOffset": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  "id": "IronCrossbow",
+  "loc_key": "Item.IronCrossbow"
+}

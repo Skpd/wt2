@@ -1,0 +1,21 @@
+{
+  "m_Name": "FlourFromWheatMill",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "429d3fcf5e2248b49a62089fa3accb7f",
+      "amount": "5",
+      "name": "Wheat",
+      "loc_key": "Item.Wheat"
+    }
+  ],
+  "products": [
+    {
+      "guid": "013eb2699025dea4fbc6416d3c9e3f14",
+      "amount": "1",
+      "name": "Flour",
+      "loc_key": "Item.Flour"
+    }
+  ],
+  "id": "FlourFromWheatMill"
+}

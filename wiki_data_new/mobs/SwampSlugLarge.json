@@ -1,0 +1,69 @@
+{
+  "m_Name": "SwampSlugLarge",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "1500",
+  "stamina": "100",
+  "level": "30",
+  "walkSpeed": "2.5",
+  "runSpeed": "5",
+  "image": "1a2d1e3ebdf138b47811fc0a41e65e26",
+  "image_fid": "21300000",
+  "entityClass": "9",
+  "mobBehaviour": "a089e3814136a724aa652e787c6ebc2f",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "e66bd6540c04c8e43aa37fa8014fca47",
+  "entityPrefab_fid": "1267725277780565",
+  "entityBonuses": {},
+  "skills": [
+    {
+      "id": "b591e730576ca644cb5ca2bd9b267a67",
+      "name": "SwampSlugShotLarge",
+      "minDamage": "51",
+      "maxDamage": "68",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.25",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "21291e5beef851e4fa3ff312cc6bb221",
+      "name": "SwampSlugAttackLarge",
+      "minDamage": "85",
+      "maxDamage": "102",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0",
+      "ignoreDefense": "0",
+      "criticalChance": "0.1",
+      "criticalValue": "1"
+    }
+  ],
+  "id": "SwampSlugLarge",
+  "loc_key": "Entity.SwampSlugLarge",
+  "skinning_drops": [
+    {
+      "itemId": "InfectedRawHide",
+      "chance": "0.4",
+      "min": "3",
+      "max": "6"
+    },
+    {
+      "itemId": "InflamedGallbladder",
+      "chance": "1",
+      "min": "4",
+      "max": "4"
+    },
+    {
+      "itemId": "CausticMucus",
+      "chance": "0.14",
+      "min": "3",
+      "max": "3"
+    },
+    {
+      "itemId": "SwampSlugHand",
+      "chance": "0.01",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

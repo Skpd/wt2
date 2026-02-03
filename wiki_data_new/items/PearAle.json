@@ -1,0 +1,25 @@
+{
+  "m_Name": "PearAle",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "967a9afa77b5da14fb201b2b664b4e66",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "12",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "PearAle",
+  "loc_key": "Item.PearAle",
+  "dropped_by": [
+    {
+      "sourceId": "PlagueCityBrokenFurniture",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "PlagueCityBrokenFurniture",
+      "chance": 0.03333333333333333,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

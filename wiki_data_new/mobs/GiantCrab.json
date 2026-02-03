@@ -1,0 +1,93 @@
+{
+  "m_Name": "GiantCrab",
+  "m_Script": "6656bce582b505a7bd3fa255fbd72c2d",
+  "health": "1000",
+  "stamina": "100",
+  "level": "50",
+  "walkSpeed": "3",
+  "runSpeed": "4.5",
+  "image": "d198e140320e7a84ab39c939f0d2e05b",
+  "image_fid": "21300000",
+  "entityClass": "9",
+  "mobBehaviour": "e01590057bf45ff42b2d2f7ebec424cd",
+  "mobBehaviour_fid": "11400000",
+  "entityPrefab": "7525cee4b01ea1143a897d1a6d9556ef",
+  "entityPrefab_fid": "1813439232907609",
+  "entityBonuses": {
+    "Block": "0.1",
+    "BlockProjectile": "0.3",
+    "IgnoreNextSlowdown": "1",
+    "IgnoreNextStun": "1",
+    "Defense": "0.25",
+    "Absorption": "20"
+  },
+  "skills": [
+    {
+      "id": "f7c1bae3b1c7d514989c5ebe1b731d2a",
+      "name": "GiantCrabLeftHandAttack",
+      "minDamage": "30",
+      "maxDamage": "50",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0.4",
+      "ignoreDefense": "0.35",
+      "criticalChance": "0.1",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "4a50952871e59a448a81b88d8546a433",
+      "name": "GiantCrabRightHandAttack",
+      "minDamage": "30",
+      "maxDamage": "50",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0.4",
+      "ignoreDefense": "0.35",
+      "criticalChance": "0.1",
+      "criticalValue": "1.5"
+    },
+    {
+      "id": "0703c72f79f2a574690e382b24aeb2c0",
+      "name": "GiantCrabDoubleClawsAttack",
+      "minDamage": "25",
+      "maxDamage": "45",
+      "ignoreAvoidingDamage": "0",
+      "ignoreAbsorb": "0.5",
+      "ignoreDefense": "0.5",
+      "criticalChance": "0.1",
+      "criticalValue": "1.5"
+    }
+  ],
+  "id": "GiantCrab",
+  "loc_key": "Entity.GiantCrab",
+  "skinning_drops": [
+    {
+      "itemId": "CrabMeat",
+      "chance": "1",
+      "min": "10",
+      "max": "20"
+    },
+    {
+      "itemId": "CrabMeat",
+      "chance": "1",
+      "min": "8",
+      "max": "12"
+    },
+    {
+      "itemId": "SmallShellfish",
+      "chance": "1",
+      "min": "3",
+      "max": "10"
+    },
+    {
+      "itemId": "RingSteel",
+      "chance": "0.2",
+      "min": "1",
+      "max": "1"
+    },
+    {
+      "itemId": "CrabClaw",
+      "chance": "0.15",
+      "min": "1",
+      "max": "1"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "MediumLeatherStrip",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "62487fef5ae2a7c42aec7502fc074b8c",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "MediumLeatherStrip",
+  "loc_key": "Item.MediumLeatherStrip"
+}

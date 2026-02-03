@@ -1,0 +1,48 @@
+{
+  "m_Name": "Rock",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "0a885a5cf742e9a4bbb431b747be3405",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "0.15",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Rock",
+  "loc_key": "Item.Rock",
+  "icon_path": "textures/rock.png",
+  "dropped_by": [
+    {
+      "sourceId": "DwarfDigger",
+      "chance": 0.16666666666666666,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "sourceId": "StoneArcher",
+      "chance": "1",
+      "min": "10",
+      "max": "20",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "StoneFlailer",
+      "chance": "1",
+      "min": "10",
+      "max": "20",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "StartingIslandGuardian",
+      "chance": "1",
+      "min": "2",
+      "max": "4",
+      "type": "Skinning"
+    },
+    {
+      "sourceId": "StoneSwordsman",
+      "chance": "1",
+      "min": "10",
+      "max": "20",
+      "type": "Skinning"
+    }
+  ]
+}

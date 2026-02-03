@@ -1,0 +1,127 @@
+{
+  "m_Name": "SkillBookLevel20",
+  "m_Script": "b16db3d39d738f81b76a135cf01093de",
+  "image": "90db6e282bc03f641a62976ac1398611",
+  "image_fid": "21300000",
+  "sellPrice": "20000",
+  "buyUpPrice": "1000",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "SkillBookLevel20",
+  "loc_key": "Item.SkillBookLevel20",
+  "dropped_by": [
+    {
+      "sourceId": "SewersFinalChest",
+      "chance": 1,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "sourceId": "SewersGodsendMaterial",
+      "chance": 0.02,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "SkeletonKnight",
+      "chance": 0.05,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "SkeletonGuard",
+      "chance": 0.05,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "Reaper",
+      "chance": 0.05,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "Reaper",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "CultistRisenSwordsman",
+      "chance": 0.07,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "CultistCursedSwordsman",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "LizardSpear",
+      "chance": 0.05,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "Weresnake",
+      "chance": 0.05,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "Werecrocodile",
+      "chance": 0.05,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "UndeadSwordHalloween",
+      "chance": 0.35,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "CursedKobold",
+      "chance": 0.5,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfCursedChampion",
+      "chance": 0.5,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DarkForestFinalChest",
+      "chance": 0.8,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "HideoutFinalChest",
+      "chance": 0.1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "CaveFinalChest",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "DwarfFortFinalChest",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "sourceId": "GiantBeetle",
+      "chance": 1,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "m_Name": "TransmorphPotion",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "d1d315b6461f5e24c944b69cff7108b5",
+  "image_fid": "21300000",
+  "sellPrice": "25000",
+  "buyUpPrice": "10",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "TransmorphPotion",
+  "loc_key": "Item.TransmorphPotion"
+}

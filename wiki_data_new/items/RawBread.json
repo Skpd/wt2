@@ -1,0 +1,11 @@
+{
+  "m_Name": "RawBread",
+  "m_Script": "acda3af2d37205e7178e91804e7ddbcf",
+  "image": "694a9737b53caf5499914c13449b6df9",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "1",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "RawBread",
+  "loc_key": "Item.RawBread"
+}

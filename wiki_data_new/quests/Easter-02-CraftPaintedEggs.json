@@ -1,0 +1,23 @@
+{
+  "m_Name": "Easter-02-CraftPaintedEggs",
+  "m_Script": "8bae99285fb9248eeae7964c5eaf8a95",
+  "line": "8",
+  "isDaily": "0",
+  "isTutorial": "0",
+  "npcGiver": "23b5f2c62fb06a147afb6b6229f6313d",
+  "predecessors": [
+    "Easter-01-GatherPaintedEggs"
+  ],
+  "npcTaker": "23b5f2c62fb06a147afb6b6229f6313d",
+  "reward": {
+    "money": "0",
+    "guildXp": "0",
+    "amount": "2",
+    "rewardItem": "ba4f60b6aff6927429f6448a15c6dc25",
+    "rewardItemName": "EasterBasket"
+  },
+  "id": "Easter-02-CraftPaintedEggs",
+  "npcGiverName": "EasterMrBunny",
+  "npcTakerName": "EasterMrBunny",
+  "group": "General"
+}

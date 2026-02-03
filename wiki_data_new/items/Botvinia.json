@@ -1,0 +1,11 @@
+{
+  "m_Name": "Botvinia",
+  "m_Script": "e722c0e3dbde922fc4704a4b24e98783",
+  "image": "16cd4eaa7078a9c468d9492c877eabb1",
+  "image_fid": "21300000",
+  "sellPrice": "5",
+  "buyUpPrice": "30",
+  "craftMaterialsBuyUpPricePercent": "0",
+  "id": "Botvinia",
+  "loc_key": "Item.Botvinia"
+}

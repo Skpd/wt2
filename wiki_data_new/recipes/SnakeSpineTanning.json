@@ -1,0 +1,27 @@
+{
+  "m_Name": "SnakeSpineTanning",
+  "m_Script": "8ee342a85182b73ab7b7a5f2b9819aba",
+  "resources": [
+    {
+      "guid": "e9cd7d3d0a7f5c14b932b3bb9035909c",
+      "amount": "1",
+      "name": "SnakeSpine",
+      "loc_key": "Item.SnakeSpine"
+    },
+    {
+      "guid": "e9236afb320ea5a49b7b66d76bc00575",
+      "amount": "20",
+      "name": "GallbladderLiquor",
+      "loc_key": "Item.GallbladderLiquor"
+    }
+  ],
+  "products": [
+    {
+      "guid": "095d4a1cadadad340894a14a4c804822",
+      "amount": "1",
+      "name": "SnakeSpinePlates",
+      "loc_key": "Item.SnakeSpinePlates"
+    }
+  ],
+  "id": "SnakeSpineTanning"
+}
