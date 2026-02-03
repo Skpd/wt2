@@ -264,10 +264,85 @@
             color: var(--text-muted);
             margin-top: 4px;
         }
+
+        /* Modal Styles */
+        .modal-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.8);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+            backdrop-filter: blur(5px);
+        }
+
+        .modal-content {
+            background: var(--card-bg);
+            padding: 30px;
+            border-radius: 12px;
+            max-width: 500px;
+            text-align: center;
+            border: 1px solid var(--accent);
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+        }
+
+        .modal-buttons {
+            margin-top: 20px;
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+        }
+
+        .btn-primary {
+            background: var(--accent);
+            color: var(--bg-color);
+            border: none;
+            padding: 10px 20px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: bold;
+            font-size: 1rem;
+            transition: opacity 0.2s;
+        }
+
+        .btn-primary:hover {
+            opacity: 0.9;
+        }
+
+        .btn-secondary {
+            background: transparent;
+            color: var(--text-muted);
+            border: 1px solid var(--border);
+            padding: 10px 20px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 1rem;
+            transition: all 0.2s;
+        }
+
+        .btn-secondary:hover {
+            border-color: var(--text-main);
+            color: var(--text-main);
+        }
     </style>
 </head>
 <body>
 <div id="app">
+    <div v-if="showDisclaimer" class="modal-overlay">
+        <div class="modal-content">
+            <h2 style="color: var(--accent); margin-top: 0;">Disclaimer</h2>
+            <p style="line-height: 1.6;">Data accuracy and up-to-date information is not guaranteed.<br>This page contains spoilers.</p>
+            <div class="modal-buttons">
+                <button class="btn-primary" @click="acceptDisclaimer">Proceed</button>
+                <button class="btn-secondary" @click="closeDisclaimer">Close</button>
+            </div>
+        </div>
+    </div>
+
     <aside>
         <h1>Wiki Data</h1>
         <nav>
@@ -701,7 +776,8 @@
 
                 // Cache for quick lookups
                 itemMap: {},
-                mobMap: {}
+                mobMap: {},
+                showDisclaimer: false
             }
         },
         computed: {
@@ -859,11 +935,24 @@
                     this.currentCategory = 'mobs';
                     this.selectEntity(this.mobMap[id]);
                 }
+            },
+
+            acceptDisclaimer() {
+                this.showDisclaimer = false;
+                localStorage.setItem('wiki_disclaimer_accepted', 'true');
+            },
+
+            closeDisclaimer() {
+                this.showDisclaimer = false;
             }
         },
         mounted() {
             window.addEventListener('popstate', this.handlePopState);
             this.init();
+
+            if (!localStorage.getItem('wiki_disclaimer_accepted')) {
+                this.showDisclaimer = true;
+            }
         }
     }).mount('#app');
 </script>
