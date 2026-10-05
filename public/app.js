@@ -87,6 +87,7 @@ async function setLang(lang) {
     store.lang = lang;
     storageSet('wt2.lang', lang);
     document.documentElement.lang = lang.replace('_', '-');
+    window.posthog?.register({ wiki_lang: lang });
 }
 
 function applyTheme() {
@@ -489,6 +490,7 @@ const SearchBox = {
         label: kind => KIND[kind].label,
         go(e) {
             if (!e) return;
+            window.posthog?.capture('search_select', { query: this.q.trim(), kind: e.kind, id: e.id });
             this.$router.push(routeTo(e.kind, e.id));
             this.q = '';
             this.open = false;
@@ -1724,6 +1726,14 @@ const router = createRouter({
     history: createWebHashHistory(),
     routes,
     scrollBehavior: (to, from, saved) => saved || (to.path !== from.path ? { top: 0 } : undefined),
+});
+
+// One pageview per page; filter edits only replace the query and are not counted.
+let lastTrackedPath = null;
+router.afterEach(to => {
+    if (to.path === lastTrackedPath) return;
+    lastTrackedPath = to.path;
+    window.posthog?.capture('$pageview');
 });
 
 const App = {
